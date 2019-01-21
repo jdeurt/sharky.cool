@@ -1,7 +1,9 @@
 const express = require("express");
+const bodyParser = require("body-parser");
 const marked = require("marked");
 const fs = require("fs");
 const dotenv = require("dotenv");
+const controllers = require("./controllers");
 
 dotenv.load();
 
@@ -10,7 +12,11 @@ const app = express();
 app.set("views", __dirname);
 app.set("view engine", "pug");
 
-app.get(/\/\.\w+/, (req, res) => {
+app.use(bodyParser.urlencoded({
+    extended: false
+}));
+
+app.all(/\/\./, (req, res) => {
     res.status(401).send("No.");
 });
 
@@ -27,12 +33,23 @@ app.get(/_RAW$/, (req, res) => {
     res.sendFile(__dirname + req.originalUrl.replace(/_RAW$/, ""));
 });
 
+app.get(/[\w-_]+\.\w+$/, (req, res, next) => {
+    res.header("Content-Type", "text");
+
+    next();
+});
+
 app.use(express.static(__dirname));
 
-app.use("*", (req, res) => {
+// Controllers
+app.post("/gitpushed", controllers.api.git.pushed);
+
+app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
 
-    res.render("views/directory.pug", {dirs: fs.readdirSync(dir).filter(dir => !dir.startsWith("."))});
+    res.render("views/directory.pug", {
+        dirs: fs.readdirSync(dir).filter(dir => !dir.startsWith("."))
+    });
 });
 
 module.exports = app;
