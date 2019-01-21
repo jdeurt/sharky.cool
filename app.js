@@ -42,7 +42,7 @@ app.get(/[\w-_]+\.\w+$/, (req, res, next) => {
 app.use(express.static(__dirname));
 
 // Controllers
-app.post("api/gitpushed", controllers.api.git.pushed);
+app.post("/api/gitpushed", controllers.api.git.pushed);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
