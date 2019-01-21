@@ -1,0 +1,16 @@
+link(href="https://fonts.googleapis.com/css?family=Open+Sans", rel="stylesheet")
+style 
+    | * { font-family: "Open Sans"; sans-serif; }
+    | li { list-style-type: none; margin: 5px 0; }
+    | a { color: #0074D9!important; }
+
+div(style="background-color: #4FA1CA; padding: 20px 40px; display: flex; align-items: center;")
+    img(src="/sharky.cool.png", style="width: 100px; margin-right: 20px;")
+    h1 sharky.cool
+if dirs
+    ul
+        each dir in dirs
+            li
+                a(href=dir)= dir
+else
+    p Don't try to view this page directly, dummy.

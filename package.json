@@ -1,0 +1,21 @@
+{
+  "name": "sharky.cool",
+  "version": "1.0.0",
+  "description": "A simple portfolio website thing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ."
+  },
+  "author": "Juan de Urtubey",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "marked": "^0.6.0",
+    "pug": "^2.0.3"
+  }
+}
