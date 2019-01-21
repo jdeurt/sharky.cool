@@ -10,6 +10,10 @@ const app = express();
 app.set("views", __dirname);
 app.set("view engine", "pug");
 
+app.get(/\/\.\w+/, (req, res) => {
+    res.status(401).send("No.");
+});
+
 app.get(/[\w-_]+\.pug$/, (req, res) => {
     res.render(req.originalUrl);
 });
