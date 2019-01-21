@@ -18,14 +18,17 @@ module.exports = (req, res) => {
     if (!sig) {
         return res.status(400).send("Missing X-Hub-Signature.");
     }
+    console.log("X-Hub-Signature present. Proceeding...");
 
     req.pipe(bl((err, data) => {
         if (err) {
+            console.log("Error in webhook handling:", err);
             return res.status(500).send("idk.");
         }
 
         if (!verify(sig, data)) {
-            return res.stats(401).send("X-Hub-Signature does not match blob signature.");
+            console.log(">:(");
+            return res.status(401).send("X-Hub-Signature does not match blob signature.");
         }
 
         // Not checking anything but X-Hub-Signature cause if that's right then the rest is irrelevant.
