@@ -28,7 +28,7 @@ app.use(express.static(__dirname));
 app.use("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
 
-    res.render("views/directory.pug", {dirs: fs.readdirSync(dir)});
+    res.render("views/directory.pug", {dirs: fs.readdirSync(dir).filter(dir => !dir.startsWith("."))});
 });
 
 module.exports = app;
