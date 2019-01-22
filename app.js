@@ -45,7 +45,7 @@ app.post("/api/gitpushed", controllers.api.git.pushed);
 
 // Redirects
 app.get("/git/:repo", (req, res) => {
-    res.redirect(301, "https://github.com/jdeurt/" + repo);
+    res.redirect(301, "https://github.com/jdeurt/" + req.params.repo);
 });
 
 app.get("*", (req, res) => {
