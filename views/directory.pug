@@ -21,7 +21,8 @@ ul
         each folder in folders
             li
                 if folder == "stuff" && path == "/"
-                    a(href=folder)= folder + "/ <-- CLICK HERE FOR COOL SHIT"
+                    a(href=folder)= folder + "/"
+                    span &nbsp;<-- CLICK HERE FOR COOL SHIT
                 else
                     a(href=folder)= folder + "/"
     if files
