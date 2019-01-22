@@ -33,12 +33,6 @@ app.get(/_RAW$/, (req, res) => {
     res.sendFile(__dirname + req.originalUrl.replace(/_RAW$/, ""));
 });
 
-app.get(/[\w-_]+\.\w+$/, (req, res, next) => {
-    res.header("Content-Type", "text");
-
-    next();
-});
-
 app.use(express.static(__dirname));
 
 // Controllers
