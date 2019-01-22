@@ -42,7 +42,9 @@ app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
 
     res.render("views/directory.pug", {
-        dirs: fs.readdirSync(dir).filter(dir => !dir.startsWith("."))
+        // I'm never going to put dots in dirs so this is fine (and faster).
+        dirs: fs.readdirSync(dir).filter(dir => !dir.startsWith(".")).map(dir => !dir.includes(".") && dir != "LICENSE" ? dir + "/" : dir),
+        path: req.originalUrl
     });
 });
 

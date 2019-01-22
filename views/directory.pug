@@ -6,11 +6,13 @@ style
 
 div(style="background-color: #4FA1CA; padding: 20px 40px; display: flex; align-items: center;")
     img(src="/sharky.cool.png", style="width: 100px; margin-right: 20px;")
-    h1 sharky.cool
+    h1(style="margin-right: 10px;") sharky.cool
+    h2(style="opacity: 0.5;")= path
 if dirs
     ul
+        unless path == "/"
+            li
+                a(href="..", style="") ..
         each dir in dirs
             li
                 a(href=dir)= dir
-else
-    p Don't try to view this page directly, dummy.
