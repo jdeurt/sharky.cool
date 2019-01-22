@@ -38,6 +38,11 @@ app.use(express.static(__dirname));
 // Controllers
 app.post("/api/gitpushed", controllers.api.git.pushed);
 
+// Make sure to handle directories.pug
+app.get("/views/directory.pug", (req, res) => {
+    res.redirect("/");
+});
+
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
 
