@@ -26,6 +26,11 @@ app.get("/views/directory.pug", (req, res) => {
     res.redirect(301, "/");
 });
 
+app.get(/[\w-_]+\.(py|bat)$/, (req, res, next) => {
+    res.header("Content-Type", "text");
+
+    next();
+});
 app.get(/[\w-_]+\.pug$/, (req, res) => {
     res.render(req.originalUrl);
 });
