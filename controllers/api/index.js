@@ -1,3 +1,4 @@
 module.exports = {
-    git: require("./git")
+    git: require("./git"),
+    ytdl: require("./ytdl")
 };
