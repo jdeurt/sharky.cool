@@ -20,6 +20,11 @@ app.all(/\/\./, (req, res) => {
     res.status(401).send("No.");
 });
 
+// Make sure to handle directories.pug
+app.get("/views/directory.pug", (req, res) => {
+    res.redirect(301, "/");
+});
+
 app.get(/[\w-_]+\.pug$/, (req, res) => {
     res.render(req.originalUrl);
 });
@@ -37,11 +42,6 @@ app.use(express.static(__dirname));
 
 // Controllers
 app.post("/api/gitpushed", controllers.api.git.pushed);
-
-// Make sure to handle directories.pug
-app.get("/views/directory.pug", (req, res) => {
-    res.redirect(301, "/");
-});
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
