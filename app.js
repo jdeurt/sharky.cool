@@ -45,6 +45,9 @@ app.post("/api/gitpushed", controllers.api.git.pushed);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
+
+    if (!fs.existsSync(dir)) return res.status(404).send("Oops! Looks like you took a wrong turn somewhere.<br><a href=\"https://sharky.cool\">Take me back.</a>");
+
     const isDirectory = src => fs.lstatSync(src).isDirectory();
 
     const subDirs = fs.readdirSync(dir).filter(src => !src.startsWith("."));
