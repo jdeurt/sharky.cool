@@ -56,7 +56,7 @@ app.get("*", (req, res) => {
     const folders = subDirs.filter(src => isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase());
     const files = subDirs.filter(src => !isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase()).map(src => {
         // Kinda like sym links except for the web.
-        if (src.startsWith("REDIR_")) return "//" + src;
+        if (src.startsWith("REDIR_")) return "//" + src.replace("REDIR_", "");
         else return src;
     });
 
