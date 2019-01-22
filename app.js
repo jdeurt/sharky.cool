@@ -45,10 +45,15 @@ app.post("/api/gitpushed", controllers.api.git.pushed);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
+    const isDirectory = src => fs.lstatSync(src).isDirectory();
 
     res.render("views/directory.pug", {
-        // I'm never going to put dots in dirs so this is fine (and faster).
-        dirs: fs.readdirSync(dir).filter(dir => !dir.startsWith(".")).map(dir => !dir.includes(".") && dir != "LICENSE" ? dir + "/" : dir),
+        dir: fs.readdirSync(dir).filter(src => !src.startsWith(".")).map(src => {
+            return {
+                relativePath: src,
+                isDirectory: isDirectory(dir + src)
+            };
+        }),
         path: req.originalUrl
     });
 });
