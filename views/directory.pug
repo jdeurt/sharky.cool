@@ -16,7 +16,9 @@ if dirs
     ul
         unless path == "/"
             li
-                a(href="..", style="") ..
+                
+                strong
+                    a(href="..", style="") ../
         each dir in dirs
             li
                 a(href=dir)= dir
