@@ -37,7 +37,12 @@ ul
     if files
         each file in files
             li
-                a(href="/api/files/download?path=" + path + file)
-                    i.fas.fa-file-download
-                span &nbsp;&nbsp;
+                unless file.startsWith("//")
+                    a(href="/api/files/download?path=" + path + file)
+                        i.fas.fa-file-download
+                    span &nbsp;&nbsp;
+                else
+                    a(href=file)
+                        i.fas.fa-link
+                    span &nbsp;
                 a(href=file)= file
