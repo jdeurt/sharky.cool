@@ -54,9 +54,11 @@ app.get("*", (req, res) => {
     const subDirs = fs.readdirSync(dir).filter(src => !src.startsWith("."));
 
     const folders = subDirs.filter(src => isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase());
-    const files = subDirs.filter(src => !isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase());
-
-
+    const files = subDirs.filter(src => !isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase()).map(src => {
+        // Kinda like sym links except for the web.
+        if (src.startsWith("REDIR_")) return "//" + src;
+        else return src;
+    });
 
     res.render("views/directory.pug", {
         folders,
