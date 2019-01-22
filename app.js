@@ -47,13 +47,16 @@ app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
     const isDirectory = src => fs.lstatSync(src).isDirectory();
 
+    const subDirs = fs.readdirSync(dir).filter(src => !src.startsWith("."));
+
+    const folders = subDirs.filter(src => isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase());
+    const files = subDirs.filter(src => !isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase());
+
+
+
     res.render("views/directory.pug", {
-        dir: fs.readdirSync(dir).filter(src => !src.startsWith(".")).map(src => {
-            return {
-                relativePath: src,
-                isDirectory: isDirectory(dir + src)
-            };
-        }),
+        folders,
+        files,
         path: req.originalUrl
     });
 });

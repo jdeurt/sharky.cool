@@ -12,16 +12,16 @@ div(style="background-color: #4FA1CA; padding: 20px 40px; display: flex; align-i
     img(src="/sharky.cool.png", style="width: 100px; margin-right: 20px;")
     h1(style="margin-right: 10px;") sharky.cool
     h2(style="opacity: 0.5;")= path
-if dir
-    ul
-        unless path == "/"
+ul
+    unless path == "/"
+        li
+            strong
+                a(href="..", style="") ../
+    if folders
+        each folder in folders
             li
-                
-                strong
-                    a(href="..", style="") ../
-        each src in dir
+                a(href=folder)= folder + "/"
+    if files
+        each file in files
             li
-                if src.isDirectory
-                    a(href=src.relativePath)= src.relativePath + "/"
-                else
-                    a(href=src.relativePath)= src.relativePath
+                a(href=file)= file
