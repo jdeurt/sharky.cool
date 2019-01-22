@@ -26,6 +26,9 @@ ul
     if folders
         each folder in folders
             li
+                a(href=path + folder)
+                    i.fas.fa-folder-open
+                span &nbsp;
                 if folder == "stuff" && path == "/"
                     a(href=folder)= folder + "/"
                     span &nbsp;<-- CLICK HERE FOR COOL SHIT
@@ -36,5 +39,5 @@ ul
             li
                 a(href="/api/files/download?path=" + path + file)
                     i.fas.fa-file-download
-                span &nbsp;
+                span &nbsp;&nbsp;
                 a(href=file)= file
