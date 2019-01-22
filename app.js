@@ -6,6 +6,7 @@ const dotenv = require("dotenv");
 const controllers = require("./controllers");
 
 dotenv.load();
+process.env.LAST_COMMIT_ID = fs.readFileSync(".git/refs/heads/master", "utf8").trim();
 
 const app = express();
 
@@ -60,7 +61,8 @@ app.get("*", (req, res) => {
     res.render("views/directory.pug", {
         folders,
         files,
-        path: req.originalUrl
+        path: req.originalUrl,
+        lastCommitID: process.env.LAST_COMMIT_ID
     });
 });
 

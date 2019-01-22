@@ -8,6 +8,9 @@ style
     | li { list-style-type: none; margin: 5px 0; }
     | a { color: #0074D9!important; }
 
+div(style="position: absolute; bottom: 20px; right: 20px;")
+    span Last Commit:&nbsp;
+    a(href="https://github.com/jdeurt/sharky.cool/commit/" + lastCommitID)= lastCommitID
 div(style="background-color: #4FA1CA; padding: 20px 40px; display: flex; align-items: center;")
     img(src="/sharky.cool.png", style="width: 100px; margin-right: 20px;")
     h1(style="margin-right: 10px;") sharky.cool
