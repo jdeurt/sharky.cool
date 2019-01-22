@@ -20,7 +20,10 @@ ul
     if folders
         each folder in folders
             li
-                a(href=folder)= folder + "/"
+                if folder == "stuff" && path == "/"
+                    a(href=folder)= folder + "/ <-- CLICK HERE FOR COOL SHIT"
+                else
+                    a(href=folder)= folder + "/"
     if files
         each file in files
             li
