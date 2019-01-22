@@ -37,12 +37,14 @@ ul
     if files
         each file in files
             li
-                unless file.startsWith("//")
-                    a(href="/api/files/download?path=" + path + file)
-                        i.fas.fa-file-download
-                    span &nbsp;&nbsp;
-                else
-                    a(href=file)
-                        i.fas.fa-link
-                    span &nbsp;
+                a(href="/api/files/download?path=" + path + file)
+                    i.fas.fa-file-download
+                span &nbsp;&nbsp;
                 a(href=file)= file
+    if redirs
+        each redir in redirs
+            li
+                a(href=redir)
+                    i.fas.fa-link
+                span &nbsp;
+                a(href=redir)= redir

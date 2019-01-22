@@ -62,15 +62,15 @@ app.get("*", (req, res) => {
     const subDirs = fs.readdirSync(dir).filter(src => !src.startsWith("."));
 
     const folders = subDirs.filter(src => isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase());
-    const files = subDirs.filter(src => !isDirectory(dir + src)).sort((a, b) => a.toLowerCase() - b.toLowerCase()).map(src => {
-        // Kinda like sym links except for the web.
-        if (src.startsWith("REDIR_")) return "//" + src.replace("REDIR_", "");
-        else return src;
+    const files = subDirs.filter(src => !isDirectory(dir + src) && !src.startsWith("REDIR_")).sort((a, b) => a.toLowerCase() - b.toLowerCase());
+    const redirs = subDirs.filter(src => !isDirectory(dir + src) && src.startsWith("REDIR_")).sort((a, b) => a.toLowerCase() - b.toLowerCase()).map(src => {
+        return "//" + src.replace("REDIR_", "").replace(/%s/g, "/");
     });
 
     res.render("views/directory.pug", {
         folders,
         files,
+        redirs,
         path: req.originalUrl,
         lastCommitID: process.env.LAST_COMMIT_ID
     });
