@@ -44,7 +44,9 @@ app.get(/_RAW$/, (req, res) => {
     res.sendFile(__dirname + req.originalUrl.replace(/_RAW$/, ""));
 });
 
-app.use(express.static(__dirname));
+app.use(express.static(__dirname, {
+    index: false
+}));
 
 // Controllers
 app.post("/api/gitpushed", controllers.api.git.pushed);
