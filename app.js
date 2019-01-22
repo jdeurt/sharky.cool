@@ -48,6 +48,7 @@ app.use(express.static(__dirname));
 
 // Controllers
 app.post("/api/gitpushed", controllers.api.git.pushed);
+app.get("/api/files/download", controllers.api.files.download);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
