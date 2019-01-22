@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Looong Dog</title>
+
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+        }
+        html, body {
+            width: 100%;
+            height: 100%;
+        }
+
+        #dog {
+            position: absolute;
+            top: 20px;
+            left: 50%;
+            transform: translate(-50%);
+        }
+
+        .layer {
+            font-family: "Courier New", Courier, monospace;
+        }
+    </style>
+</head>
+<body>
+    <div id="dog">
+        <div class="layer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''',</div>
+        <div class="layer">&nbsp;&nbsp;&nbsp;&nbsp;o_)O&nbsp;\)____)"</div>
+        <div class="layer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)</div>
+        <div class="layer">woof!&nbsp;&nbsp;'',,,,,,</div>
+        <div class="layer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;||</div>
+        <div class="layer" id="l-base">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||&nbsp;&nbsp;||</div>
+    </div>
+
+    <script>
+        var legs = document.getElementById("l-base").innerHTML;
+        function addNewLegs(amt) {
+            for(let i = 0; i < amt; i++) {
+                var newLegs = document.createElement("div");
+                newLegs.id = "l-" + i;
+                newLegs.className = "layer";
+                newLegs.innerHTML = legs;
+
+                document.getElementById("dog").appendChild(newLegs);
+            }
+        }
+
+        for(let i = 0; i < 100; i++) {
+            addNewLegs(1);
+        }
+
+        document.onscroll = function() {
+            if (document.body.scrollHeight - document.body.scrollTop < 1500) {
+                addNewLegs(10);
+            }
+        };
+    </script>
+</body>
+</html>
