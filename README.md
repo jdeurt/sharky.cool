@@ -1,7 +1,7 @@
 # sharky.cool
-This is built without typescript because of the fact that I want to preserve readability.
+My new portfolio website thing. It automatically pulls from [my Github repository](https://github.com/jdeurt/sharky.cool) whenever a commit is made.
 
-Typescript-compiled files are not known for being the most readable things.
+I promise nothing illegal this time.
 
 **Enjoy!**
 
