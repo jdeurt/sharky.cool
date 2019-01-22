@@ -34,7 +34,7 @@ ul
     if files
         each file in files
             li
-                a(href=file)= file
-                span &nbsp;-&nbsp;
                 a(href="/api/files/download?path=" + path + file)
                     i.fas.fa-file-download
+                span &nbsp;
+                a(href=file)= file
