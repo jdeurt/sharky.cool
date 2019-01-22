@@ -3,7 +3,9 @@ meta(property="og:image", content="https://sharky.cool/sharky.cool.png")
 meta(property="og:url", content="https://sharky.cool" + path)
 meta(property="theme-color", content="#4FA1CA")
 link(href="https://fonts.googleapis.com/css?family=Open+Sans", rel="stylesheet")
-style 
+link(rel="stylesheet", href="https://use.fontawesome.com/releases/v5.6.3/css/solid.css", integrity="sha384-+0VIRx+yz1WBcCTXBkVQYIBVNEFH1eP6Zknm16roZCyeNg2maWEpk/l/KsyFKs7G", crossorigin="anonymous")
+link(rel="stylesheet", href="https://use.fontawesome.com/releases/v5.6.3/css/fontawesome.css", integrity="sha384-jLuaxTTBR42U2qJ/pm4JRouHkEDHkVqH0T1nyQXn1mZ7Snycpf6Rl25VBNthU4z0", crossorigin="anonymous")
+style
     | * { font-family: "Open Sans"; sans-serif; }
     | li { list-style-type: none; margin: 5px 0; }
     | a { color: #0074D9!important; }
@@ -33,3 +35,6 @@ ul
         each file in files
             li
                 a(href=file)= file
+                span &nbsp;-&nbsp;
+                a(href="/api/files/download?path=" + path + file)
+                    i.fas.fa-file-download
