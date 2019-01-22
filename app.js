@@ -40,7 +40,7 @@ app.post("/api/gitpushed", controllers.api.git.pushed);
 
 // Make sure to handle directories.pug
 app.get("/views/directory.pug", (req, res) => {
-    res.redirect("/");
+    res.redirect(301, "/");
 });
 
 app.get("*", (req, res) => {
