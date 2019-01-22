@@ -43,11 +43,6 @@ app.use(express.static(__dirname));
 // Controllers
 app.post("/api/gitpushed", controllers.api.git.pushed);
 
-// Redirects
-app.get("/git/:repo", (req, res) => {
-    res.redirect(301, "https://github.com/jdeurt/" + req.params.repo);
-});
-
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
 
