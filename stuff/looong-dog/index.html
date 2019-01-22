@@ -26,6 +26,22 @@
         .layer {
             font-family: "Courier New", Courier, monospace;
         }
+
+        .woof-l {
+            position: absolute;
+            width: 100%;
+            text-align: left;
+            padding-left: 30vw;
+            box-sizing: border-box;
+        }
+
+        .woof-r {
+            position: absolute;
+            width: 100%;
+            text-align: right;
+            padding-right: 30vw;
+            box-sizing: border-box;
+        }
     </style>
 </head>
 <body>
@@ -56,8 +72,16 @@
         }
 
         document.onscroll = function() {
-            if (document.body.scrollHeight - document.body.scrollTop < 1500) {
+            if (document.body.scrollHeight - document.body.scrollTop < 2000) {
                 addNewLegs(10);
+                if (Math.random() < 0.01) {
+                    var woof = document.createElement("div");
+                    woof.innerHTML = "woof.";
+                    woof.className = Math.random() < 0.5 ? "woof-l" : "woof-r";
+                    woof.style = "top: " + (document.getElementById("dog").clientHeight - 50) + "px;";
+
+                    document.body.appendChild(woof);
+                }
             }
         };
     </script>
