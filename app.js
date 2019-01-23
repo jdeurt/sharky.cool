@@ -32,7 +32,7 @@ app.get(/[\w-_]+\.(py|bat)$/, (req, res, next) => {
     next();
 });
 app.get(/[\w-_]+\.pug$/, (req, res) => {
-    res.render(req.originalUrl);
+    res.render("." + req.originalUrl);
 });
 app.get(/[\w-_]+\.md$/, (req, res) => {
     const path = __dirname + req.originalUrl;

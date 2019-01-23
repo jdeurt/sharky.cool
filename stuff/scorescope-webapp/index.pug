@@ -1,0 +1,47 @@
+head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible" content="ie=edge")
+    title Scorescope Online
+
+    link(rel="stylesheet", href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css")
+    link(rel="stylesheet", href="style.css")
+body
+    nav.navbar.navbar-expand-lg.navbar-light.bg-light
+        a.navbar-brand(href='#') Scorescope Online
+        button.navbar-toggler(type='button', data-toggle='collapse', data-target='#navbarSupportedContent', aria-controls='navbarSupportedContent', aria-expanded='false', aria-label='Toggle navigation')
+            span.navbar-toggler-icon
+        #navbarSupportedContent.collapse.navbar-collapse
+            ul.navbar-nav.mr-auto
+                li.nav-item
+                    a.nav-link(href='#') Home
+                li.nav-item
+                    a.nav-link(href='#') Link
+                li.nav-item.dropdown
+                    a#navbarDropdown.nav-link.dropdown-toggle(href='#', role='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+                        | Classes
+                    .dropdown-menu(aria-labelledby='navbarDropdown')
+                        - const classes = ["English", "Math", "Social Studies", "Computer Science", "PE", "Elective"]
+                        each className in classes
+                            a.dropdown-item(href='#')= className
+                li.nav-item
+                    a.nav-link(href="#") Log In
+    .container-fluid.d-flex.justify-content-center.py-5
+        div.ss-circle.ss-c-green
+            - const score = 96
+            span#ss-score= score
+    table.table.text-left
+        thead
+            tr
+                th(scope="col") Class
+                th(scope="col") Grade
+                th(scope="col") Attendance
+        tbody
+            each className in classes
+                tr
+                    th(scope="row")= className
+                    td 96
+                    td A+
+    script(src="https://code.jquery.com/jquery-3.3.1.slim.min.js")
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js")
+    script(src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js")

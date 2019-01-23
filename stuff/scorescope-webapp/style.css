@@ -1,0 +1,36 @@
+.center-x-abs {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.ss-circle {
+    border-radius: 50%;
+    width: 30vw;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 3vw black;
+}
+
+.ss-c-red {
+    border-color: #FF4136;
+}
+.ss-c-orange {
+    border-color: #FF851B;
+}
+.ss-c-yellow {
+    border-color: #FFDC00;
+}
+.ss-c-lime {
+    border-color: #01FF70;
+}
+.ss-c-green {
+    border-color: #2ECC40;
+}
+
+#ss-score {
+    font-size: 10vw;
+    color: #111111;
+}
