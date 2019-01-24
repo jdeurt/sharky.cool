@@ -6,7 +6,7 @@ const dotenv = require("dotenv");
 const controllers = require("./controllers");
 
 dotenv.load();
-process.env.LAST_COMMIT_ID = fs.readFileSync(".git/refs/heads/master", "utf8").trim();
+process.env.LAST_COMMIT_ID = (fs.readFileSync(".git/refs/heads/master", "utf8") || "ERROR").trim();
 
 const app = express();
 
