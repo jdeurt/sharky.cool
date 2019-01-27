@@ -1,3 +1,6 @@
+const fs = require("fs");
+const path = require ("path");
+
 /**
  * 
  * Reads raw crime data from a csv file 
