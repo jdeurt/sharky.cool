@@ -52,6 +52,7 @@ app.use(express.static(__dirname, {
 app.post("/api/gitpushed", controllers.api.git.pushed);
 app.get("/api/files/download", controllers.api.files.download);
 app.get("/api/tamuhack/mock", controllers.api.tamuhack.mock);
+app.post("/api/tamuhack/mock", controllers.api.tamuhack.mock);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.originalUrl;
