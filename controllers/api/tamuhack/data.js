@@ -55,6 +55,8 @@ function parse(relPath) {
         return {
             latitude: dataPoint.latitude,
             longitude: dataPoint.longitude,
+            injured: injured,
+            killed: killed,
             weight: scaledWeight
         };
     });
