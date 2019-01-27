@@ -61,5 +61,5 @@ function parse(relPath) {
 }
 
 module.exports = (req, res) => {
-    res.json(parse(__dirname + "/mockdata.csv"));
+    res.json(parse(__dirname + "/random.csv"));
 };
