@@ -1,3 +1,3 @@
 module.exports = {
-    data: require("./data-mock")
+    mock: require("./data-mock")
 }
