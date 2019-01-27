@@ -1,4 +1,5 @@
 module.exports = {
     git: require("./git"),
-    files: require("./files")
+    files: require("./files"),
+    tamuhack: require("./tamuhack")
 };
