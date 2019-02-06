@@ -1,0 +1,27 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Jones, Kyle          Lone Oak HS, Lone Oak        64     1      15      X      Region
+Walls, Ty            Lone Oak HS, Lone Oak        46     2      12      X      Region
+Angel, Daniel        Commerce HS, Commerce        34     3      9       X      Region
+Walsh, Brennen       Lone Oak HS, Lone Oak        34     3      9       X      Region
+Derryberry, Abigail  Lone Oak HS, Lone Oak        28     5      6       X      Alternate
+Slaughter, Hailey    Whitewright HS, Whitewright  26     6      4       X
+Green, Connor        Commerce HS, Commerce        22     7
+Cook, Bryson         Leonard HS, Leonard          20     8
+Burt, Taylor         Whitewright HS, Whitewright  0      9
+Nippani, Vineet      Commerce HS, Commerce        0      9
+Thern, Lexi          Leonard HS, Leonard          -4     11
+Shaw, Audrey         Leonard HS, Leonard          -12    12
+Underwood, Caden     Whitewright HS, Whitewright  -22    13
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Lone Oak HS, Lone Oak        1     374    1      20      X      Region
+Commerce HS, Commerce        1     176    2      16      X      Alternate
+Leonard HS, Leonard          1     4      3      12      X
+Whitewright HS, Whitewright  1     4      4
+
+TEAM RESULTS
+------------------------------

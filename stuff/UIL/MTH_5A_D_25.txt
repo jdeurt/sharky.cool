@@ -1,0 +1,21 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                    Score  Place  Points  Medal  Advance
+Sam, Robin           Johnson (LBJ) HS, Austin  140    1      15      X      Region
+McGahagin, Alex      Austin HS, Austin         88     2      12      X      Region
+Rusthoven, Alicia    Austin HS, Austin         56     3      10      X      Region
+Ramanathan, Shreya   Johnson (LBJ) HS, Austin  54     4      8       X      Alternate
+Christian, Jackson   Austin HS, Austin         50     5      6       X
+Gregory, Alan        Crockett HS, Austin       40     6      4       X
+Martinez, Elizabeth  Crockett HS, Austin       24     7
+Davisson, Lily       Crockett HS, Austin       20     8
+Kanji, Simran        Crockett HS, Austin       18     9
+
+TOP SCORERS
+------------------------------
+School               Team  Score  Place  Points  Medal  Advance
+Austin HS, Austin    1     194    1      10      X      Region
+Crockett HS, Austin  1     84     2      5       X      Alternate
+
+TEAM RESULTS
+------------------------------

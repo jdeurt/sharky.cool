@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Taylor, Zane        Boerne HS, Boerne                   268    1      15      X      Region
+Hoke, Tanner        Boerne HS, Boerne                   256    2      12      X      Region
+White, Delaney      Boerne HS, Boerne                   166    3      10      X      Region
+Peng, Xirui         Boerne HS, Boerne                   122    4      8       X      Alternate
+Harris, Carson      Boerne HS, Boerne                   86     5      6       X
+Kromer, Blake       Bandera HS, Bandera                 86     6      4       X
+Stokes, Henry       Canyon Lake HS, Fischer             72     7
+Dorman, Erin        Canyon Lake HS, Fischer             54     8
+VonHeuvel, Erich    Hondo H S, Hondo                    50     9
+Petty, Harper       Hondo H S, Hondo                    50     9
+McMullan, Davis     Bandera HS, Bandera                 50     9
+Blakenship, Chloe   Canyon Lake HS, Fischer             48     12
+Urh, Sophia         Boerne HS, Boerne                   46     13
+Lindsay, Ellie      Fredericksburg H S, Fredericksburg  32     14
+Almond, Caleb       Canyon Lake HS, Fischer             30     15
+Wilger, Carl        Fredericksburg H S, Fredericksburg  28     16
+Cooke, Esten        Fredericksburg H S, Fredericksburg  28     16
+Yans, Lisa          Hondo H S, Hondo                    26     18
+Martin, Taylor      Bandera HS, Bandera                 20     19
+Carpenter, Michael  Canyon Lake HS, Fischer             10     20
+Lange, Gage         Hondo H S, Hondo                    4      21
+
+TOP SCORERS
+------------------------------
+Contestant      School          Results               Points
+Taylor, Zane    Boerne HS       Top Scorer Biology    3
+Hoke, Tanner    Boerne HS       Alternate Biology     0
+Harris, Carson  Boerne HS       Alternate Biology     0
+Stokes, Henry   Canyon Lake HS  Alternate Biology     0
+Taylor, Zane    Boerne HS       Top Scorer Chemistry  3
+Hoke, Tanner    Boerne HS       Alternate Chemistry   0
+Hoke, Tanner    Boerne HS       Top Scorer Physics    3
+Taylor, Zane    Boerne HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Boerne HS, Boerne                   1     690    1      10      X      Region
+Canyon Lake HS, Fischer             1     174    2      5       X      Alternate
+Bandera HS, Bandera                 1     156    3
+Hondo H S, Hondo                    1     126    4
+Fredericksburg H S, Fredericksburg  1     88     5

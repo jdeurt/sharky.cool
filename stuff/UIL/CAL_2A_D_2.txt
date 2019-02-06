@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Kirkland, Kaison   Panhandle H S, Panhandle   142    1      15      X      Region
+Freeman, Brennan   Panhandle H S, Panhandle   106    2      12      X      Region
+Johnson, Samara    Clarendon HS, Clarendon    99     3      10      X      Region
+Neusch, Andrew     Panhandle H S, Panhandle   95.6   4      8       X      Alternate
+Crytser, Courtney  Wellington HS, Wellington  95.3   5      6       X
+Johnson, Emily     Clarendon HS, Clarendon    92     6      4       X
+Byers, Daniel      Panhandle H S, Panhandle   88     7
+Stockett, Luke     Claude HS, Claude          79     8
+Sessions, Riley    Wellington HS, Wellington  66     9
+Duncan, Rowdy      Wellington HS, Wellington  58     10
+Adams, Roxie       Clarendon HS, Clarendon    57     11
+Gwin, Chase        Clarendon HS, Clarendon    54     12
+Orozco, Adrian     Wellington HS, Wellington  48     13
+Bhakta, Kishan     Memphis HS, Memphis        37     14
+Alanis, Esmeralda  Memphis HS, Memphis        31     15
+Jones, Shelby      Wheeler HS, Wheeler        16     16
+Vidaurri, Brayden  Claude HS, Claude          9      17
+Hicks, Heather     Memphis HS, Memphis        -7     18
+Brannon, Aubrie    Claude HS, Claude          -28    19
+McGruder, Melody   Wheeler HS, Wheeler        -40    20
+Duran, Cinthia     Memphis HS, Memphis        -43    21
+Moreno, Zach       Claude HS, Claude          -50    22
+Ontiverous, Angel  Wheeler HS, Wheeler        -108   23
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Panhandle H S, Panhandle   1     343.6  1      10      X      Region
+Clarendon HS, Clarendon    1     248    2      5       X      Alternate
+Wellington HS, Wellington  1     219.3  3
+Memphis HS, Memphis        1     61     4
+Claude HS, Claude          1     60     5
+Wheeler HS, Wheeler        1     -132   6
+
+TEAM RESULTS
+------------------------------

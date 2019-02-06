@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Moore, Jacob         Athens HS, Athens              205    1      15      X      Region
+Alvarez, Alyson      Palestine H S, Palestine       137    2      12      X      Region
+Pedroza, Alejandra   Athens HS, Athens              134    3      10      X      Region
+Leon, Yuvia          Athens HS, Athens              128    4      8       X      Alternate
+Ademaj, Ideal        Athens HS, Athens              122    5      6       X
+Edison, Parker       Fairfield H S, Fairfield       104    6      4       X
+Logan-Mason, Chenoa  Palestine H S, Palestine       101    7
+Schmidt, Harmony     Madisonville HS, Madisonville  78     8
+Minze, Aaron         Fairfield H S, Fairfield       76     9
+Candanoza, Miranda   Mexia HS, Mexia                56     10
+Gold, Levi           Mexia HS, Mexia                48     11
+White, Rileigh       Fairfield H S, Fairfield       42     12
+Valenzuela, Iris     Mexia HS, Mexia                41     13
+Hunt, Harley         Fairfield H S, Fairfield       40     14
+Deamesi, Freda       Palestine H S, Palestine       30     15
+Lejeune, Phillip     Mexia HS, Mexia                0      16
+Gravitt, Maison      Madisonville HS, Madisonville  -6     17
+Hinojosa, Erica      Madisonville HS, Madisonville  -60    18
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Athens HS, Athens              1     467    1      10      X      Region
+Palestine H S, Palestine       1     268    2      5       X      Alternate
+Fairfield H S, Fairfield       1     222    3
+Mexia HS, Mexia                1     145    4
+Madisonville HS, Madisonville  1     12     5
+
+TEAM RESULTS
+------------------------------

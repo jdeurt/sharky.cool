@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                            Score  Place  Points  Medal  Advance
+Jennings, Nate          Atascocita HS, Humble             238    1      15      X      Region
+Wells, Jordan           Atascocita HS, Humble             212    2      12      X      Region
+Russel, Brandon         Kingwood H S, Humble              208    3      10      X      Region
+Smith, Kaitlin          Kingwood H S, Humble              184    4      8       X      Alternate
+Unulmis, Bora           Kingwood H S, Humble              168    5      6       X
+Tillis, Kieren          Kingwood H S, Humble              154    6      4       X
+Hartung, Marshall       Kingwood H S, Humble              132    7
+Gutke, Jeffrey E.       Summer Creek H S, Humble          118    8
+Datar, Soham            Goose Creek Memorial HS, Baytown  118    8
+Peters, Erin            Atascocita HS, Humble             110    10
+Cochran, Matthew C.     Summer Creek H S, Humble          108    11
+Janobas, Athena         Goose Creek Memorial HS, Baytown  94     12
+Bates, Tim              Kingwood H S, Humble              94     12
+Turney, Blake           Atascocita HS, Humble             88     14
+Taylor, Robby           Atascocita HS, Humble             78     15
+Kulkarni, Jatin         Goose Creek Memorial HS, Baytown  74     16
+Carter, Toyo O.L.       Summer Creek H S, Humble          72     17
+Husainat, Noor A.       Summer Creek H S, Humble          70     18
+Rizwan, Aatika          North Shore H S, Houston          60     19
+Chan, Michelle          North Shore H S, Houston          54     20
+Yadav, Shaily           Goose Creek Memorial HS, Baytown  52     21
+Mai, Cecilia            North Shore H S, Houston          50     22
+DeMarr, Maximillian X.  Summer Creek H S, Humble          48     23
+Sampson, Francis        North Shore H S, Houston          44     24
+Villanueva, Adrianne    North Shore H S, Houston          38     25
+Longorio, Evelyn        Goose Creek Memorial HS, Baytown  34     26
+Jaramillo, Michell      King HS, Houston                  22     27
+Jeffress, Erin          Atascocita HS, Humble             22     27
+Aranda, Andrea          King HS, Houston                  20     29
+Garza, Kevin O.         Summer Creek H S, Humble          10     30
+Ibarra, Chris           Goose Creek Memorial HS, Baytown  6      31
+Gomez, Jullian          King HS, Houston                  0      32
+Cardoso, Gustavo        North Shore H S, Houston          0      32
+Khem, Thavy             Quest Early College HS, Humble    -2     34
+
+TOP SCORERS
+------------------------------
+Contestant         School         Results               Points
+Hartung, Marshall  Kingwood H S   Top Scorer Biology    3
+Jennings, Nate     Atascocita HS  Alternate Biology     0
+Russel, Brandon    Kingwood H S   Top Scorer Chemistry  3
+Wells, Jordan      Atascocita HS  Alternate Chemistry   0
+Bates, Tim         Kingwood H S   Top Scorer Physics    3
+Wells, Jordan      Atascocita HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Kingwood H S, Humble              1     560    1      10      X      Region
+Atascocita HS, Humble             1     560    2      5       X      Alternate
+Summer Creek H S, Humble          1     298    3
+Goose Creek Memorial HS, Baytown  1     286    4
+North Shore H S, Houston          1     164    5
+King HS, Houston                  1     42     6

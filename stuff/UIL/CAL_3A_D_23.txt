@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                        Score  Place  Points  Medal  Advance
+Daniel, Bekah     East Chambers H S, Winnie     128    1      15      X      Region
+Farnie, Caleb     Buna HS, Buna                 121    2      12      X      Region
+Tatom, Caleb      Buna HS, Buna                 108    3      10      X      Region
+Long, Lance       East Chambers H S, Winnie     100    4      8       X      Alternate
+Kemmer, Cassie    East Chambers H S, Winnie     99     5      6       X
+Bergeron, Ty      Anahuac HS, Anahuac           79     6      4       X
+Walters, Mallory  Warren HS, Warren             79     7
+Tran, June        Anahuac HS, Anahuac           71     8
+Dawson, Hannah    Buna HS, Buna                 69     9
+Ly, Tracey        Anahuac HS, Anahuac           64     10
+Brown, Seth       Warren HS, Warren             61     11
+Kahla, Bailey     East Chambers H S, Winnie     52     12
+Husband, Destiny  Anahuac HS, Anahuac           50     13
+Guillory, Brandi  Warren HS, Warren             34     14
+Grant, Chantry    Hardin HS, Hardin             16     15
+Bumstead, Kori    Kountze H S, Kountze          0      16
+Hernandez, Jaime  Hardin HS, Hardin             0      16
+Marcum, Thomas    Warren HS, Warren             0      16
+Spurlock, Kali    Hardin HS, Hardin             -6     19
+Montoya, Bilda    Bob Hope School, Port Arthur  -11    20
+Arsement, Sara    Kountze H S, Kountze          -17    21
+Flores, Alondra   Bob Hope School, Port Arthur  -29    22
+Fry, Laila        Buna HS, Buna                 -40    23
+Thonsgaard, Paul  Hardin HS, Hardin             -66    24
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+East Chambers H S, Winnie  1     327    1      10      X      Region
+Buna HS, Buna              1     298    2      5       X      Alternate
+Anahuac HS, Anahuac        1     214    3
+Warren HS, Warren          1     174    4
+Hardin HS, Hardin          1     10     5
+
+TEAM RESULTS
+------------------------------

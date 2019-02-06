@@ -1,0 +1,19 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                         Score  Place  Points  Medal  Advance
+Luckadoo, Hayden  Liberty Hill HS, Liberty Hill  90     1      15      X      Region
+Harbour, Will     Liberty Hill HS, Liberty Hill  70     2      12      X      Region
+Bramhall, Nick    Liberty Hill HS, Liberty Hill  36     3      10      X      Region
+Salvato, Luke     Lampasas HS, Lampasas          6      4      8       X      Alternate
+Robinson, Gavin   Lampasas HS, Lampasas          -2     5      6       X
+Hamilton, Alexis  Lampasas HS, Lampasas          -8     6      4       X
+Roth, Sam         Liberty Hill HS, Liberty Hill  -22    7
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Liberty Hill HS, Liberty Hill  1     251    1      20      X      Region
+Lampasas HS, Lampasas          1     -4     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

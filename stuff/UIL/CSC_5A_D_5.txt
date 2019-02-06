@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                            Score  Place  Points  Medal  Advance
+Bown, Brendon        Denton H S, Denton                178    1      15      X      Region
+Berreles, Daniel     Denton H S, Denton                156    2      12      X      Region
+Dalrymple, Aiden     Braswell HS (Denton), Little Elm  144    3      10      X      Region
+Giah, Emmanuel       Denton H S, Denton                124    4      8       X      Alternate
+Kajihara, Michael    Ryan H S, Denton                  104    5      6       X
+Aryal, Anubhav       Denton H S, Denton                90     6      4       X
+Medrano, Mason       Braswell HS (Denton), Little Elm  72     7
+Heon, Heather        Ryan H S, Denton                  70     8
+Williams, Christian  Ryan H S, Denton                  62     9
+Cunningham, Kyle     Braswell HS (Denton), Little Elm  60     10
+Ortiz, Andrew        Sherman H S, Sherman              54     11
+Knight, Theodore S.  Sherman H S, Sherman              14     12
+Hossain, Abdullah    Sherman H S, Sherman              0      13
+Olabamiji, James     Braswell HS (Denton), Little Elm  -4     14
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Denton H S, Denton                1     878    1      20      X      Region
+Ryan H S, Denton                  1     521    2      16      X      Alternate
+Braswell HS (Denton), Little Elm  1     456    3      12      X
+Sherman H S, Sherman              1     123    4
+
+TEAM RESULTS
+------------------------------

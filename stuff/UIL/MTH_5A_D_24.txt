@@ -1,0 +1,27 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                 Score  Place  Points  Medal  Advance
+Song, Ethan           Wisdom H S, Houston    268    1      15      X      Region
+Ni, Aaron             Wisdom H S, Houston    244    2      12      X      Region
+Guerrero, Mauricio    Wisdom H S, Houston    144    3      10      X      Region
+Mosqueda, Rogelio     Milby HS, Houston      90     4      8       X      Alternate
+Ortega-Hndz, Natalie  Wisdom H S, Houston    82     5      6       X
+Do, Thanh             Milby HS, Houston      54     6      4       X
+Garcia, Jesus         Milby HS, Houston      30     7
+Do, Dat               Milby HS, Houston      22     8
+Anaya, Jonathan       Sterling HS, Houston   20     9
+Espinoza, Billy       Northside HS, Houston  16     10
+Melendez, Alexandria  Northside HS, Houston  14     11
+Lara, Maria           Northside HS, Houston  10     12
+Salazar, Michael      Sterling HS, Houston   8      13
+Flores, Jazmin        Northside HS, Houston  -4     14
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Wisdom H S, Houston    1     656    1      10      X      Region
+Milby HS, Houston      1     174    2      5       X      Alternate
+Northside HS, Houston  1     40     3
+
+TEAM RESULTS
+------------------------------

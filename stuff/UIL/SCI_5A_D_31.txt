@@ -1,0 +1,75 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                     School                                Score  Place  Points  Medal  Advance
+Doria, Joe H.                  Roma HS, Roma                         224    1      15      X      Region
+Huang, Jack                    Rio Grande City H S, Rio Grande City  216    2      12      X      Region
+Pena, Jose Luis                Roma HS, Roma                         216    3      10      X      Region
+Bae, Jihu                      Sharyland HS, Mission                 160    4      8       X      Alternate
+Luera Hernandez, Juan Angel    Sharyland Pioneer HS, Mission         150    5      6       X
+Luera Hernandez, Juan Antonio  Sharyland Pioneer HS, Mission         148    6      4       X
+Fernandez, Aaron               Roma HS, Roma                         124    7
+Soto, Oscar                    Rio Grande City H S, Rio Grande City  114    8
+Geathers, Jadon                Sharyland HS, Mission                 112    9
+Garcia, Ruben                  Roma HS, Roma                         112    9
+Quinlan, Joseph                Sharyland HS, Mission                 110    11
+Surita, Andres                 Sharyland Pioneer HS, Mission         108    12
+Fernandez, Julian              Roma HS, Roma                         108    12
+McCoy, Paul                    Veterans Memorial H S, Mission        106    14
+Lozano, Alan                   Sharyland HS, Mission                 102    15
+Veloso, Eugenio                Rio Grande City H S, Rio Grande City  86     16
+Gonzalez, Damian               Veterans Memorial H S, Mission        84     17
+Trevino, Andrea                Roma HS, Roma                         84     17
+Byrne, Michael                 Sharyland HS, Mission                 82     19
+Stiles, Bradley C              Sharyland Pioneer HS, Mission         78     20
+Jabs, Stephan                  Veterans Memorial H S, Mission        74     21
+Martinez, Juan                 Nixon HS, Laredo                      74     21
+Moran, Rodrigo                 Veterans Memorial H S, Mission        72     23
+Gonzalez, Rodrigo              Sharyland HS, Mission                 66     24
+Solano, Ulises                 Sharyland Pioneer HS, Mission         66     24
+Pena, Jim                      Rio Grande City H S, Rio Grande City  64     26
+Dovalina, Lucas                Veterans Memorial H S, Mission        60     27
+Yarrington, Silvana            Early College HS, Laredo              56     28
+Munoz, Romeo                   Rio Grande City H S, Rio Grande City  52     29
+Villarreal, Mia                Sharyland Pioneer HS, Mission         52     29
+Jacobo, Anaeliz                Early College HS, Laredo              48     31
+Flores, Sophia                 Early College HS, Laredo              44     32
+Munoz, Suseth                  Valley View HS, Pharr                 38     33
+Aleman, Karina                 Valley View HS, Pharr                 38     33
+Cruz, Carlos                   Martin HS, Laredo                     36     35
+Colunga, Francisco             Early College HS, Laredo              34     36
+Olmos, Angel                   Early College HS, Laredo              34     36
+Castillo, Raul                 Valley View HS, Pharr                 28     38
+Carrillo, Alexis               Martin HS, Laredo                     24     39
+Martinez, Kevin                Martin HS, Laredo                     24     39
+Hinojosa, Michelle             Nixon HS, Laredo                      24     39
+Hernandez, Armando             Nixon HS, Laredo                      18     42
+Lopez, Bianca                  Martin HS, Laredo                     14     43
+Mendez, Omar                   Early College HS, Laredo              12     44
+Amy, Perez                     Cigarroa HS, Laredo                   12     44
+Rivera, Tatiana                Nixon HS, Laredo                      6      46
+Loredo, Luis                   Martin HS, Laredo                     -6     47
+Hernandez, Keyla               Cigarroa HS, Laredo                   -6     47
+Ramirez, Erick                 Martin HS, Laredo                     -10    49
+
+TOP SCORERS
+------------------------------
+Contestant         School               Results               Points
+Pena, Jose Luis    Roma HS              Top Scorer Biology    3
+Doria, Joe H.      Roma HS              Alternate Biology     0
+Doria, Joe H.      Roma HS              Top Scorer Chemistry  3
+Huang, Jack        Rio Grande City H S  Alternate Chemistry   0
+Byrne, Michael     Sharyland HS         Top Scorer Physics    3
+Gonzalez, Rodrigo  Sharyland HS         Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Roma HS, Roma                         1     564    1      10      X      Region
+Rio Grande City H S, Rio Grande City  1     416    2      5       X      Alternate
+Sharyland Pioneer HS, Mission         1     406    3
+Sharyland HS, Mission                 1     382    4
+Veterans Memorial H S, Mission        1     264    5
+Early College HS, Laredo              1     148    6
+Nixon HS, Laredo                      1     116    7
+Valley View HS, Pharr                 1     104    8
+Martin HS, Laredo                     1     84     9

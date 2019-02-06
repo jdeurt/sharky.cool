@@ -1,0 +1,79 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+King, Brendan         Marcus HS, Flower Mound                 302    1      15      X      State
+Overman, Luke         Martin HS, Arlington                    214    2      12      X      State
+Garner, Michael       Marcus HS, Flower Mound                 212    3      10      X      State
+Lin, Dachey           Plano West Sr HS, Plano                 208    4      8       X      Alternate
+Nguyen, Andrew        Mansfield HS, Mansfield                 206    5      6       X
+Hsieh, Teddy          Plano West Sr HS, Plano                 204    6      4       X
+Ryu, Andy             Paschal H S, Fort Worth                 202    7
+Luu, Matthew          Martin HS, Arlington                    200    8
+Guo, Richard          Plano West Sr HS, Plano                 200    8
+Shelburne, Katherine  Belton HS, Belton                       192    10
+Kodali, Anaya         Marcus HS, Flower Mound                 190    11
+Ward, Mitchell        Carroll HS, Southlake                   184    12
+Fuentes, Francisco    Central HS, San Angelo                  176    13
+Swinney, Brandon      Martin HS, Arlington                    174    14
+Reitman, Joseph       Paschal H S, Fort Worth                 172    15
+Shrestha, Nischal     Haltom HS, Haltom City                  168    16
+Pham, Thu             Paschal H S, Fort Worth                 164    17
+Bhattarai, Gunjan     Plano West Sr HS, Plano                 162    18
+Walker, Pete          Keller H S, Keller                      144    19
+Xu, Peiyuan           Carroll HS, Southlake                   138    20
+Kottegoda, Seniru     Keller H S, Keller                      136    21
+Win, Lawrence         Belton HS, Belton                       134    22
+Guha, Aishi           MacArthur HS, Irving                    130    23
+Gunampalli, Tarun     Flower Mound HS, Flower Mound           126    24
+Charania, Ayra        Marcus HS, Flower Mound                 122    25
+Nguyen, Thai          McKinney Boyd HS, McKinney              120    26
+Crenshaw, Sheridan    Coronado HS, El Paso                    114    27
+Creery, Lucas         Tascosa HS, Amarillo                    112    28
+Davis, Thomas         Central HS, San Angelo                  108    29
+Mays, Parker          Martin HS, Arlington                    106    30
+Budreckis, Sarunas    Eastwood H S, El Paso                   100    31
+Campbell, Cade        Central HS, San Angelo                  98     32
+VanderHeiden, Nikita  Midway H S, Woodway                     98     32
+Stevens, Jansen       Frenship H S, Wolfforth                 96     34
+Miao, Daniel          Flower Mound HS, Flower Mound           94     35
+Chavez, Carlos        Americas HS, El Paso                    92     36
+Caballero, Antonio    Coronado HS, El Paso                    90     37
+Khan, Ammar           Central HS, Keller                      90     37
+Moses, Mark           Paschal H S, Fort Worth                 88     39
+Arango, Juan          Duncanville HS, Duncanville             88     39
+Woo, Si-Yoon          Belton HS, Belton                       88     39
+Kuang, Hanxing        Midway H S, Woodway                     80     42
+Barnett, Amy          Coronado HS, El Paso                    74     43
+Rayudu, Pranav        Keller H S, Keller                      70     44
+Loiselle, Loren       Belton HS, Belton                       70     44
+Devarasetty, Aniketh  Keller H S, Keller                      62     46
+Herrera, Melchor      Franklin H S, El Paso                   54     47
+Rico, Ariel           Duncanville HS, Duncanville             52     48
+Deanda, Jonathan      Central HS, San Angelo                  50     49
+IMARHIA, FRANCES      South Grand Prairie H S, Grand Prairie  28     50
+Ismail, Hannah        Duncanville HS, Duncanville             28     50
+Misra, Amogh          Coronado HS, El Paso                    24     52
+Giddens, Jacob        Irving HS, Irving                       12     53
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+King, Brendan      Marcus HS        Top Scorer Biology    3
+Chavez, Carlos     Americas HS      Alternate Biology     0
+Nguyen, Andrew     Mansfield HS     Top Scorer Chemistry  1.50
+Gunampalli, Tarun  Flower Mound HS  Top Scorer Chemistry  1.50
+King, Brendan      Marcus HS        Top Scorer Physics    3
+Overman, Luke      Martin HS        Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Marcus HS, Flower Mound      1     704    1      10      X      State
+Plano West Sr HS, Plano      1     612    2      5       X      Alternate
+Martin HS, Arlington         1     588    3
+Paschal H S, Fort Worth      1     538    4
+Belton HS, Belton            1     414    5
+Central HS, San Angelo       1     382    6
+Keller H S, Keller           1     350    7
+Coronado HS, El Paso         1     278    8
+Duncanville HS, Duncanville  1     168    9

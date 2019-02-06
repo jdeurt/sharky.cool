@@ -1,0 +1,65 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Johnson, Andrew      Tolar HS, Tolar              269    1      15      X      State
+Lancaster, Matthew   City View HS, Wichita Falls  243    2      12      X      State
+Waggoner, Logan      Paradise HS, Paradise        168    3      10      X      State
+Deray, Rayven        Coleman HS, Coleman          138    4      8       X      Alternate
+Groves, Clayton      Brock HS, Brock              137    5      6       X
+Loewes, Harrison     Brock HS, Brock              132    6      4       X
+Nader, Michael       City View HS, Wichita Falls  130    7
+Carr, William        Brock HS, Brock              129    8
+Bonnell, Jack        Tolar HS, Tolar              114    9
+Chaloupka, Dakota    Jim Ned H S, Tuscola         106    10
+Hermesmeyer, Bronte  Comanche HS, Comanche        91     11
+Robbins, Riley       Shallowater HS, Shallowater  87     12
+Spencer, Riley       Alpine HS, Alpine            85     13
+Beasley, Chassity    Jim Ned H S, Tuscola         84     14
+McWhirter, Austin    Coleman HS, Coleman          84     14
+Nowell, Jerrod       Tolar HS, Tolar              83     16
+Nguyen, Hung         Kermit H S, Kermit           78     17
+Valle, Jacob         Brady HS, Brady              78     17
+Billings, Blake      Alpine HS, Alpine            77     19
+Boleman, Sage        Brock HS, Brock              74     20
+Toothaker, Trinity   Coleman HS, Coleman          73     21
+Duncan, Miles        Wall HS, Wall                70     22
+Brittain, David      River Road HS, Amarillo      69     23
+Hoang, Tuan          City View HS, Wichita Falls  69     23
+Vickers, Traci       Sonora HS, Sonora            68     25
+Davis, Tiffany       Shallowater HS, Shallowater  67     26
+Valdez, Jordan       River Road HS, Amarillo      65     27
+Strickland, Braden   Shallowater HS, Shallowater  65     27
+Baldridge, Colton    Shallowater HS, Shallowater  65     27
+Cordell, Kaden       Sonora HS, Sonora            64     30
+Page, Nicholas       Jim Ned H S, Tuscola         64     30
+Martinez, Dora       City View HS, Wichita Falls  60     32
+Jones, Cameryn       Wall HS, Wall                59     33
+Johnson, Stephen     Tolar HS, Tolar              58     34
+Webb, Tyler          Holliday H S, Holliday       57     35
+Rose, Hannah         Coleman HS, Coleman          55     36
+Brittain, Travis     River Road HS, Amarillo      54     37
+Valles, Jayme        Alpine HS, Alpine            51     38
+Braden, Rylee        Wall HS, Wall                48     39
+Graham, Trevor       Clyde H S, Clyde             45     40
+Baum, Cortland       Jim Ned H S, Tuscola         44     41
+Hilton, Dasha        River Road HS, Amarillo      37     42
+DeGuia, Rose         Alpine HS, Alpine            9      43
+Lowe, Troy           Roosevelt HS, Lubbock        0      44
+Cluff, Jonah         Roosevelt HS, Lubbock        0      44
+Morrison, Drew       Wall HS, Wall                0      44
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Tolar HS, Tolar              1     466    1      10      X      State
+City View HS, Wichita Falls  1     442    2      5       X      Alternate
+Brock HS, Brock              1     398    3
+Coleman HS, Coleman          1     295    4
+Jim Ned H S, Tuscola         1     254    5
+Shallowater HS, Shallowater  1     219    6
+Alpine HS, Alpine            1     213    7
+River Road HS, Amarillo      1     188    8
+Wall HS, Wall                1     177    9
+
+TEAM RESULTS
+------------------------------

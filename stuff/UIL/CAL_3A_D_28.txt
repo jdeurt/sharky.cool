@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Taulbee, Caleb     Industrial H S, Vanderbilt  142    1      15      X      Region
+Ramos, Adrian      Industrial H S, Vanderbilt  107    2      12      X      Region
+Nguyen, Priscilla  Palacios H S, Palacios      77     3      10      X      Region
+Vu, Kayla          Palacios H S, Palacios      70     4      8       X      Alternate
+Garza, Marcus      Van Vleck HS, Van Vleck     70     5      6       X
+Darilek, Seth      Industrial H S, Vanderbilt  62     6      4       X
+Merecka, Chloe     Boling HS, Boling           62     7
+Tabares, Nadia     Boling HS, Boling           62     8
+Ha, Huyen          Palacios H S, Palacios      61     9
+Mussman, Nikki     Edna H S, Edna              54     10
+Gonzalez, Maria    Boling HS, Boling           49     11
+Stepan, Jacey      Tidehaven HS, El Maton      43     12
+King, Skylar       Industrial H S, Vanderbilt  42     13
+Brown, Ciara       Van Vleck HS, Van Vleck     40     14
+Maravilla, Maria   Tidehaven HS, El Maton      34     15
+Botello, Adrianna  Boling HS, Boling           27     16
+McWillis, Chloe    Van Vleck HS, Van Vleck     26     17
+Perkins, Patrick   Van Vleck HS, Van Vleck     19     18
+Post, Lauren       Palacios H S, Palacios      15     19
+Keith, Haley       Edna H S, Edna              15     19
+Leadford, Shelby   Tidehaven HS, El Maton      7      21
+Swift, Fay         Tidehaven HS, El Maton      0      22
+Smith, Kaylie      Edna H S, Edna              -15    23
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Industrial H S, Vanderbilt  1     311    1      10      X      Region
+Palacios H S, Palacios      1     208    2      5       X      Alternate
+Boling HS, Boling           1     173    3
+Van Vleck HS, Van Vleck     1     136    4
+Tidehaven HS, El Maton      1     84     5
+Edna H S, Edna              1     54     6
+
+TEAM RESULTS
+------------------------------

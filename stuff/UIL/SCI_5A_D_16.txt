@@ -1,0 +1,59 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                               Score  Place  Points  Medal  Advance
+Davis, Nathan             Hallsville H S, Hallsville           206    1      15      X      Region
+Segovia, Nathon           Mount Pleasant H S, Mount Pleasant   198    2      12      X      Region
+Kiser, Dakota             Hallsville H S, Hallsville           192    3      10      X      Region
+Darnsteadt, Wyatt         Hallsville H S, Hallsville           168    4      8       X      Alternate
+Davis, Korbin             Pine Tree HS, Longview               160    5      6       X
+Le, Amber                 Hallsville H S, Hallsville           146    6      4       X
+Rhodes, Kalie             Pine Tree HS, Longview               142    7
+Pass, Guillermo           Texas HS, Texarkana                  126    8
+Smith, Jayden             Hallsville H S, Hallsville           112    9
+Leira, Jose               Mount Pleasant H S, Mount Pleasant   102    10
+Kalam, Nabil              Texas HS, Texarkana                  94     11
+Crump, Cade               Hallsville H S, Hallsville           94     11
+Naseiro, Shawn            Pine Tree HS, Longview               84     13
+Baugh, Peyton             Sulphur Springs HS, Sulphur Springs  80     14
+Barboza, David            Mount Pleasant H S, Mount Pleasant   72     15
+Partee, Tanner            Marshall HS, Marshall                72     15
+Harper, Matthew           Sulphur Springs HS, Sulphur Springs  68     17
+Suelzer, Ian              Texas HS, Texarkana                  68     17
+Davis, Callisto           Pine Tree HS, Longview               64     19
+Segari, Jonathon          Mount Pleasant H S, Mount Pleasant   54     20
+Poudel, Samip             Mount Pleasant H S, Mount Pleasant   52     21
+Saiboonchan, Pornphiphat  Mount Pleasant H S, Mount Pleasant   52     21
+Naseiro, Connor           Pine Tree HS, Longview               52     21
+Fisher, Brayden           Sulphur Springs HS, Sulphur Springs  42     24
+Allemang, Samantha        Sulphur Springs HS, Sulphur Springs  32     25
+Corona, Fabian            Marshall HS, Marshall                28     26
+Moore, Shay               Sulphur Springs HS, Sulphur Springs  16     27
+Villanfranco, Bryan       Marshall HS, Marshall                12     28
+Vargas, Jasmin            Sulphur Springs HS, Sulphur Springs  10     29
+Moore, Shondalynn         Marshall HS, Marshall                0      30
+Coats, Cameron            Texas HS, Texarkana                  0      30
+Downs, Savannah           Texas HS, Texarkana                  0      30
+Sloan, Macy               Texas HS, Texarkana                  0      30
+Cabudoy, Jann             Pine Tree HS, Longview               0      30
+Celestion, Gustaro        Marshall HS, Marshall                0      30
+
+TOP SCORERS
+------------------------------
+Contestant       School              Results               Points
+Davis, Nathan    Hallsville H S      Top Scorer Biology    3
+Le, Amber        Hallsville H S      Alternate Biology     0
+Naseiro, Shawn   Pine Tree HS        Alternate Biology     0
+Davis, Nathan    Hallsville H S      Top Scorer Chemistry  3
+Kiser, Dakota    Hallsville H S      Alternate Chemistry   0
+Segovia, Nathon  Mount Pleasant H S  Top Scorer Physics    3
+Rhodes, Kalie    Pine Tree HS        Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Hallsville H S, Hallsville           1     566    1      10      X      Region
+Pine Tree HS, Longview               1     386    2      5       X      Alternate
+Mount Pleasant H S, Mount Pleasant   1     372    3
+Texas HS, Texarkana                  1     288    4
+Sulphur Springs HS, Sulphur Springs  1     190    5
+Marshall HS, Marshall                1     112    6

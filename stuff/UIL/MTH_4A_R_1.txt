@@ -1,0 +1,60 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Nicolas, Alexis     Hirschi H S, Wichita Falls          300    1      11      X      State
+Reddy, Krishna      Hirschi H S, Wichita Falls          300    1      11      X      State
+Zhang, Andrew       Wylie HS, Abilene                   300    3      10      X      State
+Zhang, Anthony      Wylie HS, Abilene                   298    4      8       X      Alternate
+Haider, Sameer      Wylie HS, Abilene                   280    5      6       X
+Tanjavur, Rohan     Hirschi H S, Wichita Falls          230    6      4       X
+Kearney, Josh       Wylie HS, Abilene                   216    7
+Shuey, Anthony      Hirschi H S, Wichita Falls          204    8
+Kuhn, Noah          Mineral Wells H S, Mineral Wells    200    9
+Buckner, Dustin     Andrews HS, Andrews                 198    10
+Nelson, Lars        Borger HS, Borger                   174    11
+Robertson, Lucas    Borger HS, Borger                   150    12
+Hill, Grace         Glen Rose H S, Glen Rose            142    13
+Trotter, Matthew    Andrews HS, Andrews                 140    14
+Dodson, Kailey      Andrews HS, Andrews                 136    15
+Stallings, Leyla    Andrews HS, Andrews                 126    16
+Williams, Caitlin   Denver City H S, Denver City        124    17
+Gilbreath, Kate     Mineral Wells H S, Mineral Wells    124    17
+Lucas, Carter       Midlothian Heritage HS, Midlothian  116    19
+Castro, Bryan       Perryton H S, Perryton              108    20
+Garcia, Avery       Denver City H S, Denver City        104    21
+Anderson, Jonathan  Midlothian Heritage HS, Midlothian  100    22
+Morales, Abby       Denver City H S, Denver City        96     23
+Wisdom, John        Glen Rose H S, Glen Rose            92     24
+Tieu, Khang         Castleberry HS, Fort Worth          88     25
+Townsend, Cole      Perryton H S, Perryton              82     26
+Carmona, Aylin      Denver City H S, Denver City        78     27
+Banuelos, Cristian  Clint H S, Clint                    78     27
+Mandujano, Valerie  Clint H S, Clint                    74     29
+Garcia, Manuel      Mineral Wells H S, Mineral Wells    70     30
+Nabors, Jordan      Glen Rose H S, Glen Rose            68     31
+Bell, Macy          Midlothian Heritage HS, Midlothian  60     32
+Hamid, Rohoman      Borger HS, Borger                   58     33
+Alders, Kyle        Borger HS, Borger                   56     34
+Nail, Alex          Mineral Wells H S, Mineral Wells    52     35
+Lansdowne, Carson   Midlothian Heritage HS, Midlothian  50     36
+Mendoza, Cesar      Fabens H S, Fabens                  48     37
+Ruiz, Jorge         Fabens H S, Fabens                  46     38
+Outen, Erin         Glen Rose H S, Glen Rose            44     39
+Trejo, Ernesto      Fabens H S, Fabens                  38     40
+Saenz, Emery        Fabens H S, Fabens                  24     41
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Wylie HS, Abilene                   1     878    1      10      X      State
+Hirschi H S, Wichita Falls          1     830    2      5       X      Alternate
+Andrews HS, Andrews                 1     474    3
+Mineral Wells H S, Mineral Wells    1     394    4
+Borger HS, Borger                   1     382    5
+Denver City H S, Denver City        1     324    6
+Glen Rose H S, Glen Rose            1     302    7
+Midlothian Heritage HS, Midlothian  1     276    8
+Fabens H S, Fabens                  1     132    9
+
+TEAM RESULTS
+------------------------------

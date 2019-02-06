@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                           Score  Place  Points  Medal  Advance
+Stone, Ben          Hardin-Jefferson H S, Sour Lake  143    1      15      X      Region
+Pacheco, Francisco  Liberty HS, Liberty              142    2      12      X      Region
+Donatto, TaNia      Liberty HS, Liberty              133    3      10      X      Region
+Thomas, Abby        Hardin-Jefferson H S, Sour Lake  114    4      8       X      Alternate
+Matak, Landon       Hardin-Jefferson H S, Sour Lake  105    5      6       X
+Worley, Dustin      Hargrave HS, Huffman             97     6      4       X
+Goebel, Ashton      Hardin-Jefferson H S, Sour Lake  86     7
+Thompson, Owen      Cleveland HS, Cleveland          69     8
+Barnes, Tarik       Cleveland HS, Cleveland          58     9
+Becerra, Carlos     Liberty HS, Liberty              55     10
+Urbina, Sabastian   Liberty HS, Liberty              41     11
+Estrada, Elizabeth  Cleveland HS, Cleveland          37     12
+Andrukitis, Hunter  Hargrave HS, Huffman             34     13
+Kuta, Jacob         Hargrave HS, Huffman             16     14
+Dalwadi, Pavan      Cleveland HS, Cleveland          11     15
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Hardin-Jefferson H S, Sour Lake  1     362    1      10      X      Region
+Liberty HS, Liberty              1     330    2      5       X      Alternate
+Cleveland HS, Cleveland          1     164    3
+Hargrave HS, Huffman             1     147    4
+
+TEAM RESULTS
+------------------------------

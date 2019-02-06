@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                         Score  Place  Points  Medal  Advance
+Gonzalez, Brayant  Dayton H S, Dayton             131    1      15      X      Region
+Bote, Gerardo      Barbers Hill HS, Mont Belvieu  98     2      12      X      Region
+Martin, Blake      Dayton H S, Dayton             95     3      10      X      Region
+Maness, Zach       Barbers Hill HS, Mont Belvieu  88     4      8       X      Alternate
+Leyva, Arely       Dayton H S, Dayton             69     5      6       X
+Gonzalez, Jake     Barbers Hill HS, Mont Belvieu  65     6      4       X
+Pizano, Justin     Kingwood Park HS, Kingwood     59     7
+Garcia, Nayeli     Lee H S, Baytown               44     8
+Reiger, Jerry      Caney Creek HS, Conroe         35     9
+Gerardo, Jonathan  Dayton H S, Dayton             32     10
+Hurley, Will       Kingwood Park HS, Kingwood     32     10
+Sudberry, Sarah    New Caney HS, New Caney        25     12
+Amaya, Jose        Humble H S, Humble             25     12
+Wilding, Austin    Kingwood Park HS, Kingwood     20     14
+Osegueda, Joel     Humble H S, Humble             18     15
+Contreras, Kayla   Lee H S, Baytown               17     16
+Patel, Kishan      Humble H S, Humble             8      17
+Nguyen, Benson     Humble H S, Humble             7      18
+Garcia, Luis       Lee H S, Baytown               3      19
+Mendoza, Carlos    Lee H S, Baytown               -2     20
+Sims, Dontrae      Porter HS, Porter              -11    21
+Rami, Ismael       New Caney HS, New Caney        -15    22
+Arzate, Alfredo    Caney Creek HS, Conroe         -19    23
+Sparks, Dalton     Barbers Hill HS, Mont Belvieu  -22    24
+Blake, Hunter      New Caney HS, New Caney        -26    25
+Bright, Alex       Caney Creek HS, Conroe         -27    26
+Rosa, Carlos       Porter HS, Porter              -28    27
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Dayton H S, Dayton             1     295    1      10      X      Region
+Barbers Hill HS, Mont Belvieu  1     251    2      5       X      Alternate
+Kingwood Park HS, Kingwood     1     111    3
+Lee H S, Baytown               1     64     4
+Humble H S, Humble             1     51     5
+Caney Creek HS, Conroe         1     -11    6
+New Caney HS, New Caney        1     -16    7
+
+TEAM RESULTS
+------------------------------

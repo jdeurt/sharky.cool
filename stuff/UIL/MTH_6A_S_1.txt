@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal
+Rege, Raviraj        Science-Eng Magnet Hs, Dallas  336    1      15      X
+Diaz, Victor         Science-Eng Magnet Hs, Dallas  334    2      12      X
+Ye, Thomas           Klein HS, Klein                332    3      10      X
+Zahid, Ethan         Dulles H S, Sugar Land         330    4      8       X
+Limarta, Ian         Alexander HS, Laredo           330    5      6       X
+Muppalla, Siddharth  Clements HS, Sugar Land        328    6      4       X
+Liu, Andrew          Dulles H S, Sugar Land         324    7
+Lamoreaux, Aaron     Richardson H S, Richardson     322    8
+Pua, Edwin           Eagle Pass H S, Eagle Pass     316    9
+Hernandez, Antony    Edinburg North H S, Edinburg   300    10
+Lee, Andrew          Central HS, Keller             288    11
+Karanam, Akash       Clements HS, Sugar Land        286    12
+Wei, Ruocheng        Dulles H S, Sugar Land         280    13
+Jha, Tony            Dulles H S, Sugar Land         280    13
+Chandak, Yash        Science-Eng Magnet Hs, Dallas  278    15
+Tamez, Karla         Vela HS, Edinburg              262    16
+Rajesh, Sameer       Clements HS, Sugar Land        252    17
+Zhou, Claire         Clements HS, Sugar Land        248    18
+Varada, Pranay       Science-Eng Magnet Hs, Dallas  248    18
+Bridges, Kristine    Vela HS, Edinburg              248    18
+King, Brendan        Marcus HS, Flower Mound        238    21
+Le, Luc              Central HS, Keller             238    21
+Khurana, Avi         Central HS, Keller             228    23
+Alaniz, Ethan        Vela HS, Edinburg              224    24
+Moralez, Kevyn       Vela HS, Edinburg              184    25
+Kudva, Vallabh       Central HS, Keller             134    26
+Cao, William         Flower Mound HS, Flower Mound  31     27
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Science-Eng Magnet Hs, Dallas  1     948    1      10      X
+Dulles H S, Sugar Land         1     934    2      5       X      Alternate
+Clements HS, Sugar Land        1     866    3
+Central HS, Keller             1     754    4
+Vela HS, Edinburg              1     734    5
+
+TEAM RESULTS
+------------------------------

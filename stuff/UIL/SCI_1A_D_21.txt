@@ -1,0 +1,52 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Champagne, Ashton  Slidell HS, Slidell        48     1      15      X      Region
+David, Owen        Saint Jo HS, Saint Jo      40     2      12      X      Region
+Sharp, Madalynn    Midway HS, Henrietta       34     3      10      X      Region
+Tipton, Bailee     Prairie Valley HS, Nocona  28     4      8       X      Alternate
+Campbell, Sarah    Midway HS, Henrietta       28     5      6       X
+McCasland, Ben     Slidell HS, Slidell        26     6      4       X
+Fleming, Kaden     Prairie Valley HS, Nocona  26     7
+Metcalf, Megan     Forestburg HS, Forestburg  24     8
+Cody, Jack         Forestburg HS, Forestburg  22     9
+Riddles, Joscelyn  Forestburg HS, Forestburg  18     10
+Miller, Joshua     Saint Jo HS, Saint Jo      16     11
+Rhys, Gaven        Slidell HS, Slidell        14     12
+Villarreal, Noe    Slidell HS, Slidell        14     12
+Smith, Brett       Prairie Valley HS, Nocona  14     12
+Messer, Brooklynn  Prairie Valley HS, Nocona  14     12
+Wiggins, Teagan    Midway HS, Henrietta       14     12
+Norton, Makana     Midway HS, Henrietta       14     12
+Anderson, Kaegan   Saint Jo HS, Saint Jo      12     18
+Vann, Trevor       Forestburg HS, Forestburg  12     18
+Leach, Holton      Midway HS, Henrietta       12     18
+Eckeberger, Jacob  Bellevue HS, Bellevue      8      21
+Tompkins, Brock    Prairie Valley HS, Nocona  6      22
+Sloan, Jonathan    Prairie Valley HS, Nocona  4      23
+Wyatt, Kyler       Midway HS, Henrietta       2      24
+Hacker, Travis     Saint Jo HS, Saint Jo      0      25
+Clure, Noah        Forestburg HS, Forestburg  0      25
+Horner, Hunter     Slidell HS, Slidell        -2     27
+Sandusky, Riley    Forestburg HS, Forestburg  -4     28
+Lyons, Preston     Saint Jo HS, Saint Jo      -14    29
+
+TOP SCORERS
+------------------------------
+Contestant         School             Results               Points
+Champagne, Ashton  Slidell HS         Top Scorer Biology    3
+David, Owen        Saint Jo HS        Alternate Biology     0
+Metcalf, Megan     Forestburg HS      Top Scorer Chemistry  3
+Riddles, Joscelyn  Forestburg HS      Alternate Chemistry   0
+Sharp, Madalynn    Midway HS          Alternate Chemistry   0
+Fleming, Kaden     Prairie Valley HS  Top Scorer Physics    3
+Campbell, Sarah    Midway HS          Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Slidell HS, Slidell        1     88     1      10      X      Region
+Midway HS, Henrietta       1     76     2      5       X      Alternate
+Prairie Valley HS, Nocona  1     68     3
+Saint Jo HS, Saint Jo      1     68     3
+Forestburg HS, Forestburg  1     64     5

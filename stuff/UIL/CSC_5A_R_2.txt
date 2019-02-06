@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                               Score  Place  Points  Medal  Advance
+Chang, Andrew       Lovejoy HS, Lucas                    232    1      15      X      State
+Bell, Samuel I      Lovejoy HS, Lucas                    224    2      12      X      State
+Peterson, Emily     Centennial HS, Frisco                216    3      10      X      State
+Chen, Brice         Heritage HS, Frisco                  208    4      8       X      Alternate
+Wen, Mark           Lovejoy HS, Lucas                    204    5      6       X
+Wyatt, Ben          Liberty HS, Frisco                   202    6      4       X
+Su, Sam             Liberty HS, Frisco                   200    7
+Garg, Rhythm        Centennial HS, Frisco                200    7
+Davenport, Logan    Prosper HS, Prosper                  194    9
+Montes, Abraham     Crowley H S, Crowley                 192    10
+Fisher, Brayden     Sulphur Springs HS, Sulphur Springs  192    10
+Rissman, Josh       Sulphur Springs HS, Sulphur Springs  190    12
+Sorstokke, Kyle     Lovejoy HS, Lucas                    180    13
+Brown, Jason        Prosper HS, Prosper                  176    14
+Wang, Rosie         Prosper HS, Prosper                  176    14
+Corbeill, Alex      Prosper HS, Prosper                  170    16
+Blount, Matthew     Seguin HS, Arlington                 168    17
+Soles, Dakota       Sulphur Springs HS, Sulphur Springs  168    17
+Kelly, Devon        Centennial HS, Frisco                152    19
+Orozco, Kevin       Sulphur Springs HS, Sulphur Springs  148    20
+Rodriguez, Alyssa   Joshua HS, Joshua                    138    21
+Siddiqui, Arham     Centennial HS, Frisco                138    21
+Sood, Manav         Liberty HS, Frisco                   138    21
+Powell, Laif        Joshua HS, Joshua                    132    24
+Fountaine, Michael  Joshua HS, Joshua                    128    25
+Robbins, Brant      Joshua HS, Joshua                    128    25
+Muwaquet, Nour      Waxahachie HS, Waxahachie            128    25
+Kim, Grace          Creekview HS, Carrollton             128    25
+Perumalla, Rohith   Liberty HS, Frisco                   96     29
+Sample, Riley       Waxahachie HS, Waxahachie            76     30
+Trevino, Caleb E.   Adams HS, Dallas                     62     31
+Johnson, Max        Waxahachie HS, Waxahachie            36     32
+Beaver, Juan C.     Adams HS, Dallas                     26     33
+Holder, Chris       Waxahachie HS, Waxahachie            0      34
+Molina, Manuel      Molina H S, Dallas                   0      34
+Patino, Edgar       Adamson HS, Dallas                   0      34
+Leal, Oscar         Adamson HS, Dallas                   0      34
+Hernandez, Bryan    Adamson HS, Dallas                   -10    38
+Romo, Jorge         Adamson HS, Dallas                   -14    39
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Lovejoy HS, Lucas                    1     1305   1      20      X      State
+Centennial HS, Frisco                1     1103   2      16      X      Alternate
+Liberty HS, Frisco                   1     1010   3      12      X
+Sulphur Springs HS, Sulphur Springs  1     970    4
+Prosper HS, Prosper                  1     891    5
+Joshua HS, Joshua                    1     698    6
+Waxahachie HS, Waxahachie            1     530    7
+Adamson HS, Dallas                   1     -10    8
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                         Score  Place  Points  Medal  Advance
+Craigie, Brandon  Lindsay H S, Lindsay           235    1      15      X      Region
+Worth, Cameron    Lindsay H S, Lindsay           214    2      12      X      Region
+Meece, Luke       Lindsay H S, Lindsay           185    3      10      X      Region
+Bezner, Gage      Lindsay H S, Lindsay           119    4      8       X      Alternate
+Arevalo, Jorge    Bells HS, Bells                86     5      6       X
+Taylor, Drew      Bells HS, Bells                73     6      4       X
+Shukla, Jalay     Leadership Prep HS, Frisco     29     7
+DeLira, Ashley    Valley View HS, Valley View    22     8
+Snavely, Haley    Bells HS, Bells                17     9
+Kemp, Austin      Collinsville HS, Collinsville  17     9
+Laneros, Brian    Valley View HS, Valley View    13     11
+Bulanek, Jake     Bells HS, Bells                -2     12
+Sugumar, Raahul   Leadership Prep HS, Frisco     -9     13
+Holmes, Graham    Leadership Prep HS, Frisco     -12    14
+Ellis, Brian      Leadership Prep HS, Frisco     -14    15
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Lindsay H S, Lindsay        1     634    1      10      X      Region
+Bells HS, Bells             1     176    2      5       X      Alternate
+Leadership Prep HS, Frisco  1     8      3
+
+TEAM RESULTS
+------------------------------

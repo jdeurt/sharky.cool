@@ -1,0 +1,60 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Wright, Cypress     Hughes Springs HS, Hughes Springs   317    1      15      X      State
+Taylor, Scottie     Sabine HS, Gladewater               260    2      12      X      State
+Hurst, Becca        Chisum HS, Paris                    225    3      10      X      State
+Henry, Colton       Queen City HS, Queen City           224    4      8       X      Alternate
+Taylor, Michael     Sabine HS, Gladewater               195    5      6       X
+Barker, Desirae     Callisburg HS, Gainesville          191    6      4       X
+Gautier, Scott      Whitesboro HS, Whitesboro           185    7
+Bowen, Adam         Queen City HS, Queen City           173    8
+Borrego, Armando    Sabine HS, Gladewater               173    8
+Garrison, Dylan     Queen City HS, Queen City           168    10
+Ball, Kaleb         Chisum HS, Paris                    167    11
+Gage, Michael       Mount Vernon H S, Mount Vernon      156    12
+Bowen, Jordan       Queen City HS, Queen City           144    13
+Weems, C.J.         Chisum HS, Paris                    142    14
+Williams, Makenzie  Sabine HS, Gladewater               140    15
+Byrd, Tanner        Hughes Springs HS, Hughes Springs   132    16
+Munoz, Jacob        Callisburg HS, Gainesville          129    17
+Brock, Dalton       Hughes Springs HS, Hughes Springs   118    18
+Jang, Joseph        Commerce HS, Commerce               105    19
+Stewart, Calli      Hughes Springs HS, Hughes Springs   105    19
+DeAnda, Jaquez      Callisburg HS, Gainesville          100    21
+Fruth, Brenden      Ponder HS, Ponder                   95     22
+Woods, Austin       White Oak HS, White Oak             94     23
+Powell, Ashlynn     Sunnyvale HS, Sunnyvale             92     24
+Moffitt, Ally       Chisum HS, Paris                    85     25
+Wood, Nathan        White Oak HS, White Oak             78     26
+Gooch, Justice S    Elysian Fields H S, Elysian Fields  77     27
+Thomas, Ruben       Sunnyvale HS, Sunnyvale             73     28
+Reed, Ryder         Callisburg HS, Gainesville          68     29
+Langley, James      White Oak HS, White Oak             68     29
+Brust, JT           Mineola H S, Mineola                64     31
+Abraham, Angela     Sunnyvale HS, Sunnyvale             57     32
+Alexander, Alena    Sunnyvale HS, Sunnyvale             56     33
+Burt, Taylor        Whitewright HS, Whitewright         33     34
+Ummel, Luke         White Oak HS, White Oak             33     34
+Selvaggi, Lily      Commerce HS, Commerce               18     36
+Robinson, Maggie    Commerce HS, Commerce               0      37
+Liu, Riuxan         Alba-Golden HS, Alba                0      37
+Dong, Lin           Mineola H S, Mineola                0      37
+Sorenson, Cameron   Mineola H S, Mineola                -1     40
+McNeil, Hannah      Mineola H S, Mineola                -13    41
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Sabine HS, Gladewater              1     628    1      10      X      State
+Hughes Springs HS, Hughes Springs  1     567    2      5       X      Alternate
+Queen City HS, Queen City          1     565    3
+Chisum HS, Paris                   1     534    4
+Callisburg HS, Gainesville         1     420    5
+White Oak HS, White Oak            1     240    6
+Sunnyvale HS, Sunnyvale            1     222    7
+Commerce HS, Commerce              1     123    8
+Mineola H S, Mineola               1     63     9
+
+TEAM RESULTS
+------------------------------

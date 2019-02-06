@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                              Score  Place  Points  Medal  Advance
+Burzynski, Brianna S  New Waverly H S, New Waverly        161    1      15      X      Region
+Edney, Cade S         New Waverly H S, New Waverly        154    2      12      X      Region
+Cruzanaya, Zoe N      New Waverly H S, New Waverly        154    3      10      X      Region
+Chodrick, Troy G      New Waverly H S, New Waverly        107    4      8       X      Alternate
+Dewberry, Samantha    Anderson-Shiro HS, Anderson         72     5      6       X
+Goffney, Sanshae      Coldspring-Oakhurst HS, Coldspring  44     6      4       X
+Ainsworth, Patrick    Onalaska, Onalaska                  38     7
+Garcia, Jesus         Trinity HS, Trinity                 36     8
+Lee, Brianna          Onalaska, Onalaska                  30     9
+Ahart, Cameron        Onalaska, Onalaska                  27     10
+Cheyenne, Kendrick    Crockett HS, Crockett               25     11
+Thompson, Gracie      Trinity HS, Trinity                 14     12
+Espinosa, Monica      Crockett HS, Crockett               13     13
+Caceres, Maya         Trinity HS, Trinity                 12     14
+Yates, Aaron          Crockett HS, Crockett               -17    15
+Coronado, Citaly      Trinity HS, Trinity                 -23    16
+Johnson, Taronshae    Crockett HS, Crockett               -25    17
+Berryman, Miranda     Coldspring-Oakhurst HS, Coldspring  -38    18
+Scott, Alvin          Coldspring-Oakhurst HS, Coldspring  -59    19
+Rodriguez, Diego      Hempstead H S, Hempstead            -110   20
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+New Waverly H S, New Waverly        1     469    1      10      X      Region
+Onalaska, Onalaska                  1     95     2      5       X      Alternate
+Trinity HS, Trinity                 1     62     3
+Crockett HS, Crockett               1     21     4
+Coldspring-Oakhurst HS, Coldspring  1     -53    5
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,63 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Hernandez, Antony     Edinburg North H S, Edinburg            350    1      15      X      State
+Perez, Diego          Edinburg North H S, Edinburg            330    2      12      X      State
+Cua, Miles            Science Academy, Mercedes               310    3      10      X      State
+Ramos, Ryan           Edinburg North H S, Edinburg            273    4      8       X      Alternate
+Cantu, Carlos         Vela HS, Edinburg                       263    5      6       X
+Tran, Matthew         O'Connor HS, Helotes                    256    6      4       X
+Guerrero, Alisha      Vela HS, Edinburg                       237    7
+Perez, Jared          Edinburg North H S, Edinburg            232    8
+Garcia, Elias         Vela HS, Edinburg                       212    9
+Ngyuen, Christian     Vela HS, Edinburg                       204    10
+Moynihan, Lucas       Reagan HS, San Antonio                  196    11
+Prasad, Rishabh       Reagan HS, San Antonio                  186    12
+Holla, Satya          Science Academy, Mercedes               171    13
+Estes, Luke           Smithson Valley HS, Spring Branch       168    14
+Garcia, Derek         Salinas STEM Early College HS, La Joya  168    14
+Garza, Elmo           Salinas STEM Early College HS, La Joya  168    14
+Carlos, Jose          Los Fresnos H S, Los Fresnos            166    17
+Limarta, Ian          Alexander HS, Laredo                    157    18
+Joshi, Om             Churchill HS, San Antonio               151    19
+Loja, Hans            Steele H S, Cibolo                      145    20
+Gomez, Jose           Memorial H S, McAllen                   143    21
+Vega, Samuel Davil    Science Academy, Mercedes               141    22
+Petterson, Thomas     Jay H S, San Antonio                    137    23
+Lara, Francisco       Alexander HS, Laredo                    131    24
+Gonzalez, Connor      Johnson (LBJ) HS, Laredo                120    25
+Ylagan, Riley         Reagan HS, San Antonio                  114    26
+Stoutamyer, Ross      Smithson Valley HS, Spring Branch       113    27
+Sarmiento, Jonathan   Salinas STEM Early College HS, La Joya  113    27
+Gonzalez, Alejandro   United HS, Laredo                       110    29
+Haefeli, Amanda       Science Academy, Mercedes               110    29
+Hipolito, Kristopher  Alexander HS, Laredo                    105    31
+PINA, XAVIER          Palmview HS, La Joya                    105    31
+Wang, Kyle            Westlake HS, Austin                     104    33
+Martinez, Jorge       Jay H S, San Antonio                    100    34
+Bipin, Vaishnav       Lake Travis H S, Austin                 88     35
+Wei, Sarah            Westlake HS, Austin                     85     36
+He, Lance             Westlake HS, Austin                     79     37
+Walsdorf, Rachel      Jay H S, San Antonio                    74     38
+Ling, Brandon         Smithson Valley HS, Spring Branch       69     39
+Yoon, Chanwoo         Vista Ridge H S, Cedar Park             67     40
+Provow, Joslyn        Jay H S, San Antonio                    63     41
+Cardenas, Hector      Alexander HS, Laredo                    48     42
+Bradbury, Iris        Smithson Valley HS, Spring Branch       47     43
+Santos, Christian     Salinas STEM Early College HS, La Joya  22     44
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Edinburg North H S, Edinburg            1     953    1      10      X      State
+Vela HS, Edinburg                       1     712    2      5       X      Alternate
+Science Academy, Mercedes               1     622    3
+Reagan HS, San Antonio                  1     496    4
+Salinas STEM Early College HS, La Joya  1     449    5
+Alexander HS, Laredo                    1     393    6
+Smithson Valley HS, Spring Branch       1     350    7
+Jay H S, San Antonio                    1     311    8
+Westlake HS, Austin                     1     268    9
+
+TEAM RESULTS
+------------------------------

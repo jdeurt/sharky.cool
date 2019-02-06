@@ -1,0 +1,77 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                                  Score  Place  Points  Medal  Advance
+Irwin, Klaire           Gruver HS, Gruver                       82     1      15      X      State
+Lutters, Tessa          Clarendon HS, Clarendon                 70     2      12      X      State
+Brewer, William         West Texas HS, Stinnett                 50     3      10      X      State
+Johnson, Nick           Gruver HS, Gruver                       46     4      7       X      Alternate
+Burch, Grayson          Clarendon HS, Clarendon                 46     4      7       X      Alternate
+Logsdon, Cole           Gruver HS, Gruver                       44     6      4       X
+Seagler, Lane           Gruver HS, Gruver                       40     7
+Rivera, Christopher     Albany HS, Albany                       40     7
+Drenth, Harm            Clarendon HS, Clarendon                 38     9
+Olivares, Anthony       Eldorado HS, Eldorado                   38     9
+TORRALBA, MANUEL        Ozona H S, Ozona                        32     11
+Albin, Austin           Eldorado HS, Eldorado                   32     11
+Carrillo, Joshua        Abernathy HS, Abernathy                 30     13
+Griffin, Jack           Eldorado HS, Eldorado                   30     13
+Valdez, Fernando        Lockney H S, Lockney                    26     15
+Spinks, Layton          Eldorado HS, Eldorado                   24     16
+Bright, Barrett         West Texas HS, Stinnett                 22     17
+Clark, John C           Van Horn HS, Van Horn                   20     18
+Hernandez, Mario        Eldorado HS, Eldorado                   20     18
+Munoz, John             Albany HS, Albany                       18     20
+Morriss, Hays           Van Horn HS, Van Horn                   14     21
+Earnest, Carson         Plains HS, Plains                       12     22
+Williams, Dalin         West Texas HS, Stinnett                 12     22
+Santa Cruz, Jacqualine  Van Horn HS, Van Horn                   10     24
+Jimenez, Mariela        Fort Hancock HS, Fort Hancock           10     24
+Bartee, Sidney          Albany HS, Albany                       10     24
+Bearden, Zoey           Plains HS, Plains                       8      27
+Friesen, Frank          Seagraves H S, Seagraves                6      28
+Lefevre, Hunter R       Lockney H S, Lockney                    4      29
+Ramos, Lexie            Floydada H S, Floydada                  2      30
+Ponce, Ian              Abernathy HS, Abernathy                 2      30
+King, John              West Texas HS, Stinnett                 2      30
+McGuire, Marquis        Clarendon HS, Clarendon                 0      33
+Bender, Seth            Abernathy HS, Abernathy                 0      33
+Purcella, Rebecca       Seagraves H S, Seagraves                0      33
+Trotter, Alyssa         Hale Center HS, Hale Center             0      33
+Valencia, Miranda       Hale Center HS, Hale Center             0      33
+Lopez, Valerie          Da Vinci School for Sci & Art, El Paso  0      33
+Melendez, Miguel        Sudan HS, Sudan                         -2     39
+McWhirter, Brynne       Plains HS, Plains                       -4     40
+Jennings, Faith         Sudan HS, Sudan                         -6     41
+Strange, Audrie         Floydada H S, Floydada                  -6     41
+Carter, Maddie          Plains HS, Plains                       -6     41
+Schuller, Corwin        Van Horn HS, Van Horn                   -8     44
+Strickland, Colton      Hawley HS, Hawley                       -10    45
+Tolbert, Payton         Sudan HS, Sudan                         -14    46
+Chapa, Braydn           Abernathy HS, Abernathy                 -14    46
+Nunez, Jesus            Sudan HS, Sudan                         -18    48
+Everitt, Kade           Albany HS, Albany                       -22    49
+Lopez, Johnathon        Ralls H S, Ralls                        -48    50
+
+TOP SCORERS
+------------------------------
+Contestant        School         Results               Points
+Irwin, Klaire     Gruver HS      Top Scorer Biology    3
+Brewer, William   West Texas HS  Alternate Biology     0
+Irwin, Klaire     Gruver HS      Top Scorer Chemistry  3
+Burch, Grayson    Clarendon HS   Alternate Chemistry   0
+Lutters, Tessa    Clarendon HS   Alternate Chemistry   0
+Valdez, Fernando  Lockney H S    Top Scorer Physics    1.50
+Albin, Austin     Eldorado HS    Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Gruver HS, Gruver        1     172    1      10      X      State
+Clarendon HS, Clarendon  1     154    2      5       X      Alternate
+Eldorado HS, Eldorado    1     100    3
+West Texas HS, Stinnett  1     84     4
+Albany HS, Albany        1     68     5
+Van Horn HS, Van Horn    1     44     6
+Abernathy HS, Abernathy  1     32     7
+Plains HS, Plains        1     16     8
+Sudan HS, Sudan          1     -22    9

@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                      Score  Place  Points  Medal  Advance
+Castanon, Daniel      Palacios H S, Palacios      83     1      15      X      Region
+Norman, Alexis        Edna H S, Edna              74     2      12      X      Region
+Chaka, Blaze          Boling HS, Boling           69     3      10      X      Region
+Marek, Jared          Industrial H S, Vanderbilt  68     4      8       X      Alternate
+Hayden, Jaron         Industrial H S, Vanderbilt  58     5      6       X
+Ramos, Adrian         Industrial H S, Vanderbilt  57     6      4       X
+Huffman, Casimir      Palacios H S, Palacios      46     7
+Bartos, Drake         Boling HS, Boling           46     7
+Airhart, Caleb        Edna H S, Edna              46     7
+Bhakta, Aryan         Boling HS, Boling           40     10
+Garcia, Mika          Industrial H S, Vanderbilt  31     11
+Santillan, Stephanie  Boling HS, Boling           26     12
+Vu, Lan Anh           Palacios H S, Palacios      25     13
+Pena, Joe             Palacios H S, Palacios      20     14
+Hernandez, Emilio     Edna H S, Edna              8      15
+Kacer, Joey           Tidehaven HS, El Maton      2      16
+Fitzgerald, Wyatt     Tidehaven HS, El Maton      0      17
+Winkenwerder, Zoe     Tidehaven HS, El Maton      -11    18
+McWillis, Chloe       Van Vleck HS, Van Vleck     -12    19
+Marek, Brooklyn       Van Vleck HS, Van Vleck     -13    20
+Murillo, Jose         Van Vleck HS, Van Vleck     -32    21
+Aguilar, Cristian     Tidehaven HS, El Maton      -239   22
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Industrial H S, Vanderbilt  1     183    1      10      X      Region
+Boling HS, Boling           1     155    2      5       X      Alternate
+Palacios H S, Palacios      1     154    3
+Edna H S, Edna              1     128    4
+Tidehaven HS, El Maton      1     -9     5
+Van Vleck HS, Van Vleck     1     -57    6
+
+TEAM RESULTS
+------------------------------

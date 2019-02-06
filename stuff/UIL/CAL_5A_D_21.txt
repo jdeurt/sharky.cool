@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                         Score  Place  Points  Medal  Advance
+Bote, Gerardo         Barbers Hill HS, Mont Belvieu  141    1      15      X      Region
+Garcia, Luis          Lee H S, Baytown               140    2      12      X      Region
+Gonzalez, Brayant     Dayton H S, Dayton             128    3      10      X      Region
+Hicks, Andrew         Dayton H S, Dayton             121    4      8       X      Alternate
+Rivas, Bianca         New Caney HS, New Caney        121    5      6       X
+Wilding, Austin       Kingwood Park HS, Kingwood     120    6      4       X
+Mendoza, Carlos       Lee H S, Baytown               114    7
+Campbell, Ryan        Barbers Hill HS, Mont Belvieu  112    8
+Gerardo, Jonathan     Dayton H S, Dayton             100    9
+Harding, Ariana       Kingwood Park HS, Kingwood     100    9
+Contreras, Kayla      Lee H S, Baytown               99     11
+Falls, Gary           Splendora HS, Splendora        94     12
+Garcia, Nayeli        Lee H S, Baytown               91     13
+Gonzalez, Jake        Barbers Hill HS, Mont Belvieu  91     13
+Amaya, Jose           Humble H S, Humble             84     15
+Sims, Dontrae         Porter HS, Porter              79     16
+Patel, Jenisha        Humble H S, Humble             72     17
+Guiwa, Veneriza       Dayton H S, Dayton             66     18
+Bright, Alex          Caney Creek HS, Conroe         58     19
+Garza, Ernesto        Humble H S, Humble             57     20
+Reiger, Jerry         Caney Creek HS, Conroe         56     21
+Hurley, Jack          Kingwood Park HS, Kingwood     51     22
+Walker, Hayden        Barbers Hill HS, Mont Belvieu  48     23
+Rahim, Naima          Humble H S, Humble             31     24
+Andrade, Christopher  Splendora HS, Splendora        23     25
+Arzate, Alfredo       Caney Creek HS, Conroe         1      26
+Rosa, Carlos          Porter HS, Porter              -16    27
+Sifuentes, Vanessa    Crosby HS, Crosby              -29    28
+Rami, Ismael          New Caney HS, New Caney        -35    29
+Blake, Hunter         New Caney HS, New Caney        -37    30
+Harding, Lydia        Kingwood Park HS, Kingwood     -39    31
+Sudberry, Sarah       New Caney HS, New Caney        -53    32
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Lee H S, Baytown               1     353    1      10      X      Region
+Dayton H S, Dayton             1     349    2      5       X      Alternate
+Barbers Hill HS, Mont Belvieu  1     344    3
+Kingwood Park HS, Kingwood     1     271    4
+Humble H S, Humble             1     213    5
+Caney Creek HS, Conroe         1     115    6
+New Caney HS, New Caney        1     49     7
+
+TEAM RESULTS
+------------------------------

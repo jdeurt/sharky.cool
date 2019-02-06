@@ -1,0 +1,79 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+South, Turner J     Sulphur Bluff HS, Sulphur Bluff         34     1      15      X      State
+Jones, Jason        Fruitvale HS, Fruitvale                 32     2      12      X      State
+Miles, Haylee       Woodson HS, Woodson                     30     3      9       X      State
+Steger, Jenna       Priddy HS, Priddy                       30     3      9       X      State
+Zhu, Ricky          UT Tyler Innovation Academy, Palestine  24     5      6       X      Alternate
+Lester, Hayden      Woodson HS, Woodson                     22     6      1       X
+Thompson, Ashtyn    Blum HS, Blum                           22     6      1       X
+Burkett, Camdyne    Blum HS, Blum                           22     6      1       X
+Jordan, Maryah      Fruitvale HS, Fruitvale                 22     6      1       X
+Glaze, Paityn       Tioga HS, Tioga                         16     10
+Polk, Austin        Graford H S, Graford                    14     11
+Carter, Blake       UT Tyler Innovation Academy, Tyler      14     11
+Goehmann, Dominic   Priddy HS, Priddy                       12     13
+Johnson, Micah S    Sulphur Bluff HS, Sulphur Bluff         12     13
+Garner, Keith       Fruitvale HS, Fruitvale                 12     13
+Adams, Kennie       UT Tyler Innovation Academy, Tyler      12     13
+Wood, Anne Marie    Huckabay HS, Stephenville               10     17
+Johnson, Jerry      Cranfills Gap H S, Cranfills Gap        10     17
+Clark, Karsn        Blum HS, Blum                           10     17
+Mott, Clay          Tioga HS, Tioga                         10     17
+Sanders, Kylie      Blum HS, Blum                           6      21
+Rhys, Gaven         Slidell HS, Slidell                     6      21
+South, Trayton C    Sulphur Bluff HS, Sulphur Bluff         6      21
+Narayanan, Tejas    UT Tyler Innovation Academy, Tyler      6      21
+Cantu, Jazmin       UT Tyler Innovation Academy, Tyler      6      21
+Hale, Hanna         Huckabay HS, Stephenville               4      26
+Rios, Orlando       Gustine HS, Gustine                     4      26
+Nicholson, Jacie    Fruitvale HS, Fruitvale                 2      28
+McCasland, Ben      Slidell HS, Slidell                     0      29
+Guthrie, Hoss       Lometa H S, Lometa                      -2     30
+Moody, Nicholas     Zephyr HS, Zephyr                       -2     30
+David, Owen         Saint Jo HS, Saint Jo                   -2     30
+Hopkins, Noah       Strawn H S, Strawn                      -4     33
+Champagne, Ashton   Slidell HS, Slidell                     -4     33
+Sharp, Madalynn     Midway HS, Henrietta                    -4     33
+Carpenter, Travis   Woodson HS, Woodson                     -4     33
+Martinez, Lleysi    Tioga HS, Tioga                         -6     37
+Billings, Meredith  Tioga HS, Tioga                         -6     37
+Meneses, Sophia     Huckabay HS, Stephenville               -8     39
+Watts, Jacob J      Sulphur Bluff HS, Sulphur Bluff         -8     39
+Knowles, Debra      Paint Creek H S, Haskell                -8     39
+Hodges, Trixie      Priddy HS, Priddy                       -10    42
+Villarreal, Noe     Slidell HS, Slidell                     -10    42
+Pate, Halie         Woodson HS, Woodson                     -14    44
+Armstong, Ethan     Woodson HS, Woodson                     -16    45
+Ruiz, Xiomara       Tioga HS, Tioga                         -16    45
+Schimmel, Louis     Priddy HS, Priddy                       -20    47
+Carr, Gracie        Newcastle H S, Newcastle                -24    48
+Metcalf, Megan      Forestburg HS, Forestburg               -24    48
+Richardson, Chris   Iredell H S, Iredell                    -40    50
+
+TOP SCORERS
+------------------------------
+Contestant       School                       Results               Points
+Miles, Haylee    Woodson HS                   Top Scorer Biology    1.50
+Jones, Jason     Fruitvale HS                 Top Scorer Biology    1.50
+Meneses, Sophia  Huckabay HS                  Top Scorer Chemistry  1
+South, Turner J  Sulphur Bluff HS             Top Scorer Chemistry  1
+Zhu, Ricky       UT Tyler Innovation Academy  Top Scorer Chemistry  1
+Polk, Austin     Graford H S                  Top Scorer Physics    3
+Moody, Nicholas  Zephyr HS                    Alternate Physics     0
+Clark, Karsn     Blum HS                      Alternate Physics     0
+Mott, Clay       Tioga HS                     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Fruitvale HS, Fruitvale             1     66     1      10      X      State
+Blum HS, Blum                       1     54     2      5       X      Alternate
+Sulphur Bluff HS, Sulphur Bluff     1     52     3
+Woodson HS, Woodson                 1     48     4
+Priddy HS, Priddy                   1     32     5
+UT Tyler Innovation Academy, Tyler  1     32     5
+Tioga HS, Tioga                     1     20     7
+Huckabay HS, Stephenville           1     6      8
+Slidell HS, Slidell                 1     2      9

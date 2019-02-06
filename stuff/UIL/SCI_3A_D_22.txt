@@ -1,0 +1,58 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Richardson, Brandon  Central Heights HS, Nacogdoches  90     1      15      X      Region
+Arriola, Janie       Central HS, Pollok               62     2      12      X      Region
+Watson, Alyson       Central HS, Pollok               60     3      10      X      Region
+Jolley, Jacob        Central Heights HS, Nacogdoches  58     4      8       X      Alternate
+Gibson, Henry        Central Heights HS, Nacogdoches  56     5      5       X
+Turnage, Brandon     Central Heights HS, Nacogdoches  56     5      5       X
+Barron, Daniel       Newton H S, Newton               44     7
+Duiker, Julie        Central HS, Pollok               40     8
+Allen, Kaylee        Woodville HS, Woodville          40     8
+McClain, Elija       Central Heights HS, Nacogdoches  38     10
+Tanvez, Mohammed     Woodville HS, Woodville          24     11
+Cobb, Cassidy        Newton H S, Newton               20     12
+Foster, Corbin       Newton H S, Newton               20     12
+Williams, Alessia    Central HS, Pollok               20     12
+Poage, Kobi          Corrigan-Camden H S, Corrigan    20     12
+Adams, Kyle          Newton H S, Newton               18     16
+Odunuga, Temi        Central HS, Pollok               18     16
+Kennerly, Amber      Woodville HS, Woodville          18     16
+Clark, Jacob         Hemphill H S, Hemphill           16     19
+Brown, Caleb         Garrison H S, Garrison           14     20
+Ho, Theresa          Garrison H S, Garrison           10     21
+Smith, Briley        Central Heights HS, Nacogdoches  10     21
+Adkins, Abigali      Hemphill H S, Hemphill           10     21
+Clark, Melinda       Hemphill H S, Hemphill           8      24
+McAdams, Robert      Corrigan-Camden H S, Corrigan    8      24
+Renfro, Adam         Garrison H S, Garrison           2      26
+Powell, Caleb        Woodville HS, Woodville          2      26
+Karr, Evan           Newton H S, Newton               0      28
+Gesford, Quinton     Central HS, Pollok               -4     29
+Harrington, Conner   Corrigan-Camden H S, Corrigan    -4     29
+Moran, Kemo          Woodville HS, Woodville          -8     31
+Lee, Jacob           Newton H S, Newton               -10    32
+Chamblee, Jackson    Corrigan-Camden H S, Corrigan    -10    32
+Shaw, Reese          Woodville HS, Woodville          -24    34
+
+TOP SCORERS
+------------------------------
+Contestant           School              Results               Points
+Arriola, Janie       Central HS          Top Scorer Biology    3
+Duiker, Julie        Central HS          Alternate Biology     0
+Richardson, Brandon  Central Heights HS  Top Scorer Chemistry  3
+Barron, Daniel       Newton H S          Alternate Chemistry   0
+Richardson, Brandon  Central Heights HS  Top Scorer Physics    1.50
+Turnage, Brandon     Central Heights HS  Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Central Heights HS, Nacogdoches  1     204    1      10      X      Region
+Central HS, Pollok               1     162    2      5       X      Alternate
+Newton H S, Newton               1     84     3
+Woodville HS, Woodville          1     82     4
+Hemphill H S, Hemphill           1     34     5
+Garrison H S, Garrison           1     26     6
+Corrigan-Camden H S, Corrigan    1     24     7

@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                      Score  Place  Points  Medal  Advance
+Medley, Ethan          Bullard HS, Bullard         172    1      15      X      Region
+White, Conner          Bullard HS, Bullard         130    2      12      X      Region
+Gipson, Cameron        Gilmer H S, Gilmer          117    3      10      X      Region
+Flores, Manuel         Spring Hill H S, Longview   115    4      8       X      Alternate
+Bowles, Whitten        Spring Hill H S, Longview   99     5      6       X
+Otte, Caleb            Chapel Hill HS, Tyler       77     6      4       X
+Bodenheimer, Marshall  Spring Hill H S, Longview   76     7
+McFatridge, David      Spring Hill H S, Longview   54     8
+Sanchez, Alexis        Chapel Hill HS, Tyler       26     9
+Blair, Sephia          Bullard HS, Bullard         21     10
+Gaddis, Jacob          Chapel Hill HS, Tyler       16     11
+Frayre, Isaac          Chapel Hill HS, Tyler       12     12
+Kuczkowski, Katy       Bullard HS, Bullard         4      13
+Haught, Mason          Gilmer H S, Gilmer          0      14
+Barnes, Jason          Gilmer H S, Gilmer          -3     15
+Czarniecki, Alex       Kilgore H S, Kilgore        -4     16
+White, Carl            Kilgore H S, Kilgore        -11    17
+Houston, Chris         Gladewater H S, Gladewater  -13    18
+Perry, Victoria        Gladewater H S, Gladewater  -24    19
+Bland, Timothy         Gladewater H S, Gladewater  -27    20
+Keller, Collin         Gladewater H S, Gladewater  -34    21
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Bullard HS, Bullard         1     323    1      10      X      Region
+Spring Hill H S, Longview   1     290    2      5       X      Alternate
+Chapel Hill HS, Tyler       1     119    3
+Gilmer H S, Gilmer          1     114    4
+Gladewater H S, Gladewater  1     -64    5
+
+TEAM RESULTS
+------------------------------

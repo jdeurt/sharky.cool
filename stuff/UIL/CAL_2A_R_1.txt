@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                    Score  Place  Points  Medal  Advance
+TORRALBA, MANUEL     Ozona H S, Ozona          238    1      15      X      State
+ELLIOTT, CHANTZ      Ozona H S, Ozona          231    2      12      X      State
+Terry, Abbigail      Sundown H S, Sundown      210    3      10      X      State
+Evans, Julia         Sundown H S, Sundown      203    4      8       X      Alternate
+Irwin, Klaire        Gruver HS, Gruver         194    5      6       X
+Webb, Brittan        Sundown H S, Sundown      182    6      4       X
+KNAACK, JOSH         Ozona H S, Ozona          173    7
+Greenhaw, Elizabeth  Sundown H S, Sundown      168    8
+RODRIGUEZ, DENISE    Ozona H S, Ozona          168    8
+Cortez, Aaron        Abernathy HS, Abernathy   163    10
+McWhirter, Brea      Plains HS, Plains         161    11
+Hadaway, Hollyn      Haskell H S, Haskell      157    12
+Martinez, Ariel      Haskell H S, Haskell      150    13
+Neelley, Jackson     Vega HS, Vega             149    14
+Kirkland, Kaison     Panhandle H S, Panhandle  142    15
+May, Ragan           Abernathy HS, Abernathy   142    15
+Martinez, Mayra      Plains HS, Plains         142    15
+Rogel, Priscilla     Iraan H S, Iraan          142    15
+Maurer, Colbi        Iraan H S, Iraan          142    15
+Armes, Carter        Gruver HS, Gruver         135    20
+Macias, Adrian       Abernathy HS, Abernathy   135    20
+McKee, Angel         McCamey H S, McCamey      135    20
+McWhirter, Brynne    Plains HS, Plains         128    23
+Montanez, Jaime      Hamlin HS, Hamlin         128    23
+Whitehead, Kari      Gruver HS, Gruver         126    25
+Haynes, Hunter       Gruver HS, Gruver         121    26
+Castilla, Ivan       Iraan H S, Iraan          121    26
+Ortiz, Elena         Iraan H S, Iraan          121    26
+Lowe, Declan         Olton HS, Olton           119    29
+Record, Lucas        Post HS, Post             107    30
+Lutrick, Ashlyn      Abernathy HS, Abernathy   105    31
+Byers, Daniel        Panhandle H S, Panhandle  102    32
+Adams, Kimbal        Olton HS, Olton           88     33
+Bearden, Zoey        Plains HS, Plains         79     34
+Neusch, Andrew       Panhandle H S, Panhandle  66     35
+Rodriquez, Hailey    Olton HS, Olton           64     36
+Harper, Aaron        Sudan HS, Sudan           61     37
+Vara, Gabriel        Farwell H S, Farwell      60     38
+Johnson, Samara      Clarendon HS, Clarendon   56     39
+Aaron, Shayden       Haskell H S, Haskell      44     40
+Freeman, Brennan     Panhandle H S, Panhandle  0      41
+Bevel, Braelyn       Haskell H S, Haskell      0      41
+Gunter, Zane         Olton HS, Olton           -38    43
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Ozona H S, Ozona          1     642    1      10      X      State
+Sundown H S, Sundown      1     595    2      5       X      Alternate
+Gruver HS, Gruver         1     455    3
+Abernathy HS, Abernathy   1     440    4
+Plains HS, Plains         1     431    5
+Iraan H S, Iraan          1     405    6
+Haskell H S, Haskell      1     351    7
+Panhandle H S, Panhandle  1     310    8
+Olton HS, Olton           1     271    9
+
+TEAM RESULTS
+------------------------------

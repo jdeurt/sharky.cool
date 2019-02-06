@@ -1,0 +1,32 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                  Score  Place  Points  Medal  Advance
+Nelson, Lars         Borger HS, Borger       176    1      15      X      Region
+Chapman, Jake R.     Bushland HS, Bushland   110    2      12      X      Region
+Castro, Bryan        Perryton H S, Perryton  74     3      10      X      Region
+Townsend, Cole       Perryton H S, Perryton  70     4      8       X      Alternate
+Littlefield, Jordon  Pampa HS, Pampa         64     5      6       X
+Moreno, Bryan        Perryton H S, Perryton  54     6      4       X
+Alders, Kyle         Borger HS, Borger       48     7
+Robertson, Lucas     Borger HS, Borger       40     8
+Winborne, Dustin     Pampa HS, Pampa         40     8
+Hamid, Rohoman       Borger HS, Borger       32     10
+Lamanteer, Cole B.   Bushland HS, Bushland   22     11
+Hartman, Nick        Bushland HS, Bushland   20     12
+Mayfield, Madeline   Bushland HS, Bushland   16     13
+Honer, Sean          Pampa HS, Pampa         12     14
+Borunda, Fabian      Perryton H S, Perryton  8      15
+Petit, Jet           Pampa HS, Pampa         2      16
+Varela, Araseli      Dalhart HS, Dalhart     2      16
+Guerrero, Emily      Dalhart HS, Dalhart     2      16
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Borger HS, Borger       1     264    1      10      X      Region
+Perryton H S, Perryton  1     198    2      5       X      Alternate
+Bushland HS, Bushland   1     152    3
+Pampa HS, Pampa         1     116    4
+
+TEAM RESULTS
+------------------------------

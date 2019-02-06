@@ -1,0 +1,55 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                     Score  Place  Points  Medal  Advance
+Senter, Sayer         Ropes HS, Ropesville       196    1      15      X      State
+Clabaugh, Jabree      Ropes HS, Ropesville       175    2      12      X      State
+White, Jaxon          Patton Springs H S, Afton  170    3      10      X      State
+Rice, Kensley         Whiteface HS, Whiteface    168    4      8       X      Alternate
+Soto, Elva            Hartley H S, Hartley       161    5      6       X
+Deavours, Kaylah      Whiteface HS, Whiteface    161    6      4       X
+Cleavinger, Clay      Whiteface HS, Whiteface    154    7
+White, Madison        Patton Springs H S, Afton  149    8
+Miller, Kylie         Darrouzett HS, Darrouzett  142    9
+Perianez, Omar        Hartley H S, Hartley       142    9
+Perianez, Arturo      Hartley H S, Hartley       142    9
+Hawkins, Savannah     Benjamin HS, Benjamin      142    9
+Hennig, Brett         Kelton HS, Wheeler         140    13
+Medlock, Payton       Ropes HS, Ropesville       140    13
+Jones, Brooke         Benjamin HS, Benjamin      140    13
+Blacksher, Cheyenne   Kelton HS, Wheeler         135    16
+Nalle, Jenna          Ropes HS, Ropesville       135    16
+Perryman, Autumn      Patton Springs H S, Afton  135    16
+Sandoval, Yaretzi     Guthrie HS, Guthrie        133    19
+Smulders, Jordan      Hartley H S, Hartley       121    20
+Flowers, Temi         Benjamin HS, Benjamin      121    20
+Kimbro, Kaleb         Kelton HS, Wheeler         112    22
+Sena, Jacob           Booker HS, Booker          105    23
+Gerber, Blakely       Nazareth H S, Nazareth     105    23
+Casarez, Elizabeth    Whiteface HS, Whiteface    105    23
+Hathaway, Kade        Kelton HS, Wheeler         100    26
+Chandler, Regan       Patton Springs H S, Afton  100    26
+Fulkerson, Katherine  Nazareth H S, Nazareth     91     28
+Nieves, Lexis         Nazareth H S, Nazareth     86     29
+Hall, Jo              Darrouzett HS, Darrouzett  79     30
+Huseman, Grace        Nazareth H S, Nazareth     79     30
+Ochoa, Ramon          Darrouzett HS, Darrouzett  69     32
+McCauley, Morgan      Guthrie HS, Guthrie        63     33
+Jones, Abigail        Guthrie HS, Guthrie        63     33
+Mays, TK              Guthrie HS, Guthrie        63     33
+Salazar, Lluvia       Darrouzett HS, Darrouzett  62     36
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Ropes HS, Ropesville       1     511    1      10      X      State
+Whiteface HS, Whiteface    1     483    2      5       X      Alternate
+Patton Springs H S, Afton  1     454    3
+Hartley H S, Hartley       1     445    4
+Benjamin HS, Benjamin      1     403    5
+Kelton HS, Wheeler         1     387    6
+Darrouzett HS, Darrouzett  1     290    7
+Nazareth H S, Nazareth     1     282    8
+Guthrie HS, Guthrie        1     259    9
+
+TEAM RESULTS
+------------------------------

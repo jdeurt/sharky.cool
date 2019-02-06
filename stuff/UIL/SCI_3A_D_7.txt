@@ -1,0 +1,46 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Morphew, Derian     Tolar HS, Tolar                114    1      15      X      Region
+McKinney, Tabitha   Cisco HS, Cisco                86     2      12      X      Region
+Sneed, Damyon       Cisco HS, Cisco                84     3      10      X      Region
+Smith, Dustin       Brock HS, Brock                66     4      8       X      Alternate
+Moon, Landon        Brock HS, Brock                64     5      6       X
+Bonnell, Jack       Tolar HS, Tolar                62     6      4       X
+Nowell, Jerrod      Tolar HS, Tolar                56     7
+Yarbrough, Ethan    Brock HS, Brock                50     8
+Wommack, Taylor     Tolar HS, Tolar                44     9
+Casarezz, Angie     Millsap H S, Millsap           42     10
+Clopton, Matt       Cisco HS, Cisco                40     11
+Glick, Elyssa       Breckenridge HS, Breckenridge  34     12
+Heatley, Samantha   Breckenridge HS, Breckenridge  30     13
+Butler, Gunnar      Tolar HS, Tolar                22     14
+Haydon, Mamie Cate  Brock HS, Brock                20     15
+Creech, Gwen        Cisco HS, Cisco                20     15
+Alexander, Landon   Cisco HS, Cisco                14     17
+Groves, Clayton     Brock HS, Brock                10     18
+Luna, Bradley       Millsap H S, Millsap           8      19
+Matthews, Dakotah   Breckenridge HS, Breckenridge  8      19
+Clapp, Ethan        Brock HS, Brock                8      19
+Llanos, Juan        Breckenridge HS, Breckenridge  6      22
+Humphries, Jailynn  Cisco HS, Cisco                6      22
+Nordley, Grace      Tolar HS, Tolar                -4     24
+Adams, Jaxon        Breckenridge HS, Breckenridge  -8     25
+
+TOP SCORERS
+------------------------------
+Contestant         School    Results               Points
+Sneed, Damyon      Cisco HS  Top Scorer Biology    3
+McKinney, Tabitha  Cisco HS  Alternate Biology     0
+Morphew, Derian    Tolar HS  Top Scorer Chemistry  3
+Bonnell, Jack      Tolar HS  Alternate Chemistry   0
+McKinney, Tabitha  Cisco HS  Top Scorer Physics    3
+Morphew, Derian    Tolar HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Tolar HS, Tolar                1     232    1      10      X      Region
+Cisco HS, Cisco                1     210    2      5       X      Alternate
+Brock HS, Brock                1     180    3
+Breckenridge HS, Breckenridge  1     72     4

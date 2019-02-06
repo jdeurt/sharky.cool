@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Barfoot, Zee           Atlanta HS, Atlanta           116    1      15      X      Region
+Armstrong, Heather     North Lamar H S, Paris        90     2      12      X      Region
+Carney, Cameron        Atlanta HS, Atlanta           66     3      10      X      Region
+Dorman, Justice        Pittsburg H S, Pittsburg      62     4      8       X      Alternate
+Simmons, Alyssa        Atlanta HS, Atlanta           56     5      6       X
+Franklin, Jaden        North Lamar H S, Paris        54     6      4       X
+Rosser, Cade           Atlanta HS, Atlanta           48     7
+Tucker, Zoe            Liberty-Eylau H S, Texarkana  46     8
+McDonald, Paige        Liberty-Eylau H S, Texarkana  36     9
+Rester, Coy            Pittsburg H S, Pittsburg      34     10
+Gil, Kashlyn           Liberty-Eylau H S, Texarkana  32     11
+Bramblett, Kenzie-Lou  Pittsburg H S, Pittsburg      26     12
+Pollard, Sebastian     Pittsburg H S, Pittsburg      24     13
+Hemmitt, Whitney       Liberty-Eylau H S, Texarkana  16     14
+Huffman, Zach          North Lamar H S, Paris        14     15
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Atlanta HS, Atlanta           1     238    1      10      X      Region
+North Lamar H S, Paris        1     158    2      5       X      Alternate
+Pittsburg H S, Pittsburg      1     122    3
+Liberty-Eylau H S, Texarkana  1     114    4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                            Score  Place  Points  Medal  Advance
+Chan, Michelle        North Shore H S, Houston          301    1      15      X      Region
+Mai, Cecilia          North Shore H S, Houston          287    2      12      X      Region
+Sampson, Francis      North Shore H S, Houston          266    3      10      X      Region
+Villanueva, Adrianne  North Shore H S, Houston          175    4      8       X      Alternate
+Nguyen, Havi          Sterling HS, Baytown              154    5      6       X
+Gupta, Pranav         Goose Creek Memorial HS, Baytown  149    6      4       X
+Kulkarni, Jatin       Goose Creek Memorial HS, Baytown  140    7
+Butterfield, Tyson    Kingwood H S, Humble              135    8
+Smith, Kaitlin        Kingwood H S, Humble              127    9
+Turney, Blake         Atascocita HS, Humble             126    10
+Russel, Brandon       Kingwood H S, Humble              112    11
+Kharat, Ashwin        Goose Creek Memorial HS, Baytown  112    11
+Wells, Jordan         Atascocita HS, Humble             107    13
+Macias, Fabian        Goose Creek Memorial HS, Baytown  91     14
+Nguyen, Tramy         Sterling HS, Baytown              84     15
+De La Rosa, Isabel    Sterling HS, Baytown              70     16
+Lin, Kevin            Sterling HS, Baytown              69     17
+William, Patrick      Atascocita HS, Humble             61     18
+Plunkett, Alexis      Channelview HS, Channelview       51     19
+Bates, Tim            Kingwood H S, Humble              50     20
+Benson, Dewayne       Channelview HS, Channelview       46     21
+Maldonado, Melissa    Channelview HS, Channelview       45     22
+Gonzalez, Jaqueline   King HS, Houston                  39     23
+Saldana, Britney      King HS, Houston                  38     24
+Saeed, Pete           King HS, Houston                  37     25
+Arreola, Danny        Atascocita HS, Humble             33     26
+Cruz, Gustavo         Channelview HS, Channelview       -9     27
+Isbel, Ashly          King HS, Houston                  -108   28
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+North Shore H S, Houston          1     854    1      10      X      Region
+Goose Creek Memorial HS, Baytown  1     401    2      5       X      Alternate
+Kingwood H S, Humble              1     374    3
+Sterling HS, Baytown              1     308    4
+Atascocita HS, Humble             1     294    5
+Channelview HS, Channelview       1     142    6
+King HS, Houston                  1     114    7
+
+TEAM RESULTS
+------------------------------

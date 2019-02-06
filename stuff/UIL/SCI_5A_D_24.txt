@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                 Score  Place  Points  Medal  Advance
+Ni, Aaron             Wisdom H S, Houston    104    1      15      X      Region
+Song, Ethan           Wisdom H S, Houston    72     2      12      X      Region
+David, Yzhbl          Wisdom H S, Houston    64     3      10      X      Region
+Cano, Jose            Northside HS, Houston  60     4      8       X      Alternate
+Mosqueda, Rogelio     Milby HS, Houston      56     5      6       X
+Flores, Jazmin        Northside HS, Houston  38     6      4       X
+Munoz, Sheryl         Austin HS, Houston     36     7
+Melendez, Alexandria  Northside HS, Houston  34     8
+Ayala, Jose           Austin HS, Houston     32     9
+Ortega-Hndz, Amanda   Wisdom H S, Houston    24     10
+Servantes, Jacinda    Milby HS, Houston      22     11
+Guerrero, Mauricio    Wisdom H S, Houston    20     12
+Gutierrez, Asusena    Austin HS, Houston     20     12
+Garcia, Abigail       Northside HS, Houston  16     14
+Valenzuela, Sinai     Northside HS, Houston  12     15
+Garcia, Jesus         Milby HS, Houston      8      16
+Do, Dat               Milby HS, Houston      8      16
+Avalos, Erik          Austin HS, Houston     8      16
+Velasquez, Sebastian  Austin HS, Houston     8      16
+Vo, Tien              Milby HS, Houston      2      20
+Do, Thanh             Milby HS, Houston      2      20
+Gonalez, Mayra        Austin HS, Houston     -16    22
+Olivares, Robert      Northside HS, Houston  -16    22
+
+TOP SCORERS
+------------------------------
+Contestant    School        Results               Points
+Ni, Aaron     Wisdom H S    Top Scorer Biology    3
+David, Yzhbl  Wisdom H S    Alternate Biology     0
+Cano, Jose    Northside HS  Top Scorer Chemistry  3
+Song, Ethan   Wisdom H S    Alternate Chemistry   0
+Ni, Aaron     Wisdom H S    Alternate Chemistry   0
+Cano, Jose    Northside HS  Top Scorer Physics    3
+Ni, Aaron     Wisdom H S    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Wisdom H S, Houston    1     240    1      10      X      Region
+Northside HS, Houston  1     132    2      5       X      Alternate
+Austin HS, Houston     1     88     3
+Milby HS, Houston      1     86     4

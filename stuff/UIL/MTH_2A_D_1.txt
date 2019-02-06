@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Williams, Dalin    West Texas HS, Stinnett     86     1      15      X      Region
+Kelp, Keegan       Gruver HS, Gruver           60     2      12      X      Region
+Yosten, Madison    Vega HS, Vega               60     3      10      X      Region
+Gist, RB           Vega HS, Vega               58     4      8       X      Alternate
+SKAGGS, TYLER      Sanford-Fritch H S, Fritch  58     5      6       X
+Irwin, Klaire      Gruver HS, Gruver           56     6      4       X
+Walker, Macy       Vega HS, Vega               42     7
+AUDRAIN, TARYN     Sanford-Fritch H S, Fritch  38     8
+Bright, Barrett    West Texas HS, Stinnett     34     9
+Lancaster, Nathan  Vega HS, Vega               30     10
+Wolf, Kennedy      Boys Ranch HS, Boys Ranch   28     11
+Thomas, Hailey     West Texas HS, Stinnett     24     12
+MIHM, TYLER        Sanford-Fritch H S, Fritch  20     13
+Vacio, Akira       Stratford HS, Stratford     16     14
+Aldridge, J'rea    Boys Ranch HS, Boys Ranch   16     14
+Seagler, Lane      Gruver HS, Gruver           14     16
+Wallace, Abby      West Texas HS, Stinnett     14     16
+GARTON, KAYLOR     Sanford-Fritch H S, Fritch  14     16
+Lavake, Ashton     Stratford HS, Stratford     8      19
+Tusuubira, Liz     Boys Ranch HS, Boys Ranch   8      19
+Gumfory, Sam       Gruver HS, Gruver           6      21
+Anthony, Tayler    Boys Ranch HS, Boys Ranch   6      21
+Collums, Dempsey   Stratford HS, Stratford     0      23
+Sims, Hannah       Stratford HS, Stratford     -4     24
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Vega HS, Vega               1     160    1      10      X      Region
+West Texas HS, Stinnett     1     144    2      5       X      Alternate
+Gruver HS, Gruver           1     130    3
+Sanford-Fritch H S, Fritch  1     116    4
+Boys Ranch HS, Boys Ranch   1     52     5
+Stratford HS, Stratford     1     24     6
+
+TEAM RESULTS
+------------------------------

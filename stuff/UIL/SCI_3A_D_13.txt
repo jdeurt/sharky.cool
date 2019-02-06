@@ -1,0 +1,55 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                          Score  Place  Points  Medal  Advance
+Hurst, Becca         Chisum HS, Paris                148    1      15      X      Region
+Collins, Sam         Chisum HS, Paris                140    2      12      X      Region
+Fields, Jordan       Chisum HS, Paris                106    3      10      X      Region
+Roberts, Aaron       Chisum HS, Paris                102    4      8       X      Alternate
+Baird, Brian         Mount Vernon H S, Mount Vernon  64     5      6       X
+Vargas, Daniel       Mount Vernon H S, Mount Vernon  60     6      4       X
+Rogers, Brianna      Chisum HS, Paris                52     7
+Mead, Tyler          Chisum HS, Paris                52     7
+Hamill, Marietta     Prairiland HS, Pattonville      52     7
+Turney, Elias        Winnsboro HS, Winnsboro         48     10
+Aguilar, Brandon     Mount Vernon H S, Mount Vernon  40     11
+Miller, Caleb        Winnsboro HS, Winnsboro         40     11
+Burling, Cole        Mount Vernon H S, Mount Vernon  38     13
+Minter, Erick        Mount Vernon H S, Mount Vernon  36     14
+Rowe, Gabe           Cooper HS, Cooper               34     15
+Fitch, Savannah      Winnsboro HS, Winnsboro         32     16
+Rogers, Pierce       Cooper HS, Cooper               30     17
+Fouse, James         Winnsboro HS, Winnsboro         30     17
+Fitch, Ryan          Mount Vernon H S, Mount Vernon  28     19
+Phelps, Summer       Cooper HS, Cooper               26     20
+Martinez, Saul       Chapel Hill HS, Mt Pleasant     20     21
+Cantu, Ashten        Winnsboro HS, Winnsboro         16     22
+Colley, Ethan        Cooper HS, Cooper               14     23
+Zimmer, Erich        Winnsboro HS, Winnsboro         14     23
+Thornton, Chance     Cooper HS, Cooper               10     25
+Valdez, Mercedes     Cooper HS, Cooper               10     25
+Tran, Sarah          Como-Pickton HS, Como           10     25
+Teer, Makayla        Como-Pickton HS, Como           8      28
+Gonzalez, Esmeralda  Chapel Hill HS, Mt Pleasant     6      29
+Salas, Carolina      Chapel Hill HS, Mt Pleasant     -4     30
+Mejia, Eliana        Chapel Hill HS, Mt Pleasant     -8     31
+Zermeno, David       Prairiland HS, Pattonville      -10    32
+Martinez, Damaris    Chapel Hill HS, Mt Pleasant     -34    33
+
+TOP SCORERS
+------------------------------
+Contestant       School            Results               Points
+Hurst, Becca     Chisum HS         Top Scorer Biology    3
+Collins, Sam     Chisum HS         Alternate Biology     0
+Hurst, Becca     Chisum HS         Top Scorer Chemistry  3
+Collins, Sam     Chisum HS         Alternate Chemistry   0
+Vargas, Daniel   Mount Vernon H S  Top Scorer Physics    1.50
+Rogers, Brianna  Chisum HS         Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Chisum HS, Paris                1     394    1      10      X      Region
+Mount Vernon H S, Mount Vernon  1     164    2      5       X      Alternate
+Winnsboro HS, Winnsboro         1     120    3
+Cooper HS, Cooper               1     90     4
+Chapel Hill HS, Mt Pleasant     1     22     5

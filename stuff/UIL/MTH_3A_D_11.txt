@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                                    Score  Place  Points  Medal  Advance
+Tran, Tai               Sunnyvale HS, Sunnyvale                   122    1      13.50   X      Region
+Emilio, Garcia          Harmony School of Innovation, Fort Worth  122    1      13.50   X      Region
+Widner, Antos           Sunnyvale HS, Sunnyvale                   98     3      10      X      Region
+Alkhafagi, Amir         Harmony Science Academy, Dallas           90     4      8       X      Alternate
+Park, Dave              Euless Harmony Science Academy, Euless    76     5      6       X
+Powell, Ashlyn          Sunnyvale HS, Sunnyvale                   74     6      4       X
+Avi, Udash              Euless Harmony Science Academy, Euless    60     7
+Belmir, Zak             Sunnyvale HS, Sunnyvale                   56     8
+McAmis, James           Harmony School of Innovation, Fort Worth  56     8
+Chytil, Edward          Harmony Science Academy, Dallas           54     10
+Pham, Monica            Harmony Schl of Nature&Ath, Dallas        54     10
+Elano, Johann           Harmony School of Innovation, Fort Worth  50     12
+Choi, Joseph            Harmony Science Academy, Dallas           44     13
+Khan, Sarra             Euless Harmony Science Academy, Euless    40     14
+Sandoval, Zackarylucas  Harmony Science Academy, Dallas           36     15
+Jensen, Alyssa          Life School Oak Cliff, Dallas             34     16
+Medlin, Tayla           Life School Oak Cliff, Dallas             26     17
+Armstrong, Tyria        Life School Oak Cliff, Dallas             26     17
+McDonald, Wesley        Harmony Schl of Nature&Ath, Dallas        24     19
+Fitzwilliams, Giles     Harmony Schl of Nature&Ath, Dallas        16     20
+Rangel-Lopez, Yarisa    Madison HS, Dallas                        14     21
+Khan, Hiba              Euless Harmony Science Academy, Euless    12     22
+Tatum, JaDarrien        Life School Oak Cliff, Dallas             10     23
+Maewal, Norman          Harmony School of Innovation, Fort Worth  6      24
+Martinez, Ivan          A+ Academy, Dallas                        2      25
+Cano, Briceidy          Madison HS, Dallas                        -2     26
+Bernardo, Esmeralda     Madison HS, Dallas                        -2     26
+Moreno, Hailey          A+ Academy, Dallas                        -8     28
+Dominguez, Elizabeth    A+ Academy, Dallas                        -8     28
+Clack, Anisten          Madison HS, Dallas                        -8     28
+Diazdeleon, Layla       A+ Academy, Dallas                        -10    31
+
+TOP SCORERS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Sunnyvale HS, Sunnyvale                   1     294    1      10      X      Region
+Harmony School of Innovation, Fort Worth  1     228    2      5       X      Alternate
+Harmony Science Academy, Dallas           1     188    3
+Euless Harmony Science Academy, Euless    1     176    4
+Harmony Schl of Nature&Ath, Dallas        1     94     5
+Life School Oak Cliff, Dallas             1     86     6
+Madison HS, Dallas                        1     10     7
+A+ Academy, Dallas                        1     -14    8
+
+TEAM RESULTS
+------------------------------

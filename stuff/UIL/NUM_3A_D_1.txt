@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                       Score  Place  Points  Medal  Advance
+Brittain, Travis   River Road HS, Amarillo      66     1      15      X      Region
+Valdez, Jordan     River Road HS, Amarillo      55     2      12      X      Region
+Brittain, David    River Road HS, Amarillo      46     3      10      X      Region
+Leighton, Chris    Childress HS, Childress      35     4      8       X      Alternate
+Hilton, Dasha      River Road HS, Amarillo      32     5      6       X
+Hood, Melody       Canadian HS, Canadian        31     6      4       X
+Gaither, Lane      Tulia H S, Tulia             25     7
+Cook, Darby        Canadian HS, Canadian        24     8
+Jared, Cummins     Childress HS, Childress      12     9
+Ortega, Alondra    Canadian HS, Canadian        8      10
+Huseman, Collin    Tulia H S, Tulia             6      11
+Cochran, Matthew   Childress HS, Childress      5      12
+Vannoy, Aric       Childress HS, Childress      0      13
+Lozano, Lauren     Spearman H S, Spearman       -3     14
+Avila, Luis        Spearman H S, Spearman       -9     15
+Lopez, Tirso Inez  Tulia H S, Tulia             -10    16
+McCubbin, Kady     Spearman H S, Spearman       -12    17
+Esparza, Geovanny  Canadian HS, Canadian        -16    18
+Martinez, Jaycee   Spearman H S, Spearman       -19    19
+Flowers, Blaisen   Highland Park H S, Amarillo  -36    20
+Bunn, Jordan       Tulia H S, Tulia             -50    21
+Hoang, Chad        Highland Park H S, Amarillo  -69    22
+Judy, Ricky        Highland Park H S, Amarillo  -122   23
+Williford, Justin  Highland Park H S, Amarillo  -154   24
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+River Road HS, Amarillo      1     167    1      10      X      Region
+Canadian HS, Canadian        1     63     2      5       X      Alternate
+Childress HS, Childress      1     52     3
+Tulia H S, Tulia             1     21     4
+Spearman H S, Spearman       1     -24    5
+Highland Park H S, Amarillo  1     -227   6
+
+TEAM RESULTS
+------------------------------

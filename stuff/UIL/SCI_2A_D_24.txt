@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                       Score  Place  Points  Medal  Advance
+Blood, Kirk       Sabine Pass HS, Sabine Pass  100    1      15      X      Region
+Zumwalt, Jacob    Sabine Pass HS, Sabine Pass  92     2      12      X      Region
+Contreras, Maria  Sabine Pass HS, Sabine Pass  54     3      10      X      Region
+Walther, Andrew   Sabine Pass HS, Sabine Pass  52     4      8       X      Alternate
+Brown, Madison    West Hardin HS, Saratoga     42     5      6       X
+Escareno, Noah    Sabine Pass HS, Sabine Pass  34     6      4       X
+Roth, Jay         West Hardin HS, Saratoga     16     7
+Hendrix, Josh     West Hardin HS, Saratoga     12     8
+Laurel, Carolina  Sabine Pass HS, Sabine Pass  12     8
+Jackson, Macy     West Hardin HS, Saratoga     -10    10
+
+TOP SCORERS
+------------------------------
+Contestant        School          Results               Points
+Zumwalt, Jacob    Sabine Pass HS  Top Scorer Biology    3
+Blood, Kirk       Sabine Pass HS  Alternate Biology     0
+Contreras, Maria  Sabine Pass HS  Alternate Biology     0
+Blood, Kirk       Sabine Pass HS  Top Scorer Chemistry  3
+Brown, Madison    West Hardin HS  Alternate Chemistry   0
+Zumwalt, Jacob    Sabine Pass HS  Top Scorer Physics    3
+Blood, Kirk       Sabine Pass HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Sabine Pass HS, Sabine Pass  1     246    1      10      X      Region
+West Hardin HS, Saratoga     1     70     2      5       X      Alternate

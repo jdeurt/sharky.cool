@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                          Score  Place  Points  Medal  Advance
+Singewald, Nathaniel     Boswell HS, Fort Worth          194    1      15      X      Region
+Armstrong, Nathan        Northwest Eaton HS, Fort Worth  162    2      12      X      Region
+Knight, Devon            Northwest Eaton HS, Fort Worth  152    3      10      X      Region
+Leeper, Zachary C        Aledo HS, Aledo                 150    4      8       X      Alternate
+Legvold, Tanner J        Aledo HS, Aledo                 148    5      6       X
+Goderya, Hebah S         Aledo HS, Aledo                 148    6      4       X
+Boclair, Carter          Northwest H S, Justin           140    7
+Valdez, Hunter           Boswell HS, Fort Worth          122    8
+Powell, Garrett B        Aledo HS, Aledo                 120    9
+Schinnerer, Joseph       Saginaw HS, Saginaw             120    9
+Stonebreaker, Christian  Boswell HS, Fort Worth          118    11
+Curtin, Matthew          Boswell HS, Fort Worth          112    12
+Culwell, Steven          Chisholm Trail HS, Fort Worth   104    13
+Sanchez, Juan            Northwest Eaton HS, Fort Worth  100    14
+Miller, Wesley           Northwest H S, Justin           90     15
+Gonzales, Victoria       Northwest Eaton HS, Fort Worth  76     16
+Davis, James             Northwest H S, Justin           70     17
+Bradley, Brandon         Chisholm Trail HS, Fort Worth   64     18
+Otero, Ramsey            Northwest H S, Justin           56     19
+Le, Stephen              Saginaw HS, Saginaw             34     20
+Akopov, Elizabeth        Chisholm Trail HS, Fort Worth   26     21
+Norlem, Raymond          Saginaw HS, Saginaw             2      22
+Simpson, Jakob           Chisholm Trail HS, Fort Worth   0      23
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Boswell HS, Fort Worth          1     969    1      20      X      Region
+Northwest Eaton HS, Fort Worth  1     824    2      16      X      Alternate
+Northwest H S, Justin           1     590    3      12      X
+Saginaw HS, Saginaw             1     576    4
+Aledo HS, Aledo                 1     506    5
+Chisholm Trail HS, Fort Worth   1     489    6
+
+TEAM RESULTS
+------------------------------

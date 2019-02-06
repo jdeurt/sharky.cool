@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                       Score  Place  Points  Medal  Advance
+Nicks, Riley       Canton HS, Canton            166    1      15      X      Region
+Teuton, Dontae     Wills Point HS, Wills Point  74     2      11      X      Region
+Armstrong, Hunter  Rains H S, Emory             74     2      11      X      Region
+Suarez, Luis       Brownsboro HS, Brownsboro    73     4      8       X      Alternate
+Coffey, Chloe      Mabank HS, Mabank            64     5      6       X
+Henderson, Sara    Rains H S, Emory             50     6      4       X
+Sandlin, Colin     Mabank HS, Mabank            43     7
+Bacon, Brandon     Rains H S, Emory             42     8
+Schunatz, Jacoby   Mabank HS, Mabank            26     9
+Torres, Michael    Brownsboro HS, Brownsboro    25     10
+Phillips, Coalton  Brownsboro HS, Brownsboro    20     11
+Arent, Dacia       Van HS, Van                  18     12
+Jacobs, Ty         Rains H S, Emory             14     13
+Swanson, Robert    Van HS, Van                  13     14
+Hannawald, Aiden   Wills Point HS, Wills Point  11     15
+Williams, Cole     Brownsboro HS, Brownsboro    9      16
+Conrado, Michael   Canton HS, Canton            7      17
+Tidwell, Leyton    Canton HS, Canton            5      18
+Swanson, Timothy   Van HS, Van                  -1     19
+Sanchez, Isaiah    Mabank HS, Mabank            -4     20
+Bell, Kathryn      Wills Point HS, Wills Point  -5     21
+Picket, Cody       Van HS, Van                  -5     21
+Santiago, Ariana   Wills Point HS, Wills Point  -42    23
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Canton HS, Canton            1     178    1      10      X      Region
+Rains H S, Emory             1     166    2      5       X      Alternate
+Mabank HS, Mabank            1     133    3
+Brownsboro HS, Brownsboro    1     118    4
+Wills Point HS, Wills Point  1     80     5
+Van HS, Van                  1     30     6
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                        Score  Place  Points  Medal  Advance
+Dong, Jessica       Knippa H S, Knippa            110    1      15      X      Region
+Ramirez, Rebekah    Knippa H S, Knippa            96     2      12      X      Region
+White, Amanda D.    Nueces Canyon H S, Barksdale  62     3      10      X      Region
+Cox, Ryan           Knippa H S, Knippa            62     4      8       X      Alternate
+Gass, Coby          Knippa H S, Knippa            58     5      6       X
+Jensen, Jordan      Leakey H S, Leakey            56     6      4       X
+Rowland, Andrew     Knippa H S, Knippa            54     7
+Phillips, Maggie    Leakey H S, Leakey            48     8
+Flores, Daunte N.   Nueces Canyon H S, Barksdale  32     9
+Soto, Victoria      D'Hanis H S, D'Hanis          32     9
+Fenske, Meghan      Utopia HS, Utopia             30     11
+Weaver, Kayleen     Utopia HS, Utopia             22     12
+Bobo, Ashton        Leakey H S, Leakey            20     13
+Floyd, Kyle         Nueces Canyon H S, Barksdale  18     14
+Shannon, Cody       Knippa H S, Knippa            18     14
+Wilson, Shelby      Medina H S, Medina            14     16
+Wilson, Max         Leakey H S, Leakey            12     17
+Bohannan, Devin     Utopia HS, Utopia             10     18
+Falcon, Shania D.   Nueces Canyon H S, Barksdale  8      19
+Vernor, Micah E.    Nueces Canyon H S, Barksdale  8      19
+Cervera, Christian  Utopia HS, Utopia             8      19
+Mills, Emily        Medina H S, Medina            8      19
+Kay, Calsey         Utopia HS, Utopia             4      23
+Perez, Helen        Nueces Canyon H S, Barksdale  2      24
+Hinds, Jacob        Medina H S, Medina            -36    25
+
+TOP SCORERS
+------------------------------
+Contestant        School             Results               Points
+Ramirez, Rebekah  Knippa H S         Top Scorer Biology    3
+Cox, Ryan         Knippa H S         Alternate Biology     0
+Gass, Coby        Knippa H S         Top Scorer Chemistry  3
+White, Amanda D.  Nueces Canyon H S  Alternate Chemistry   0
+Ramirez, Rebekah  Knippa H S         Alternate Chemistry   0
+Dong, Jessica     Knippa H S         Alternate Chemistry   0
+Dong, Jessica     Knippa H S         Top Scorer Physics    3
+Ramirez, Rebekah  Knippa H S         Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Knippa H S, Knippa            1     268    1      10      X      Region
+Leakey H S, Leakey            1     124    2      5       X      Alternate
+Nueces Canyon H S, Barksdale  1     112    3
+Utopia HS, Utopia             1     62     4
+Medina H S, Medina            1     -14    5

@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                    School                         Score  Place  Points  Medal  Advance
+Dandamudi, Kushal             Dulles H S, Sugar Land         240    1      15      X      Region
+Zhang, Owen                   Clements HS, Sugar Land        232    2      12      X      Region
+Wang, Warren                  Clements HS, Sugar Land        224    3      10      X      Region
+Yang, Elvin                   Clements HS, Sugar Land        216    4      7       X      Alternate
+Mohan, Shree                  Dulles H S, Sugar Land         216    4      7       X      Alternate
+Wei, Ruocheng                 Dulles H S, Sugar Land         208    6      4       X
+Patel, Dhruv                  Dulles H S, Sugar Land         202    7
+Wang, Victor                  Clements HS, Sugar Land        200    8
+Affan Khurram, Syed Muhammad  Austin HS, Sugar Land          164    9
+Siu, Jason                    Austin HS, Sugar Land          160    10
+Glenny, Jake                  Ridge Point HS, Missouri City  158    11
+Benny, David                  Kempner H S, Sugar Land        146    12
+Pai, Prashanth                Kempner H S, Sugar Land        134    13
+Pierson, Anthony              Travis HS, Richmond            132    14
+Mei, Bowen                    Austin HS, Sugar Land          120    15
+Reddy, Nathan                 Kempner H S, Sugar Land        120    15
+Bello, Samuel                 Hightower H S, Missouri City   94     17
+Lambeck, Brayden              Travis HS, Richmond            92     18
+Omer, Ahson                   Travis HS, Richmond            86     19
+Ramaswamy, Sahana             Travis HS, Richmond            72     20
+Martinez-Vega, Leonardo       Hightower H S, Missouri City   44     21
+Madamba, Samantha             Ridge Point HS, Missouri City  28     22
+Villarreal, Liliana           Ridge Point HS, Missouri City  16     23
+Yonas, Benhur                 Hightower H S, Missouri City   16     23
+Chowdhury, Shafin             Hightower H S, Missouri City   0      25
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Clements HS, Sugar Land        1     1267   1      20      X      Region
+Dulles H S, Sugar Land         1     1019   2      16      X      Alternate
+Austin HS, Sugar Land          1     979    3      12      X
+Kempner H S, Sugar Land        1     750    4
+Travis HS, Richmond            1     550    5
+Ridge Point HS, Missouri City  1     442    6
+Hightower H S, Missouri City   1     274    7
+
+TEAM RESULTS
+------------------------------

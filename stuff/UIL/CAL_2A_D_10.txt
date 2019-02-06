@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                        Score  Place  Points  Medal  Advance
+Coyote, Gabriel     Ranger H S, Ranger            156    1      15      X      Region
+DeJong, Paige       Hamilton H S, Hamilton        109    2      12      X      Region
+Lozoya, Marlenne    Goldthwaite H S, Goldthwaite  107    3      10      X      Region
+Nunez, Xavier       Meridian H S, Meridian        106    4      8       X      Alternate
+Jones, Brittany     Hico H S, Hico                104    5      6       X
+Reynoso, Selina     Meridian H S, Meridian        99     6      4       X
+Perry, Megan        Santo H S, Santo              83     7
+Perry, Marissa      Santo H S, Santo              83     7
+Mersinger, Adra     Goldthwaite H S, Goldthwaite  79     9
+Dirkse, Zac         Meridian H S, Meridian        77     10
+Lira, Norah         Meridian H S, Meridian        72     11
+Richards, Holli     Santo H S, Santo              71     12
+McCarter, Karsen    Goldthwaite H S, Goldthwaite  70     13
+Villeda, Ramiro     Hico H S, Hico                53     14
+Andres, Alexis      Santo H S, Santo              47     15
+Polster, Elaine     Hamilton H S, Hamilton        42     16
+Zendejas, Jonathan  Hico H S, Hico                41     17
+Brown, Emily        Hamilton H S, Hamilton        30     18
+Martinez, Arturo    Ranger H S, Ranger            22     19
+Arenas, Brandon     De Leon HS, De Leon           -14    20
+Smith, Leela        De Leon HS, De Leon           -33    21
+Lainey, Hale        Hamilton H S, Hamilton        -45    22
+Ojeda, Jaqueline    Hico H S, Hico                -51    23
+Sides, Daniel       De Leon HS, De Leon           -114   24
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Meridian H S, Meridian        1     282    1      10      X      Region
+Goldthwaite H S, Goldthwaite  1     256    2      5       X      Alternate
+Santo H S, Santo              1     237    3
+Hico H S, Hico                1     198    4
+Hamilton H S, Hamilton        1     181    5
+De Leon HS, De Leon           1     -161   6
+
+TEAM RESULTS
+------------------------------

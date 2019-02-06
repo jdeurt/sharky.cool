@@ -1,0 +1,59 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Zhang, Phyllis       Lubbock HS, Lubbock                   294    1      15      X      State
+Carrillo, Gabriel    Canutillo HS, El Paso                 287    2      12      X      State
+Corona, Ricardo      Canutillo HS, El Paso                 285    3      10      X      State
+Lara, Brian          Canutillo HS, El Paso                 273    4      8       X      Alternate
+McCarty, Joseph      Lubbock HS, Lubbock                   244    5      6       X
+Carmona, Christian   Chapin HS, El Paso                    224    6      2       X
+Tovar, Carlos        Canutillo HS, El Paso                 224    6      2       X
+Santosa, Mardhika    Grapevine H S, Grapevine              217    8
+Watts, Jake          Lubbock HS, Lubbock                   211    9
+Cole, Annie          Azle HS, Azle                         211    9
+Montes, Daniela      Del Valle HS, El Paso                 210    11
+Olivas, Derek        Austin HS, El Paso                    209    12
+Moriel, Cesar        Del Valle HS, El Paso                 196    13
+Wilhelm, Holly       Dumas H S, Dumas                      191    14
+Marquez, Diana       Del Valle HS, El Paso                 189    15
+Yeh, Shao-Min        Lubbock HS, Lubbock                   184    16
+Conner, Jenna        Azle HS, Azle                         177    17
+Villagrana, Sandra   Young Women's Leadership, Fort Worth  177    17
+Torres, Abigail      Chapin HS, El Paso                    175    19
+Valencic, Luka       Grapevine H S, Grapevine              166    20
+Hill, Madison        Canyon HS, Canyon                     161    21
+Garcia, Robert       Del Valle HS, El Paso                 161    21
+Carlston, Nathan     Rider H S, Wichita Falls              158    23
+Santosa, Utari       Grapevine H S, Grapevine              158    23
+Sewell, Julian       Canyon HS, Canyon                     149    25
+Wilson, Sarah        Azle HS, Azle                         149    25
+Le, Kyle V.          Chapin HS, El Paso                    147    27
+Howard, Morgan       Canyon HS, Canyon                     147    27
+Fisher, Colton       Sherman H S, Sherman                  142    29
+Tanna, Vivek         Grapevine H S, Grapevine              139    30
+Hossain, Abdullah    Sherman H S, Sherman                  134    31
+Fernandez, Samantha  Canyon HS, Canyon                     133    32
+Baez, Hector         North Side HS, Fort Worth             120    33
+Dorris, Maddi        Sherman H S, Sherman                  114    34
+Lopez, Carolina      North Side HS, Fort Worth             114    34
+Mascorro, Janet      North Side HS, Fort Worth             96     36
+Alvarez, Yonathan    Chapin HS, El Paso                    93     37
+Arguello, Natalie    North Side HS, Fort Worth             92     38
+McGinn, Sarah        Sherman H S, Sherman                  74     39
+Schroeder, Griffin   Azle HS, Azle                         62     40
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Canutillo HS, El Paso      1     845    1      10      X      State
+Lubbock HS, Lubbock        1     749    2      5       X      Alternate
+Del Valle HS, El Paso      1     595    3
+Chapin HS, El Paso         1     546    4
+Grapevine H S, Grapevine   1     541    5
+Azle HS, Azle              1     537    6
+Canyon HS, Canyon          1     457    7
+Sherman H S, Sherman       1     390    8
+North Side HS, Fort Worth  1     330    9
+
+TEAM RESULTS
+------------------------------

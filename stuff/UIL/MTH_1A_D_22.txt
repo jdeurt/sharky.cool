@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                     Score  Place  Points  Medal  Advance
+Smith, Ashlyn       Savoy HS, Savoy            176    1      15      X      Region
+Pope, Jodi          Savoy HS, Savoy            128    2      12      X      Region
+Wang, Nicole        Savoy HS, Savoy            128    3      10      X      Region
+Overby, Tori        Savoy HS, Savoy            126    4      8       X      Alternate
+Horton, Jacey       Dodd City HS, Dodd City    30     5      6       X
+Esparza, Lizzie     Tioga HS, Tioga            24     6      2       X
+Glaze, Baylee       Tioga HS, Tioga            24     6      2       X
+Pandey, Saakshi     Ector H S, Ector           22     8
+Martinez, Lleysi    Tioga HS, Tioga            22     8
+Woodlee, Cassandra  Dodd City HS, Dodd City    12     10
+McLemore, Jackson   Dodd City HS, Dodd City    12     10
+Staples, Ethan      Tioga HS, Tioga            12     10
+Kaiser, Simon       Ector H S, Ector           10     13
+Janolo, Trisha      Universal Academy, Irving  4      14
+Oliver, Luke        Ector H S, Ector           -8     15
+Jones, McKenzee     Dodd City HS, Dodd City    -16    16
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Savoy HS, Savoy          1     432    1      10      X      Region
+Tioga HS, Tioga          1     70     2      5       X      Alternate
+Dodd City HS, Dodd City  1     54     3
+Ector H S, Ector         1     24     4
+
+TEAM RESULTS
+------------------------------

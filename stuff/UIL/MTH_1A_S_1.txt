@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal
+Walker, Jon        Bellevue HS, Bellevue      224    1      15      X
+Wang, Nicole       Savoy HS, Savoy            208    2      12      X
+Terry, Trey        Bellevue HS, Bellevue      166    3      10      X
+Pope, Jodi         Savoy HS, Savoy            158    4      8       X
+Barton, Mayson     Klondike HS, Lamesa        158    5      6       X
+Smith, Ashlyn      Savoy HS, Savoy            158    6      4       X
+Dong, Jessica      Knippa H S, Knippa         148    7
+Morris, Karter     Aspermont HS, Aspermont    144    8
+Detwiler, Emma     Hartley H S, Hartley       136    9
+Guthrie, Marin     Santa Anna HS, Santa Anna  122    10
+Jung, Anna         Klondike HS, Lamesa        122    10
+Overby, Tori       Savoy HS, Savoy            106    12
+Eckeberger, Jacob  Bellevue HS, Bellevue      106    12
+Allen, Tyler       Bellevue HS, Bellevue      104    14
+Keeney, Bethany    Knippa H S, Knippa         102    15
+Sandoval, Yaretzi  Guthrie HS, Guthrie        98     16
+Ramirez, Rebekah   Knippa H S, Knippa         96     17
+Cox, Ryan          Knippa H S, Knippa         94     18
+Maxwell, Reagan    Guthrie HS, Guthrie        92     19
+Gibson, PL         Guthrie HS, Guthrie        84     20
+Dyck, Dustin       Klondike HS, Lamesa        66     21
+Beck, Brianna      Klondike HS, Lamesa        64     22
+Miyake, Ayaka      Balmorhea HS, Balmorhea    62     23
+Mays, TK           Guthrie HS, Guthrie        50     24
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Savoy HS, Savoy        1     524    1      10      X
+Bellevue HS, Bellevue  1     496    2      5       X      Alternate
+Knippa H S, Knippa     1     346    3
+Klondike HS, Lamesa    1     346    4
+Guthrie HS, Guthrie    1     274    5
+
+TEAM RESULTS
+------------------------------

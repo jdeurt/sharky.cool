@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                    Score  Place  Points  Medal  Advance
+Evans, Julia       Sundown H S, Sundown      232    1      15      X      Region
+Webb, Brittan      Sundown H S, Sundown      222    2      12      X      Region
+Beadles, Jacob     Sundown H S, Sundown      182    3      10      X      Region
+Terry, Abbigail    Sundown H S, Sundown      176    4      8       X      Alternate
+McWhirter, Brea    Plains HS, Plains         74     5      6       X
+Taylor, Lauren     Smyer H S, Smyer          70     6      4       X
+Humphries, Cade    Seagraves H S, Seagraves  44     7
+Stith, Aryiah      Smyer H S, Smyer          44     7
+Hernandez, Frank   Smyer H S, Smyer          38     9
+McWhirter, Brynne  Plains HS, Plains         34     10
+Earnest, Carson    Plains HS, Plains         34     10
+Fuentes, Jaden     Smyer H S, Smyer          32     12
+Friesen, Frank     Seagraves H S, Seagraves  26     13
+Arriaga, Daniel V  Tahoka HS, Tahoka         22     14
+Garrett, Porsha    Morton HS, Morton         14     15
+Martin, Emilee     Plains HS, Plains         12     16
+Moya, Madison L    Tahoka HS, Tahoka         8      17
+Guajardo, Natalie  Morton HS, Morton         8      17
+Mendoza, Alan      Seagraves H S, Seagraves  4      19
+Harper, Cami       Seagraves H S, Seagraves  2      20
+Montoya, Ylexus    Morton HS, Morton         0      21
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Sundown H S, Sundown      1     636    1      10      X      Region
+Smyer H S, Smyer          1     152    2      5       X      Alternate
+Plains HS, Plains         1     142    3
+Seagraves H S, Seagraves  1     74     4
+Morton HS, Morton         1     22     5
+
+TEAM RESULTS
+------------------------------

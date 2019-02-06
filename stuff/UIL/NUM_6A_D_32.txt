@@ -1,0 +1,64 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                Score  Place  Points  Medal  Advance
+Cua, Miles            Science Academy, Mercedes             254    1      15      X      Region
+Holla, Satya          Science Academy, Mercedes             194    2      12      X      Region
+Carlos, Jose          Los Fresnos H S, Los Fresnos          151    3      10      X      Region
+Sponsler, Connor      Los Fresnos H S, Los Fresnos          147    4      8       X      Alternate
+Vega, Samuel Davil    Science Academy, Mercedes             141    5      6       X
+Montes, Alexandra     Los Fresnos H S, Los Fresnos          138    6      4       X
+Haefeli, Amanda       Science Academy, Mercedes             100    7
+Trovela, Khrista      Los Fresnos H S, Los Fresnos          94     8
+Charles, Hector       Rivera HS, Brownsville                92     9
+Pawig, Roj            Harlingen South HS, Harlingen         72     10
+Donhin, Katherine     Harlingen South HS, Harlingen         57     11
+Rodriguez, Abraham    S TX Bus Ed & Tech Academy, Edinburg  55     12
+Wang, Siyan           Harlingen South HS, Harlingen         49     13
+Trahru, Priya         S Texas Acad of Medical Tech, Olmito  35     14
+Mejia, Adrian         S TX Bus Ed & Tech Academy, Edinburg  32     15
+Rios, Alyssa          Harlingen South HS, Harlingen         29     16
+Reza, Maverick        San Benito HS, San Benito             28     17
+Mendoza, Natelie      Hanna H S, Brownsville                28     17
+Velazquez, Juan       San Benito HS, San Benito             25     19
+Olivares, Fabian      San Benito HS, San Benito             22     20
+Otero, Manuel         Harlingen HS, Harlingen               17     21
+Reyes, Francisco      Rivera HS, Brownsville                16     22
+Leija, Norberto       Weslaco East HS, Weslaco              11     23
+Mena, Savannah        S TX Bus Ed & Tech Academy, Edinburg  11     23
+Hernandez, Kassandra  Weslaco HS, Weslaco                   5      25
+Delgado, Samantha     Rivera HS, Brownsville                4      26
+Castorena, Pedro      Weslaco HS, Weslaco                   2      27
+Garcia, Arnold        Hanna H S, Brownsville                2      27
+Garcia, Rolando       Weslaco HS, Weslaco                   1      29
+Lopez, Juan           S TX Bus Ed & Tech Academy, Edinburg  0      30
+Meza, Jennifer        Weslaco East HS, Weslaco              0      30
+Vasquez, Oscar        Weslaco HS, Weslaco                   0      30
+Montemayor, Alfredo   Harlingen HS, Harlingen               0      30
+Lucio, Caleb          Harlingen HS, Harlingen               0      30
+Rodriguez, Isaiah     Harlingen HS, Harlingen               0      30
+Hurtado, Diego        S Texas Acad of Medical Tech, Olmito  0      30
+Ochoa, Keyla          San Benito HS, San Benito             -1     37
+Zamfir, George        Hanna H S, Brownsville                -4     38
+Liu, Kevin            Weslaco East HS, Weslaco              -5     39
+Ojeda, Adrian         S Texas Acad of Medical Tech, Olmito  -10    40
+Martinez, Anakin      Hanna H S, Brownsville                -28    41
+Noor, Rana            Health Prof H S, Mercedes             -29    42
+Cuellar, Alondra      S Texas Acad of Medical Tech, Olmito  -91    43
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Science Academy, Mercedes             1     589    1      10      X      Region
+Los Fresnos H S, Los Fresnos          1     436    2      5       X      Alternate
+Harlingen South HS, Harlingen         1     178    3
+Rivera HS, Brownsville                1     112    4
+S TX Bus Ed & Tech Academy, Edinburg  1     98     5
+San Benito HS, San Benito             1     75     6
+Hanna H S, Brownsville                1     26     7
+S Texas Acad of Medical Tech, Olmito  1     25     8
+Harlingen HS, Harlingen               1     17     9
+Weslaco HS, Weslaco                   1     8      10
+Weslaco East HS, Weslaco              1     6      11
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,52 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                  Score  Place  Points  Medal  Advance
+Haque, Arnob         London HS, Corpus Christi               92     1      15      X      Region
+Soto, Sergio         Santa Gertrudis Academy HS, Kingsville  88     2      12      X      Region
+Chen, Po-Kwang       Santa Gertrudis Academy HS, Kingsville  78     3      10      X      Region
+Shelton, Joshua      London HS, Corpus Christi               72     4      7       X      Alternate
+Ankele, Raney        Bishop HS, Bishop                       72     4      7       X      Alternate
+Sun, Matthew         London HS, Corpus Christi               68     6      4       X
+Peel, Madelyn        Santa Gertrudis Academy HS, Kingsville  58     7
+Arnold, Cassidy      Bishop HS, Bishop                       52     8
+Perez, Bryan         Bishop HS, Bishop                       48     9
+Kalinec, Emily       Santa Gertrudis Academy HS, Kingsville  46     10
+Houf, William        Santa Gertrudis Academy HS, Kingsville  40     11
+Garza, Joseph        Falfurrias H S, Falfurrias              40     11
+Reeves, Curtis       London HS, Corpus Christi               34     13
+Brown, Trent         Santa Gertrudis Academy HS, Kingsville  34     13
+Lopez, Jonas         Falfurrias H S, Falfurrias              26     15
+Williams, Jacob      Bishop HS, Bishop                       24     16
+Burke, Patrick       Falfurrias H S, Falfurrias              22     17
+Robles, Cryselda     Banquete HS, Banquete                   22     17
+Zamudio, Antonio     Bishop HS, Bishop                       20     19
+Fuentes, Nicollette  Falfurrias H S, Falfurrias              18     20
+Petri, Emma          London HS, Corpus Christi               10     21
+Hammann, Meredith    London HS, Corpus Christi               10     21
+Houston, Devin       Bishop HS, Bishop                       10     21
+Moreno, Omar         Falfurrias H S, Falfurrias              6      24
+Salinas, Brianna     Banquete HS, Banquete                   4      25
+Cervantes, Daisy     Falfurrias H S, Falfurrias              4      25
+Seagroves, David     Banquete HS, Banquete                   2      27
+Lerma, Robert        Banquete HS, Banquete                   -8     28
+Rodriguez, Jerson    Banquete HS, Banquete                   -32    29
+
+TOP SCORERS
+------------------------------
+Contestant        School                      Results               Points
+Soto, Sergio      Santa Gertrudis Academy HS  Top Scorer Biology    3
+Chen, Po-Kwang    Santa Gertrudis Academy HS  Alternate Biology     0
+Ankele, Raney     Bishop HS                   Alternate Biology     0
+Haque, Arnob      London HS                   Top Scorer Chemistry  3
+Chen, Po-Kwang    Santa Gertrudis Academy HS  Alternate Chemistry   0
+Shelton, Joshua   London HS                   Top Scorer Physics    3
+Robles, Cryselda  Banquete HS                 Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+London HS, Corpus Christi               1     232    1      10      X      Region
+Santa Gertrudis Academy HS, Kingsville  1     224    2      5       X      Alternate
+Bishop HS, Bishop                       1     172    3
+Falfurrias H S, Falfurrias              1     88     4
+Banquete HS, Banquete                   1     28     5

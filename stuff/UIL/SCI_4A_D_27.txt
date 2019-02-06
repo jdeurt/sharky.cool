@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                                 Score  Place  Points  Medal  Advance
+Cranford, Preston         Wimberley HS, Wimberley                240    1      15      X      Region
+Latz, Drew                Wimberley HS, Wimberley                150    2      12      X      Region
+Merritt, Jillian          Wimberley HS, Wimberley                132    3      10      X      Region
+Pecina, Eric              Gonzales HS, Gonzales                  108    4      8       X      Alternate
+Lowak, Brian              La Vernia HS, La Vernia                88     5      6       X
+Love, Julia               Wimberley HS, Wimberley                82     6      4       X
+McLemore, Ben             Wimberley HS, Wimberley                78     7
+Dirks, Annabelle          La Vernia HS, La Vernia                58     8
+Price, Joshua             Wimberley HS, Wimberley                58     8
+Flinn, Nick               Navarro HS, Geronimo                   52     10
+Lofland, James            Gonzales HS, Gonzales                  46     11
+Gamez, Saul               Gonzales HS, Gonzales                  38     12
+Ortiz, Jean               Gonzales HS, Gonzales                  30     13
+Palacios-Solis, Jennifer  Navarro HS, Geronimo                   30     13
+Kimbrough, Omarree        La Vernia HS, La Vernia                24     15
+Sanchez, Carlos           Gonzales HS, Gonzales                  22     16
+Barnes, Brooklynne        La Vernia HS, La Vernia                14     17
+Reinhard, Walker          La Vernia HS, La Vernia                14     17
+Rivera, Adrian            Gonzales HS, Gonzales                  12     19
+Peters, Blaine            La Vernia HS, La Vernia                6      20
+Garcia, Michael           Judson Veterans Memorial, San Antonio  0      21
+
+TOP SCORERS
+------------------------------
+Contestant         School        Results               Points
+Merritt, Jillian   Wimberley HS  Top Scorer Biology    3
+Pecina, Eric       Gonzales HS   Alternate Biology     0
+Cranford, Preston  Wimberley HS  Top Scorer Chemistry  3
+Latz, Drew         Wimberley HS  Alternate Chemistry   0
+Cranford, Preston  Wimberley HS  Top Scorer Physics    3
+McLemore, Ben      Wimberley HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Wimberley HS, Wimberley  1     522    1      10      X      Region
+Gonzales HS, Gonzales    1     192    2      5       X      Alternate
+La Vernia HS, La Vernia  1     170    3

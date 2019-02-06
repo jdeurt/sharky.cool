@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                  Score  Place  Points  Medal  Advance
+Whitmire, Caleb      Mount Enterprise H S, Mount Enterprise  32     1      15      X      Region
+Brown, Jesse         Cushing HS, Cushing                     32     2      12      X      Region
+Tolentino, Linda T   Douglass H S, Douglass                  30     3      10      X      Region
+Smith, Jacklin M     Douglass H S, Douglass                  28     4      8       X      Alternate
+West, Harmon         Alto HS, Alto                           22     5      6       X
+Bludworth, Luke      Douglass H S, Douglass                  18     6      2       X
+Poskey, Jacob        Cushing HS, Cushing                     18     6      2       X
+Grammer, Allie P     Douglass H S, Douglass                  18     8
+Broumley, Kyelie     Cushing HS, Cushing                     18     8
+Gowin, Skylar        Alto HS, Alto                           18     10
+Reeves, Marlin       Cushing HS, Cushing                     18     11
+Fitzgerald, Tanner   Mount Enterprise H S, Mount Enterprise  16     12
+Bush, Hunter         Alto HS, Alto                           16     12
+Phillips, Jacob      Mount Enterprise H S, Mount Enterprise  14     14
+Harry, Connor G      Douglass H S, Douglass                  14     14
+Lee, Amos            Cushing HS, Cushing                     14     14
+Humphries, Joseph    Cushing HS, Cushing                     8      17
+Griffith, Christian  Mount Enterprise H S, Mount Enterprise  8      17
+Reeves, Collin       Mount Enterprise H S, Mount Enterprise  6      19
+Jackson, Lane        Alto HS, Alto                           -2     20
+
+TOP SCORERS
+------------------------------
+Contestant          School                Results               Points
+Whitmire, Caleb     Mount Enterprise H S  Top Scorer Biology    3
+Tolentino, Linda T  Douglass H S          Alternate Biology     0
+Brown, Jesse        Cushing HS            Alternate Biology     0
+Bludworth, Luke     Douglass H S          Top Scorer Chemistry  3
+Reeves, Collin      Mount Enterprise H S  Alternate Chemistry   0
+Tolentino, Linda T  Douglass H S          Alternate Chemistry   0
+Broumley, Kyelie    Cushing HS            Alternate Chemistry   0
+Smith, Jacklin M    Douglass H S          Top Scorer Physics    3
+Gowin, Skylar       Alto HS               Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Douglass H S, Douglass                  1     76     1      10      X      Region
+Cushing HS, Cushing                     1     68     2      5       X      Alternate
+Mount Enterprise H S, Mount Enterprise  1     62     3
+Alto HS, Alto                           1     56     4

@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                             Score  Place  Points  Medal  Advance
+Hiesler, Jeremy   Grandview H S, Grandview           70     1      15      X      Region
+Pinter, Robert    Maypearl H S, Maypearl             60     2      12      X      Region
+Hayes, Noah       Grandview H S, Grandview           56     3      10      X      Region
+Rangel, Jaime     Palmer H S, Palmer                 54     4      8       X      Alternate
+Sanchez, Brianna  Mildred H S, Corsicana             48     5      6       X
+Gray, Robin       Blooming Grove HS, Blooming Grove  46     6      4       X
+Graham, Peyton    Maypearl H S, Maypearl             46     7
+Grimes, Daniel    Blooming Grove HS, Blooming Grove  44     8
+Hanna, Brody      Mildred H S, Corsicana             44     8
+Deloney, Kelton   Palmer H S, Palmer                 42     10
+Bons, Jake        Grandview H S, Grandview           40     11
+Ha, SeoYoung      Grandview H S, Grandview           34     12
+Rucks, Camden     Blooming Grove HS, Blooming Grove  32     13
+Mancera, Maria    Palmer H S, Palmer                 26     14
+Smith, Hannah     Mildred H S, Corsicana             22     15
+Nava, Maria       Palmer H S, Palmer                 8      16
+Fisher, Kasey     Blooming Grove HS, Blooming Grove  8      16
+Chaney, Katrina   Maypearl H S, Maypearl             2      18
+Price, Rusty      Mildred H S, Corsicana             -10    19
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Grandview H S, Grandview           1     166    1      10      X      Region
+Blooming Grove HS, Blooming Grove  1     122    2      2.50    X      Alternate
+Palmer H S, Palmer                 1     122    2      2.50    X      Alternate
+Mildred H S, Corsicana             1     114    4
+Maypearl H S, Maypearl             1     108    5
+
+TEAM RESULTS
+------------------------------

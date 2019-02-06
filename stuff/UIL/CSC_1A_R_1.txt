@@ -1,0 +1,51 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+Boston, Lance         Booker HS, Booker            98     1      15      X      State
+Ortiz, Laura          Springlake H S, Earth        38     2      12      X      State
+Trajkovski, Kristina  Knox City HS, Knox City      36     3      10      X      State
+Bradfute, Shelton     Springlake H S, Earth        28     4      8       X      Alternate
+Gibson, PL            Guthrie HS, Guthrie          26     5      6       X
+Crawford, Christina   Whiteface HS, Whiteface      22     6      4       X
+Ramirez, Valentine    Booker HS, Booker            20     7
+Hunt, Zoey            Meadow HS, Meadow            20     7
+Medina, Jonathan      Springlake H S, Earth        16     9
+Castillo, Aliyah      Meadow HS, Meadow            16     9
+Rinke, Justus R       Hedley H S, Hedley           14     11
+Jones, Karlee         Springlake H S, Earth        14     11
+Brandon, Brittany     Guthrie HS, Guthrie          14     11
+Bhakta, Kabir         Kelton HS, Wheeler           12     14
+Maxwell, Reagan       Guthrie HS, Guthrie          10     15
+Dominguez, Daniel     Booker HS, Booker            8      16
+Moore, Kai            Happy HS, Happy              8      16
+Nelson, Tristan       Nazareth H S, Nazareth       6      18
+Phillips, Haidyn      Booker HS, Booker            4      19
+Davis, Jackson        Happy HS, Happy              4      19
+Fulkerson, Katherine  Nazareth H S, Nazareth       4      19
+Sanchez, Frankie      Whiteface HS, Whiteface      4      19
+McKnight, Benjamin    Crowell HS, Crowell          4      19
+Scogin, Tye           Jayton H S, Jayton           2      24
+Hacker, Shawn         Knox City HS, Knox City      2      24
+Sandoval, Yaretzi     Guthrie HS, Guthrie          0      26
+Mestas, Zarek L       Hedley H S, Hedley           -2     27
+Bryan, Ceara          Meadow HS, Meadow            -2     27
+Monroe, Collin T      Hedley H S, Hedley           -4     29
+Valentine, Jonathan   Meadow HS, Meadow            -4     29
+Rivas, Daniel         Whiteface HS, Whiteface      -8     31
+Logsdon, Sean         Knox City HS, Knox City      -8     31
+Hooser, Tanner        Chillicothe HS, Chillicothe  -12    33
+Huntress, Jacob       Darrouzett HS, Darrouzett    -36    34
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Booker HS, Booker        1     356    1      20      X      State
+Springlake H S, Earth    1     202    2      16      X      Alternate
+Guthrie HS, Guthrie      1     110    3      12      X
+Meadow HS, Meadow        1     94     4
+Knox City HS, Knox City  1     90     5
+Whiteface HS, Whiteface  1     78     6
+Hedley H S, Hedley       1     8      7
+
+TEAM RESULTS
+------------------------------

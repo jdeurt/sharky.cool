@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                          Score  Place  Points  Medal  Advance
+Guthrie, Marin      Santa Anna HS, Santa Anna       124    1      15      X      Region
+Walker, Larson      Cross Plains H S, Cross Plains  102    2      12      X      Region
+Bien, Jacy          Cross Plains H S, Cross Plains  86     3      10      X      Region
+Lara, Mateo         Santa Anna HS, Santa Anna       68     4      8       X      Alternate
+Calfa, Angie        Santa Anna HS, Santa Anna       56     5      6       X
+Sanchez, Viviana    May HS, May                     40     6      4       X
+White, Elizabeth    May HS, May                     40     7
+Ancell, Jaidyn      Eula H S, Clyde                 36     8
+Luckow, Jason       Eula H S, Clyde                 36     8
+Crockett, Joseph    Cross Plains H S, Cross Plains  34     10
+Corns, Jaymee       Santa Anna HS, Santa Anna       32     11
+Waller, Lauren      Baird HS, Baird                 30     12
+Magovern, Alyssa    Eula H S, Clyde                 28     13
+Steubing, D         Rising Star HS, Rising Star     24     14
+McKinney, Kolby     Cross Plains H S, Cross Plains  16     15
+Head, Harvey        Baird HS, Baird                 16     15
+Patterson, W        Rising Star HS, Rising Star     14     17
+Murphree, Melanie   May HS, May                     14     17
+Sternadel, Austin   Panther Creek HS, Valera        12     19
+Brame, Tyler        Baird HS, Baird                 12     19
+Halliburton, Aaron  Baird HS, Baird                 0      21
+Jackson, Canyon     Panther Creek HS, Valera        -6     22
+Woodcox, Stetson    Panther Creek HS, Valera        -16    23
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Santa Anna HS, Santa Anna       1     248    1      10      X      Region
+Cross Plains H S, Cross Plains  1     222    2      5       X      Alternate
+Eula H S, Clyde                 1     100    3
+May HS, May                     1     94     4
+Baird HS, Baird                 1     58     5
+Panther Creek HS, Valera        1     -10    6
+
+TEAM RESULTS
+------------------------------

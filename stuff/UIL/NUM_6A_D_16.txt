@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                 Score  Place  Points  Medal  Advance
+Chan, Angela          Westfield HS, Houston                  73     1      15      X      Region
+Nguyen, Binh          Davis (Aldine ISD) HS, Houston         67     2      12      X      Region
+Ekeruche, Esu Joy     Westfield HS, Houston                  56     3      10      X      Region
+Santiago, Allaiza     Davis (Aldine ISD) HS, Houston         42     4      8       X      Alternate
+Stewart, Jamal        Spring HS, Spring                      34     5      6       X
+Perez Lopez, Karen    Davis (Aldine ISD) HS, Houston         31     6      4       X
+Ng, Rachel            Westfield HS, Houston                  22     7
+Castaneda, Alexander  Eisenhower H S, Houston                14     8
+Do, Christine N       Spring Early College Acad HS, Houston  8      9
+Nguyen, Diem N        Spring Early College Acad HS, Houston  8      9
+Blakley, Riley        Westfield HS, Houston                  7      11
+Moreno, Bryan         Macarthur HS, Houston                  0      12
+Gonzalez, Joceline    Eisenhower H S, Houston                0      12
+Barreda, Kaylie       Spring HS, Spring                      -1     14
+Mai, Peter            Spring Early College Acad HS, Houston  -1     14
+Rivera Sanchez, Jose  Spring Wunsche Sr. HS, Spring          -6     16
+Duong, Linda          Eisenhower H S, Houston                -11    17
+Pablo, Leon           Macarthur HS, Houston                  -16    18
+Rodriguez, Eulogio    Macarthur HS, Houston                  -16    18
+King, Madison         Spring HS, Spring                      -17    20
+Kent, Sheyanne        Spring HS, Spring                      -22    21
+Alyousef, Lujain H    Spring Early College Acad HS, Houston  -25    22
+Beltran, Christopher  Macarthur HS, Houston                  -33    23
+Viruez, Tani          Davis (Aldine ISD) HS, Houston         -36    24
+
+TOP SCORERS
+------------------------------
+School                                 Team  Score  Place  Points  Medal  Advance
+Westfield HS, Houston                  1     151    1      10      X      Region
+Davis (Aldine ISD) HS, Houston         1     140    2      5       X      Alternate
+Spring HS, Spring                      1     16     3
+Spring Early College Acad HS, Houston  1     15     4
+Eisenhower H S, Houston                1     3      5
+Macarthur HS, Houston                  1     -32    6
+
+TEAM RESULTS
+------------------------------

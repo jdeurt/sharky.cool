@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School               Score  Place  Points  Medal  Advance
+Gibson, PL            Guthrie HS, Guthrie  18     1      15      X      Region
+Sandoval, Yaretzi     Guthrie HS, Guthrie  8      2      12      X      Region
+Maxwell, Reagan       Guthrie HS, Guthrie  6      3      9       X      Region
+Scogin, Tye           Jayton H S, Jayton   6      3      9       X      Region
+Adams, Keaton         Spur HS, Spur        2      5      6       X      Alternate
+LeCroy, Lexi K.       Paducah HS, Paducah  0      6      2       X
+Frawner, Mickalea A.  Paducah HS, Paducah  0      6      2       X
+Griswold, Clay        Jayton H S, Jayton   -2     8
+Awe, Kaden            Jayton H S, Jayton   -2     8
+Smith, Pecos          Jayton H S, Jayton   -2     8
+Medford, Danielle R.  Paducah HS, Paducah  -2     8
+Solis, Ivan           Spur HS, Spur        -2     8
+Brendle, Kaleb        Guthrie HS, Guthrie  -4     13
+Rieger, Jaden         Spur HS, Spur        -4     13
+
+TOP SCORERS
+------------------------------
+School               Team  Score  Place  Points  Medal  Advance
+Guthrie HS, Guthrie  1     92     1      20      X      Region
+Spur HS, Spur        1     51     2      16      X      Alternate
+Jayton H S, Jayton   1     2      3      12      X
+Paducah HS, Paducah  1     -2     4
+
+TEAM RESULTS
+------------------------------

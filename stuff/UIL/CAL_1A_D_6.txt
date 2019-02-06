@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Clabaugh, Jabree   Ropes HS, Ropesville       154    1      15      X      Region
+Senter, Sayer      Ropes HS, Ropesville       147    2      12      X      Region
+Medlock, Payton    Ropes HS, Ropesville       126    3      10      X      Region
+Nalle, Jenna       Ropes HS, Ropesville       121    4      8       X      Alternate
+Lucas, Kamryn      New Home HS, New Home      71     5      6       X
+Gill, Kyley        New Home HS, New Home      69     6      4       X
+Harvey, Jordan     Wellman-Union HS, Wellman  63     7
+Hildebrand, Julie  Wellman-Union HS, Wellman  56     8
+Wiebe, Jonathan    Wellman-Union HS, Wellman  49     9
+Castillo, Aliyah   Meadow HS, Meadow          29     10
+Sotkes, Dalton     New Home HS, New Home      22     11
+Smith, McKenna     Meadow HS, Meadow          8      12
+Ballard, Ashlyn    New Home HS, New Home      6      13
+Silva, Nevaeh      Meadow HS, Meadow          -6     14
+Silva, Zariiya     Meadow HS, Meadow          -34    15
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Ropes HS, Ropesville       1     427    1      10      X      Region
+Wellman-Union HS, Wellman  1     168    2      5       X      Alternate
+New Home HS, New Home      1     162    3
+Meadow HS, Meadow          1     31     4
+
+TEAM RESULTS
+------------------------------

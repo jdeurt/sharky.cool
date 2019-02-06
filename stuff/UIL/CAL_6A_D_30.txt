@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Medina, David         Mission H S, Mission                    259    1      15      X      Region
+PINA, XAVIER          Palmview HS, La Joya                    203    2      12      X      Region
+Rodriguez, Gabriel    Mission H S, Mission                    203    3      10      X      Region
+Hernanez, Alejandro   Mission H S, Mission                    196    4      7       X      Alternate
+Garza, Josiah         La Joya H S, La Joya                    196    4      7       X      Alternate
+Pena, Rodolfo         La Joya H S, La Joya                    189    6      4       X
+Trevino, Javier       La Joya H S, La Joya                    189    7
+Garza, Alyssa         Mission H S, Mission                    182    8
+Sanchez, Jose         La Joya H S, La Joya                    175    9
+Jo, John              Memorial H S, McAllen                   168    10
+Hernandez, Sofia      Memorial H S, McAllen                   154    11
+SALINAS, YANEXY       Palmview HS, La Joya                    150    12
+El Jirby, Mahdi       Mission Collegiate HS, Mission          147    13
+Guerrero, Xitlali     Salinas STEM Early College HS, La Joya  140    14
+Mares, Kevin          Salinas STEM Early College HS, La Joya  135    15
+Gomez, Jose Luis      Memorial H S, McAllen                   120    16
+Lugo, Yvianna         Carter Early College HS, La Joya        120    16
+RAYA, MICHELLE        Palmview HS, La Joya                    119    18
+Velasquez, Emil       Achieve Early HS, McAllen               111    19
+Becerril, Nancy       Achieve Early HS, McAllen               105    20
+Cantu, Antonio        Achieve Early HS, McAllen               102    21
+Mosqueda, Imaltzin    Salinas STEM Early College HS, La Joya  96     22
+ALANIS, ELVIRA        Palmview HS, La Joya                    93     23
+Tijerina, Ronaldo     Memorial H S, McAllen                   90     24
+Richardson, James     Rowe H S, McAllen                       84     25
+Villarreal, Adamara   Palmview HS, La Joya                    77     26
+Martinez, Carina      Mission Collegiate HS, Mission          69     27
+Becerril, Javier      Achieve Early HS, McAllen               65     28
+Salinas, Ricardo      McAllen HS, McAllen                     55     29
+Cantu, Frida          Mission Collegiate HS, Mission          51     30
+Velasco, Fernanda     McAllen HS, McAllen                     41     31
+Betancourt, Carolina  Salinas STEM Early College HS, La Joya  30     32
+Vallejo, Haleiwa      McAllen HS, McAllen                     22     33
+Stevens, Valeria      McAllen HS, McAllen                     13     34
+Botello, David        Carter Early College HS, La Joya        0      35
+Quinonez, Analy       Carter Early College HS, La Joya        0      35
+Cruz, Erik            Carter Early College HS, La Joya        0      35
+Gomez, Aaliyah        Rowe H S, McAllen                       -17    38
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Mission H S, Mission                    1     658    1      10      X      Region
+La Joya H S, La Joya                    1     574    2      5       X      Alternate
+Palmview HS, La Joya                    1     472    3
+Memorial H S, McAllen                   1     442    4
+Salinas STEM Early College HS, La Joya  1     371    5
+Achieve Early HS, McAllen               1     318    6
+Mission Collegiate HS, Mission          1     267    7
+Carter Early College HS, La Joya        1     120    8
+McAllen HS, McAllen                     1     118    9
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Diaz, Victor         Science-Eng Magnet Hs, Dallas         259    1      15      X      Region
+Chandak, Yash        Science-Eng Magnet Hs, Dallas         238    2      12      X      Region
+Rege, Raviraj        Science-Eng Magnet Hs, Dallas         238    3      10      X      Region
+Pham, Valentina      Science-Eng Magnet Hs, Dallas         147    4      8       X      Alternate
+Budhrani, Maya       Rangel YWL School, Dallas             126    5      6       X
+Amenewolde, Peter    School for Talented & Gifted, Dallas  105    6      4       X
+Mendoza, Rogelio     Skyline HS, Dallas                    87     7
+Hernandez, Georgina  Sanders Law Magnet, Dallas            86     8
+Seenivasa, Sid       School for Talented & Gifted, Dallas  67     9
+Meza, Cinthya        Rangel YWL School, Dallas             53     10
+Perales, Rania       Sanders Law Magnet, Dallas            51     11
+Servin, Diego        Skyline HS, Dallas                    46     12
+Moreno, Jacqueline   Sanders Law Magnet, Dallas            23     13
+Ramirez, Adrian      Sanders Law Magnet, Dallas            22     14
+Romero, Manuel       Skyline HS, Dallas                    -5     15
+Wells, Blaine        School for Talented & Gifted, Dallas  -8     16
+Pedroza, Vanessa     School of Business & Mgmt, Dallas     -14    17
+Roman, Sebastian     School of Business & Mgmt, Dallas     -22    18
+Yahia, Ettesaf       School for Talented & Gifted, Dallas  -24    19
+Martinez, Octavio    School of Business & Mgmt, Dallas     -48    20
+Puente, Victoria     Rangel YWL School, Dallas             -50    21
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Science-Eng Magnet Hs, Dallas         1     735    1      10      X      Region
+School for Talented & Gifted, Dallas  1     164    2      5       X      Alternate
+Sanders Law Magnet, Dallas            1     160    3
+Rangel YWL School, Dallas             1     129    4
+Skyline HS, Dallas                    1     128    5
+School of Business & Mgmt, Dallas     1     -84    6
+
+TEAM RESULTS
+------------------------------

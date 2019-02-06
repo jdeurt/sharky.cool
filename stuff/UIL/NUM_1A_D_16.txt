@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Hennig, William     Paint Rock HS, Paint Rock               74     1      15      X      Region
+Porch, Zayne        Cherokee HS, Cherokee                   26     2      12      X      Region
+Schultz, Ben        Richland Springs H S, Richland Springs  25     3      10      X      Region
+Hernandez, Nathan   Eden HS, Eden                           20     4      8       X      Alternate
+Thomas, Aaricka     Eden HS, Eden                           17     5      5       X
+Watkins, Ryan       Eden HS, Eden                           17     5      5       X
+Burkhart, Jordan    Richland Springs H S, Richland Springs  16     7
+Castorena, Claire   Menard HS, Menard                       15     8
+Brown, Linden       Richland Springs H S, Richland Springs  14     9
+Stone, Austin       Paint Rock HS, Paint Rock               11     10
+Hernandez, Matthew  Eden HS, Eden                           11     10
+Stidham, Anna       Rochelle HS, Rochelle                   9      12
+Medrano, Emmanuel   Cherokee HS, Cherokee                   8      13
+Harding, Kolton     Cherokee HS, Cherokee                   6      14
+Wolfe, Meagan       Rochelle HS, Rochelle                   5      15
+Barron, Christian   Rochelle HS, Rochelle                   4      16
+Brown, Zach         Richland Springs H S, Richland Springs  0      17
+Hall, Chase         Rochelle HS, Rochelle                   -7     18
+Paik, Crista        Cherokee HS, Cherokee                   -8     19
+Williams, Alyree    Lohn HS, Lohn                           -22    20
+Durden, Zayne       Menard HS, Menard                       -46    21
+Hill, Garrett       Menard HS, Menard                       -51    22
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Richland Springs H S, Richland Springs  1     55     1      10      X      Region
+Eden HS, Eden                           1     54     2      5       X      Alternate
+Cherokee HS, Cherokee                   1     40     3
+Rochelle HS, Rochelle                   1     18     4
+Menard HS, Menard                       1     -82    5
+
+TEAM RESULTS
+------------------------------

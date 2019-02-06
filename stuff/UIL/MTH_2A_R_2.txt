@@ -1,0 +1,63 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                           Score  Place  Points  Medal  Advance
+Craigie, Brandon          Lindsay H S, Lindsay             254    1      15      X      State
+Endres, Colby J           Muenster HS, Muenster            228    2      12      X      State
+Worth, Cameron            Lindsay H S, Lindsay             198    3      10      X      State
+Munns, Connor             Martin's Mill HS, Martin's Mill  196    4      8       X      Alternate
+Sprague, Dalton           Poolville HS, Poolville          168    5      6       X
+Meece, Luke               Lindsay H S, Lindsay             150    6      4       X
+Ermis, Aaron              Seymour HS, Seymour              122    7
+Habert, Emma              Seymour HS, Seymour              116    8
+Fuhrmann, Justin          Lindsay H S, Lindsay             102    9
+DeJong, Paige             Hamilton H S, Hamilton           98     10
+Walterscheid, Sterling G  Muenster HS, Muenster            92     11
+Homan, Cody               Martin's Mill HS, Martin's Mill  92     11
+Estraca, Gavin            Seymour HS, Seymour              88     13
+Thomas, Wyatt             Poolville HS, Poolville          88     13
+Nors, Rachel              Trenton HS, Trenton              86     15
+Menefee, Hakeem           Big Sandy H S, Big Sandy         84     16
+Schroeder, Coby           Windthorst HS, Windthorst        80     17
+Kelly, Sarah              Poolville HS, Poolville          80     17
+Wilhelm, Jacob            Archer City HS, Archer City      72     19
+Lamon, Emily              Avery HS, Avery                  72     19
+Pasley, Cole              Avery HS, Avery                  70     21
+Morrow, Eve               Martin's Mill HS, Martin's Mill  60     22
+Minter, Carson            Big Sandy H S, Big Sandy         58     23
+Herrin, Thaddeus          Goldthwaite H S, Goldthwaite     56     24
+Eddington, Alyssa         Hawkins HS, Hawkins              56     24
+Dirkse, Zac               Meridian H S, Meridian           52     26
+Ramey, Nick               Wolfe City HS, Wolfe City        48     27
+Stoffels, Andrew C        Muenster HS, Muenster            46     28
+Kuhn, Bryce               Big Sandy H S, Big Sandy         42     29
+Stroebel, Channing        Seymour HS, Seymour              38     30
+Holmes, Emily             Big Sandy H S, Big Sandy         38     30
+Dulaney, Katy             Meridian H S, Meridian           36     32
+Montgomery, Justin        Wolfe City HS, Wolfe City        36     32
+Rogers, Landrey           Martin's Mill HS, Martin's Mill  36     32
+Nunez, Xavier             Meridian H S, Meridian           34     35
+Gonzales, Gracie          Wolfe City HS, Wolfe City        34     35
+Sherwin, Jared            Celeste HS, Celeste              30     37
+Hausler, Mayson           Avery HS, Avery                  28     38
+Neri, Yesenia             Meridian H S, Meridian           26     39
+Walterscheid, Dean T      Muenster HS, Muenster            14     40
+Martinez, Fabian          Wolfe City HS, Wolfe City        12     41
+Bridges, Brianna          Avery HS, Avery                  10     42
+Fowler, Branden           Rivercrest HS, Bogata            0      43
+Woods, Gunner             Poolville HS, Poolville          0      43
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Lindsay H S, Lindsay             1     602    1      10      X      State
+Muenster HS, Muenster            1     366    2      5       X      Alternate
+Martin's Mill HS, Martin's Mill  1     348    3
+Poolville HS, Poolville          1     336    4
+Seymour HS, Seymour              1     326    5
+Big Sandy H S, Big Sandy         1     184    6
+Avery HS, Avery                  1     170    7
+Meridian H S, Meridian           1     122    8
+Wolfe City HS, Wolfe City        1     118    9
+
+TEAM RESULTS
+------------------------------

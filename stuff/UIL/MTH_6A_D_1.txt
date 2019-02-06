@@ -1,0 +1,58 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                                   Score  Place  Points  Medal  Advance
+Villa, Eli                 Americas HS, El Paso                     190    1      15      X      Region
+Ramirez, Hugo              Coronado HS, El Paso                     168    2      12      X      Region
+Barnett, Amy               Coronado HS, El Paso                     152    3      10      X      Region
+Budredkis, Sarunas         Eastwood H S, El Paso                    140    4      8       X      Alternate
+Laberge, Samuel            Franklin H S, El Paso                    134    5      6       X
+Zhang, Zhinan              Pebble Hills HS, El Paso                 130    6      4       X
+Patel, Sonali              Coronado HS, El Paso                     112    7
+Murphree, Lana             Franklin H S, El Paso                    104    8
+Orrantia-Kotows, Michaela  Eastwood H S, El Paso                    96     9
+Herrera, Melchor           Franklin H S, El Paso                    92     10
+Aaluri, Gayatri            Montwood H S, El Paso                    92     10
+Gutierrez, Christopher     Eastwood H S, El Paso                    88     12
+Lowrence, Andrew           Eastwood H S, El Paso                    88     12
+Misra, Amogh               Coronado HS, El Paso                     86     14
+Muniz, Hector              El Dorado HS, El Paso                    84     15
+Trinh, Queenie             Mission Early College HS, El Paso        74     16
+Garcia, Andres             Pebble Hills HS, El Paso                 74     16
+Lechuga, Abril             Pebble Hills HS, El Paso                 72     18
+Sillas, Ricardo            El Dorado HS, El Paso                    72     18
+Martinez, German           Valle Verde Early College HS, El Paso    68     20
+Zhang, Min Dong            Transmountain Early College HS, El Paso  64     21
+Aaluri, Anjali             Montwood H S, El Paso                    60     22
+Do, Emily                  Franklin H S, El Paso                    52     23
+Camacho, Diego             Transmountain Early College HS, El Paso  48     24
+Contreras, Amanda          Pebble Hills HS, El Paso                 46     25
+Chavez, Davyn              Valle Verde Early College HS, El Paso    38     26
+Villagran, Robert          Americas HS, El Paso                     38     26
+Chen, Jonathan             Transmountain Early College HS, El Paso  36     28
+Duran, Luis                El Dorado HS, El Paso                    34     29
+Cera, Pierre               Americas HS, El Paso                     34     29
+Ortega, Isabella           Transmountain Early College HS, El Paso  32     31
+Flores, Amaya              El Dorado HS, El Paso                    28     32
+Guerrero, Mauro            Valle Verde Early College HS, El Paso    28     32
+Marquez, Sydney            Americas HS, El Paso                     24     34
+Morales, Miguel            Valle Verde Early College HS, El Paso    24     34
+Chitti, Mahika             Montwood H S, El Paso                    18     36
+Miranda, Stephanie         Mission Early College HS, El Paso        0      37
+Chavarria, David           Mission Early College HS, El Paso        -18    38
+
+TOP SCORERS
+------------------------------
+School                                   Team  Score  Place  Points  Medal  Advance
+Coronado HS, El Paso                     1     432    1      10      X      Region
+Franklin H S, El Paso                    1     330    2      5       X      Alternate
+Eastwood H S, El Paso                    1     324    3
+Pebble Hills HS, El Paso                 1     276    4
+Americas HS, El Paso                     1     262    5
+El Dorado HS, El Paso                    1     190    6
+Montwood H S, El Paso                    1     170    7
+Transmountain Early College HS, El Paso  1     148    8
+Valle Verde Early College HS, El Paso    1     134    9
+Mission Early College HS, El Paso        1     56     10
+
+TEAM RESULTS
+------------------------------

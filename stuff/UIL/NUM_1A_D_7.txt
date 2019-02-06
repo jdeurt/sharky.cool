@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                     Score  Place  Points  Medal  Advance
+Maxwell, Reagan     Guthrie HS, Guthrie        120    1      15      X      Region
+Sandoval, Yaretzi   Guthrie HS, Guthrie        113    2      12      X      Region
+Coulter, Abby       Jayton H S, Jayton         103    3      10      X      Region
+Valdes, Ismael      Valley HS, Turkey          72     4      8       X      Alternate
+McCauley, Morgan    Guthrie HS, Guthrie        62     5      6       X
+White, Madison      Patton Springs H S, Afton  54     6      4       X
+White, Jaxon        Patton Springs H S, Afton  34     7
+Schlueter, Tristan  Valley HS, Turkey          33     8
+Perryman, Autumn    Patton Springs H S, Afton  30     9
+Allen, Daxon        Valley HS, Turkey          27     10
+Moorhead, Keldan    Jayton H S, Jayton         22     11
+Mays, TK            Guthrie HS, Guthrie        19     12
+Mackey, Jordan      Paducah HS, Paducah        15     13
+McCormick, Garrett  Spur HS, Spur              7      14
+Givens, Madison     Spur HS, Spur              6      15
+Chandler, Regan     Patton Springs H S, Afton  -1     16
+Adair, Caleb T.     Paducah HS, Paducah        -3     17
+Brock, HannahLynn   Jayton H S, Jayton         -6     18
+Blount, Blane M.    Paducah HS, Paducah        -8     19
+Thomas, Kloe        Jayton H S, Jayton         -13    20
+Solis, Ivan         Spur HS, Spur              -46    21
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Guthrie HS, Guthrie        1     295    1      10      X      Region
+Valley HS, Turkey          1     132    2      5       X      Alternate
+Jayton H S, Jayton         1     119    3
+Patton Springs H S, Afton  1     118    4
+Paducah HS, Paducah        1     4      5
+Spur HS, Spur              1     -33    6
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                           Score  Place  Points  Medal  Advance
+Russell, Ryan         San Augustine HS, San Augustine  203    1      13.50   X      Region
+Josue, MaErika        San Augustine HS, San Augustine  203    1      13.50   X      Region
+Garcia, Hanna         San Augustine HS, San Augustine  196    3      10      X      Region
+Timmons, Connor       Timpson HS, Timpson              170    4      8       X      Alternate
+Landin, Elizabeth     San Augustine HS, San Augustine  147    5      6       X
+Martinez, Fabian      Timpson HS, Timpson              107    6      4       X
+Searcy, Jacob         Timpson HS, Timpson              93     7
+Williams, Logan       Shelbyville H S, Shelbyville     84     8
+Bentley, Tessa        Woden HS, Woden                  81     9
+Bentley, Kaeli        Woden HS, Woden                  81     9
+Lang, Jacob           Shelbyville H S, Shelbyville     77     11
+Luna, Kathy           Shelbyville H S, Shelbyville     77     11
+Benson, Matt          Timpson HS, Timpson              77     11
+Allen, Tiesha         Shelbyville H S, Shelbyville     56     14
+DeChamplain, Annalyn  Joaquin HS, Joaquin              55     15
+Young, Fiona          Joaquin HS, Joaquin              46     16
+Chapel, Abby          Woden HS, Woden                  30     17
+Rodriguez, Ana        Joaquin HS, Joaquin              20     18
+Rhodes, Calli         Woden HS, Woden                  -26    20
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+San Augustine HS, San Augustine  1     602    1      10      X      Region
+Timpson HS, Timpson              1     370    2      5       X      Alternate
+Shelbyville H S, Shelbyville     1     238    3
+Woden HS, Woden                  1     192    4
+Joaquin HS, Joaquin              1     121    5
+
+TEAM RESULTS
+------------------------------

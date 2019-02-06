@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                                  Score  Place  Points  Medal  Advance
+Tomaylla Eme, Jorge       MacArthur HS, Irving                    145    1      15      X      Region
+Barragan, Alexis          MacArthur HS, Irving                    124    2      12      X      Region
+TA, ALAN                  Nimitz HS, Irving                       76     3      10      X      Region
+HUYNH, MADISON            South Grand Prairie H S, Grand Prairie  70     4      8       X      Alternate
+Guha, Aishi               MacArthur HS, Irving                    61     5      6       X
+Hernandez, Ethan          MacArthur HS, Irving                    56     6      4       X
+ROE, NATALIE              South Grand Prairie H S, Grand Prairie  35     7
+LE, ALPHONSE              South Grand Prairie H S, Grand Prairie  28     8
+Beltran, Daniel           Irving HS, Irving                       25     9
+Fagan, Joe                Irving HS, Irving                       18     10
+Regalado, Anthony         Irving HS, Irving                       17     11
+PHAM, VI                  South Grand Prairie H S, Grand Prairie  12     12
+Le, Jonathan              Singley Academy, Irving                 8      13
+Torres Loredo, Margarita  Grand Prairie HS, Grand Prairie         -20    14
+Campos, Samuel            Nimitz HS, Irving                       -65    15
+Trejo, Jore               Nimitz HS, Irving                       -122   16
+Flores, Jesus             Nimitz HS, Irving                       -154   17
+Lopez Campos, Jennifer    Grand Prairie HS, Grand Prairie         -179   18
+Hernandez, Jacob          Duncanville HS, Duncanville             -197   19
+Cano, Matthew             Duncanville HS, Duncanville             -223   20
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+MacArthur HS, Irving                    1     330    1      10      X      Region
+South Grand Prairie H S, Grand Prairie  1     133    2      5       X      Alternate
+Irving HS, Irving                       1     60     3
+Nimitz HS, Irving                       1     -111   4
+
+TEAM RESULTS
+------------------------------

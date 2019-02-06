@@ -1,0 +1,26 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                          Score  Place  Points  Medal  Advance
+Sprinkle, Jesse R     Rockport-Fulton H S, Rockport   240    1      15      X      Region
+Smallwood, Simon      Rockport-Fulton H S, Rockport   176    2      12      X      Region
+Cervantez, Fisher C   Rockport-Fulton H S, Rockport   136    3      10      X      Region
+Anderson, Mitchell L  Rockport-Fulton H S, Rockport   100    4      8       X      Alternate
+Linquist, Nocona      Orange Grove H S, Orange Grove  8      5      6       X
+Cortez, Alejandra     King HS, Kingsville             4      6      4       X
+Garza, Anthony        Orange Grove H S, Orange Grove  0      7
+Porras, Amado         Orange Grove H S, Orange Grove  0      7
+Mercado, Mariah       King HS, Kingsville             0      7
+Reyes, Alan           Aransas Pass HS, Aransas Pass   0      7
+Salazar, Gil          Orange Grove H S, Orange Grove  -10    11
+Molina, Lauren        King HS, Kingsville             -12    12
+Macareno, Joshua      King HS, Kingsville             -18    13
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Rockport-Fulton H S, Rockport   1     972    1      20      X      Region
+Orange Grove H S, Orange Grove  1     8      2      16      X      Alternate
+King HS, Kingsville             1     -8     3      12      X
+
+TEAM RESULTS
+------------------------------

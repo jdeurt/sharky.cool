@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                   Score  Place  Points  Medal  Advance
+Cranford, Preston         Wimberley HS, Wimberley  340    1      15      X      Region
+McLemore, Ben             Wimberley HS, Wimberley  170    2      12      X      Region
+Price, Joshua             Wimberley HS, Wimberley  128    3      10      X      Region
+Latz, Drew                Wimberley HS, Wimberley  94     4      8       X      Alternate
+Reyna, Vicente            Gonzales HS, Gonzales    68     5      5       X
+Dykstra, Chloe            Navarro HS, Geronimo     68     5      5       X
+Malm, Delaney             La Vernia HS, La Vernia  58     7
+Palacios-Solis, Jennifer  Navarro HS, Geronimo     52     8
+Hughes, Tallyn            Navarro HS, Geronimo     40     9
+Reinhard, Walker          La Vernia HS, La Vernia  30     10
+Lowak, Brian              La Vernia HS, La Vernia  28     11
+Karlik, Jackson           Navarro HS, Geronimo     26     12
+Barnes, Brooklynne        La Vernia HS, La Vernia  24     13
+Castro, Aaliyah           Gonzales HS, Gonzales    16     14
+Rivera, Adrian            Gonzales HS, Gonzales    12     15
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Wimberley HS, Wimberley  1     638    1      10      X      Region
+Navarro HS, Geronimo     1     160    2      5       X      Alternate
+La Vernia HS, La Vernia  1     116    3
+Gonzales HS, Gonzales    1     96     4
+
+TEAM RESULTS
+------------------------------

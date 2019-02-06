@@ -1,0 +1,59 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                           Score  Place  Points  Medal  Advance
+Townsend, Eastman     Latexo H S, Latexo               288    1      15      X      State
+Craven, Camryn        Latexo H S, Latexo               256    2      12      X      State
+Catoe, Riley          Latexo H S, Latexo               230    3      10      X      State
+Bustamante, Laura     Latexo H S, Latexo               208    4      8       X      Alternate
+Alexander, Evan       Meyer HS, Waco                   150    5      6       X
+Chaiyabud, Pear       San Augustine HS, San Augustine  124    6      4       X
+Patterson, Nathan     Douglass H S, Douglass           116    7
+Russell, Ryan         San Augustine HS, San Augustine  108    8
+Blood, Kirk           Sabine Pass HS, Sabine Pass      108    8
+Bruno, Alex           Crawford H S, Crawford           106    10
+Espinoza, Adrian      Sabine Pass HS, Sabine Pass      98     11
+Weatherman, Jonathan  Crawford H S, Crawford           96     12
+Hassell, James        Colmesneil HS, Colmesneil        84     13
+Hall, Alyssa          Cross Roads HS, Malakoff         76     14
+Harmon, David         Colmesneil HS, Colmesneil        74     15
+Younger, Katie-Lynne  Itasca H S, Itasca               66     16
+Timmons, Connor       Timpson HS, Timpson              66     16
+Magana, Jorge         Sabine Pass HS, Sabine Pass      64     18
+Mabry, Julius         Colmesneil HS, Colmesneil        62     19
+Browning, Mason       Crawford H S, Crawford           56     20
+Cormier, R.J.         Hubbard HS, Hubbard              56     20
+Church, Zachary       Itasca H S, Itasca               56     20
+Moore, Matthew        Cross Roads HS, Malakoff         52     23
+Ray, Rhoni            Cushing HS, Cushing              52     23
+Wang, Kexin           San Augustine HS, San Augustine  50     25
+Ocon, Jose            San Augustine HS, San Augustine  48     26
+Antis, Peyton A       Bremond HS, Bremond              44     27
+Willis, Drake         Cushing HS, Cushing              44     27
+Plemons, Colby        Crawford H S, Crawford           42     29
+Greeson, Ethan        Itasca H S, Itasca               40     30
+Turner, Preston       Cross Roads HS, Malakoff         36     31
+Grubbs, Riannon       Kerens H S, Kerens               34     32
+Thao, Angelina        Itasca H S, Itasca               34     32
+Couch, Thomas         Hubbard HS, Hubbard              28     34
+Lee, Tori             Cushing HS, Cushing              26     35
+Galvan, Adrian        Sabine Pass HS, Sabine Pass      24     36
+Blackman, Landon      Hubbard HS, Hubbard              22     37
+Belt, Morgan          Colmesneil HS, Colmesneil        16     38
+Wilson, Jeremiah      Cushing HS, Cushing              10     39
+Richardson, Jayce     Hubbard HS, Hubbard              4      40
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Latexo H S, Latexo               1     774    1      10      X      State
+San Augustine HS, San Augustine  1     282    2      5       X      Alternate
+Sabine Pass HS, Sabine Pass      1     270    3
+Crawford H S, Crawford           1     258    4
+Colmesneil HS, Colmesneil        1     220    5
+Cross Roads HS, Malakoff         1     164    6
+Itasca H S, Itasca               1     162    7
+Cushing HS, Cushing              1     122    8
+Hubbard HS, Hubbard              1     106    9
+
+TEAM RESULTS
+------------------------------

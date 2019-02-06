@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                      Score  Place  Points  Medal  Advance
+Nandekar, Parth       Highland Park H S, Dallas   191    1      15      X      Region
+Luo, Richard          Highland Park H S, Dallas   188    2      12      X      Region
+Li, Amy               Highland Park H S, Dallas   177    3      10      X      Region
+Mickel, Jennifer      Highland Park H S, Dallas   148    4      8       X      Alternate
+Santibanez, Rezzelle  Forney H S, Forney          133    5      6       X
+Bell, Samuel I        Lovejoy HS, Lucas           101    6      4       X
+Preston, Luke         Forney H S, Forney          99     7
+Mao, Andrew           Lovejoy HS, Lucas           98     8
+Tuten, Asa            North Forney HS, Forney     86     9
+Shaikh, Hassaan       Lovejoy HS, Lucas           84     10
+Hernandez, Maria      Royse City H S, Royse City  83     11
+Bustamante, Jorge     Poteet HS, Mesquite         69     12
+Ruiz, Andrew          Forney H S, Forney          67     13
+McAlanis, Caitlin     North Forney HS, Forney     65     14
+Reimer, Brennan       Royse City H S, Royse City  53     15
+Gustof, Charles       Poteet HS, Mesquite         51     16
+Okorafor, Obioma      West Mesquite HS, Mesquite  47     17
+Trammell, Maggie      Royse City H S, Royse City  43     18
+Keating, Louis        Forney H S, Forney          22     19
+Banoub, Anne Marie    West Mesquite HS, Mesquite  18     20
+Hernandez, Bacilio    West Mesquite HS, Mesquite  3      21
+Reyes, Bryant         Poteet HS, Mesquite         2      22
+Axtell, Alyssa        Royse City H S, Royse City  -30    23
+Carrizales, Priscila  Poteet HS, Mesquite         -34    24
+Leek, Jonathan        West Mesquite HS, Mesquite  -40    25
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Highland Park H S, Dallas   1     556    1      10      X      Region
+Forney H S, Forney          1     299    2      5       X      Alternate
+Lovejoy HS, Lucas           1     283    3
+Royse City H S, Royse City  1     179    4
+Poteet HS, Mesquite         1     122    5
+West Mesquite HS, Mesquite  1     68     6
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Chambers, Bailee D  New Waverly H S, New Waverly        109    1      13.50   X      Region
+Haller, Mandi N     New Waverly H S, New Waverly        109    1      13.50   X      Region
+Edney, Cade S       New Waverly H S, New Waverly        54     3      10      X      Region
+Welch, Dustin       Coldspring-Oakhurst HS, Coldspring  37     4      8       X      Alternate
+Neuman, Brady       Onalaska, Onalaska                  17     5      6       X
+Garcia, Jesus       Trinity HS, Trinity                 13     6      4       X
+Krantz, Zander      Coldspring-Oakhurst HS, Coldspring  12     7
+Mancuso, Josh       Anderson-Shiro HS, Anderson         10     8
+Werner, Chase       Anderson-Shiro HS, Anderson         7      9
+Jessup, Jordan      Onalaska, Onalaska                  4      10
+Dewberry, Samantha  Anderson-Shiro HS, Anderson         3      11
+Roberts, Hunter     Onalaska, Onalaska                  0      12
+Gann, Colton        Coldspring-Oakhurst HS, Coldspring  -2     13
+Fletcher, Chase     Onalaska, Onalaska                  -3     14
+Rodriguez, Austin   Trinity HS, Trinity                 -6     15
+Hernandez, Uriel    Crockett HS, Crockett               -13    16
+Scott, Darcey       Coldspring-Oakhurst HS, Coldspring  -18    17
+Chodrick, Troy J    New Waverly H S, New Waverly        -22    18
+Juarez, Gabriella   Trinity HS, Trinity                 -23    19
+Dotson, Aaron       Crockett HS, Crockett               -25    20
+Jones, Dalasia      Trinity HS, Trinity                 -27    21
+Lockhart, Jaida     Crockett HS, Crockett               -28    22
+Duhon, Ja'Zareia    Crockett HS, Crockett               -78    23
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+New Waverly H S, New Waverly        1     272    1      10      X      Region
+Coldspring-Oakhurst HS, Coldspring  1     47     2      5       X      Alternate
+Onalaska, Onalaska                  1     21     3
+Anderson-Shiro HS, Anderson         1     20     4
+Trinity HS, Trinity                 1     -16    5
+Crockett HS, Crockett               1     -66    6
+
+TEAM RESULTS
+------------------------------

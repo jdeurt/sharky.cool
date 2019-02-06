@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                 Score  Place  Points  Medal  Advance
+Corona, Ricardo       Canutillo HS, El Paso                  186    1      15      X      Region
+Carrillo, Gabriel     Canutillo HS, El Paso                  162    2      12      X      Region
+Lara, Brian           Canutillo HS, El Paso                  142    3      10      X      Region
+Lawson, Christopher   Northwest Early College HS, Canutillo  118    4      8       X      Alternate
+Tolentino, Christian  Eastlake H S, El Paso                  86     5      6       X
+Moriel, Cesar         Del Valle HS, El Paso                  76     6      4       X
+Marquez, Diana        Del Valle HS, El Paso                  74     7
+Armendariz, Erik      Northwest Early College HS, Canutillo  72.0   8
+Rodriguez, Selaine    Ysleta HS, El Paso                     72.0   9
+Lopez, Alfonso        Eastlake H S, El Paso                  66     10
+Marmalejo, Cristian   Clint Early College, El Paso           64     11
+Sanchez, Aldo         Eastlake H S, El Paso                  62     12
+Rosales, Adrian       Ysleta HS, El Paso                     60     13
+Chiguil, Erika        Canutillo HS, El Paso                  56     14
+Martinez, Noah        Hanks H S, El Paso                     56     14
+Tipo, Jonathan        Northwest Early College HS, Canutillo  54     16
+Montes, Daniela       Del Valle HS, El Paso                  52     17
+Guillen, Francisco    Hanks H S, El Paso                     50     18
+Lira, Jasiel          Clint Early College, El Paso           50     18
+Hernandez, Valerie    Hanks H S, El Paso                     48     20
+Pinales, Beni         Bel Air HS, El Paso                    44     21
+Alvarado, David       Riverside H S, El Paso                 40     22
+Kaiser, Jared         Hanks H S, El Paso                     38     23
+Salinas, Nayla        Riverside H S, El Paso                 36     24
+Saucedo, Gabriel      Horizon H S, El Paso                   32     25
+Lane, Nicole          Parkland HS, El Paso                   30     26
+Rodriguez, Rick       Clint Early College, El Paso           28     27
+Ortega, Victoria      Bel Air HS, El Paso                    28     27
+Olivares, Gizelle     Parkland HS, El Paso                   26     29
+Garcia, Alex          Northwest Early College HS, Canutillo  24     30
+Garcia, Robert        Del Valle HS, El Paso                  24     30
+Lucero, Michelle      Parkland HS, El Paso                   22     32
+Cardenas, Gilbert     Clint Early College, El Paso           20     33
+Tarin, Edgar          Eastlake H S, El Paso                  20     33
+De Luna, Breeza       Bel Air HS, El Paso                    18     35
+Jasso, Brandon        Riverside H S, El Paso                 16     36
+Griego, Morgan        Bel Air HS, El Paso                    14     37
+Rodriguez, Victoria   Riverside H S, El Paso                 12     38
+Rocha, Gisselle       Parkland HS, El Paso                   6      39
+Ingo, Alphonse        Ysleta HS, El Paso                     0      40
+Cortez, Stephanie     Horizon H S, El Paso                   -10    41
+Grizzard, Aiden       Ysleta HS, El Paso                     -24    42
+
+TOP SCORERS
+------------------------------
+School                                 Team  Score  Place  Points  Medal  Advance
+Canutillo HS, El Paso                  1     490    1      10      X      Region
+Northwest Early College HS, Canutillo  1     244.0  2      5       X      Alternate
+Eastlake H S, El Paso                  1     214    3
+Del Valle HS, El Paso                  1     202    4
+Hanks H S, El Paso                     1     154    5
+Clint Early College, El Paso           1     142    6
+Ysleta HS, El Paso                     1     132.0  7
+Riverside H S, El Paso                 1     92     8
+Bel Air HS, El Paso                    1     90     9
+Parkland HS, El Paso                   1     78     10
+
+TEAM RESULTS
+------------------------------

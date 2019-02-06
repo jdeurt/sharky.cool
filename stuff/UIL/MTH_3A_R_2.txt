@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                    Score  Place  Points  Medal  Advance
+Thompson, Jeff     Sabine HS, Gladewater                     284    1      15      X      State
+Ackley, Jared      Whitesboro HS, Whitesboro                 242    2      12      X      State
+Taylor, Michael    Sabine HS, Gladewater                     238    3      10      X      State
+Gautier, Scott     Whitesboro HS, Whitesboro                 230    4      8       X      Alternate
+Autry, Alec        Grand Saline H S, Grand Saline            218    5      6       X
+Cortes, Gustavo    Grand Saline H S, Grand Saline            210    6      4       X
+Taylor, Scottie    Sabine HS, Gladewater                     200    7
+Wright, Cypress    Hughes Springs HS, Hughes Springs         190    8
+Fruth, Brenden     Ponder HS, Ponder                         174    9
+Horton, Carter     Sabine HS, Gladewater                     164    10
+Garrison, Dylan    Queen City HS, Queen City                 162    11
+Arterberry, Reese  Ponder HS, Ponder                         158    12
+Gage, Michael      Mount Vernon H S, Mount Vernon            152    13
+Carnes, Shayne     Grand Saline H S, Grand Saline            136    14
+Henry, Colton      Queen City HS, Queen City                 132    15
+Jang, Joseph       Commerce HS, Commerce                     130    16
+Hill, Nate         Ponder HS, Ponder                         124    17
+Nippani, Vineet    Commerce HS, Commerce                     122    18
+Foster, Gavin      Grand Saline H S, Grand Saline            118    19
+Davenport, Jonah   Whitesboro HS, Whitesboro                 110    20
+Widner, Antos      Sunnyvale HS, Sunnyvale                   110    20
+Oas, Adam          Queen City HS, Queen City                 110    20
+Baird, Brian       Mount Vernon H S, Mount Vernon            108    23
+Tran, Tai          Sunnyvale HS, Sunnyvale                   106    24
+Emilio, Garcia     Harmony School of Innovation, Fort Worth  104    25
+Renshaw, Matthew   Farmersville H S, Farmersville            98     26
+Freeman, Andi      Ore City H S, Ore City                    96     27
+Powell, Ashlyn     Sunnyvale HS, Sunnyvale                   92     28
+VanderWall, Tim    Ponder HS, Ponder                         92     28
+Lopez, Jose        Ore City H S, Ore City                    88     30
+Murnan, Jaron      Whitesboro HS, Whitesboro                 86     31
+Belmir, Zak        Sunnyvale HS, Sunnyvale                   86     31
+Hurst, Becca       Chisum HS, Paris                          78     33
+Minter, Ben        Mount Vernon H S, Mount Vernon            78     33
+Bowen, Jordan      Queen City HS, Queen City                 78     33
+McCoy, Hunter      Farmersville H S, Farmersville            74     36
+Pena, Victoria     Ore City H S, Ore City                    72     37
+Gribble, Alex      Chisum HS, Paris                          70     38
+Sisk, Mitchell     Farmersville H S, Farmersville            64     39
+Landers, Brendon   White Oak HS, White Oak                   64     39
+Casey, Zach        Ore City H S, Ore City                    32     41
+Sears, Hadley      Mount Vernon H S, Mount Vernon            28     42
+Moses, Sabrina     Farmersville H S, Farmersville            6      43
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Sabine HS, Gladewater           1     722    1      10      X      State
+Whitesboro HS, Whitesboro       1     582    2      5       X      Alternate
+Grand Saline H S, Grand Saline  1     564    3
+Ponder HS, Ponder               1     456    4
+Queen City HS, Queen City       1     404    5
+Mount Vernon H S, Mount Vernon  1     338    6
+Sunnyvale HS, Sunnyvale         1     308    7
+Ore City H S, Ore City          1     256    8
+Farmersville H S, Farmersville  1     236    9
+
+TEAM RESULTS
+------------------------------

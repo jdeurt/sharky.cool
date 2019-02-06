@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                            Score  Place  Points  Medal  Advance
+Reddy, Manasvi       Rider H S, Wichita Falls          178    1      15      X      Region
+Carlston, Nathan     Rider H S, Wichita Falls          164    2      12      X      Region
+Dao, Hung            Rider H S, Wichita Falls          154    3      10      X      Region
+Hossain, Abdullah    Sherman H S, Sherman              130    4      8       X      Alternate
+Nguyen, William      Rider H S, Wichita Falls          104    5      6       X
+Akram, Talha         Denton H S, Denton                88     6      4       X
+Portillo, Daniel     Wichita Falls HS, Wichita Falls   82     7
+McGinn, Sarah        Sherman H S, Sherman              68     8
+Banerjee, Sucharita  Denton H S, Denton                64     9
+Anderson, Travis     Denison H S, Denison              64     9
+Faulkner, Ryan       Wichita Falls HS, Wichita Falls   62     11
+Horvath, Andras      Wichita Falls HS, Wichita Falls   60     12
+Park, Alana          Denton H S, Denton                54     13
+Frasure, River       Sherman H S, Sherman              50     14
+Doan, Gabriella      Denton H S, Denton                46     15
+Yarbrough, Kaven     Denison H S, Denison              42     16
+Curiel, Citlalli     Braswell HS (Denton), Little Elm  40     17
+Horning, Will        Denison H S, Denison              36     18
+Finley, Deandre      Denison H S, Denison              34     19
+Presson, Caroline    Wichita Falls HS, Wichita Falls   28     20
+Gajda, Michael       Sherman H S, Sherman              20     21
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Rider H S, Wichita Falls         1     496    1      10      X      Region
+Sherman H S, Sherman             1     248    2      5       X      Alternate
+Denton H S, Denton               1     206    3
+Wichita Falls HS, Wichita Falls  1     204    4
+Denison H S, Denison             1     142    5
+
+TEAM RESULTS
+------------------------------

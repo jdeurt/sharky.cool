@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Floyd, Anna            Paris HS, Paris               168    1      15      X      Region
+Williams, Dustin       Atlanta HS, Atlanta           142    2      12      X      Region
+Dorman, Justice        Pittsburg H S, Pittsburg      140    3      10      X      Region
+Armstrong, Heather     North Lamar H S, Paris        135    4      8       X      Alternate
+Simmons, Alyssa        Atlanta HS, Atlanta           127    5      6       X
+Carney, Cameron        Atlanta HS, Atlanta           121    6      4       X
+Tijerina, Ryan         Paris HS, Paris               116    7
+Thompson, Jake         Atlanta HS, Atlanta           99     8
+Bramblett, Kenzie-Lou  Pittsburg H S, Pittsburg      83     9
+Rogers, Mikaila        Paris HS, Paris               79     10
+Kirby, Kris            North Lamar H S, Paris        74     11
+Rester, Coy            Pittsburg H S, Pittsburg      71     12
+Pollard, Sebastian     Pittsburg H S, Pittsburg      47     13
+McDonald, Paige        Liberty-Eylau H S, Texarkana  37     14
+Wood, Hunter           North Lamar H S, Paris        27     15
+Franklin, Jaden        North Lamar H S, Paris        22     16
+Hemmitt, Whitney       Liberty-Eylau H S, Texarkana  -13    17
+Gil, Kashlyn           Liberty-Eylau H S, Texarkana  -22    18
+Blackwell, Jacobey     Liberty-Eylau H S, Texarkana  -74    19
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Atlanta HS, Atlanta           1     390    1      10      X      Region
+Paris HS, Paris               1     363    2      5       X      Alternate
+Pittsburg H S, Pittsburg      1     294    3
+North Lamar H S, Paris        1     236    4
+Liberty-Eylau H S, Texarkana  1     2      5
+
+TEAM RESULTS
+------------------------------

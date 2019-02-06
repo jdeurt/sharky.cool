@@ -1,0 +1,32 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Syzdek, Samuel       Apple Springs HS, Apple Springs  53     1      15      X      Region
+Aycock, JayVan       Apple Springs HS, Apple Springs  22     2      12      X      Region
+Lueamsai, Belle      Apple Springs HS, Apple Springs  21     3      10      X      Region
+Baird, Cody          Apple Springs HS, Apple Springs  18     4      8       X      Alternate
+Frederick, Shane     Wells HS, Wells                  8      5      6       X
+Dusek, Cameron       Wells HS, Wells                  6      6      4       X
+Hancock, Terri       Martinsville HS, Martinsville    2      7
+Mancilla, Destini    Kennard H S, Kennard             1      8
+Burgess, Zachary     Kennard H S, Kennard             -1     9
+Parrish, Melanie     Martinsville HS, Martinsville    -1     9
+Overstreet, Ashlynn  Chester HS, Chester              -7     11
+Parrish, Cade        Chester HS, Chester              -9     12
+McGuire, Dylan       Wells HS, Wells                  -11    13
+Clarke, JD           Chester HS, Chester              -12    14
+Leonard, Jermaine    Kennard H S, Kennard             -15    15
+Goins, Levi          Chester HS, Chester              -18    16
+Upshaw, Katlynn      Wells HS, Wells                  -19    17
+Hanson, Lily         Kennard H S, Kennard             -22    18
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Apple Springs HS, Apple Springs  1     96     1      10      X      Region
+Wells HS, Wells                  1     3      2      5       X      Alternate
+Kennard H S, Kennard             1     -15    3
+Chester HS, Chester              1     -28    4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,53 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                    Score  Place  Points  Medal  Advance
+Strange, Audrie    Floydada H S, Floydada    48     1      15      X      Region
+Bender, Seth       Abernathy HS, Abernathy   44     2      12      X      Region
+Ramos, Lexie       Floydada H S, Floydada    38     3      10      X      Region
+Ware, Mesa         Crosbyton H S, Crosbyton  38     4      8       X      Alternate
+Ponce, Ian         Abernathy HS, Abernathy   38     5      6       X
+Carrillo, Joshua   Abernathy HS, Abernathy   36     6      4       X
+Campos, Bianca     New Deal H S, New Deal    32     7
+Lopez, Johnathon   Ralls H S, Ralls          32     7
+Chapa, Braydn      Abernathy HS, Abernathy   32     7
+Soto, Sadie        Post HS, Post             30     10
+Rodriguez, Ethien  Floydada H S, Floydada    28     11
+Rhue, Melinda      New Deal H S, New Deal    24     12
+Graves, Hunter     Post HS, Post             24     12
+Gibbens, Donals    Floydada H S, Floydada    22     14
+Bruington, Kyle    Floydada H S, Floydada    22     14
+Gonzalez, Marco    Post HS, Post             22     14
+Moore, Grant       Abernathy HS, Abernathy   18     17
+Gentry, Kevin      New Deal H S, New Deal    16     18
+Banta, Reid        Post HS, Post             16     18
+Harding, Dakota    New Deal H S, New Deal    10     20
+Stanaland, Luke    Crosbyton H S, Crosbyton  10     20
+Garcia, Damian     Post HS, Post             10     20
+Saavedra, Juan     Crosbyton H S, Crosbyton  8      23
+Torres, Marisol    Crosbyton H S, Crosbyton  8      23
+McKee, Dillon      Post HS, Post             4      25
+Padilla, Xochie    Floydada H S, Floydada    2      26
+Romero, Mercedes   New Deal H S, New Deal    -4     27
+Villegas, Allison  New Deal H S, New Deal    -4     27
+Macias, Adrian     Abernathy HS, Abernathy   -8     29
+
+TOP SCORERS
+------------------------------
+Contestant        School         Results               Points
+Ponce, Ian        Abernathy HS   Top Scorer Biology    3
+Strange, Audrie   Floydada H S   Alternate Biology     0
+Carrillo, Joshua  Abernathy HS   Top Scorer Chemistry  3
+Stanaland, Luke   Crosbyton H S  Alternate Chemistry   0
+Lopez, Johnathon  Ralls H S      Top Scorer Physics    3
+Campos, Bianca    New Deal H S   Alternate Physics     0
+Bender, Seth      Abernathy HS   Alternate Physics     0
+Garcia, Damian    Post HS        Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Abernathy HS, Abernathy   1     118    1      10      X      Region
+Floydada H S, Floydada    1     114    2      5       X      Alternate
+Post HS, Post             1     76     3
+New Deal H S, New Deal    1     72     4
+Crosbyton H S, Crosbyton  1     56     5

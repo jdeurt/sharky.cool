@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                      Score  Place  Points  Medal  Advance
+Iyer, Anand          Cypress Woods HS, Cypress   296    1      15      X      Region
+Cheng, Steven        Cypress Woods HS, Cypress   176    2      12      X      Region
+Chakraborty, Isha    Cypress Ranch HS, Cypress   164    3      10      X      Region
+Gonzalez, Gerardo    Cypress Falls H S, Houston  158    4      8       X      Alternate
+Swadi, Ashay         Cypress Woods HS, Cypress   150    5      6       X
+Shanmugham, Rahul    Cypress Woods HS, Cypress   142    6      4       X
+Gonzalez, German     Cypress Falls H S, Houston  128    7
+Vu, Warren           Cypress Falls H S, Houston  114    8
+Chakraborty, Riya    Cypress Ranch HS, Cypress   112    9
+Kim, Katherine Y     Cypress Ranch HS, Cypress   92     10
+Han, Sharon          Cypress Falls H S, Houston  78     11
+Vankamamidi, Pranav  Cy-Fair H S, Cypress        72     12
+Vasquez, Alejandro   Cypress Creek HS, Houston   68     13
+Nathani, Alia        Langham Creek H S, Houston  64     14
+Nystrom, Mark A      Cypress Ranch HS, Cypress   62     15
+Leon, Trevor         Cypress Creek HS, Houston   62     15
+Paugh, Ethan         Cypress Creek HS, Houston   56     17
+Nathani, Raniya      Langham Creek H S, Houston  52     18
+Paita, Ivonne        Cypress Lakes, Katy         30     19
+Din, Hamza           Cy-Fair H S, Cypress        28     20
+Paita, Ivette        Cypress Lakes, Katy         16     21
+Alvarez, Chrisma     Jersey Village HS, Houston  -8     22
+Nguyen, Phat         Jersey Village HS, Houston  -10    23
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Cypress Woods HS, Cypress   1     622    1      10      X      Region
+Cypress Falls H S, Houston  1     400    2      5       X      Alternate
+Cypress Ranch HS, Cypress   1     368    3
+Cypress Creek HS, Houston   1     186    4
+
+TEAM RESULTS
+------------------------------

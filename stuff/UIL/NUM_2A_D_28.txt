@@ -1,0 +1,27 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                  Score  Place  Points  Medal  Advance
+Shimek, Jared       Shiner HS, Shiner       131    1      15      X      Region
+Chrismon, Jacy      Shiner HS, Shiner       83     2      12      X      Region
+Bosl, Collin        Flatonia H S, Flatonia  79     3      10      X      Region
+Moeller, Chandler   Flatonia H S, Flatonia  61     4      8       X      Alternate
+Karber, Kaeli       Flatonia H S, Flatonia  47     5      6       X
+Wenske, Taylor      Shiner HS, Shiner       43     6      4       X
+Bonds, Carly        Flatonia H S, Flatonia  36     7
+Boedeker, Courtney  Shiner HS, Shiner       10     8
+Menis, Casey        Weimar HS, Weimar       3      9
+Hughes, Katie       Yorktown HS, Yorktown   -1     10
+Klesel, Kamie       Weimar HS, Weimar       -3     11
+Smith, Darrian      Weimar HS, Weimar       -6     12
+Mendez, Esmeralda   Louise H S, Louise      -31    13
+Kunschick, Ashlie   Weimar HS, Weimar       -40    14
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Shiner HS, Shiner       1     257    1      10      X      Region
+Flatonia H S, Flatonia  1     187    2      5       X      Alternate
+Weimar HS, Weimar       1     -6     3
+
+TEAM RESULTS
+------------------------------

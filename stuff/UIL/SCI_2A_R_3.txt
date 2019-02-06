@@ -1,0 +1,77 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Zumwalt, Jacob        Sabine Pass HS, Sabine Pass             64     1      15      X      State
+Zienko, Boe           Chireno HS, Chireno                     60     2      12      X      State
+Hassell, James        Colmesneil HS, Colmesneil               52     3      9       X      State
+Blood, Kirk           Sabine Pass HS, Sabine Pass             52     3      9       X      State
+Mabry, Julius         Colmesneil HS, Colmesneil               48     5      6       X      Alternate
+Roberts, Travis       Groveton H S, Groveton                  40     6      4       X
+Dotson, Luke          Dawson HS, Dawson                       38     7
+Grubbs, Riannon       Kerens H S, Kerens                      38     7
+Ferrebee, Samantha    Shelbyville H S, Shelbyville            36     9
+Walther, Andrew       Sabine Pass HS, Sabine Pass             32     10
+Browning, Will        Crawford H S, Crawford                  32     10
+Williams, Matthew     West Sabine HS, Pineland                28     12
+Lara, Sebastian       Harmony School of Innov-Waco, Waco      24     13
+Leifeste, Craig       Groveton H S, Groveton                  24     13
+Cate, John            Frost HS, Frost                         22     15
+Dickens, Britton R    Big Sandy HS, Dallardsville             22     15
+York, Rhianna J       Bremond HS, Bremond                     20     17
+Nicosia, Emily        Shelbyville H S, Shelbyville            20     17
+Peyton, Antis         Bremond HS, Bremond                     20     17
+Johansen, Tristan     Crawford H S, Crawford                  18     20
+Blaine, Jayden        Cross Roads HS, Malakoff                18     20
+McKinney, Austin      Groveton H S, Groveton                  18     20
+Allen, Kurtrick       Shelbyville H S, Shelbyville            18     20
+Smith, Gordon         Colmesneil HS, Colmesneil               18     20
+Whitney, Jed          Crawford H S, Crawford                  16     25
+Brannon, Chris        Timpson HS, Timpson                     12     26
+Contreras, Maria      Sabine Pass HS, Sabine Pass             12     26
+Mayer, Jackson L      Big Sandy HS, Dallardsville             10     28
+Weatherman, Jonathan  Crawford H S, Crawford                  8      29
+Sullivan, Julien M    Bremond HS, Bremond                     8      29
+Wilson, Brock         Axtell HS, Axtell                       8      29
+Crook, Amy            Grapeland HS, Grapeland                 8      29
+Jones, Alyssa         Kerens H S, Kerens                      4      33
+Sigler, Skylar        Shelbyville H S, Shelbyville            4      33
+Harmon, David         Colmesneil HS, Colmesneil               4      33
+Delgado, Joshua       Kerens H S, Kerens                      2      36
+Grammer, Allie P      Douglass H S, Douglass                  2      36
+Kinard, John H        Bremond HS, Bremond                     0      38
+Brown, Jesse          Cushing HS, Cushing                     0      38
+Weir, Shanna          Axtell HS, Axtell                       0      38
+Warden, Skyelar       Zavalla HS, Zavalla                     0      38
+Bludworth, Luke       Douglass H S, Douglass                  -2     42
+Smith, Jacklin M      Douglass H S, Douglass                  -4     43
+Caudillo, Rosalinda   Harmony School of Innov-Waco, Waco      -6     44
+Gonzalez, Rafael      Groveton H S, Groveton                  -8     45
+Tolentino, Linda T    Douglass H S, Douglass                  -8     45
+Whitmire, Caleb       Mount Enterprise H S, Mount Enterprise  -10    47
+Sultan, Isbat         Harmony School of Innov-Waco, Waco      -16    48
+Berger, Katelyn       Cayuga HS, Cayuga                       -20    49
+
+TOP SCORERS
+------------------------------
+Contestant          School           Results               Points
+Williams, Matthew   West Sabine HS   Top Scorer Biology    3
+Mabry, Julius       Colmesneil HS    Alternate Biology     0
+Hassell, James      Colmesneil HS    Alternate Biology     0
+Walther, Andrew     Sabine Pass HS   Alternate Biology     0
+Zienko, Boe         Chireno HS       Top Scorer Chemistry  1.50
+Ferrebee, Samantha  Shelbyville H S  Top Scorer Chemistry  1.50
+Zumwalt, Jacob      Sabine Pass HS   Top Scorer Physics    3
+Blood, Kirk         Sabine Pass HS   Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Sabine Pass HS, Sabine Pass         1     148    1      10      X      State
+Colmesneil HS, Colmesneil           1     118    2      5       X      Alternate
+Groveton H S, Groveton              1     82     3
+Shelbyville H S, Shelbyville        1     74     4
+Crawford H S, Crawford              1     66     5
+Bremond HS, Bremond                 1     48     6
+Kerens H S, Kerens                  1     44     7
+Harmony School of Innov-Waco, Waco  1     2      8
+Douglass H S, Douglass              1     -4     9

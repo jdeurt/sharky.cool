@@ -1,0 +1,51 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                               Score  Place  Points  Medal  Advance
+Acosta, Jay              Kennedale H S, Kennedale             198    1      15      X      Region
+Carangan, Janlloyd       Kennedale H S, Kennedale             112    2      12      X      Region
+Ham, Olivia              Kennedale H S, Kennedale             102    3      10      X      Region
+Lacasse, Devontae        Castleberry HS, Fort Worth           80     4      8       X      Alternate
+Gilbreath, Kate          Mineral Wells H S, Mineral Wells     78     5      6       X
+Marquez, Ramon           Kennedale H S, Kennedale             74     6      4       X
+Young, Allison           Kennedale H S, Kennedale             70     7
+Kuhn, Noah               Mineral Wells H S, Mineral Wells     66     8
+Shipp, Shelby            Mineral Wells H S, Mineral Wells     62     9
+Badger, William          Kennedale H S, Kennedale             60     10
+Zerby, Isaac             Springtown HS, Springtown            52     11
+Franco Perez, Estrella   Diamond Hill-Jarvis H S, Fort Worth  38     12
+Price, Ben               Benbrook HS, Benbrook                38     12
+Tieu, Khang              Castleberry HS, Fort Worth           36     14
+Cerda, Migdalia          Diamond Hill-Jarvis H S, Fort Worth  34     15
+Tyree, Megan             Springtown HS, Springtown            34     15
+Malmberg, Scotty         Springtown HS, Springtown            34     15
+Malmberg, Jane           Springtown HS, Springtown            32     18
+Fry, Holden              Springtown HS, Springtown            28     19
+Walls, Matthew           Benbrook HS, Benbrook                28     19
+Williams, Declan         Mineral Wells H S, Mineral Wells     26     21
+Delgado, Jesus           Diamond Hill-Jarvis H S, Fort Worth  24     22
+O'Bannon, Colby          Mineral Wells H S, Mineral Wells     24     22
+Martinez, Kobe           Lake Worth HS, Lake Worth            24     22
+Martin, Monte            Benbrook HS, Benbrook                22     25
+Northrup, Timothy Kaleb  Springtown HS, Springtown            14     26
+Jaimes-Demecio, Leticia  Diamond Hill-Jarvis H S, Fort Worth  8      27
+Davis, Lacoda            Mineral Wells H S, Mineral Wells     0      28
+Ramirez, Jesus           Lake Worth HS, Lake Worth            -14    29
+
+TOP SCORERS
+------------------------------
+Contestant          School             Results               Points
+Badger, William     Kennedale H S      Top Scorer Biology    3
+Ham, Olivia         Kennedale H S      Alternate Biology     0
+Acosta, Jay         Kennedale H S      Top Scorer Chemistry  3
+Carangan, Janlloyd  Kennedale H S      Alternate Chemistry   0
+Acosta, Jay         Kennedale H S      Top Scorer Physics    3
+Kuhn, Noah          Mineral Wells H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Kennedale H S, Kennedale             1     412    1      10      X      Region
+Mineral Wells H S, Mineral Wells     1     206    2      5       X      Alternate
+Springtown HS, Springtown            1     120    3
+Diamond Hill-Jarvis H S, Fort Worth  1     96     4
+Benbrook HS, Benbrook                1     88     5

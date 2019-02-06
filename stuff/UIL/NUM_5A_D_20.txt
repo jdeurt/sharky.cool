@@ -1,0 +1,55 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                        Score  Place  Points  Medal  Advance
+Alford, Chase         Magnolia HS, Magnolia         175    1      15      X      Region
+Sass, Jacob           Magnolia HS, Magnolia         142    2      12      X      Region
+Studwell, Alex        Tomball Memorial HS, Tomball  139    3      10      X      Region
+Malhotra, Radha       Tomball Memorial HS, Tomball  132    4      8       X      Alternate
+Duncan, Laura         Waller HS, Waller             131    5      6       X
+Chhong, Eric          Tomball Memorial HS, Tomball  127    6      4       X
+Zhang, Alan           Tomball Memorial HS, Tomball  122    7
+Xiong, Kaven          Waller HS, Waller             106    8
+Santra, Anuska        Tomball HS, Tomball           98     9
+Harper, Pearson       Bridgeland HS, Cypress        97     10
+Gray, Zachary         Waller HS, Waller             94     11
+Price, Chris          Cain HS, Klein                91     12
+Hairwell, RJ          Tomball HS, Tomball           90     13
+Demny, Madeline       Magnolia HS, Magnolia         83     14
+Williams, Thomas      Huntsville H S, Huntsville    82     15
+Beyabani, Zuha        Cain HS, Klein                77     16
+Deans, Danielle       Brenham HS, Brenham           74     17
+Bocanegra, Alexander  Cypress Park HS, Cypress      66     18
+Brown, Kevin          Magnolia West HS, Magnolia    52     19
+Blythe, Devin         Brenham HS, Brenham           49     20
+Alexander, Beau       Waller HS, Waller             37     21
+Chiu, Evelyn          Cain HS, Klein                35     22
+Sloan, Kaegan         Magnolia HS, Magnolia         21     23
+Daramola, Olamide O   Paetow HS, Katy               17     24
+Ojediran, Inioluwa    Cypress Park HS, Cypress      13     25
+Oteng, Martin         Huntsville H S, Huntsville    6      26
+Ezuma-Ngwu, Chikezie  Cypress Park HS, Cypress      -2     27
+Nguyen, Tina          Brenham HS, Brenham           -13    28
+Ho, Alison            Cypress Park HS, Cypress      -13    28
+Helm, Jeweljana       Magnolia West HS, Magnolia    -20    30
+Posadas, Aaron T      Paetow HS, Katy               -36    31
+Gutierrez, Cynthia    Huntsville H S, Huntsville    -49    32
+Dela Cruz, Alec       Huntsville H S, Huntsville    -70    33
+Rodriguez, Julio      Tomball HS, Tomball           -140   34
+Pham, Chase J         Paetow HS, Katy               -253   35
+Avant, Alyvia         Bridgeland HS, Cypress        -262   36
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Magnolia HS, Magnolia         1     400    1      10      X      Region
+Tomball Memorial HS, Tomball  1     398    2      5       X      Alternate
+Waller HS, Waller             1     331    3
+Cain HS, Klein                1     203    4
+Brenham HS, Brenham           1     110    5
+Cypress Park HS, Cypress      1     77     6
+Tomball HS, Tomball           1     48     7
+Huntsville H S, Huntsville    1     39     8
+Paetow HS, Katy               1     -272   9
+
+TEAM RESULTS
+------------------------------

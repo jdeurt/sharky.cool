@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Leifeste, Craig        Groveton H S, Groveton       83     1      15      X      Region
+Tullos, Ethan          Lovelady HS, Lovelady        67     2      12      X      Region
+Townsend, Eastman      Latexo H S, Latexo           53     3      10      X      Region
+Gonzalez, Hadrian      Groveton H S, Groveton       50     4      8       X      Alternate
+Chavez, Javier         Groveton H S, Groveton       32     5      6       X
+Brooks, Ty             Groveton H S, Groveton       25     6      4       X
+Williams, Evelyn       Centerville HS, Centerville  19     7
+Renfro, Alyssa D       Big Sandy HS, Dallardsville  17     8
+Catoe, Riley           Latexo H S, Latexo           17     8
+Craven, Sydnee         Latexo H S, Latexo           17     8
+Perez, Bryan           Grapeland HS, Grapeland      10     11
+Castleberry, Halleigh  Latexo H S, Latexo           8      12
+Ham, Jessica           Lovelady HS, Lovelady        8      12
+Thompson, Jaiden       Big Sandy HS, Dallardsville  6      14
+Bowen, Justin          Centerville HS, Centerville  0      15
+Miller, Jared          Centerville HS, Centerville  -4     16
+Dilli, Alyssa          Grapeland HS, Grapeland      -18    17
+Brennan, Andrew W      Big Sandy HS, Dallardsville  -19    18
+Gellar, Nicholas B     Big Sandy HS, Dallardsville  -25    19
+Stowe, Jacob           Lovelady HS, Lovelady        -28    20
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Groveton H S, Groveton       1     165    1      10      X      Region
+Latexo H S, Latexo           1     87     2      5       X      Alternate
+Lovelady HS, Lovelady        1     47     3
+Centerville HS, Centerville  1     15     4
+Big Sandy HS, Dallardsville  1     4      5
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,26 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Tejeda, Elio           Hidalgo H S, Hidalgo         140    1      15      X      Region
+Correa, Alexy          Hidalgo H S, Hidalgo         138    2      12      X      Region
+Bennett, Jordan        La Feria H S, La Feria       92     3      10      X      Region
+Perez, Christopher     La Feria H S, La Feria       42     4      8       X      Alternate
+Lozano, Josue          Hidalgo H S, Hidalgo         40     5      6       X
+Delgado, Alex          La Feria H S, La Feria       34     6      4       X
+Roldan, Marco          Hidalgo H S, Hidalgo         16     7
+Pina, Guadalupe        Progreso HS, Progreso        2      8
+Gray, Krystyna         Zapata HS, Zapata            -2     9
+Barrientos, Cassandra  Zapata HS, Zapata            -2     9
+Salinas, Osualdo       Grulla H S, Rio Grande City  -4     11
+Solis, Marisa          Zapata HS, Zapata            -16    12
+Moreno, Gabriel        Progreso HS, Progreso        -24    13
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Hidalgo H S, Hidalgo    1     318    1      20      X      Region
+La Feria H S, La Feria  1     168    2      16      X      Alternate
+Zapata HS, Zapata       1     -20    3      12      X
+
+TEAM RESULTS
+------------------------------

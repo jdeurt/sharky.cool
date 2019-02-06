@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Rice, Kensley        Whiteface HS, Whiteface          161    1      15      X      Region
+Deavours, Kaylah     Whiteface HS, Whiteface          140    2      11      X      Region
+Casarez, Elizabeth   Whiteface HS, Whiteface          140    2      11      X      Region
+Cleavinger, Clay     Whiteface HS, Whiteface          140    4      8       X      Alternate
+Rodriguez, David     Whitharral HS, Whitharral        50     5      6       X
+Wischkaemper, Kinly  Whitharral HS, Whitharral        48     6      4       X
+Gonzales, Kasidy     Whitharral HS, Whitharral        34     7
+Mayfield, Mallory    Petersburg H S, Petersburg       31     8
+Martinez, David      Lorenzo HS, Lorenzo              27     9
+Lozoya, Gabriella    Lorenzo HS, Lorenzo              22     10
+Hale, Jennifer       Cotton Center HS, Cotton Center  12     11
+Deleon, Kayla        Lorenzo HS, Lorenzo              -5     12
+Guel, Julianna       Lorenzo HS, Lorenzo              -7     13
+Flores, Vanessa      Cotton Center HS, Cotton Center  -9     14
+Kennedy, Brecklyn    Whitharral HS, Whitharral        -14    15
+Castaneda, Jose      Amherst HS, Amherst              -45    16
+Rivera, Michaela     Cotton Center HS, Cotton Center  -46    17
+Esquivel, Melody     Petersburg H S, Petersburg       -54    18
+Ceniceros, Dakota    Cotton Center HS, Cotton Center  -81    19
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Whiteface HS, Whiteface          1     441    1      10      X      Region
+Whitharral HS, Whitharral        1     132    2      5       X      Alternate
+Lorenzo HS, Lorenzo              1     44     3
+Cotton Center HS, Cotton Center  1     -43    4
+
+TEAM RESULTS
+------------------------------

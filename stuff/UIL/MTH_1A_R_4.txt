@@ -1,0 +1,56 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                           Score  Place  Points  Medal  Advance
+Dong, Jessica         Knippa H S, Knippa               174    1      15      X      State
+Cox, Ryan             Knippa H S, Knippa               116    2      12      X      State
+Keeney, Bethany       Knippa H S, Knippa               106    3      10      X      State
+Kubicek, Zane         Moulton HS, Moulton              94     4      8       X      Alternate
+Helms, Paige          Bynum HS, Bynum                  88     5      6       X
+Ramirez, Rebekah      Knippa H S, Knippa               82     6      4       X
+Gunn, Anthony         Gholson HS, Waco                 66     7
+Bartos, Noah          Moulton HS, Moulton              66     7
+Selby, Amanda         McMullen County HS, Tilden       66     7
+Syzdek, Samuel        Apple Springs HS, Apple Springs  64     10
+Rogers, Trey          Apple Springs HS, Apple Springs  64     10
+Zamzow, Kara          Abbott HS, Abbott                54     12
+Ravara, Maria         McMullen County HS, Tilden       50     13
+Tullos, Ethan         Apple Springs HS, Apple Springs  46     14
+Baird, cody           Apple Springs HS, Apple Springs  46     14
+Free, Madison         Leggett HS, Leggett              44     16
+Drabek, Garrett       Moulton HS, Moulton              44     16
+Kram, Braden          Moulton HS, Moulton              44     16
+Atkinson, Erin        McMullen County HS, Tilden       42     19
+Willenborg, Caroline  Gholson HS, Waco                 40     20
+Machuca, Juan         Goodrich H S, Goodrich           38     21
+Mascara, Maura        Evant H S, Evant                 26     22
+Kriska, Landon        Avalon HS, Avalon                24     23
+Machuca, Alexis       Goodrich H S, Goodrich           24     23
+Neal, Travis          Slocum H S, Elkhart              20     25
+Measels, Kaylie       McMullen County HS, Tilden       18     26
+Holden, Madilyn       Evant H S, Evant                 16     27
+Fletcher, Jalyn       Slocum H S, Elkhart              16     27
+Flores, Selena        Goodrich H S, Goodrich           16     27
+Burkham, Grayson      Evant H S, Evant                 12     30
+Langston, Caden       Slocum H S, Elkhart              12     30
+Schuenemann, Elise    Nordheim HS, Nordheim            10     32
+Sanders, Kaleb D      Jonesboro H S, Jonesboro         4      33
+Easley, Sara          Slocum H S, Elkhart              -2     34
+Reedy, Lauren         Gholson HS, Waco                 -4     35
+Lewis, Baylee         Evant H S, Evant                 -12    36
+Roman, Octavian       Gholson HS, Waco                 -12    36
+Garzon, Cristian      Goodrich H S, Goodrich           -22    38
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Knippa H S, Knippa               1     396    1      10      X      State
+Moulton HS, Moulton              1     204    2      5       X      Alternate
+Apple Springs HS, Apple Springs  1     174    3
+McMullen County HS, Tilden       1     158    4
+Gholson HS, Waco                 1     102    5
+Goodrich H S, Goodrich           1     78     6
+Evant H S, Evant                 1     54     7
+Slocum H S, Elkhart              1     48     8
+
+TEAM RESULTS
+------------------------------

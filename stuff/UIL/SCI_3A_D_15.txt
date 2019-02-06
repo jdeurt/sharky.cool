@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                  Score  Place  Points  Medal  Advance
+Wilson, Ian        Sabine HS, Gladewater   122    1      15      X      Region
+Williams, Trevor   Sabine HS, Gladewater   106    2      12      X      Region
+Stafford, Skylar   Sabine HS, Gladewater   80     3      10      X      Region
+McKenzie, Halyn    Sabine HS, Gladewater   72     4      8       X      Alternate
+Ard, Jones         Troup HS, Troup         68     5      6       X
+Knight, Jake       Sabine HS, Gladewater   60     6      4       X
+Easley, Cole       Sabine HS, Gladewater   58     7
+Hunter, Will       Troup HS, Troup         58     7
+Dacus, Jenna       Harmony H S, Big Sandy  38     9
+Thomas, Shane      Troup HS, Troup         36     10
+Cox, Jesse         Harmony H S, Big Sandy  26     11
+Moore, Rian        Harmony H S, Big Sandy  26     11
+Everett, Olivia    Harmony H S, Big Sandy  22     13
+Bays, Christine    Arp HS, Arp             18     14
+Cox, Trevor        Arp HS, Arp             18     14
+Stone, Logan       Troup HS, Troup         18     14
+Williams, Josh     Troup HS, Troup         14     17
+Stiles, Emily      Arp HS, Arp             10     18
+McDonald, Chelsea  Arp HS, Arp             8      19
+Jackson, Jared     Troup HS, Troup         4      20
+Cavazos, Jasmine   Arp HS, Arp             -2     21
+Willie, Raylie     Harmony H S, Big Sandy  -8     22
+Cox, Kimberleigh   Arp HS, Arp             -14    23
+
+TOP SCORERS
+------------------------------
+Contestant        School     Results               Points
+Wilson, Ian       Sabine HS  Top Scorer Biology    3
+Hunter, Will      Troup HS   Alternate Biology     0
+Wilson, Ian       Sabine HS  Top Scorer Chemistry  3
+Stafford, Skylar  Sabine HS  Alternate Chemistry   0
+Williams, Trevor  Sabine HS  Top Scorer Physics    3
+Wilson, Ian       Sabine HS  Alternate Physics     0
+McKenzie, Halyn   Sabine HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Sabine HS, Gladewater   1     308    1      10      X      Region
+Troup HS, Troup         1     162    2      5       X      Alternate
+Harmony H S, Big Sandy  1     90     3
+Arp HS, Arp             1     46     4

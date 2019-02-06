@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                          Score  Place  Points  Medal  Advance
+Willbern, Kaitlyn    Rice H S, Altair                88     1      15      X      Region
+Matthys, Cana        East Bernard H S, East Bernard  70     2      12      X      Region
+Nieman, Kyle         Brazos HS, Wallis               66     3      10      X      Region
+Kellner, Tyler       East Bernard H S, East Bernard  40     4      7       X      Alternate
+Grigar, Valerie      East Bernard H S, East Bernard  40     4      7       X      Alternate
+Grymes, Douglas      East Bernard H S, East Bernard  34     6      1       X
+Vrazel, Madison      Danbury H S, Danbury            34     6      1       X
+Schendel, Shaelyn    Rice H S, Altair                34     6      1       X
+Hernandez, Andrea    La Marque H S, La Marque        34     6      1       X
+Ruffins, Di'Avian    La Marque H S, La Marque        32     10
+Gonzalez, Juan       Brazos HS, Wallis               32     10
+Stahl, Whitney       Danbury H S, Danbury            30     12
+Moreno Tavera, Ruby  Brazos HS, Wallis               30     12
+Mayo, Colten         Brazos HS, Wallis               30     12
+Zetka, Jacey         Danbury H S, Danbury            22     15
+Samaniego, Maria     Rice H S, Altair                16     16
+Waidner, Sandra      Hitchcock H S, Hitchcock        16     16
+Waidner, Victoria    Hitchcock H S, Hitchcock        8      18
+Landry, Geran        Hitchcock H S, Hitchcock        4      19
+Skoruppa, Alexander  Danbury H S, Danbury            0      20
+Landry, Brianna      Hitchcock H S, Hitchcock        -8     21
+Richardson, Makia    Rice H S, Altair                -10    22
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+East Bernard H S, East Bernard  1     150    1      10      X      Region
+Rice H S, Altair                1     138    2      5       X      Alternate
+Brazos HS, Wallis               1     128    3
+Danbury H S, Danbury            1     86     4
+Hitchcock H S, Hitchcock        1     28     5
+
+TEAM RESULTS
+------------------------------

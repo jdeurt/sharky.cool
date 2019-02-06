@@ -1,0 +1,58 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Belk, Hunter           Atlanta HS, Atlanta           76     1      15      X      Region
+Saldino, Joseph        Pleasant Grove HS, Texarkana  74     2      12      X      Region
+Standifer, Allyssa     Paris HS, Paris               68     3      10      X      Region
+Armstrong, Heather     North Lamar H S, Paris        56     4      8       X      Alternate
+Curvino, Donato        North Lamar H S, Paris        54     5      6       X
+Rowe, Jared            Pittsburg H S, Pittsburg      52     6      4       X
+Solomon, Aaron         Atlanta HS, Atlanta           52     7
+Bain, Graham           Paris HS, Paris               50     8
+Bennett, Kamryn        Atlanta HS, Atlanta           50     8
+Morris, Colin          Atlanta HS, Atlanta           46     10
+Sander, Savanna        Paris HS, Paris               44     11
+Leigh, Britini         Paris HS, Paris               42     12
+Schwinn, Rachel        Liberty-Eylau H S, Texarkana  40     13
+Nguyen, Daniel         Pittsburg H S, Pittsburg      38     14
+De La Garza, Zachary   Paris HS, Paris               36     15
+Gutierrez, Gabriel     Pittsburg H S, Pittsburg      34     16
+Davis, Emily           North Lamar H S, Paris        32     17
+Bramblett, Kenzie-Lou  Pittsburg H S, Pittsburg      32     17
+Blouin, Amanda         Paris HS, Paris               30     19
+McDonald, Paige        Liberty-Eylau H S, Texarkana  28     20
+Adams, Kaleb           Pleasant Grove HS, Texarkana  28     20
+Gil, Kashlyn           Liberty-Eylau H S, Texarkana  26     22
+Samples, Connor        Atlanta HS, Atlanta           24     23
+Davault, Tyler         Atlanta HS, Atlanta           22     24
+Alexander, Antony      Liberty-Eylau H S, Texarkana  20     25
+Holland, Lauren        Pleasant Grove HS, Texarkana  20     25
+Kirby, Kris            North Lamar H S, Paris        18     27
+Plank, Brendan         Pleasant Grove HS, Texarkana  16     28
+Sefcik, Felicity       North Lamar H S, Paris        10     29
+Adams, Clorissa        Liberty-Eylau H S, Texarkana  10     29
+Whisenhunt, Chloe      North Lamar H S, Paris        8      31
+Simington, Laken       Liberty-Eylau H S, Texarkana  -4     32
+
+TOP SCORERS
+------------------------------
+Contestant          School             Results               Points
+Saldino, Joseph     Pleasant Grove HS  Top Scorer Biology    3
+Belk, Hunter        Atlanta HS         Alternate Biology     0
+Armstrong, Heather  North Lamar H S    Top Scorer Chemistry  3
+Plank, Brendan      Pleasant Grove HS  Alternate Chemistry   0
+Curvino, Donato     North Lamar H S    Top Scorer Physics    3
+Standifer, Allyssa  Paris HS           Alternate Physics     0
+Schwinn, Rachel     Liberty-Eylau H S  Alternate Physics     0
+Bennett, Kamryn     Atlanta HS         Alternate Physics     0
+Armstrong, Heather  North Lamar H S    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Atlanta HS, Atlanta           1     178    1      10      X      Region
+Paris HS, Paris               1     162    2      5       X      Alternate
+North Lamar H S, Paris        1     142    3
+Pittsburg H S, Pittsburg      1     124    4
+Pleasant Grove HS, Texarkana  1     122    5
+Liberty-Eylau H S, Texarkana  1     94     6

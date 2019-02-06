@@ -1,0 +1,32 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                     Score  Place  Points  Medal  Advance
+Walker, Jon       Bellevue HS, Bellevue      200    1      15      X      Region
+Terry, Trey       Bellevue HS, Bellevue      141    2      12      X      Region
+Maddin, Rebecca   Bellevue HS, Bellevue      109    3      10      X      Region
+Wolf, Bryan       Midway HS, Henrietta       66     4      8       X      Alternate
+Leach, Holton     Midway HS, Henrietta       58     5      6       X
+Wyatt, Kyler      Midway HS, Henrietta       53     6      4       X
+Vanover, Easton   Slidell HS, Slidell        52     7
+Lawson, Trista    Bellevue HS, Bellevue      46     8
+Coston, Stone     Slidell HS, Slidell        40     9
+Shelton, Layton   Slidell HS, Slidell        19     10
+Duke, Stetson     Saint Jo HS, Saint Jo      13     11
+Smith, Zak        Prairie Valley HS, Nocona  8      12
+Vogel, Carlee     Saint Jo HS, Saint Jo      7      13
+Pruett, Slayton   Slidell HS, Slidell        2      14
+Vogel, Rachael    Saint Jo HS, Saint Jo      1      15
+Sloan, Jonathan   Prairie Valley HS, Nocona  0      16
+Moore, Peyton     Saint Jo HS, Saint Jo      -1     17
+Mitchell, Nathan  Midway HS, Henrietta       -9     18
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Bellevue HS, Bellevue  1     450    1      10      X      Region
+Midway HS, Henrietta   1     177    2      5       X      Alternate
+Slidell HS, Slidell    1     111    3
+Saint Jo HS, Saint Jo  1     21     4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                        Score  Place  Points  Medal  Advance
+Young, Jack           Argyle HS, Argyle             252    1      15      X      Region
+Davis, Timothy        Argyle HS, Argyle             252    2      12      X      Region
+Livingston, Audrey    Argyle HS, Argyle             238    3      10      X      Region
+White, Brandon        Argyle HS, Argyle             217    4      8       X      Alternate
+Khalilullah, Ibrahim  Lebanon Trail HS, Frisco      156    5      6       X
+Rishi, Tanay          Lebanon Trail HS, Frisco      156    6      4       X
+Holley, Kyler         Bridgeport HS, Bridgeport     142    7
+Edington, Dillon      Gainesville H S, Gainesville  136    8
+Stotts, Andrew        Bridgeport HS, Bridgeport     135    9
+Tran, Wilson          Gainesville H S, Gainesville  128    10
+Amador, Ivan          Bridgeport HS, Bridgeport     106    11
+Chintaman, Navya      Lebanon Trail HS, Frisco      104    12
+Barton, Cole          Bridgeport HS, Bridgeport     99     13
+Kakumani, Ritvik      Lebanon Trail HS, Frisco      99     13
+Dominguez, Bryan      Sanger H S, Sanger            88     15
+Smith, Caylee         Sanger H S, Sanger            72     16
+Odom, Chase           Krum H S, Krum                71     17
+Bradford, Andy        Decatur HS, Decatur           70     18
+Jones, Kaylee         Sanger H S, Sanger            44     19
+Tan, Matthew          Gainesville H S, Gainesville  41     20
+Baker, Emily          Decatur HS, Decatur           31     21
+Goldsworthy, Cooper   Gainesville H S, Gainesville  25     22
+Lester, Felicity      Sanger H S, Sanger            13     23
+Lane, Kaitlyn         Decatur HS, Decatur           11     24
+Vosberg, Kara         Krum H S, Krum                9      25
+Wear, Nicholas        Krum H S, Krum                -10    26
+Orieka, Enifome       Krum H S, Krum                -24    27
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Argyle HS, Argyle             1     742    1      10      X      Region
+Lebanon Trail HS, Frisco      1     416    2      5       X      Alternate
+Bridgeport HS, Bridgeport     1     383    3
+Gainesville H S, Gainesville  1     305    4
+Sanger H S, Sanger            1     204    5
+Decatur HS, Decatur           1     112    6
+Krum H S, Krum                1     70     7
+
+TEAM RESULTS
+------------------------------

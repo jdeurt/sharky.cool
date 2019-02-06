@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Santosa, Mardhika    Grapevine H S, Grapevine              270    1      15      X      Region
+Santosa, Utari       Grapevine H S, Grapevine              210    2      12      X      Region
+Valencic, Luka       Grapevine H S, Grapevine              208    3      10      X      Region
+Tanna, Vivek         Grapevine H S, Grapevine              198    4      8       X      Alternate
+Rosenberg, Joshua    Collegiate Academy TCC NE HS, Hurst   142    5      6       X
+Blackburn, Alicia    Birdville HS, N Richland Hills        106    6      4       X
+Ruhlman, Jenna       Birdville HS, N Richland Hills        98     7
+Song, Hyun-Joon      Colleyville-Heritage HS, Colleyville  94     8
+Winters, Sam         Colleyville-Heritage HS, Colleyville  90     9
+Chowdhury, Nafeezer  Colleyville-Heritage HS, Colleyville  90     10
+Banerjee, Rahul      Colleyville-Heritage HS, Colleyville  84     11
+Wilson, Sean T       Eastern Hills H S, Fort Worth         80     12
+Saenz, Javier        Carter-Riverside HS, Fort Worth       64     13
+Chu, Vy              Carter-Riverside HS, Fort Worth       62     14
+Street, Marlee       Birdville HS, N Richland Hills        54     15
+Fraire, Javier       Eastern Hills H S, Fort Worth         46     16
+Cardona, Elisa       Collegiate Academy TCC NE HS, Hurst   42     17
+Green, Hannah        Birdville HS, N Richland Hills        34     18
+Romero, Cristopher   Dunbar H S, Fort Worth                24     19
+Harris, Madeleine    Collegiate Academy TCC NE HS, Hurst   20     20
+Ramirez, Francisco   Carter-Riverside HS, Fort Worth       18     21
+Vandiver, Austin     Collegiate Academy TCC NE HS, Hurst   16     22
+Ajidagba, Faruq      Dunbar H S, Fort Worth                16     23
+Diaz, Orlando        Dunbar H S, Fort Worth                14     24
+Marcial, Eddie       Eastern Hills H S, Fort Worth         12     25
+Garcia, Jennifer     Eastern Hills H S, Fort Worth         8      26
+Durrough, Meredith   Dunbar H S, Fort Worth                2      27
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Grapevine H S, Grapevine              1     688    1      10      X      Region
+Colleyville-Heritage HS, Colleyville  1     274    2      5       X      Alternate
+Birdville HS, N Richland Hills        1     258    3
+Collegiate Academy TCC NE HS, Hurst   1     204    4
+Carter-Riverside HS, Fort Worth       1     144    5
+Eastern Hills H S, Fort Worth         1     138    6
+Dunbar H S, Fort Worth                1     54     7
+
+TEAM RESULTS
+------------------------------

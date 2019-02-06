@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                               Score  Place  Points  Medal  Advance
+Gilbreath, Kate          Mineral Wells H S, Mineral Wells     212    1      15      X      Region
+Garcia, Manuel           Mineral Wells H S, Mineral Wells     170    2      12      X      Region
+Kuhn, Noah               Mineral Wells H S, Mineral Wells     164    3      10      X      Region
+Shipp, Shelby            Mineral Wells H S, Mineral Wells     142    4      8       X      Alternate
+Ly, Aaron                Kennedale H S, Kennedale             121    5      6       X
+Jaeks, Natalie           Benbrook HS, Benbrook                121    6      4       X
+Fowler, Michael          Benbrook HS, Benbrook                114    7
+Devlin, McKenna          Springtown HS, Springtown            113    8
+MacAdam, Connor          Benbrook HS, Benbrook                113    8
+Clingman, Grace          Benbrook HS, Benbrook                70     10
+Herrera, Alexa           Diamond Hill-Jarvis H S, Fort Worth  51     11
+Northrup, Timothy Kaleb  Springtown HS, Springtown            47     12
+Crisp, Tommy             Kennedale H S, Kennedale             36     13
+Rodriguez, Maria         Diamond Hill-Jarvis H S, Fort Worth  34     14
+Brumback, Christian      Springtown HS, Springtown            33     15
+Franco Perez, Estrella   Diamond Hill-Jarvis H S, Fort Worth  22     16
+Mills, Madison           Kennedale H S, Kennedale             15     17
+Rosales, Nayeli          Diamond Hill-Jarvis H S, Fort Worth  9      18
+Hale, Megan              Kennedale H S, Kennedale             -5     19
+Montelongo, Angel        Lake Worth HS, Lake Worth            -48    20
+Perez, Bianca            Lake Worth HS, Lake Worth            -61    21
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Mineral Wells H S, Mineral Wells     1     546    1      10      X      Region
+Benbrook HS, Benbrook                1     348    2      5       X      Alternate
+Springtown HS, Springtown            1     193    3
+Kennedale H S, Kennedale             1     172    4
+Diamond Hill-Jarvis H S, Fort Worth  1     107    5
+
+TEAM RESULTS
+------------------------------

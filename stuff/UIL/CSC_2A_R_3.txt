@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                Score  Place  Points  Medal  Advance
+Blood, Kirk           Sabine Pass HS, Sabine Pass           208    1      15      X      State
+Russell, Ryan         San Augustine HS, San Augustine       146    2      12      X      State
+Zumwalt, Jacob        Sabine Pass HS, Sabine Pass           120    3      10      X      State
+Chaiyabud, Nuttakarn  San Augustine HS, San Augustine       96     4      8       X      Alternate
+Medina, Jesus         Sabine Pass HS, Sabine Pass           92     5      6       X
+Porras, Juan          New Summerfield H S, New Summerfield  88     6      4       X
+Prado, Santiago       San Augustine HS, San Augustine       84     7
+Tapia, Christian      San Augustine HS, San Augustine       66     8
+Escareno, Noah        Sabine Pass HS, Sabine Pass           66     8
+Mendoza, Luis         New Summerfield H S, New Summerfield  64     10
+Mabry, Julius         Colmesneil HS, Colmesneil             62     11
+Spencer, Jason        Chireno HS, Chireno                   42     12
+Smith, Gordon         Colmesneil HS, Colmesneil             36     13
+Hassell, James        Colmesneil HS, Colmesneil             28     14
+Moore, Thomas         Chireno HS, Chireno                   18     15
+Marston, Alexander    Cross Roads HS, Malakoff              14     16
+Anthony, John         Axtell HS, Axtell                     10     17
+Saylor, Kat           Colmesneil HS, Colmesneil             10     17
+Tacker, Jackson E     Wortham HS, Wortham                   8      19
+Vargas, Mirian        New Summerfield H S, New Summerfield  8      19
+Bustamante, Laura     Latexo H S, Latexo                    6      21
+Craven, Sydnee        Latexo H S, Latexo                    6      21
+Alba, Tanner J        Valley Mills HS, Valley Mills         2      23
+Gamez, Tony           Valley Mills HS, Valley Mills         2      23
+Lee, Samantha C       Wortham HS, Wortham                   2      23
+Dowdy, Jordan         Chireno HS, Chireno                   2      23
+Brown, James A        Wortham HS, Wortham                   0      27
+Davidson, Aaron       Cross Roads HS, Malakoff              0      27
+Powers, Zachary T     Valley Mills HS, Valley Mills         -2     29
+Melton, Krystal       Valley Mills HS, Valley Mills         -2     29
+Miller, Kase          Latexo H S, Latexo                    -2     29
+Guest, Andrew G       Wortham HS, Wortham                   -4     32
+Tatom, Allan          Cross Roads HS, Malakoff              -4     32
+Stowe, Jacob          Lovelady HS, Lovelady                 -4     32
+Ryman, Carly          Latexo H S, Latexo                    -4     32
+Perkins, Johnathon    Cross Roads HS, Malakoff              -8     36
+Nunn, Cade            Bosqueville HS, Waco                  -14    37
+Willams, Evan         Bosqueville HS, Waco                  -18    38
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Sabine Pass HS, Sabine Pass           1     710    1      20      X      State
+San Augustine HS, San Augustine       1     446    2      16      X      Alternate
+New Summerfield H S, New Summerfield  1     400    3      12      X
+Colmesneil HS, Colmesneil             1     246    4
+Valley Mills HS, Valley Mills         1     62     5
+Chireno HS, Chireno                   1     62     5
+Wortham HS, Wortham                   1     10     7
+Cross Roads HS, Malakoff              1     10     7
+Latexo H S, Latexo                    1     10     7
+
+TEAM RESULTS
+------------------------------

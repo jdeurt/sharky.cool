@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Guidry, Bryce        Lumberton HS, Lumberton             220    1      15      X      Region
+Sumar, Adeel         Nederland H S, Nederland            104    2      12      X      Region
+Waite, Dylan         Port Neches-Groves HS, Port Neches  83     3      9       X      Region
+Garcia, Sebastian    Livingston H S, Livingston          83     3      9       X      Region
+Severance, James     Livingston H S, Livingston          78     5      6       X      Alternate
+Collins, Alaina      Port Neches-Groves HS, Port Neches  70     6      4       X
+Abdul, Farooq        Port Neches-Groves HS, Port Neches  47     7
+Nguyen, Lennon       Lumberton HS, Lumberton             46     8
+Tran, Anthony        Lumberton HS, Lumberton             43     9
+Dhanani, Saahir      Nederland H S, Nederland            34     10
+Heng, Branden        Nederland H S, Nederland            34     10
+Brant, Nathaniel     Port Neches-Groves HS, Port Neches  32     12
+Alexander, Hannah    Lumberton HS, Lumberton             32     12
+Porter, Britney      Central HS, Beaumont                30     14
+Baker, Jack          Vidor H S, Vidor                    24     15
+Isaac, Jeremiah      Vidor H S, Vidor                    17     16
+Jasani, Tanisha      Nederland H S, Nederland            16     17
+Funez, Juan          Memorial HS, Port Arthur            15     18
+Nguyen, Janna        Memorial HS, Port Arthur            14     19
+Mansfield, Victoria  Vidor H S, Vidor                    8      20
+Nickson, Kevin       Central HS, Beaumont                0      21
+Farias, Paulito      Memorial HS, Port Arthur            -13    22
+Johnson, Ethan       Vidor H S, Vidor                    -17    23
+McCarty, Damian      Livingston H S, Livingston          -22    24
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Lumberton HS, Lumberton             1     309    1      10      X      Region
+Port Neches-Groves HS, Port Neches  1     200    2      5       X      Alternate
+Nederland H S, Nederland            1     172    3
+Livingston H S, Livingston          1     139    4
+Vidor H S, Vidor                    1     49     5
+Memorial HS, Port Arthur            1     16     6
+
+TEAM RESULTS
+------------------------------

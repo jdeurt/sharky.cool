@@ -1,0 +1,91 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                  Score  Place  Points  Medal  Advance
+Siegel, Harry        Mission Collegiate HS, Mission          154    1      15      X      Region
+Gomez, Jose Luis     Memorial H S, McAllen                   108    2      12      X      Region
+Garzonie, Garrett    McAllen HS, McAllen                     100    3      10      X      Region
+Rivera, Erik         Carter Early College HS, La Joya        94     4      8       X      Alternate
+Contreras, Axel      Palmview HS, La Joya                    90     5      6       X
+Ortiz, Elias         Salinas STEM Early College HS, La Joya  86     6      4       X
+Garcia, Derek        Salinas STEM Early College HS, La Joya  86     7
+Cruz, Erik           Carter Early College HS, La Joya        84     8
+Ortiz, Cristobal     Achieve Early HS, McAllen               84     8
+PINA, XAVIER         Palmview HS, La Joya                    82     10
+Banda, Alejandro     Salinas STEM Early College HS, La Joya  78     11
+Zamora, Jose         Achieve Early HS, McAllen               78     11
+Velasquez, Emil      Achieve Early HS, McAllen               76     13
+Magana, Pablo        Memorial H S, McAllen                   68     14
+Aleman, Ashley       Carter Early College HS, La Joya        54     15
+Escareno, Carlos     Salinas STEM Early College HS, La Joya  52     16
+Villanueva, Cesar    Salinas STEM Early College HS, La Joya  46     17
+Martinez, Alejandro  Mission H S, Mission                    46     17
+Hernandez, Sofia     Memorial H S, McAllen                   44     19
+Mares, Mauricio      Carter Early College HS, La Joya        44     19
+Lopez, Angel         Juarez Lincoln HS, La Joya              44     19
+SALINAS, ARIANNA     Palmview HS, La Joya                    42     22
+Saenz, Vidal         McAllen HS, McAllen                     40     23
+Cortez, Jasmin       Juarez Lincoln HS, La Joya              38     24
+Pacheco, Marina      McAllen HS, McAllen                     36     25
+Martinez, Carina     Mission Collegiate HS, Mission          36     25
+Perez, Karla         Achieve Early HS, McAllen               36     25
+Davis, Maielah       Mission H S, Mission                    34     28
+Sanchez, Rafael      Rowe H S, McAllen                       34     28
+Garza, Liza          Mission H S, Mission                    32     30
+Gomez, Valeria       Memorial H S, McAllen                   26     31
+PINA, ANAHI          Palmview HS, La Joya                    26     31
+Jo, John             Memorial H S, McAllen                   22     33
+Becerril, Javier     Achieve Early HS, McAllen               22     33
+Wong, Jesus          Mission Collegiate HS, Mission          20     35
+Leon, Abdiel         Achieve Early HS, McAllen               20     35
+Sauceda, John Paul   McAllen HS, McAllen                     18     37
+Cantu, Andres        Mission H S, Mission                    16     38
+Hernandez, Morgan    Rowe H S, McAllen                       14     39
+Rodriguez, Valerie   McAllen HS, McAllen                     12     40
+Gonzalez, Nayssa     Memorial H S, McAllen                   12     40
+BARRERA, LILLY       Palmview HS, La Joya                    12     40
+Pinon, Joshua        Mission Collegiate HS, Mission          12     40
+Garza, Alyssa        Mission H S, Mission                    10     44
+Castillo, Elvira     La Joya H S, La Joya                    10     44
+Stevens, Valeria     McAllen HS, McAllen                     8      46
+GARZA, ADRIANNA      Palmview HS, La Joya                    8      46
+Gomez, Bianca        Juarez Lincoln HS, La Joya              6      48
+Rodriguez, Gabriel   Mission H S, Mission                    2      49
+Solis, Salvador      Salinas STEM Early College HS, La Joya  0      50
+Reyna, Anita         Rowe H S, McAllen                       0      50
+Aguilar, Yazmin      Carter Early College HS, La Joya        0      50
+Rivera, Daniela      Carter Early College HS, La Joya        0      50
+Magana, Itzel        Rowe H S, McAllen                       0      50
+Garza, Brizza        La Joya H S, La Joya                    0      50
+Platas, Jasmin       La Joya H S, La Joya                    0      50
+Anguiano, Michael    La Joya H S, La Joya                    0      50
+Guzman, Gael         La Joya H S, La Joya                    0      50
+Cantu, Osvaldo       La Joya H S, La Joya                    0      50
+Saldana, Sebastian   Juarez Lincoln HS, La Joya              0      50
+Maldonado, Jennifer  Juarez Lincoln HS, La Joya              0      50
+Marquez, Alan        Juarez Lincoln HS, La Joya              0      50
+Almaraz, Alfredo     Mission Collegiate HS, Mission          -8     63
+
+TOP SCORERS
+------------------------------
+Contestant        School                         Results               Points
+Ortiz, Cristobal  Achieve Early HS               Top Scorer Biology    3
+Velasquez, Emil   Achieve Early HS               Alternate Biology     0
+Siegel, Harry     Mission Collegiate HS          Top Scorer Chemistry  3
+Gomez, Jose Luis  Memorial H S                   Alternate Chemistry   0
+Banda, Alejandro  Salinas STEM Early College HS  Top Scorer Physics    3
+Garcia, Derek     Salinas STEM Early College HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Salinas STEM Early College HS, La Joya  1     250    1      10      X      Region
+Achieve Early HS, McAllen               1     238    2      5       X      Alternate
+Carter Early College HS, La Joya        1     232    3
+Memorial H S, McAllen                   1     220    4
+Palmview HS, La Joya                    1     214    5
+Mission Collegiate HS, Mission          1     210    6
+McAllen HS, McAllen                     1     176    7
+Mission H S, Mission                    1     112    8
+Juarez Lincoln HS, La Joya              1     88     9
+Rowe H S, McAllen                       1     48     10
+La Joya H S, La Joya                    1     10     11

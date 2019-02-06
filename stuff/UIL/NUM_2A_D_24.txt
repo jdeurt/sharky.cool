@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Espinoza, Adrian    Sabine Pass HS, Sabine Pass  61     1      15      X      Region
+Galvan, Adrian      Sabine Pass HS, Sabine Pass  52     2      12      X      Region
+Magana, Jorge       Sabine Pass HS, Sabine Pass  38     3      10      X      Region
+Smith, Matthew      Hull-Daisetta HS, Daisetta   26     4      8       X      Alternate
+Scherman, Bailey L  Deweyville H S, Deweyville   17     5      6       X
+Roth, Jay           West Hardin HS, Saratoga     8      6      2       X
+Hendrix, Josh       West Hardin HS, Saratoga     8      6      2       X
+Evans, Tyler        Hull-Daisetta HS, Daisetta   -1     8
+Blood, Kirk         Sabine Pass HS, Sabine Pass  -7     9
+Soto, Logan         West Hardin HS, Saratoga     -10    10
+Crumpler, Shelby L  Deweyville H S, Deweyville   -19    11
+Duhon, Summer D     Deweyville H S, Deweyville   -22    12
+Sampson, Hailee     Hull-Daisetta HS, Daisetta   -38    13
+Goodman, Paul       Hull-Daisetta HS, Daisetta   -115   14
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Sabine Pass HS, Sabine Pass  1     151    1      10      X      Region
+West Hardin HS, Saratoga     1     6      2      5       X      Alternate
+Hull-Daisetta HS, Daisetta   1     -13    3
+Deweyville H S, Deweyville   1     -24    4
+
+TEAM RESULTS
+------------------------------

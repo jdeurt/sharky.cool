@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Richter, Riley     Thrall HS, Thrall        164    1      15      X      Region
+Poling, Kyge       Thrall HS, Thrall        136    2      12      X      Region
+Jackson, Kaylee    Thrall HS, Thrall        104    3      10      X      Region
+Van Til, Alex      Thrall HS, Thrall        100    4      8       X      Alternate
+Rendon, Drew       Holland H S, Holland     80     5      6       X
+Graham, Bradley    Thrall HS, Thrall        78     6      4       X
+Hooker, Kelton     Thrall HS, Thrall        78     7
+Dague, Kolby       Holland H S, Holland     64     8
+Zeig, Angela       Milano H S, Milano       56     9
+Frei, Luke         Holland H S, Holland     52     10
+Steglich, Erin     Holland H S, Holland     44     11
+Ramthun, G         Thorndale HS, Thorndale  38     12
+LeCompte, Isaac    Holland H S, Holland     38     12
+Walton, Faith      Milano H S, Milano       34     14
+Schneider, John    Granger H S, Granger     32     15
+Bounds, Kenna      Milano H S, Milano       32     15
+Drumm, Mason       Thorndale HS, Thorndale  32     15
+Skrhak, Mikayla    Granger H S, Granger     22     18
+Ryder, Lee         Granger H S, Granger     20     19
+Shaw, Danni        Milano H S, Milano       14     20
+Biar, E            Thorndale HS, Thorndale  12     21
+Hoke, Chloe        Holland H S, Holland     12     21
+Pickett, Ryan      Granger H S, Granger     8      23
+Miller, Travis     Granger H S, Granger     0      24
+Overmeyer, Alexis  Granger H S, Granger     -14    25
+
+TOP SCORERS
+------------------------------
+Contestant       School       Results               Points
+Jackson, Kaylee  Thrall HS    Top Scorer Biology    3
+Poling, Kyge     Thrall HS    Alternate Biology     0
+Richter, Riley   Thrall HS    Top Scorer Chemistry  3
+Poling, Kyge     Thrall HS    Alternate Chemistry   0
+Van Til, Alex    Thrall HS    Alternate Chemistry   0
+Schneider, John  Granger H S  Top Scorer Physics    1.50
+Jackson, Kaylee  Thrall HS    Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Thrall HS, Thrall        1     404    1      10      X      Region
+Holland H S, Holland     1     196    2      5       X      Alternate
+Milano H S, Milano       1     122    3
+Thorndale HS, Thorndale  1     82     4
+Granger H S, Granger     1     74     5

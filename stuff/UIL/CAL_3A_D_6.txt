@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                 Score  Place  Points  Medal  Advance
+Tarigan, Matthew       Early H S, Early       175    1      15      X      Region
+Light, Dawson          Bangs HS, Bangs        147    2      12      X      Region
+Stewart, Noah          Coleman HS, Coleman    147    3      10      X      Region
+Canales, Jaral-Sophia  Bangs HS, Bangs        140    4      8       X      Alternate
+Valle, Jacob           Brady HS, Brady        120    5      6       X
+Amador, Joey           Coleman HS, Coleman    119    6      4       X
+Edgin, Ben             Bangs HS, Bangs        119    7
+Bills, Reagan          Early H S, Early       118    8
+Mejia, Andrea          Dublin HS, Dublin      108    9
+Lopez, Vicki           Comanche HS, Comanche  107    10
+Stewart, Matthew       Coleman HS, Coleman    105    11
+Young, Bryanna         Coleman HS, Coleman    105    11
+Rangel, Vianey         Comanche HS, Comanche  104    13
+Kang, Inayat           Early H S, Early       98     14
+Hunter, Bo             Early H S, Early       91     15
+Gilligan, Joe          Comanche HS, Comanche  84     16
+Poling, Abigail        Bangs HS, Bangs        82     17
+Garcia, Olga           Dublin HS, Dublin      43     18
+Wiley, Zach            Brady HS, Brady        30     19
+Garcia, Michael        Brady HS, Brady        -46    20
+Welch, Madelynn        Comanche HS, Comanche  -138   21
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Bangs HS, Bangs        1     406    1      10      X      Region
+Early H S, Early       1     391    2      5       X      Alternate
+Coleman HS, Coleman    1     371    3
+Comanche HS, Comanche  1     295    4
+Brady HS, Brady        1     104    5
+
+TEAM RESULTS
+------------------------------

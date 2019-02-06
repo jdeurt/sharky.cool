@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                    Score  Place  Points  Medal  Advance
+Church, Zachary       Itasca H S, Itasca        84     1      15      X      Region
+Moore, Matthew        Cross Roads HS, Malakoff  62     2      12      X      Region
+Turner, Preston       Cross Roads HS, Malakoff  58     3      10      X      Region
+Younger, Katie-Lynne  Itasca H S, Itasca        48     4      8       X      Alternate
+Grubbs, Riannon       Kerens H S, Kerens        42     5      6       X
+Green, Kaden          Cayuga HS, Cayuga         38     6      4       X
+Forbes, Baylee        Frost HS, Frost           36     7
+Farrington, Gavin     Cross Roads HS, Malakoff  34     8
+Perez, Isidro         Frost HS, Frost           30     9
+Hall, Alyssa          Cross Roads HS, Malakoff  28     10
+Greeson, Ethan        Itasca H S, Itasca        28     10
+Poland, Madi          Cayuga HS, Cayuga         22     12
+Kisner, Kymber        Frost HS, Frost           16     13
+Delgado, Joshua       Kerens H S, Kerens        12     14
+Cate, John            Frost HS, Frost           12     14
+Ervin, Sam            Cayuga HS, Cayuga         4      16
+Sorrells, Ashton      Kerens H S, Kerens        0      17
+Winkelman, Kimberly   Itasca H S, Itasca        0      17
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Itasca H S, Itasca        1     160    1      10      X      Region
+Cross Roads HS, Malakoff  1     154    2      5       X      Alternate
+Frost HS, Frost           1     82     3
+Cayuga HS, Cayuga         1     64     4
+Kerens H S, Kerens        1     54     5
+
+TEAM RESULTS
+------------------------------

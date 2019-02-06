@@ -1,0 +1,47 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                 Score  Place  Points  Medal  Advance
+Martinez, Kylee     Hartley H S, Hartley   42     1      15      X      Region
+Kirby, Clayton      Hartley H S, Hartley   34     2      12      X      Region
+Birdsong, Garrett   Channing HS, Channing  28     3      10      X      Region
+Robles, Mariah      Happy HS, Happy        20     4      8       X      Alternate
+Luther, Colton C.   Texline HS, Texline    18     5      6       X
+Lovato, Cydney      Channing HS, Channing  16     6      4       X
+Luther, Morgan T.   Texline HS, Texline    12     7
+Detwiler, Emma      Hartley H S, Hartley   10     8
+Perianez, Arturo    Hartley H S, Hartley   10     8
+Marquez, Denisse    Channing HS, Channing  10     8
+Bell, Rowdy         Channing HS, Channing  6      11
+Diaz, Miriam        Texline HS, Texline    4      12
+Montes, Joel A.     Texline HS, Texline    2      13
+Poole, Cash J.      Texline HS, Texline    0      14
+Green, Reese        Adrian HS, Adrian      0      14
+Weber, Aidan        Hartley H S, Hartley   0      14
+Sosa, Inez          Channing HS, Channing  -6     17
+Knight, Jayda       Hartley H S, Hartley   -6     17
+Leal, Daniel        Adrian HS, Adrian      -8     19
+Murray, Gavin       Channing HS, Channing  -10    20
+Peterson, Kristen   Adrian HS, Adrian      -16    21
+Bruse, Sydney       Adrian HS, Adrian      -16    21
+Deason, Charles G.  Texline HS, Texline    -24    23
+Little, Aprille     Adrian HS, Adrian      -40    24
+Green, Jada         Adrian HS, Adrian      -56    25
+
+TOP SCORERS
+------------------------------
+Contestant         School       Results               Points
+Martinez, Kylee    Hartley H S  Top Scorer Biology    3
+Robles, Mariah     Happy HS     Alternate Biology     0
+Kirby, Clayton     Hartley H S  Alternate Biology     0
+Perianez, Arturo   Hartley H S  Top Scorer Chemistry  3
+Lovato, Cydney     Channing HS  Alternate Chemistry   0
+Kirby, Clayton     Hartley H S  Top Scorer Physics    3
+Birdsong, Garrett  Channing HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Hartley H S, Hartley   1     86     1      10      X      Region
+Channing HS, Channing  1     54     2      5       X      Alternate
+Texline HS, Texline    1     34     3
+Adrian HS, Adrian      1     -24    4

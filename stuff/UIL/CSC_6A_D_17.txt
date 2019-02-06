@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                      Score  Place  Points  Medal  Advance
+Armstrong, Samuel     Cypress Woods HS, Cypress   240    1      15      X      Region
+Cheng, Steven         Cypress Woods HS, Cypress   232    2      11      X      Region
+Iyer, Anand           Cypress Woods HS, Cypress   232    2      11      X      Region
+Cheng, Meggie         Cypress Woods HS, Cypress   224    4      8       X      Alternate
+Shankar, Shrivastava  Cypress Ranch HS, Cypress   216    5      6       X
+Wang, Steven Y        Cypress Ranch HS, Cypress   186    6      4       X
+Lai, Relena           Cypress Falls H S, Houston  180    7
+Flores, Helaman       Jersey Village HS, Houston  160    8
+Long, Kellen          Cy-Fair H S, Cypress        158    9
+Xia, Victor           Jersey Village HS, Houston  152    10
+Le, Matthew           Cypress Lakes, Katy         148    11
+Ramsey, Adam          Cypress Falls H S, Houston  144    12
+Wang, Andrew A        Cypress Ranch HS, Cypress   142    13
+Tran, Stephanie       Jersey Village HS, Houston  136    14
+Fealey, Nick          Cypress Falls H S, Houston  136    14
+Nguyen, Thien Phuong  Cypress Creek HS, Houston   134    16
+Hoang, Quang          Jersey Village HS, Houston  132    17
+Atmosfera, Czar       Cypress Falls H S, Houston  114    18
+Munoz, Alonso         Cypress Creek HS, Houston   108    19
+Tang, Amy             Cypress Lakes, Katy         96     20
+Hajak, Matthew        Cy-Fair H S, Cypress        82     21
+Lenzen, Brenton A     Cypress Ranch HS, Cypress   82     21
+Phan, Daniel          Cypress Lakes, Katy         58     23
+Ortega, Jeffery       Cypress Lakes, Katy         40     24
+Waymire, Zack         Cy-Fair H S, Cypress        22     25
+Williams, Scott       Cypress Creek HS, Houston   0      26
+Johnstone, Cameron    Cypress Creek HS, Houston   0      26
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Cypress Woods HS, Cypress   1     1424   1      20      X      Region
+Cypress Ranch HS, Cypress   1     1104   2      16      X      Alternate
+Cypress Falls H S, Houston  1     870    3      12      X
+Jersey Village HS, Houston  1     858    4
+Cypress Creek HS, Houston   1     782    5
+Cypress Lakes, Katy         1     657    6
+Cy-Fair H S, Cypress        1     262    7
+
+TEAM RESULTS
+------------------------------

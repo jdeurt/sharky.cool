@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                     Score  Place  Points  Medal  Advance
+Sandoval, Yaretzi     Guthrie HS, Guthrie        112    1      15      X      Region
+Maxwell, Reagan       Guthrie HS, Guthrie        96     2      12      X      Region
+Gibson, PL            Guthrie HS, Guthrie        94     3      10      X      Region
+Mays, TK              Guthrie HS, Guthrie        48     4      8       X      Alternate
+White, Madison        Patton Springs H S, Afton  44     5      6       X
+Reyna, David          Patton Springs H S, Afton  42     6      4       X
+Valdes, Ismael        Valley HS, Turkey          38     7
+Medford, Danielle R.  Paducah HS, Paducah        38     7
+Chandler, Regan       Patton Springs H S, Afton  36     9
+Perryman, Autumn      Patton Springs H S, Afton  36     9
+Moorhead, Keldan      Jayton H S, Jayton         36     9
+Martinez, Francisco   Jayton H S, Jayton         32     12
+Castro, Brooklynn     Jayton H S, Jayton         24     13
+Hutchinson, Haley B.  Paducah HS, Paducah        20     14
+Norvell, Hailey       Jayton H S, Jayton         14     15
+Allen, Daxon          Valley HS, Turkey          12     16
+Schlueter, Tristan    Valley HS, Turkey          12     16
+Adams, Tessah         Spur HS, Spur              12     16
+Trueluck, Shelby      Paducah HS, Paducah        10     19
+Zarate, Jorden        Spur HS, Spur              8      20
+LeCroy, Lexi K.       Paducah HS, Paducah        0      21
+McCormick, Garrett    Spur HS, Spur              -16    22
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Guthrie HS, Guthrie        1     302    1      10      X      Region
+Patton Springs H S, Afton  1     122    2      5       X      Alternate
+Jayton H S, Jayton         1     92     3
+Paducah HS, Paducah        1     68     4
+Valley HS, Turkey          1     62     5
+Spur HS, Spur              1     4      6
+
+TEAM RESULTS
+------------------------------

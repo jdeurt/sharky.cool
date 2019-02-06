@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                          Score  Place  Points  Medal  Advance
+Porter, Nick           La Feria H S, La Feria          146    1      15      X      Region
+Correa, Alexy          Hidalgo H S, Hidalgo            108    2      12      X      Region
+Lozano, Josue          Hidalgo H S, Hidalgo            84     3      10      X      Region
+Ochoa, Diego           La Feria H S, La Feria          82     4      8       X      Alternate
+Bennett, Jordan        La Feria H S, La Feria          72     5      6       X
+Fraga, Roberto         La Feria H S, La Feria          58     6      4       X
+Esparza, Jose          Hidalgo H S, Hidalgo            56     7
+Zermeno, Erick         Port Isabel HS, Port Isabel     50     8
+Guarneros, Richard     Progreso HS, Progreso           48     9
+Valdovinos, Celeste    Raymondville H S, Raymondville  46     10
+Lopez, Pedro           Progreso HS, Progreso           44     11
+Gonzalez, Gerardo      Zapata HS, Zapata               40     12
+Borrego, Josue         Rio Hondo HS, Rio Hondo         40     12
+Guerra, Abram          Zapata HS, Zapata               36     14
+Salinas, Nicholas      Port Isabel HS, Port Isabel     30     15
+Zapata, Jaqueline      Port Isabel HS, Port Isabel     30     15
+Garcia, Alinna         Zapata HS, Zapata               28     17
+Garcia, Victor         Hidalgo H S, Hidalgo            24     18
+Cazares, Maria         Progreso HS, Progreso           22     19
+Sauceda, Ismael        Rio Hondo HS, Rio Hondo         20     20
+Maldonado, Jacqueline  Progreso HS, Progreso           16     21
+Barajas, Juan          Grulla H S, Rio Grande City     12     22
+Zamarron, Mia I.       Rio Hondo HS, Rio Hondo         8      23
+Salinas, Nadia         Grulla H S, Rio Grande City     6      24
+Gonzales, Justin       Rio Hondo HS, Rio Hondo         4      25
+Iruegas, Gabriel       Zapata HS, Zapata               2      26
+Garcia, Alejandro      Grulla H S, Rio Grande City     -2     27
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+La Feria H S, La Feria       1     300    1      10      X      Region
+Hidalgo H S, Hidalgo         1     248    2      5       X      Alternate
+Progreso HS, Progreso        1     114    3
+Port Isabel HS, Port Isabel  1     110    4
+Zapata HS, Zapata            1     104    5
+Rio Hondo HS, Rio Hondo      1     68     6
+Grulla H S, Rio Grande City  1     16     7
+
+TEAM RESULTS
+------------------------------

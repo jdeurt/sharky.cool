@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Zhou, Didi             Lake Travis H S, Austin      161    1      15      X      Region
+Rathod, Neil           Vandegrift H S, Austin       149    2      12      X      Region
+Van Daele, Tess        Lake Travis H S, Austin      140    3      10      X      Region
+Cardosa, Georgia       Hays HS, Buda                135    4      8       X      Alternate
+He, Lance              Westlake HS, Austin          132    5      6       X
+Van Daele, Ellen       Lake Travis H S, Austin      126    6      4       X
+Deitrich, Stefan       Lake Travis H S, Austin      119    7
+Wang, Kyle             Westlake HS, Austin          114    8
+Yoon, Soobin           Vista Ridge H S, Cedar Park  114    8
+Munoz, Mark            Vista Ridge H S, Cedar Park  111    10
+Barlow, Aaron          Hays HS, Buda                107    11
+Gorti, Varun           Vandegrift H S, Austin       103    12
+Barksdale, Levi        Hays HS, Buda                99     13
+Rahman, Nashita        Westlake HS, Austin          88     14
+Dinh, Chris            Vista Ridge H S, Cedar Park  85     15
+Radloff, Ryan          Vandegrift H S, Austin       82     16
+Richter, Shelby        Lehman High School, Kyle     77     17
+Johnson, Bret          Hays HS, Buda                74     18
+Doyle, Mackenzie       Lehman High School, Kyle     65     19
+Tiago Grimaldi, Rossi  Vista Ridge H S, Cedar Park  65     19
+Power, Abigail         Lehman High School, Kyle     42     21
+Power, Emma            Lehman High School, Kyle     6      22
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Lake Travis H S, Austin      1     427    1      10      X      Region
+Hays HS, Buda                1     341    2      5       X      Alternate
+Vandegrift H S, Austin       1     334    3
+Westlake HS, Austin          1     334    3
+Vista Ridge H S, Cedar Park  1     310    5
+Lehman High School, Kyle     1     184    6
+
+TEAM RESULTS
+------------------------------

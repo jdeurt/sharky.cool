@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                Score  Place  Points  Medal  Advance
+Harmon, David      Colmesneil HS, Colmesneil             79     1      15      X      Region
+Hassell, James     Colmesneil HS, Colmesneil             78     2      12      X      Region
+Smith, Gordon      Colmesneil HS, Colmesneil             67     3      10      X      Region
+Mabry, Julius      Colmesneil HS, Colmesneil             52     4      7       X      Alternate
+Ha, Jordan         Pineywoods Community Academy, Lufkin  52     4      7       X      Alternate
+Muncrief, Hunter   West Sabine HS, Pineland              50     6      4       X
+Jacks, Lucas       Broaddus HS, Broaddus                 38     7
+Callaway, Nathan   Pineywoods Community Academy, Lufkin  22     8
+Martin, Camrie     Brookeland HS, Brookeland             17     9
+Harvey, Jace       Pineywoods Community Academy, Lufkin  14     10
+Carver, Nathan     Pineywoods Community Academy, Lufkin  13     11
+Belue, Casey       Zavalla HS, Zavalla                   -1     12
+Cheney, Jolie      Zavalla HS, Zavalla                   -1     12
+Perkins, Jerry     Brookeland HS, Brookeland             -2     14
+Sowell, Mitchell   Broaddus HS, Broaddus                 -2     14
+Little, Ethan      West Sabine HS, Pineland              -3     16
+Garcia, Dulce      Broaddus HS, Broaddus                 -5     17
+Belue, Allison     Zavalla HS, Zavalla                   -10    18
+Weaver, Courtney   Zavalla HS, Zavalla                   -13    19
+McClelland, Aaron  West Sabine HS, Pineland              -15    20
+Hobson, Charity    Brookeland HS, Brookeland             -19    21
+Gilbert, Isaac     Brookeland HS, Brookeland             -98    22
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Colmesneil HS, Colmesneil             1     224    1      10      X      Region
+Pineywoods Community Academy, Lufkin  1     88     2      5       X      Alternate
+West Sabine HS, Pineland              1     32     3
+Broaddus HS, Broaddus                 1     31     4
+Brookeland HS, Brookeland             1     -4     5
+Zavalla HS, Zavalla                   1     -12    6
+
+TEAM RESULTS
+------------------------------

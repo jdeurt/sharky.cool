@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                             Score  Place  Points  Medal  Advance
+Jean, Jacob        Blum HS, Blum                      78     1      15      X      Region
+Burkett, Camdyne   Blum HS, Blum                      48     2      12      X      Region
+Thompson, Ashtyn   Blum HS, Blum                      46     3      10      X      Region
+Fowler, Colton     Iredell H S, Iredell               38     4      8       X      Alternate
+Martin, Jacob      Kopperl H S, Kopperl               32     5      6       X
+Long, Jacob        Covington HS, Covington            24     6      4       X
+Vazquez, Miguel    Covington HS, Covington            22     7
+Proffitt, Landry   Iredell H S, Iredell               22     7
+Rohrer, Jonathon   Morgan H S, Morgan                 16     9
+Lopez, Rodrigo     Blum HS, Blum                      16     9
+Duran, Gio         Covington HS, Covington            16     9
+Martin, Matthew    Walnut Springs HS, Walnut Springs  14     12
+Johnson, Criag     Covington HS, Covington            8      13
+Wright, Sabrina    Cranfills Gap H S, Cranfills Gap   8      13
+Whitt, Tristan     Walnut Springs HS, Walnut Springs  6      15
+Fletcher, Garett   Iredell H S, Iredell               6      15
+Wilhelm, Joshua    Cranfills Gap H S, Cranfills Gap   -4     17
+Biera, Monica      Cranfills Gap H S, Cranfills Gap   -18    18
+Rainbolt, Jenna    Morgan H S, Morgan                 -26    19
+Richardson, Chris  Iredell H S, Iredell               -34    20
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Blum HS, Blum                     1     172    1      10      X      Region
+Iredell H S, Iredell              1     66     2      5       X      Alternate
+Covington HS, Covington           1     62     3
+Cranfills Gap H S, Cranfills Gap  1     -14    4
+
+TEAM RESULTS
+------------------------------

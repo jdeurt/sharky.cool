@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Pryor, Charity       Salado HS, Salado              217    1      15      X      Region
+Nelson, Luke         Salado HS, Salado              210.0  2      12      X      Region
+Luckadoo, Hayden     Liberty Hill HS, Liberty Hill  210.0  3      10      X      Region
+Kyburz, Kate         Salado HS, Salado              196    4      8       X      Alternate
+Piatt, Averie        Salado HS, Salado              189    5      6       X
+Hale, Josh           Liberty Hill HS, Liberty Hill  168    6      4       X
+Roth, Sam            Liberty Hill HS, Liberty Hill  163    7
+Maywald, Devon       Llano H S, Llano               134    8
+Barrett, Chantalle   Llano H S, Llano               105    9
+Karr, Nathan         Liberty Hill HS, Liberty Hill  100    10
+Durant, Paige        Llano H S, Llano               91     11
+Badillo, Adrian      Taylor HS, Taylor              84     12
+Villanueva, Katrina  Llano H S, Llano               83     13
+Paik, Kelly          Burnet HS, Burnet              34     14
+O'Bier, Raven        Taylor HS, Taylor              24     15
+Petrilla, Kayla      Taylor HS, Taylor              -22    16
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Salado HS, Salado              1     623.0  1      10      X      Region
+Liberty Hill HS, Liberty Hill  1     541.0  2      5       X      Alternate
+Llano H S, Llano               1     330    3
+Taylor HS, Taylor              1     86     4
+
+TEAM RESULTS
+------------------------------

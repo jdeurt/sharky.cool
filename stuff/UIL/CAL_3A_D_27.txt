@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                            Score  Place  Points  Medal  Advance
+Knight, Sierra     Marion HS, Marion                 114    1      15      X      Region
+Tullos, Alexandra  Hallettsville H S, Hallettsville  105    2      12      X      Region
+Gibson, Charles    Marion HS, Marion                 102    3      10      X      Region
+Pustka, Briana     Schulenburg H S, Schulenburg      97     4      8       X      Alternate
+Otto, Alyssa       Schulenburg H S, Schulenburg      91     5      6       X
+Silcox, Rece       Schulenburg H S, Schulenburg      84     6      4       X
+Alex, Rebekkah     Hallettsville H S, Hallettsville  83     7
+Ochoa, Daniel      Nixon Smiley HS, Nixon            76     8
+Okada, Damien      Randolph HS, Universal City       72     9
+Bishop, Travis     Stockdale HS, Stockdale           69     10
+Bishop, Mason      Stockdale HS, Stockdale           67     11
+Johnson, Hunter    Randolph HS, Universal City       63     12
+Olalde, Efren      Nixon Smiley HS, Nixon            63     12
+Bhakta, Khushi     Hallettsville H S, Hallettsville  62     14
+Meyer, Trevor      Hallettsville H S, Hallettsville  56     15
+Otto, Erica        Schulenburg H S, Schulenburg      55     16
+Gibson, Matthew    Marion HS, Marion                 51     17
+Morales, Brayan    Nixon Smiley HS, Nixon            49     18
+Knezek, Kailee     Yoakum HS, Yoakum                 43     19
+Herrera, Isaiah    Yoakum HS, Yoakum                 30     20
+Ochoa, Yesenia     Nixon Smiley HS, Nixon            8      21
+Allen, Jackson     Marion HS, Marion                 -8     22
+Aldover, Nicole    Randolph HS, Universal City       -38    23
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Schulenburg H S, Schulenburg      1     272    1      10      X      Region
+Marion HS, Marion                 1     267    2      5       X      Alternate
+Hallettsville H S, Hallettsville  1     250    3
+Nixon Smiley HS, Nixon            1     188    4
+Randolph HS, Universal City       1     97     5
+
+TEAM RESULTS
+------------------------------

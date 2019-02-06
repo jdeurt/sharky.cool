@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                             Score  Place  Points  Medal  Advance
+So, Hanna         Grandview H S, Grandview           135    1      15      X      Region
+Furman, Brianna   Grandview H S, Grandview           128    2      12      X      Region
+Bench, Katie      Grandview H S, Grandview           107    3      10      X      Region
+Roden, Addie      Grandview H S, Grandview           100    4      8       X      Alternate
+Swanson, Kevin    Blooming Grove HS, Blooming Grove  68     5      6       X
+Rucks, Camden     Blooming Grove HS, Blooming Grove  67     6      4       X
+PInter, Robert    Maypearl H S, Maypearl             65     7
+Sanchez, Brianna  Mildred H S, Corsicana             64     8
+Smith, Hannah     Mildred H S, Corsicana             62     9
+Adams, David      Mildred H S, Corsicana             46     10
+Graham, Peyton    Maypearl H S, Maypearl             41     11
+Bottoms, Kylie    Mildred H S, Corsicana             25     12
+Calel, Mildred    Blooming Grove HS, Blooming Grove  16     13
+Jaco, Melanie     Palmer H S, Palmer                 11     14
+Nava, Maria       Palmer H S, Palmer                 5      15
+Fisher, Kasey     Blooming Grove HS, Blooming Grove  -20    16
+Chaney, Katrina   Maypearl H S, Maypearl             -38    17
+Mancera, Maria    Palmer H S, Palmer                 -77    18
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Grandview H S, Grandview           1     370    1      10      X      Region
+Mildred H S, Corsicana             1     172    2      5       X      Alternate
+Blooming Grove HS, Blooming Grove  1     151    3
+Maypearl H S, Maypearl             1     68     4
+Palmer H S, Palmer                 1     -61    5
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Williams, Luke     Wellington HS, Wellington  94     1      15      X      Region
+Kuehler, Jackson   Panhandle H S, Panhandle   64     2      12      X      Region
+Kirkland, Kaison   Panhandle H S, Panhandle   59     3      10      X      Region
+Word, Gavin        Clarendon HS, Clarendon    52     4      8       X      Alternate
+Neusch, David      Panhandle H S, Panhandle   37     5      6       X
+Neusch, Andrew     Panhandle H S, Panhandle   28     6      4       X
+Johnson, Mattee    Clarendon HS, Clarendon    26     7
+Bhakta, Kishan     Memphis HS, Memphis        26     7
+Stockett, Luke     Claude HS, Claude          21     9
+Elam, Preston      Clarendon HS, Clarendon    17     10
+Shade, Charli      Wellington HS, Wellington  16     11
+Wooten, Christian  Clarendon HS, Clarendon    8      12
+Popwell, Shanee    Wellington HS, Wellington  8      12
+Stephens, Dylan    Wellington HS, Wellington  8      12
+Garcia, Alfonso    Memphis HS, Memphis        4      15
+Ontiveros, Angel   Wheeler HS, Wheeler        -1     16
+Brannon, Aubrie    Claude HS, Claude          -19    17
+Castillo, Antonio  Wheeler HS, Wheeler        -35    18
+Moreno, Zach       Claude HS, Claude          -36    19
+Pizana, Angel      Memphis HS, Memphis        -38    20
+Edwards, Jade      Claude HS, Claude          -58    21
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Panhandle H S, Panhandle   1     160    1      10      X      Region
+Wellington HS, Wellington  1     118    2      5       X      Alternate
+Clarendon HS, Clarendon    1     95     3
+Memphis HS, Memphis        1     -8     4
+Claude HS, Claude          1     -34    5
+
+TEAM RESULTS
+------------------------------

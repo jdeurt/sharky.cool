@@ -1,0 +1,60 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                      Score  Place  Points  Medal  Advance
+TORRALBA, MANUEL       Ozona H S, Ozona            216    1      15      X      State
+TORRALBA, HUMBERTO     Ozona H S, Ozona            206    2      12      X      State
+ELLIOTT, CHANTZ        Ozona H S, Ozona            192    3      10      X      State
+L'ABBE, BRANDON        Winters HS, Winters         190    4      8       X      Alternate
+KNAACK, JOSH           Ozona H S, Ozona            144    5      6       X
+Dictson, Eli           Sudan HS, Sudan             112    6      4       X
+Harper, Aaron          Sudan HS, Sudan             98     7
+Stephens, Alec         Sudan HS, Sudan             94     8
+Dictson, Grant         Sudan HS, Sudan             60     9
+Lancaster, Nathan      Vega HS, Vega               58     10
+STONE, TRISTEN         Sanford-Fritch H S, Fritch  50     11
+ESQUIVEL, KEAGAN       Winters HS, Winters         48     12
+Armendariz, Christian  Wink HS, Wink               46     13
+Copeland, Peter        Stamford H S, Stamford      42     14
+SKAGGS, TYLER          Sanford-Fritch H S, Fritch  38     15
+McWhirter, Brea        Plains HS, Plains           34     16
+WILLS, KEEGAN          Sanford-Fritch H S, Fritch  26     17
+Bardwell, Gavin        Gruver HS, Gruver           24     18
+Dihenia, Chris         Post HS, Post               22     19
+Rogel, Priscilla       Iraan H S, Iraan            14     20
+SCHNEIDER, LOGAN       Winters HS, Winters         12     21
+Darbyshire, Wilson     Panhandle H S, Panhandle    10     22
+Hastings, Cameron      Sundown H S, Sundown        10     22
+Campbell, Brandon      Stamford H S, Stamford      10     22
+Smith, Colter          Post HS, Post               8      25
+Guerra, Joel           Plains HS, Plains           8      25
+McKee, Dillon          Post HS, Post               6      27
+King, Leo              Iraan H S, Iraan            6      27
+Castro, Clayton        Stamford H S, Stamford      6      27
+Kelp, Keegan           Gruver HS, Gruver           4      30
+Austin, Korbin         Wheeler HS, Wheeler         0      31
+Gavirio, Ruby          Wheeler HS, Wheeler         0      31
+Banta, Reid            Post HS, Post               0      31
+Flores, Alexis         Anson HS, Anson             0      31
+Wheat, Avery           Winters HS, Winters         0      31
+BROWN, JACOB           Sanford-Fritch H S, Fritch  -2     36
+Earnest, Carson        Plains HS, Plains           -2     36
+Thompson, William      Sundown H S, Sundown        -2     36
+Maldonado, Efren       Sundown H S, Sundown        -4     39
+Ortiz, Elena           Iraan H S, Iraan            -4     39
+Chisum, Ashton         Wheeler HS, Wheeler         -10    41
+Harris, Logan          Wheeler HS, Wheeler         -16    42
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Ozona H S, Ozona            1     1094   1      20      X      State
+Winters HS, Winters         1     605    2      16      X      Alternate
+Sudan HS, Sudan             1     539    3      12      X
+Sanford-Fritch H S, Fritch  1     229    4
+Plains HS, Plains           1     150    5
+Stamford H S, Stamford      1     118    6
+Post HS, Post               1     36     7
+Wheeler HS, Wheeler         1     -10    8
+
+TEAM RESULTS
+------------------------------

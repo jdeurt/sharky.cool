@@ -1,0 +1,47 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Gooch, Justice S     Elysian Fields H S, Elysian Fields  93     1      15      X      Region
+Wood, Nathan         White Oak HS, White Oak             90     2      12      X      Region
+Ummel, Luke          White Oak HS, White Oak             83     3      10      X      Region
+Woods, Austin        White Oak HS, White Oak             69     4      8       X      Alternate
+Navarro, J           New Diana H S, Diana                64     5      6       X
+Langley, James       White Oak HS, White Oak             62     6      4       X
+Morgan, Jack R       Elysian Fields H S, Elysian Fields  54     7
+Abrego, Michael      Ore City H S, Ore City              43     8
+Ellis, Cole E        Elysian Fields H S, Elysian Fields  38     9
+Harris, Ethan        Beckville HS, Beckville             35     10
+Freeman, Andi        Ore City H S, Ore City              34     11
+Lopez, Jose          Ore City H S, Ore City              31     12
+Mosier, Hunter       Beckville HS, Beckville             26     13
+Casey, Zach          Ore City H S, Ore City              24     14
+Morrison, Morey      Beckville HS, Beckville             23     15
+Weese, Trent         Harleton H S, Harleton              14     16
+McBride, Aaron J     Elysian Fields H S, Elysian Fields  5      17
+Klingler, Colter     Beckville HS, Beckville             -2     18
+Speer, Skyla         Harleton H S, Harleton              -4     19
+Blassingame, Brooke  Harleton H S, Harleton              -9     20
+Stump, Zach          Waskom HS, Waskom                   -9     20
+Sachtleben, Robert   Jefferson HS, Jefferson             -10    22
+Green, Ralyn         Jefferson HS, Jefferson             -10    22
+Hays, Hunter         Waskom HS, Waskom                   -10    22
+Stanley, C           New Diana H S, Diana                -17    25
+Youngblood, Tommy    Jefferson HS, Jefferson             -19    26
+Molina, C            New Diana H S, Diana                -56    27
+Waltrip, Karlee      Waskom HS, Waskom                   -63    28
+Canfield, Boston     Waskom HS, Waskom                   -87    29
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+White Oak HS, White Oak             1     242    1      10      X      Region
+Elysian Fields H S, Elysian Fields  1     185    2      5       X      Alternate
+Ore City H S, Ore City              1     108    3
+Beckville HS, Beckville             1     84     4
+Harleton H S, Harleton              1     1      5
+New Diana H S, Diana                1     -9     6
+Jefferson HS, Jefferson             1     -39    7
+Waskom HS, Waskom                   1     -82    8
+
+TEAM RESULTS
+------------------------------

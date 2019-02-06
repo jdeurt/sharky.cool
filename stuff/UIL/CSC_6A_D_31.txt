@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                        Score  Place  Points  Medal  Advance
+Victorino, Abel         Edinburg North H S, Edinburg  216    1      15      X      Region
+Castilleja, Matthew     Edinburg North H S, Edinburg  208    2      12      X      Region
+Garcia, Carlos          Vela HS, Edinburg             182    3      10      X      Region
+Ramos, Ryan             Edinburg North H S, Edinburg  152    4      8       X      Alternate
+Gomez, Jose             Vela HS, Edinburg             110    5      6       X
+Guerrero, Alisha        Vela HS, Edinburg             88     6      4       X
+De La Cruz, Sean        Vela HS, Edinburg             68     7
+Acuna, Jorge            Economedes H S, Edinburg      62     8
+Lara, Erick             Edinburg North H S, Edinburg  52     9
+Morales, Micheal        Economedes H S, Edinburg      52     9
+Salinas, Juan           PSJA North HS, Pharr          18     11
+Perez, Olga             PSJA HS, San Juan             12     12
+Salinas, John           Economedes H S, Edinburg      10     13
+Henly, Natalie          PSJA North HS, Pharr          10     13
+Lugo, Melissa           PSJA HS, San Juan             8      15
+Saenz, Gilbert          PSJA HS, San Juan             6      16
+Porraz, Juan            PSJA North HS, Pharr          0      17
+Gutierrez, Christopher  PSJA HS, San Juan             -2     18
+White, Fanklin          PSJA North HS, Pharr          -8     19
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Edinburg North H S, Edinburg  1     1056   1      20      X      Region
+Vela HS, Edinburg             1     615    2      16      X      Alternate
+Economedes H S, Edinburg      1     124    3      12      X
+PSJA North HS, Pharr          1     28     4
+PSJA HS, San Juan             1     26     5
+
+TEAM RESULTS
+------------------------------

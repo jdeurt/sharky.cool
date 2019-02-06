@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                        Score  Place  Points  Medal  Advance
+Fink, Kaitlyn        Shallowater HS, Shallowater   142    1      15      X      Region
+Aviles, Anghy        Muleshoe H S, Muleshoe        126    2      12      X      Region
+Melendez, Joely      Muleshoe H S, Muleshoe        112    3      9       X      Region
+Venzor, Lizeth       Muleshoe H S, Muleshoe        112    3      9       X      Region
+Rodriguez, Alexis    Idalou H S, Idalou            100    5      2       X      Alternate
+Quinn, Katie         Idalou H S, Idalou            100    5      2       X      Alternate
+Bruington, Carlie    Idalou H S, Idalou            100    7
+Smalley, Charlotte   Idalou H S, Idalou            93     8
+Lowe, Troy           Roosevelt HS, Lubbock         93     8
+Herrera, Alexa       Muleshoe H S, Muleshoe        86     10
+Cluff, Jonah         Roosevelt HS, Lubbock         84     11
+Weaver, Riley        Shallowater HS, Shallowater   77     12
+Baldridge, Colton    Shallowater HS, Shallowater   76     13
+Sanchez, Jeremy      Littlefield H S, Littlefield  76     13
+Garza, Genesis       Littlefield H S, Littlefield  71     15
+Castillo, Alyssa     Littlefield H S, Littlefield  70     16
+Mata, Adalyn         Littlefield H S, Littlefield  69     17
+Drake, Cason         Friona H S, Friona            64     18
+Cigarroa, Anahi      Friona H S, Friona            58     19
+Jimenez, Bianca      Dimmitt H S, Dimmitt          46     20
+Settle, Sydney       Dimmitt H S, Dimmitt          41     21
+Drake, Carly         Friona H S, Friona            36     22
+Beristain, Briana    Friona H S, Friona            31     23
+Miller, Payton       Dimmitt H S, Dimmitt          26     24
+Porras, Aaron        Dimmitt H S, Dimmitt          21     25
+Mancilla, Vereniz    Roosevelt HS, Lubbock         20     26
+Olivares, Alejandro  Roosevelt HS, Lubbock         1      27
+Bunting, Kaytlyn     Shallowater HS, Shallowater   0      28
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Muleshoe H S, Muleshoe        1     350    1      10      X      Region
+Idalou H S, Idalou            1     300    2      5       X      Alternate
+Shallowater HS, Shallowater   1     295    3
+Littlefield H S, Littlefield  1     217    4
+Roosevelt HS, Lubbock         1     197    5
+Friona H S, Friona            1     158    6
+Dimmitt H S, Dimmitt          1     113    7
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                    Score  Place  Points  Medal  Advance
+Buchhorn, Myles       Bartlett HS, Bartlett     50     1      15      X      Region
+Weaver, Evelyn        Bartlett HS, Bartlett     40     2      12      X      Region
+Schultz, Brayden      Oglesby H S, Oglesby      38     3      10      X      Region
+Guitierrez, Torri     Evant H S, Evant          32     4      8       X      Alternate
+Smith, Kameron        Evant H S, Evant          26     5      5       X
+Watkins, Rebekah      Oglesby H S, Oglesby      26     5      5       X
+Ramsey, William       Evant H S, Evant          24     7
+Mascara, Maura        Evant H S, Evant          24     7
+Gomez, Rebecca        Oglesby H S, Oglesby      24     7
+Williams, Kadie       Evant H S, Evant          20     10
+Ross, Wyatt R         Jonesboro H S, Jonesboro  18     11
+Ramsey, Siera         Evant H S, Evant          14     12
+Raines, Zachery Z     Jonesboro H S, Jonesboro  14     12
+Uribe, Isael          Oglesby H S, Oglesby      12     14
+Beam, Ryla            Bartlett HS, Bartlett     12     14
+Bragewitz, Koby C     Jonesboro H S, Jonesboro  8      16
+Isom, Hannah M        Jonesboro H S, Jonesboro  2      17
+Brown, Dustin T       Jonesboro H S, Jonesboro  -2     18
+Camp, Kori            Oglesby H S, Oglesby      -8     19
+Rodriguez, Daniela P  Jonesboro H S, Jonesboro  -40    20
+
+TOP SCORERS
+------------------------------
+Contestant        School       Results               Points
+Buchhorn, Myles   Bartlett HS  Top Scorer Biology    3
+Weaver, Evelyn    Bartlett HS  Alternate Biology     0
+Schultz, Brayden  Oglesby H S  Top Scorer Chemistry  1
+Gomez, Rebecca    Oglesby H S  Top Scorer Chemistry  1
+Beam, Ryla        Bartlett HS  Top Scorer Chemistry  1
+Watkins, Rebekah  Oglesby H S  Top Scorer Physics    3
+Uribe, Isael      Oglesby H S  Alternate Physics     0
+Gomez, Rebecca    Oglesby H S  Alternate Physics     0
+Weaver, Evelyn    Bartlett HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Bartlett HS, Bartlett     1     102    1      10      X      Region
+Oglesby H S, Oglesby      1     88     2      5       X      Alternate
+Evant H S, Evant          1     82     3
+Jonesboro H S, Jonesboro  1     40     4

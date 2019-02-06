@@ -1,0 +1,80 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+McBee, Riley          Meadow HS, Meadow            72     1      15      X      State
+Thompson, Mac         Ropes HS, Ropesville         62     2      12      X      State
+Gibson, JJ            Guthrie HS, Guthrie          60     3      10      X      State
+Perez, Noah           Meadow HS, Meadow            56     4      8       X      Alternate
+Howell, Cade          Ropes HS, Ropesville         42     5      6       X
+Trajkovski, Kristina  Knox City HS, Knox City      40     6      4       X
+Jenkins, Eli          Guthrie HS, Guthrie          40     7
+Kirby, Clayton        Hartley H S, Hartley         38     8
+Faught, Conner        Wellman-Union HS, Wellman    38     8
+Lynn, Preston         Knox City HS, Knox City      32     10
+Arroyo, Angel         Booker HS, Booker            32     10
+Cleavinger, Clay      Whiteface HS, Whiteface      30     12
+Gibson, PL            Guthrie HS, Guthrie          30     12
+Moya, Ruben           Meadow HS, Meadow            28     14
+Hall, Chasee          Miami H S, Miami             22     15
+Williams, Blake       Lefors H S, Lefors           22     15
+Talsma, Peter         Kress H S, Kress             22     15
+Fry, Todd             Lefors H S, Lefors           16     18
+Ledesma, Dustin       Knox City HS, Knox City      16     18
+Lewis, Carson         Knox City HS, Knox City      14     20
+Valdes, Ismael        Valley HS, Turkey            12     21
+Ha, Jake              Chillicothe HS, Chillicothe  12     21
+Puente, Joshua        Whiteface HS, Whiteface      10     23
+Anderson, Drew        Ropes HS, Ropesville         10     23
+Ebenkamp, Jacob       Miami H S, Miami             8      25
+Booth, Isaac J        Hedley H S, Hedley           8      25
+Ballard, TJ           Lazbuddie HS, Lazbuddie      8      25
+Padron, Nicky         Whiteface HS, Whiteface      8      25
+Smithson, Whit        New Home HS, New Home        6      29
+Gilbert, Damyane      Lefors H S, Lefors           4      30
+Wales, Michael        Lazbuddie HS, Lazbuddie      0      31
+Schulte, Tate         Nazareth H S, Nazareth       0      31
+Crawford, Christina   Whiteface HS, Whiteface      0      31
+Leal, Trenton J       Hedley H S, Hedley           0      31
+Grimes, Jacob         Booker HS, Booker            -2     35
+Padgett, Shawn        Miami H S, Miami             -2     35
+Caswell, Brady        Meadow HS, Meadow            -2     35
+Luning, Sara          Ropes HS, Ropesville         -4     38
+Ruthven, Tara S.      Paducah HS, Paducah          -4     38
+Brandon, Brittney     Guthrie HS, Guthrie          -4     38
+Cogdell, Colton       Silverton HS, Silverton      -4     38
+McCarley, Mikel       Silverton HS, Silverton      -4     38
+Roberson, Seth        Miami H S, Miami             -6     43
+Burks, Paige          Springlake H S, Earth        -6     43
+Davis, Kyle           Patton Springs H S, Afton    -6     43
+Bailey, Jurnee        McLean H S, McLean           -8     46
+Martinez, Kylee       Hartley H S, Hartley         -8     46
+Perianez, Arturo      Hartley H S, Hartley         -8     46
+Castillo, Juan        Lefors H S, Lefors           -12    49
+Solano, Andres        Lazbuddie HS, Lazbuddie      -12    49
+Carter, Bradly        Silverton HS, Silverton      -12    49
+Birdsong, Garrett     Channing HS, Channing        -18    52
+Drum, Cade            Motley County H S, Matador   -22    53
+
+TOP SCORERS
+------------------------------
+Contestant      School            Results               Points
+Kirby, Clayton  Hartley H S       Top Scorer Biology    3
+McBee, Riley    Meadow HS         Alternate Biology     0
+Perez, Noah     Meadow HS         Top Scorer Chemistry  3
+McBee, Riley    Meadow HS         Alternate Chemistry   0
+Faught, Conner  Wellman-Union HS  Top Scorer Physics    3
+Thompson, Mac   Ropes HS          Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Meadow HS, Meadow        1     156    1      10      X      State
+Guthrie HS, Guthrie      1     130    2      5       X      Alternate
+Ropes HS, Ropesville     1     114    3
+Knox City HS, Knox City  1     88     4
+Whiteface HS, Whiteface  1     48     5
+Lefors H S, Lefors       1     42     6
+Miami H S, Miami         1     28     7
+Hartley H S, Hartley     1     22     8
+Lazbuddie HS, Lazbuddie  1     -4     9
+Silverton HS, Silverton  1     -20    10

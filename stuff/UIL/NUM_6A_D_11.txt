@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Smith, Hanor           Rockwall-Heath HS, Heath      124    1      15      X      Region
+Yeh, Joseph            Rockwall H S, Rockwall        113    2      12      X      Region
+Fay, Bernard           Rockwall-Heath HS, Heath      103    3      10      X      Region
+Wilson, Jacob          Lee H S, Tyler                89     4      8       X      Alternate
+Haling, Jackson        Lee H S, Tyler                85     5      6       X
+Briseno, Karen         Mesquite H S, Mesquite        77     6      4       X
+Briseno, Judith        Mesquite H S, Mesquite        66     7
+Diaz, Adriana          Rockwall H S, Rockwall        58     8
+Pawlowski, Felicity    Mesquite H S, Mesquite        57     9
+Morgenthaler, Howie    Rockwall H S, Rockwall        57     9
+Trail, Alexis          Rockwall H S, Rockwall        53     11
+Layton, Katie          Rockwall-Heath HS, Heath      49     12
+Vordenbaumen, Timothy  Lee H S, Tyler                49     12
+Webb, Spencer          Lee H S, Tyler                44     14
+Pich, Jacob            Mesquite H S, Mesquite        41     15
+Ramirez, Eladio        Tyler HS, Tyler               7      16
+Fielding, Alex         Rockwall-Heath HS, Heath      0      17
+Mondragon, Angel       Tyler HS, Tyler               0      17
+Pickens, Dalton        Horn H S, Mesquite            0      17
+Holloway, Bryce        Tyler HS, Tyler               -9     20
+Sims, Clifton          North Mesquite H S, Mesquite  -11    21
+Juane, Jeshua          Horn H S, Mesquite            -22    22
+Saavedra, Michele      North Mesquite H S, Mesquite  -24    23
+Daniels, Emmanuel      Tyler HS, Tyler               -70    24
+Needum, Alonzo         Horn H S, Mesquite            -140   25
+Edegbe, Naomi          Horn H S, Mesquite            -197   26
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Rockwall-Heath HS, Heath  1     276    1      10      X      Region
+Rockwall H S, Rockwall    1     228    2      5       X      Alternate
+Lee H S, Tyler            1     223    3
+Mesquite H S, Mesquite    1     200    4
+Tyler HS, Tyler           1     -2     5
+Horn H S, Mesquite        1     -162   6
+
+TEAM RESULTS
+------------------------------

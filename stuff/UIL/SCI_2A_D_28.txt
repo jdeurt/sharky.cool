@@ -1,0 +1,43 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                  Score  Place  Points  Medal  Advance
+Egan, Lily              Shiner HS, Shiner       96     1      15      X      Region
+Sestak, Baylee          Shiner HS, Shiner       74     2      12      X      Region
+Landman, Kason          Shiner HS, Shiner       66     3      10      X      Region
+Zhong, Yiming           Louise H S, Louise      50     4      8       X      Alternate
+Quintanilla, Christina  Flatonia H S, Flatonia  46     5      6       X
+Rainosek, Delaney       Shiner HS, Shiner       46     6      4       X
+Nevlud, Lane            Shiner HS, Shiner       40     7
+Schuetze, Nathan        Weimar HS, Weimar       40     7
+Warren, Schuyler        Shiner HS, Shiner       36     9
+Franzeskos, Brooke      Flatonia H S, Flatonia  36     9
+Gann, Jasmine           Flatonia H S, Flatonia  28     11
+Vacek, Megan            Weimar HS, Weimar       20     12
+Guzman, Edwin           Weimar HS, Weimar       18     13
+Jaramillo, Jose         Flatonia H S, Flatonia  16     14
+Campos, Lauryn          Yorktown HS, Yorktown   14     15
+Dunlap, Andrea          Louise H S, Louise      10     16
+Hattermann, Haylie      Weimar HS, Weimar       6      17
+Teague, Colton          Ganado HS, Ganado       4      18
+Garcia, Jacqueline      Louise H S, Louise      4      18
+Gwosdz, Katie           Yorktown HS, Yorktown   2      20
+Jones, Riley            Louise H S, Louise      -6     21
+Lilie, Isabel           Louise H S, Louise      -10    22
+
+TOP SCORERS
+------------------------------
+Contestant      School      Results               Points
+Sestak, Baylee  Shiner HS   Top Scorer Biology    3
+Egan, Lily      Shiner HS   Alternate Biology     0
+Zhong, Yiming   Louise H S  Top Scorer Chemistry  3
+Egan, Lily      Shiner HS   Alternate Chemistry   0
+Egan, Lily      Shiner HS   Top Scorer Physics    3
+Landman, Kason  Shiner HS   Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Shiner HS, Shiner       1     236    1      10      X      Region
+Flatonia H S, Flatonia  1     110    2      5       X      Alternate
+Weimar HS, Weimar       1     78     3
+Louise H S, Louise      1     64     4

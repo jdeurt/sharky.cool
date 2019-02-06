@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                  Score  Place  Points  Medal  Advance
+Bolton, Trevor         Champion HS, Boerne                     170    1      15      X      Region
+Aelvoet, Travis        Medina Valley H S, Castroville          168    2      12      X      Region
+Gahagan, Ryan          Dripping Springs H S, Dripping Springs  148    3      10      X      Region
+Gomez Moreno, Jose     Marble Falls HS, Marble Falls           146    4      8       X      Alternate
+Pfirrmann, James       Alamo Heights HS, San Antonio           130    5      5       X
+Real, Gerard           Tivy HS, Kerrville                      130    5      5       X
+Li, Zhengjun           Tivy HS, Kerrville                      122    7
+Watson, Cullen         Tivy HS, Kerrville                      116    8
+Montez, Michael        Champion HS, Boerne                     108    9
+Gustafson, Ben         Seguin H S, Seguin                      104    10
+Grubbs, Mark           Marble Falls HS, Marble Falls           96     11
+Watson, Kirk           Tivy HS, Kerrville                      92     12
+Mintz, Rachel          Marble Falls HS, Marble Falls           88     13
+Deas, William          Champion HS, Boerne                     82     14
+Brysacz, Jeb           Alamo Heights HS, San Antonio           76     15
+Oliphant, Jason        Dripping Springs H S, Dripping Springs  76     15
+Burns, AJ              Seguin H S, Seguin                      72     17
+Hendrickson, Joshua    Medina Valley H S, Castroville          72     17
+Cunningham, Ashlyn     Marble Falls HS, Marble Falls           68     19
+Doan, Thao             Alamo Heights HS, San Antonio           64     20
+Thomas, Julia          Lockhart H S, Lockhart                  62     21
+Zogaib, Megan          Dripping Springs H S, Dripping Springs  56     22
+Goodson, Anna          Alamo Heights HS, San Antonio           50     23
+Carrion, Leroy         Medina Valley H S, Castroville          50     23
+Reza, Matthew          Medina Valley H S, Castroville          40     25
+Messinger, Daniel      Lockhart H S, Lockhart                  38     26
+Purchatzke, Alexandra  Champion HS, Boerne                     34     27
+Hetherington, Sydney   Dripping Springs H S, Dripping Springs  34     27
+Cortez Lopez, Edith    Lockhart H S, Lockhart                  12     29
+Cramblitt, Rosemary    Seguin H S, Seguin                      8      30
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Tivy HS, Kerrville                      1     368    1      10      X      Region
+Champion HS, Boerne                     1     360    2      5       X      Alternate
+Marble Falls HS, Marble Falls           1     330    3
+Medina Valley H S, Castroville          1     290    4
+Dripping Springs H S, Dripping Springs  1     280    5
+Alamo Heights HS, San Antonio           1     270    6
+Seguin H S, Seguin                      1     184    7
+Lockhart H S, Lockhart                  1     112    8
+
+TEAM RESULTS
+------------------------------

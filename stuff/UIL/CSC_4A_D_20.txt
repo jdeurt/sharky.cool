@@ -1,0 +1,25 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School                    Score  Place  Points  Medal  Advance
+Perry, Logan     Giddings H S, Giddings    218    1      15      X      Region
+Chapple, Ann     Giddings H S, Giddings    208    2      12      X      Region
+Kruemcke, Roy    Giddings H S, Giddings    202    3      10      X      Region
+Givan, Daxton    La Grange H S, La Grange  154    4      8       X      Alternate
+Soto, Jairo      La Grange H S, La Grange  104    5      6       X
+Cantwell, Sean   La Grange H S, La Grange  94     6      4       X
+Diosdado, Saul   Navasota HS, Navasota     78     7
+Karisch, Joshua  Giddings H S, Giddings    46     8
+Weyand, Abbey    La Grange H S, La Grange  30     9
+Diaz, Evin       Navasota HS, Navasota     16     10
+Spriggs, Willie  Navasota HS, Navasota     2      11
+Flores, Wilmer   Navasota HS, Navasota     0      12
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Giddings H S, Giddings    1     1108   1      20      X      Region
+La Grange H S, La Grange  1     652    2      16      X      Alternate
+Navasota HS, Navasota     1     336    3      12      X
+
+TEAM RESULTS
+------------------------------

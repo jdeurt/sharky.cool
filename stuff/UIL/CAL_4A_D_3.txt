@@ -1,0 +1,25 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Perez-Ponce, Kiara  Fabens H S, Fabens          156    1      15      X      Region
+Sustaita, Joshua    Fabens H S, Fabens          121    2      12      X      Region
+Saenz, Emery        Fabens H S, Fabens          79     3      10      X      Region
+Mendoza, Cesar      Fabens H S, Fabens          62     4      8       X      Alternate
+Garcia, Luz         Mountain View H S, El Paso  44     5      6       X
+Carrillo, Jason     Mountain View H S, El Paso  38     6      4       X
+Gonzalez, Sydney    Mountain View H S, El Paso  16     7
+Martinez, Erika     Clint H S, Clint            14     8
+De Anda, Gabrielle  Clint H S, Clint            6      9
+Sosa, Robert        Clint H S, Clint            0      10
+Ponce, Leslie       Clint H S, Clint            -31    11
+Hernandez, Eliana   Mountain View H S, El Paso  -33    12
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Fabens H S, Fabens          1     356    1      10      X      Region
+Mountain View H S, El Paso  1     98     2      5       X      Alternate
+Clint H S, Clint            1     20     3
+
+TEAM RESULTS
+------------------------------

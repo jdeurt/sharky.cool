@@ -1,0 +1,53 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Hood, Ronald           Elkins H S, Missouri City    238    1      15      X      Region
+Godfrey, Bryanna       Elkins H S, Missouri City    178    2      12      X      Region
+D'Souza, Aaron         Shadow Creek HS, Pearland    174    3      10      X      Region
+Noby, Jibimon          Elkins H S, Missouri City    152    4      8       X      Alternate
+Cai, Evelyn            Shadow Creek HS, Pearland    152    5      6       X
+Singh, Ashish          Elkins H S, Missouri City    150    6      4       X
+Sangani, Arjun         Elkins H S, Missouri City    96     7
+Liu, Peiru             Ball HS, Galveston           92     8
+Sherwani, Najia        Shadow Creek HS, Pearland    86     9
+Johny, Rakesh          Elkins H S, Missouri City    76     10
+Green, Trevor          Santa Fe H S, Santa Fe       70     11
+Allaha, Travis         Willowridge HS, Houston      64     12
+Magno, Matthew         Shadow Creek HS, Pearland    58     13
+Jackson, Ashley        Manvel HS, Manvel            54     14
+Asokan, Abhhijith      Shadow Creek HS, Pearland    50     15
+Lobo, Tatyana          Manvel HS, Manvel            48     16
+Onuukue, Bruno         Manvel HS, Manvel            48     16
+Vanderpool, Chassity   Manvel HS, Manvel            44     18
+Garcia, Jose Luis      Manvel HS, Manvel            42     19
+Tacquard, Riley        Santa Fe H S, Santa Fe       34     20
+Liao, Robert           Shadow Creek HS, Pearland    32     21
+Werner, Erin           Santa Fe H S, Santa Fe       22     22
+Betancourt, Daniela    Texas City HS, Texas City    22     22
+Valero, Alex           Galena Park HS, Galena Park  20     24
+Serrano, Luis          Galena Park HS, Galena Park  20     24
+Zaragoza, Raylen       Texas City HS, Texas City    16     26
+Hernanadez, Chistobal  Willowridge HS, Houston      16     26
+Gessell, Kayla         Texas City HS, Texas City    12     28
+Valdez, Carlos         Texas City HS, Texas City    10     29
+Vu, Loc                Ball HS, Galveston           8      30
+Williams, Akayla       Manvel HS, Manvel            2      31
+
+TOP SCORERS
+------------------------------
+Contestant        School           Results               Points
+Godfrey, Bryanna  Elkins H S       Top Scorer Biology    3
+Hood, Ronald      Elkins H S       Alternate Biology     0
+Hood, Ronald      Elkins H S       Top Scorer Chemistry  3
+D'Souza, Aaron    Shadow Creek HS  Alternate Chemistry   0
+Johny, Rakesh     Elkins H S       Top Scorer Physics    3
+Hood, Ronald      Elkins H S       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Elkins H S, Missouri City  1     568    1      10      X      Region
+Shadow Creek HS, Pearland  1     412    2      5       X      Alternate
+Manvel HS, Manvel          1     150    3
+Santa Fe H S, Santa Fe     1     126    4
+Texas City HS, Texas City  1     50     5

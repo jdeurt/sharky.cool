@@ -1,0 +1,64 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                             Score  Place  Points  Medal  Advance
+Bordas, Torda            BASIS Shavano HS, San Antonio      164    1      15      X      State
+Burke, Patrick           Falfurrias H S, Falfurrias         162    2      12      X      State
+Li, Wenhan               IDEA Quest College Prep, Edinburg  150    3      10      X      State
+Bartos, Drake            Boling HS, Boling                  146    4      8       X      Alternate
+Powell, Andrew           Hallettsville H S, Hallettsville   134    5      6       X
+Olivo, Bryan             IDEA College Prep, Pharr           124    6      4       X
+Tranbarger, Preston      BASIS Shavano HS, San Antonio      124    7
+Hayden, Jaron            Industrial H S, Vanderbilt         120    8
+Vasquez, Axel            IDEA College Prep, Pharr           118    9
+Paz, Jose                IDEA College Prep, Pharr           114    10
+Hoch, Janelle            Hallettsville H S, Hallettsville   108    11
+Estrada, Maria           IDEA College Prep, Pharr           104    12
+Reinhard, Lance, R       Blanco HS, Blanco                  98     13
+LeDoux, Brandon          Randolph HS, Universal City        98     13
+Hamouda, Husam           London HS, Corpus Christi          94     15
+O'Berg, Evan             Randolph HS, Universal City        88     16
+Vidaurri, Jeremy         Mathis HS, Mathis                  86     17
+Requenez, Mateo          Falfurrias H S, Falfurrias         78     18
+Olvera, Kevin            IDEA Quest College Prep, Edinburg  78     18
+Ramos, Adrian            Industrial H S, Vanderbilt         72     20
+Tullos, Alexandra        Hallettsville H S, Hallettsville   68     21
+Sutanto, Antony          London HS, Corpus Christi          68     21
+Kim, Jieon               BASIS Shavano HS, San Antonio      64     23
+Garcia, Valerie          San Diego HS, San Diego            64     23
+Struck, David, R         Blanco HS, Blanco                  62     25
+Hayden, Kali             Industrial H S, Vanderbilt         60     26
+Riviera, Xavier          Hebbronville HS, Hebbronville      60     26
+Rutkowski, Kayla         Skidmore-Tynan HS, Skidmore        58     28
+Cosper, Micheal          Goliad H S, Goliad                 58     28
+Lim, Janie               BASIS Shavano HS, San Antonio      56     30
+Meyer, Trevor            Hallettsville H S, Hallettsville   56     30
+Doyle, Reagan            Industrial H S, Vanderbilt         56     30
+Vela, Lianna             San Diego HS, San Diego            56     30
+Mendoza, Jorge           IDEA Quest College Prep, Edinburg  52     34
+Lovinggood, Jon, E       Blanco HS, Blanco                  50     35
+Beall, Sarah             Johnson (LBJ) HS, Johnson City     46     36
+Gonzalez, Sebastian      San Diego HS, San Diego            42     37
+Gonzalez-Voris, Madison  Skidmore-Tynan HS, Skidmore        40     38
+Garza, Shana             IDEA Quest College Prep, Edinburg  40     38
+Lara, Jacqueline         Falfurrias H S, Falfurrias         38     40
+Fisher, Gabrielle        Skidmore-Tynan HS, Skidmore        34     41
+Lazo, Amado              San Diego HS, San Diego            34     41
+Beliveau, Anna, E        Blanco HS, Blanco                  28     43
+Trevino, Tiffani         Skidmore-Tynan HS, Skidmore        28     43
+Vela, Maddison           Falfurrias H S, Falfurrias         28     43
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+IDEA College Prep, Pharr           1     356    1      10      X      State
+BASIS Shavano HS, San Antonio      1     352    2      5       X      Alternate
+Hallettsville H S, Hallettsville   1     310    3
+IDEA Quest College Prep, Edinburg  1     280    4
+Falfurrias H S, Falfurrias         1     278    5
+Industrial H S, Vanderbilt         1     252    6
+Blanco HS, Blanco                  1     210    7
+San Diego HS, San Diego            1     162    8
+Skidmore-Tynan HS, Skidmore        1     132    9
+
+TEAM RESULTS
+------------------------------

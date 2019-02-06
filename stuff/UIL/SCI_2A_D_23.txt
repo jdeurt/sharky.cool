@@ -1,0 +1,54 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                Score  Place  Points  Medal  Advance
+Mabry, Julius      Colmesneil HS, Colmesneil             84     1      15      X      Region
+Williams, Matthew  West Sabine HS, Pineland              58     2      12      X      Region
+Harmon, David      Colmesneil HS, Colmesneil             52     3      10      X      Region
+Metcalf, Anna      West Sabine HS, Pineland              48     4      8       X      Alternate
+Santiago, Joseph   Pineywoods Community Academy, Lufkin  48     5      6       X
+Smith, Gordon      Colmesneil HS, Colmesneil             44     6      4       X
+Hassell, James     Colmesneil HS, Colmesneil             42     7
+Belt, Morgan       Colmesneil HS, Colmesneil             32     8
+Downs, Connor      Broaddus HS, Broaddus                 32     8
+Dinger, Douglas    Colmesneil HS, Colmesneil             28     10
+Mundy, Hanna       Zavalla HS, Zavalla                   24     11
+Callaway, Nathan   Pineywoods Community Academy, Lufkin  24     11
+Sowell, Mitchell   Broaddus HS, Broaddus                 22     13
+Anderson, Colton   West Sabine HS, Pineland              22     13
+Michael, Timothy   West Sabine HS, Pineland              20     15
+Collins, Willow    Brookeland HS, Brookeland             18     16
+Warden, Skyelar    Zavalla HS, Zavalla                   16     17
+Albrecht, Samuel   Broaddus HS, Broaddus                 16     17
+Roach, Tina-Marie  Brookeland HS, Brookeland             14     19
+Burch, Courtney    West Sabine HS, Pineland              10     20
+Brunk, Donnie      Zavalla HS, Zavalla                   8      21
+Price, Lexy        Broaddus HS, Broaddus                 8      21
+Hammond, Jennifer  Zavalla HS, Zavalla                   6      23
+Trove, Bayly       Brookeland HS, Brookeland             4      24
+Law, Alexis        Pineywoods Community Academy, Lufkin  4      24
+Perry, Kaleb       West Sabine HS, Pineland              4      24
+Madison, Fisher    Brookeland HS, Brookeland             -16    27
+King, Jasmyne      Zavalla HS, Zavalla                   -40    28
+Marshall, Kailei   Zavalla HS, Zavalla                   -40    28
+
+TOP SCORERS
+------------------------------
+Contestant         School                        Results               Points
+Williams, Matthew  West Sabine HS                Top Scorer Biology    3
+Harmon, David      Colmesneil HS                 Alternate Biology     0
+Santiago, Joseph   Pineywoods Community Academy  Alternate Biology     0
+Mabry, Julius      Colmesneil HS                 Top Scorer Chemistry  3
+Hassell, James     Colmesneil HS                 Alternate Chemistry   0
+Warden, Skyelar    Zavalla HS                    Top Scorer Physics    3
+Brunk, Donnie      Zavalla HS                    Alternate Physics     0
+Mundy, Hanna       Zavalla HS                    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Colmesneil HS, Colmesneil             1     180    1      10      X      Region
+West Sabine HS, Pineland              1     128    2      5       X      Alternate
+Pineywoods Community Academy, Lufkin  1     76     3
+Broaddus HS, Broaddus                 1     70     4
+Zavalla HS, Zavalla                   1     48     5
+Brookeland HS, Brookeland             1     36     6

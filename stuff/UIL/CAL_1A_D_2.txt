@@ -1,0 +1,26 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                     Score  Place  Points  Medal  Advance
+Hathaway, Kade       Kelton HS, Wheeler         121    1      15      X      Region
+Kimbro, Kaleb        Kelton HS, Wheeler         121    2      12      X      Region
+Hennig, Brett        Kelton HS, Wheeler         112    3      10      X      Region
+Blacksher, Cheyenne  Kelton HS, Wheeler         72     4      8       X      Alternate
+Gay, Madisen P       Hedley H S, Hedley         44     5      6       X
+Hembree, Haylie      McLean H S, McLean         43     6      4       X
+Lambert, Jayden G    Hedley H S, Hedley         41     7
+Holmes, Devin        McLean H S, McLean         34     8
+Parsons, Courtney    McLean H S, McLean         33     9
+Watson, Jacob        McLean H S, McLean         29     10
+Carreon, Perla G     Hedley H S, Hedley         24     11
+Gollihugh, Austin    White Deer HS, White Deer  6      12
+Hinton, Kasie N      Hedley H S, Hedley         6      12
+
+TOP SCORERS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Kelton HS, Wheeler  1     354    1      10      X      Region
+McLean H S, McLean  1     110    2      5       X      Alternate
+Hedley H S, Hedley  1     109    3
+
+TEAM RESULTS
+------------------------------

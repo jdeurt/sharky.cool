@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                 Score  Place  Points  Medal  Advance
+Valles, Jayme       Alpine HS, Alpine      112    1      15      X      Region
+Spencer, Riley      Alpine HS, Alpine      74     2      12      X      Region
+Nguyen, Hung        Kermit H S, Kermit     68     3      10      X      Region
+Lupercio, Eulices   Crane HS, Crane        56     4      8       X      Alternate
+Erfanian, David     Crane HS, Crane        41     5      6       X
+Billings, Blake     Alpine HS, Alpine      38     6      2       X
+DeGuia, Rose        Alpine HS, Alpine      38     6      2       X
+Cardenas, Jennifer  Kermit H S, Kermit     31     8
+Esquivel, Andrew    Crane HS, Crane        16     9
+Minjares, Jorge     Tornillo HS, Tornillo  8      10
+Vasquez, Uriel      Crane HS, Crane        5      11
+Velasquez, David    Kermit H S, Kermit     -3     12
+Flores, Jarred      Tornillo HS, Tornillo  -5     13
+Garcia, Joshua      Kermit H S, Kermit     -8     14
+Santillana, Evelyn  Tornillo HS, Tornillo  -20    15
+Silva, Larry        Tornillo HS, Tornillo  -37    16
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Alpine HS, Alpine      1     224    1      10      X      Region
+Crane HS, Crane        1     113    2      5       X      Alternate
+Kermit H S, Kermit     1     96     3
+Tornillo HS, Tornillo  1     -17    4
+
+TEAM RESULTS
+------------------------------

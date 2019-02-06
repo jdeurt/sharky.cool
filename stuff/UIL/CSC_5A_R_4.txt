@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Coleman, Russell      Johnson (LBJ) HS, Austin                216    1      15      X      State
+Fisher, Will          Johnson (LBJ) HS, Austin                200    2      12      X      State
+Gahagan, Ryan         Dripping Springs H S, Dripping Springs  194    3      10      X      State
+Tian, Samuel          Johnson (LBJ) HS, Austin                178    4      7       X      Alternate
+Kuffel, Ian           Flour Bluff H S, Corpus Christi         178    4      7       X      Alternate
+Liu, Alexander        Calhoun HS, Port Lavaca                 172    6      4       X
+Wyatt, Morgan         Seguin H S, Seguin                      168    7
+Huang, Jesse          Flour Bluff H S, Corpus Christi         166    8
+Hernandez, Armando    Nixon HS, Laredo                        166    8
+Burns, Braydon        Flour Bluff H S, Corpus Christi         154    10
+Iglesias, Michael     Veterans Memorial H S, Mission          154    10
+Colburn, Brian        Calallen HS, Corpus Christi             152    12
+Garcia, Gerardo       Roma HS, Roma                           152    12
+Williams, Keon        Dripping Springs H S, Dripping Springs  142    14
+Oliphant, Jason       Dripping Springs H S, Dripping Springs  140    15
+Sanders, James        Champion HS, Boerne                     138    16
+Slaton, Will          Johnson (LBJ) HS, Austin                136    17
+Barrera, Rene         Roma HS, Roma                           130    18
+Cura-Portillo, Asher  Memorial H S, San Antonio               128    19
+Rolea, Silvestre      Nixon HS, Laredo                        124    20
+Buchanon, Jack        Victoria West HS, Victoria              122    21
+Castillo, Saul        Nixon HS, Laredo                        116    22
+Showacre, Jarod       Dripping Springs H S, Dripping Springs  98     23
+Sutton, Cameron       Foster H S, Richmond                    90     24
+MIRANDA, CARLOS       Winn HS, Eagle Pass                     74     25
+Olivarez, Rigoberto   Roma HS, Roma                           66     26
+Aleman, Amy           Memorial H S, San Antonio               62     27
+URIEGAS, MATTHEW      Winn HS, Eagle Pass                     62     27
+Wang, Katherine       Calhoun HS, Port Lavaca                 60     29
+Zhang, Jessica        Calhoun HS, Port Lavaca                 52     30
+Ponce, Leonardo       Roma HS, Roma                           52     30
+Bravo, Frank          Memorial H S, San Antonio               44     32
+TORRES, JOSE          Winn HS, Eagle Pass                     44     32
+Andrews, Jonathan     Nixon HS, Laredo                        44     32
+Lara, Veronica        Mercedes HS, Mercedes                   16     35
+Solano, Pablo         Mercedes HS, Mercedes                   14     36
+Beaver, Daniel        Calhoun HS, Port Lavaca                 12     37
+Dungan, Rusty         Donna North HS, Donna                   8      38
+Silva, Anthony        Mercedes HS, Mercedes                   6      39
+Ramirez, Elizabeth    Mercedes HS, Mercedes                   4      40
+JIMENEZ, ALEJANDRO    Winn HS, Eagle Pass                     -2     41
+Yznaga, Jose          Memorial H S, San Antonio               -6     42
+Barron, Lilliana E    Harlandale H S, San Antonio             -8     43
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Johnson (LBJ) HS, Austin                1     1124   1      20      X      State
+Dripping Springs H S, Dripping Springs  1     891    2      16      X      Alternate
+Flour Bluff H S, Corpus Christi         1     783    3      12      X
+Nixon HS, Laredo                        1     646    4
+Roma HS, Roma                           1     643    5
+Calhoun HS, Port Lavaca                 1     524    6
+Winn HS, Eagle Pass                     1     500    7
+Memorial H S, San Antonio               1     459    8
+Mercedes HS, Mercedes                   1     96     9
+
+TEAM RESULTS
+------------------------------

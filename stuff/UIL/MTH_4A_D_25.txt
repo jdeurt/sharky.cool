@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                   Score  Place  Points  Medal  Advance
+Mahlmann, Sarah   Bellville HS, Bellville  200    1      15      X      Region
+Luongo, Isabella  Bellville HS, Bellville  128    2      12      X      Region
+Paget, Clayton    Bellville HS, Bellville  126    3      10      X      Region
+Thumann, Bryce    Needville HS, Needville  110    4      8       X      Alternate
+Schoener, James   Needville HS, Needville  102    5      6       X
+Burman, Bryan     Stafford HS, Stafford    98     6      4       X
+Macal, Noel       Stafford HS, Stafford    98     7
+Cessna, Reed      Bellville HS, Bellville  88     8
+Schodek, Josef    Needville HS, Needville  84     9
+Nguyen, Vy        Stafford HS, Stafford    78     10
+Smith, Lucas      Columbus HS, Columbus    68     11
+Trinh, Dung       Stafford HS, Stafford    62     12
+Kalyani, Yash     Royal HS, Pattison       48     13
+Odum, Shauna      Royal HS, Pattison       44     14
+Amador, Araceli   Royal HS, Pattison       42     15
+Chavez, Michael   Columbus HS, Columbus    38     16
+Sanchez, Aaron    Sealy H S, Sealy         37     17
+Pawlik, Madison   Columbus HS, Columbus    34     18
+Giese, Amber      Needville HS, Needville  30     19
+Clark, Hunter     Sealy H S, Sealy         28     20
+Molina, David     Sealy H S, Sealy         24     21
+Templeton, Jenna  Columbus HS, Columbus    18     22
+Rocha, Juliana    Royal HS, Pattison       12     23
+Mock, Wlliam      Sealy H S, Sealy         6      24
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Bellville HS, Bellville  1     454    1      10      X      Region
+Needville HS, Needville  1     296    2      5       X      Alternate
+Stafford HS, Stafford    1     274    3
+Columbus HS, Columbus    1     140    4
+Royal HS, Pattison       1     134    5
+Sealy H S, Sealy         1     89     6
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Gonzalez, Elisa     Cotulla HS, Cotulla            50     1      15      X      Region
+Sackett, Bobby      Cotulla HS, Cotulla            48     2      12      X      Region
+Bhakta, Rutu        Dilley HS, Dilley              44     3      10      X      Region
+Perez, Mistica      Dilley HS, Dilley              42     4      8       X      Alternate
+Garza, Andrew       Hebbronville HS, Hebbronville  38     5      6       X
+Emerson, Elizabeth  George West HS, George West    38     6      4       X
+Garfield, Pilar     Dilley HS, Dilley              30     7
+Teneyuca, Dylan     Cotulla HS, Cotulla            28     8
+Davis, Katherine    George West HS, George West    26     9
+Wallek, Tucker      George West HS, George West    24     10
+Moore, Colton       George West HS, George West    20     11
+Wallek, Dakota      George West HS, George West    18     12
+Morales, Brianna    Hebbronville HS, Hebbronville  16     13
+Bednorz, Jeremy     George West HS, George West    16     13
+Nickell, Melaney    Cotulla HS, Cotulla            14     15
+Sanchez, Javier     Cotulla HS, Cotulla            14     15
+Perez, Josue        Cotulla HS, Cotulla            12     17
+Serna, Gladys       Hebbronville HS, Hebbronville  10     18
+Atkinson, Dashae    Hebbronville HS, Hebbronville  10     18
+Salinas, Madison    Hebbronville HS, Hebbronville  8      20
+Avila, Juan         Dilley HS, Dilley              2      21
+
+TOP SCORERS
+------------------------------
+Contestant          School           Results               Points
+Gonzalez, Elisa     Cotulla HS       Top Scorer Biology    3
+Perez, Mistica      Dilley HS        Alternate Biology     0
+Emerson, Elizabeth  George West HS   Alternate Biology     0
+Sackett, Bobby      Cotulla HS       Top Scorer Chemistry  3
+Wallek, Dakota      George West HS   Alternate Chemistry   0
+Bhakta, Rutu        Dilley HS        Top Scorer Physics    3
+Gonzalez, Elisa     Cotulla HS       Alternate Physics     0
+Serna, Gladys       Hebbronville HS  Alternate Physics     0
+Garza, Andrew       Hebbronville HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Cotulla HS, Cotulla            1     126    1      10      X      Region
+Dilley HS, Dilley              1     116    2      5       X      Alternate
+George West HS, George West    1     88     3
+Hebbronville HS, Hebbronville  1     64     4

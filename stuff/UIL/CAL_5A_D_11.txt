@@ -1,0 +1,22 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Dusek, Collin        Hillcrest HS, Dallas         86     1      15      X      Region
+Pazzi, Scarlett      Hillcrest HS, Dallas         78     2      12      X      Region
+Negatu, Elias        Hillcrest HS, Dallas         70     3      10      X      Region
+Romero, Kimberly     Hillcrest HS, Dallas         56     4      8       X      Alternate
+Garcia, Milton       Jefferson HS, Dallas         55     5      6       X
+Diaz, Hector         Jefferson HS, Dallas         11     6      4       X
+Morton, Alexander    South Oak Cliff H S, Dallas  -35    7
+Johnson, Kirstonaja  South Oak Cliff H S, Dallas  -36    8
+Alvarado, Kim        South Oak Cliff H S, Dallas  -68    9
+Williams, Raymeka    South Oak Cliff H S, Dallas  -92    10
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Hillcrest HS, Dallas         1     234    1      10      X      Region
+South Oak Cliff H S, Dallas  1     -139   2      5       X      Alternate
+
+TEAM RESULTS
+------------------------------

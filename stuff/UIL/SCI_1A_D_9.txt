@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                            Score  Place  Points  Medal  Advance
+Pittman, Paul        Fort Davis H S, Fort Davis        38     1      15      X      Region
+Dahl, Lily           Big Bend HS, Terlingua            32     2      12      X      Region
+Rodriguez, Fernanda  Big Bend HS, Terlingua            30     3      10      X      Region
+Nunez, Manuel        Dell City H S, Dell City          30     4      8       X      Alternate
+Weatherman, Kade     Balmorhea HS, Balmorhea           24     5      6       X
+Farrer, Brucks       Fort Davis H S, Fort Davis        22     6      4       X
+Miyake, Ayaka        Balmorhea HS, Balmorhea           18     7
+Devine Ryan, Caelan  Big Bend HS, Terlingua            16     8
+Donaldson, Tristen   Fort Davis H S, Fort Davis        16     8
+Merrill, Penn        Fort Davis H S, Fort Davis        14     10
+Lopez, Kendra        Sierra Blanca H S, Sierra Blanca  14     10
+Serna, Emmanuel      Balmorhea HS, Balmorhea           12     12
+Garcia, Jessie       Valentine HS, Valentine           10     13
+Penalosa, Jayme      Sierra Blanca H S, Sierra Blanca  10     13
+Bell, Caleb          Dell City H S, Dell City          8      15
+Guthrie, Jake        Fort Davis H S, Fort Davis        8      15
+Carter, Savanna      Big Bend HS, Terlingua            4      17
+Jurado, Isaiah       Balmorhea HS, Balmorhea           4      17
+Miles, Jeremy        Fort Davis H S, Fort Davis        2      19
+Morales, Joselyn     Sierra Blanca H S, Sierra Blanca  2      19
+Shirley, Lezlie      Balmorhea HS, Balmorhea           -8     21
+Ortega, Jesslynn     Sierra Blanca H S, Sierra Blanca  -12    22
+Acosta, Kassandra    Dell City H S, Dell City          -16    23
+Gray, Blaine         Sierra Blanca H S, Sierra Blanca  -40    24
+
+TOP SCORERS
+------------------------------
+Contestant           School             Results               Points
+Pittman, Paul        Fort Davis H S     Top Scorer Biology    3
+Rodriguez, Fernanda  Big Bend HS        Alternate Biology     0
+Miyake, Ayaka        Balmorhea HS       Top Scorer Chemistry  3
+Rodriguez, Fernanda  Big Bend HS        Alternate Chemistry   0
+Penalosa, Jayme      Sierra Blanca H S  Alternate Chemistry   0
+Dahl, Lily           Big Bend HS        Top Scorer Physics    3
+Bell, Caleb          Dell City H S      Alternate Physics     0
+Weatherman, Kade     Balmorhea HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Big Bend HS, Terlingua            1     78     1      10      X      Region
+Fort Davis H S, Fort Davis        1     76     2      5       X      Alternate
+Balmorhea HS, Balmorhea           1     54     3
+Sierra Blanca H S, Sierra Blanca  1     26     4
+Dell City H S, Dell City          1     22     5

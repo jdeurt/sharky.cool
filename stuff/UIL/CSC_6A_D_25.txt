@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Lai, Pierce         Vandegrift H S, Austin       232    1      15      X      Region
+Deng, Bo            Vandegrift H S, Austin       224    2      12      X      Region
+Bipin, Viaschnav    Lake Travis H S, Austin      216    3      10      X      Region
+Jin, Joseph         Westlake HS, Austin          208    4      8       X      Alternate
+Barksdale, Levi     Hays HS, Buda                200    5      5       X
+Skadberg, Josh      Hays HS, Buda                200    5      5       X
+Bradley, Eli        Westlake HS, Austin          192    7
+Plaxton, Nathaniel  Lake Travis H S, Austin      188    8
+Gorti, Varun        Vandegrift H S, Austin       188    8
+McManus, Zach       Hays HS, Buda                188    8
+Walker, Olympia     Westlake HS, Austin          186    11
+Blevins, Ezekiel    Vista Ridge H S, Cedar Park  186    11
+Xu, Steven          Westlake HS, Austin          184    13
+Wee, Guan           Lake Travis H S, Austin      184    13
+Debruyn, Stefan     Vista Ridge H S, Cedar Park  178    15
+Champagne, Kevin    Hays HS, Buda                176    16
+Rose, Nick          Vandegrift H S, Austin       162    17
+Judys, Lucas        Leander H S, Leander         150    18
+Munoz, Michael      Vista Ridge H S, Cedar Park  140    19
+Zhou, Didi          Lake Travis H S, Austin      130    20
+Ross, Michael       Vista Ridge H S, Cedar Park  118    21
+Davison, Zane       Leander H S, Leander         96     22
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Vandegrift H S, Austin       1     1299   1      20      X      Region
+Vista Ridge H S, Cedar Park  1     1034   2      16      X      Alternate
+Hays HS, Buda                1     1008   3      12      X
+Westlake HS, Austin          1     946    4
+Lake Travis H S, Austin      1     943    5
+
+TEAM RESULTS
+------------------------------

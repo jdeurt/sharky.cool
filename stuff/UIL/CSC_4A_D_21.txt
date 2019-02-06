@@ -1,0 +1,15 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School              Score  Place  Points  Medal  Advance
+Hinton, Caelan   Hudson HS, Lufkin   16     1      15      X      Region
+Berquist, Nolan  Hudson HS, Lufkin   16     2      12      X      Region
+Bonham, Lorenzo  Diboll H S, Diboll  12     3      10      X      Region
+McElroy, Jake    Hudson HS, Lufkin   0      4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School             Team  Score  Place  Points  Medal  Advance
+Hudson HS, Lufkin  1     32     1      20      X      Region
+
+TEAM RESULTS
+------------------------------

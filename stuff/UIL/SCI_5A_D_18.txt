@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                               Score  Place  Points  Medal  Advance
+Pistikopoulos, Ioannis     College Station HS, College Station  248    1      15      X      Region
+Duan, Yaxin                College Station HS, College Station  220    2      12      X      Region
+Rasmussen, Melissa         A & M Cons HS, College Station       218    3      10      X      Region
+Zhang, Andrew              A & M Cons HS, College Station       214    4      8       X      Alternate
+Li, Selena                 A & M Cons HS, College Station       204    5      6       X
+Gan, Eric                  A & M Cons HS, College Station       182    6      4       X
+Yao, Sarah                 College Station HS, College Station  178    7
+Hu, Amelia "Amy"           College Station HS, College Station  160    8
+Dharmasena, Sayuni         College Station HS, College Station  150    9
+Kim, Sohmee                College Station HS, College Station  150    9
+Dung, Pham                 A & M Cons HS, College Station       140    11
+Rivera, Dylan              Waco HS, Waco                        86     12
+Dazmin, Garcia             University HS, Waco                  78     13
+Yang, Melissa              A & M Cons HS, College Station       70     14
+Cassady, Copas             University HS, Waco                  68     15
+Sarria Quezada, Pablo      Bryan HS, Bryan                      56     16
+Marisol, Palacios          University HS, Waco                  54     17
+Duran, Christy             Rudder HS, Bryan                     52     18
+Pollock, Justin            Rudder HS, Bryan                     48     19
+Paholek, Kristin           Bryan HS, Bryan                      44     20
+Yount, Chris               Waco HS, Waco                        44     20
+Ochoa Ochoa, Miguel        Rudder HS, Bryan                     40     22
+Daiaundrea, London- Ridge  University HS, Waco                  38     23
+Guevara, Evelyn            Waco HS, Waco                        38     23
+Chu, Hannah                Waco HS, Waco                        36     25
+Gonzalez, Angela           Waco HS, Waco                        36     25
+Capps, Benjamin            Bryan HS, Bryan                      32     27
+Zepeda, Christina          Rudder HS, Bryan                     28     28
+Paula, Ortiz               University HS, Waco                  24     29
+Segundo, Alfredo           Rudder HS, Bryan                     22     30
+Yazmin, Cruz               University HS, Waco                  20     31
+McIntyre, Taryn            Rudder HS, Bryan                     20     31
+Perez, Enrique             Waco HS, Waco                        18     33
+
+TOP SCORERS
+------------------------------
+Contestant              School              Results               Points
+Dung, Pham              A & M Cons HS       Top Scorer Biology    1.50
+Zhang, Andrew           A & M Cons HS       Top Scorer Biology    1.50
+Li, Selena              A & M Cons HS       Top Scorer Chemistry  3
+Pistikopoulos, Ioannis  College Station HS  Alternate Chemistry   0
+Rasmussen, Melissa      A & M Cons HS       Alternate Chemistry   0
+Pistikopoulos, Ioannis  College Station HS  Top Scorer Physics    3
+Gan, Eric               A & M Cons HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+College Station HS, College Station  1     646    1      10      X      Region
+A & M Cons HS, College Station       1     636    2      5       X      Alternate
+University HS, Waco                  1     200    3
+Waco HS, Waco                        1     168    4
+Rudder HS, Bryan                     1     140    5
+Bryan HS, Bryan                      1     132    6

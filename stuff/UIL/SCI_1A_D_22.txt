@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Martinez, Lleysi    Tioga HS, Tioga          70     1      15      X      Region
+Mott, Clay          Tioga HS, Tioga          62     2      12      X      Region
+Billings, Meredith  Tioga HS, Tioga          52     3      10      X      Region
+Glaze, Paityn       Tioga HS, Tioga          46     4      8       X      Alternate
+Perez, Andrea       Tioga HS, Tioga          38     5      6       X
+Ruiz, Xiomara       Tioga HS, Tioga          34     6      4       X
+Nabors, Evie        Savoy HS, Savoy          32     7
+Caldwell, Callie    Dodd City HS, Dodd City  30     8
+Smyers, Matthew     Ector H S, Ector         28     9
+Roath, Chance       Savoy HS, Savoy          22     10
+Reed, Franklyn      Ector H S, Ector         22     10
+Gibbs, Wyatt        Ector H S, Ector         20     12
+Dotson, Trayton     Dodd City HS, Dodd City  14     13
+Popowski, Jake      Savoy HS, Savoy          8      14
+Monroe, William     Dodd City HS, Dodd City  8      14
+Mills, Marissa      Dodd City HS, Dodd City  6      16
+Burgess, Colby      Savoy HS, Savoy          2      17
+Worley, Hannah      Dodd City HS, Dodd City  2      17
+Blakey, Jordyn      Ector H S, Ector         0      19
+Ashley, Landon      Savoy HS, Savoy          -2     20
+Wilkerson, Pate     Dodd City HS, Dodd City  -4     21
+Popowski, Kate      Savoy HS, Savoy          -6     22
+
+TOP SCORERS
+------------------------------
+Contestant        School        Results               Points
+Martinez, Lleysi  Tioga HS      Top Scorer Biology    3
+Mott, Clay        Tioga HS      Alternate Biology     0
+Ruiz, Xiomara     Tioga HS      Top Scorer Chemistry  3
+Gibbs, Wyatt      Ector H S     Alternate Chemistry   0
+Caldwell, Callie  Dodd City HS  Top Scorer Physics    3
+Roath, Chance     Savoy HS      Alternate Physics     0
+Mott, Clay        Tioga HS      Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Tioga HS, Tioga          1     184    1      10      X      Region
+Ector H S, Ector         1     70     2      5       X      Alternate
+Savoy HS, Savoy          1     62     3
+Dodd City HS, Dodd City  1     52     4

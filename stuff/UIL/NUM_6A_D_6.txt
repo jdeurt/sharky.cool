@@ -1,0 +1,50 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Lin, Dachey         Plano West Sr HS, Plano     252    1      15      X      Region
+Wang, Brian         Plano West Sr HS, Plano     228    2      12      X      Region
+Kim, Nathan         Allen HS, Allen             224    3      10      X      Region
+Cherian, Abraham    Allen HS, Allen             208    4      8       X      Alternate
+Nguyen, Huy         Allen HS, Allen             195    5      6       X
+Zou, Elizabeth      Plano West Sr HS, Plano     170    6      4       X
+Chan, Justin        McKinney Boyd HS, McKinney  143    7
+Huang, Kenny        Plano Sr HS, Plano          133    8
+Alappat, Joe        Allen HS, Allen             125    9
+Weigel, Alec        McKinney HS, McKinney       119    10
+Chow, Jakob         McKinney HS, McKinney       95     11
+Nesru, Aimen        Wylie HS, Wylie             94     12
+Landrum, Liam       McKinney HS, McKinney       93     13
+El-Hindi, Basil     McKinney HS, McKinney       70     14
+Arjun, Aditya       Plano West Sr HS, Plano     70     14
+Gates, Nathan       Guyer H S, Denton           64     16
+Minh-Tuan, Phung    Plano East Sr HS, Plano     49     17
+Leibovich, Inbar    McKinney Boyd HS, McKinney  41     18
+Mendoza, Julian     Guyer H S, Denton           37     19
+Winter, Matthew     McKinney Boyd HS, McKinney  27     20
+Lin, Karen          Guyer H S, Denton           20     21
+Thai, Kevin         Wylie HS, Wylie             19     22
+Mohamad, Lina       Wylie HS, Wylie             11     23
+Hughes, Rachel      Guyer H S, Denton           9      24
+Yu, Justin          Plano East Sr HS, Plano     0      25
+Islam, Rishad       Plano East Sr HS, Plano     0      25
+Dickenson, Jeffrey  Plano East Sr HS, Plano     0      25
+Akar, Bilal         Plano Sr HS, Plano          0      25
+Aravapalli, Anish   Plano Sr HS, Plano          0      25
+Kolli, Ashish       Plano Sr HS, Plano          0      25
+McNeil, Avery       McKinney Boyd HS, McKinney  -11    31
+Patel, Neil         Wylie HS, Wylie             -37    32
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Plano West Sr HS, Plano     1     650    1      10      X      Region
+Allen HS, Allen             1     627    2      5       X      Alternate
+McKinney HS, McKinney       1     307    3
+McKinney Boyd HS, McKinney  1     211    4
+Plano Sr HS, Plano          1     133    5
+Wylie HS, Wylie             1     124    6
+Guyer H S, Denton           1     121    7
+Plano East Sr HS, Plano     1     49     8
+
+TEAM RESULTS
+------------------------------

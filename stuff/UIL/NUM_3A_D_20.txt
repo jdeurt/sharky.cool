@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                    Score  Place  Points  Medal  Advance
+Gall, Weston           Jarrell H S, Jarrell      254    1      15      X      Region
+Barton, Cahndler       Yoe HS, Cameron           94     2      12      X      Region
+Berg, Seth             Academy HS, Little River  74     3      10      X      Region
+Costa, Caden           Academy HS, Little River  71     4      8       X      Alternate
+Deal, William          Franklin H S, Franklin    53     5      6       X
+Hasselbach, Doss       Rockdale H S, Rockdale    42     6      4       X
+Melendez, Maria        Rogers H S, Rogers        41     7
+Palm, Logan            Rockdale H S, Rockdale    35     8
+Eastridge, Arianna     Rockdale H S, Rockdale    26     9
+Clark, Ben             Academy HS, Little River  23     10
+Hare, Logan            Rogers H S, Rogers        18     11
+Lozano, Miguel         Hearne H S, Hearne        17     12
+Fliehs, Jonathan       Jarrell H S, Jarrell      13     13
+Denton, Boone          Academy HS, Little River  13     13
+Stephens, Walker       Jarrell H S, Jarrell      11     15
+Hawley, Cade           Lexington H S, Lexington  10     16
+McKenna, Jones         Rogers H S, Rogers        9      17
+Currie, Clayton        Franklin H S, Franklin    8      18
+Hoelscher, Hope        Rogers H S, Rogers        8      18
+Zinn, Ryker            Rockdale H S, Rockdale    8      18
+Stamport, Garrett      Lexington H S, Lexington  5      21
+Speaks, Precious       Lexington H S, Lexington  4      22
+Elliott, Lane          Franklin H S, Franklin    0      23
+Davis, Will            Franklin H S, Franklin    -1     24
+Kitchens, Katelyn      Yoe HS, Cameron           -1     24
+Danson, Jasmine        Jarrell H S, Jarrell      -2     26
+Garcia Mercado, Brian  Hearne H S, Hearne        -3     27
+Smith, Chris           Lexington H S, Lexington  -4     28
+Green, Josiah          Hearne H S, Hearne        -6     29
+Pfiel, Robbie          Yoe HS, Cameron           -49    30
+Sims, Frances          Yoe HS, Cameron           -124   31
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Jarrell H S, Jarrell      1     278    1      10      X      Region
+Academy HS, Little River  1     168    2      5       X      Alternate
+Rockdale H S, Rockdale    1     103    3
+Rogers H S, Rogers        1     68     4
+Franklin H S, Franklin    1     61     5
+Yoe HS, Cameron           1     44     6
+Lexington H S, Lexington  1     19     7
+Hearne H S, Hearne        1     8      8
+
+TEAM RESULTS
+------------------------------

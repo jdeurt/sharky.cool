@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                              Score  Place  Points  Medal  Advance
+Pua, Edwin             Eagle Pass H S, Eagle Pass          259    1      15      X      Region
+Gonzalez, Julian       United South HS, Laredo             217    2      12      X      Region
+Campos, Andrea         United South HS, Laredo             210    3      10      X      Region
+Banda, Maria           United South HS, Laredo             189    4      8       X      Alternate
+Perez, Paulina         United HS, Laredo                   177    5      6       X
+Patricio, Mary         Alexander HS, Laredo                170    6      4       X
+Ruiz, Celic            United South HS, Laredo             161    7
+Gonzalez, Connor       Johnson (LBJ) HS, Laredo            161    7
+Garcia, Miguel         United HS, Laredo                   149    9
+Lara, Francisco        Alexander HS, Laredo                149    9
+Munoz, Marlene         Alexander HS, Laredo                149    9
+Soto, Joseph Daniel    Eagle Pass H S, Eagle Pass          141    12
+Engel, Zachary         Del Rio H S, Del Rio                140    13
+Mondragon, Sebastian   United HS, Laredo                   135    14
+Paez, Mario            United HS, Laredo                   135    14
+Castillo, Luis         Johnson (LBJ) HS, Laredo            135    14
+Ibarra, Andrea         Johnson (LBJ) HS, Laredo            127    17
+Rios, Mariana          Eagle Pass H S, Eagle Pass          120    18
+Bermea, Valeria        Johnson (LBJ) HS, Laredo            115    19
+Hipolito, Kristopher   Alexander HS, Laredo                114    20
+Sanchez, Kim           Del Rio H S, Del Rio                68     21
+Villalobos, Alejandro  Del Rio H S, Del Rio                64     22
+Cannon, Aiden          Del Rio H S, Del Rio                48     23
+Sustaita, Oscar        South San Antonio H S, San Antonio  31     24
+Torres, Ashley         South San Antonio H S, San Antonio  27     25
+Estrada, Louisiana     South San Antonio H S, San Antonio  -8     26
+Martinez, Melanie      South San Antonio H S, San Antonio  -31    27
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+United South HS, Laredo             1     616    1      10      X      Region
+Eagle Pass H S, Eagle Pass          1     520    2      5       X      Alternate
+Alexander HS, Laredo                1     468    3
+United HS, Laredo                   1     461    4
+Johnson (LBJ) HS, Laredo            1     423    5
+Del Rio H S, Del Rio                1     272    6
+South San Antonio H S, San Antonio  1     50     7
+
+TEAM RESULTS
+------------------------------

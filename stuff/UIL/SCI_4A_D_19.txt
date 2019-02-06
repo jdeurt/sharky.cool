@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Brand, Alec          Liberty Hill HS, Liberty Hill  194    1      15      X      Region
+Luckadoo, Hayden     Liberty Hill HS, Liberty Hill  194    2      12      X      Region
+Buttery, Heath       Llano H S, Llano               150    3      10      X      Region
+Durant, Paige        Llano H S, Llano               144    4      8       X      Alternate
+Dumas, Andrew        Liberty Hill HS, Liberty Hill  142    5      6       X
+Coleman, Kennedy     Liberty Hill HS, Liberty Hill  114    6      4       X
+Gillis, Cassidy      Lampasas HS, Lampasas          108    7
+Neary, David         Lampasas HS, Lampasas          96     8
+Cook, Harlan         Lampasas HS, Lampasas          96     8
+White, Addison       Lampasas HS, Lampasas          76     10
+Madden, Robert       Lampasas HS, Lampasas          66     11
+Oas, Erik            Salado HS, Salado              60     12
+Lawson, Nora         Lampasas HS, Lampasas          60     12
+Johnson, Justin      Taylor HS, Taylor              56     14
+Perry, Kenneth       Llano H S, Llano               56     14
+Huddleston, Luke     Liberty Hill HS, Liberty Hill  50     16
+Aleman, Leroy        Taylor HS, Taylor              50     16
+McBryde, Natalie     Salado HS, Salado              38     18
+Kopit, Gabe          Taylor HS, Taylor              36     19
+Montony, Edgar       Llano H S, Llano               36     19
+Landers, Sutton      Liberty Hill HS, Liberty Hill  32     21
+Foster, Logan        Salado HS, Salado              30     22
+Luke, Rachel         Salado HS, Salado              30     22
+Maywald, Devon       Llano H S, Llano               18     24
+Gronewald, Haley     Llano H S, Llano               16     25
+Martinez, Francisco  Taylor HS, Taylor              8      26
+
+TOP SCORERS
+------------------------------
+Contestant        School           Results               Points
+Dumas, Andrew     Liberty Hill HS  Top Scorer Biology    3
+Buttery, Heath    Llano H S        Alternate Biology     0
+Brand, Alec       Liberty Hill HS  Top Scorer Chemistry  3
+Luckadoo, Hayden  Liberty Hill HS  Alternate Chemistry   0
+Luckadoo, Hayden  Liberty Hill HS  Top Scorer Physics    3
+Brand, Alec       Liberty Hill HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Liberty Hill HS, Liberty Hill  1     530    1      10      X      Region
+Llano H S, Llano               1     350    2      5       X      Alternate
+Lampasas HS, Lampasas          1     300    3
+Taylor HS, Taylor              1     142    4
+Salado HS, Salado              1     128    5

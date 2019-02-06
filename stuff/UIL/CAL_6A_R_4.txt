@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                        Score  Place  Points  Medal  Advance
+Pua, Edwin               Eagle Pass H S, Eagle Pass    322    1      15      X      State
+Moralez, Kevyn           Vela HS, Edinburg             294    2      12      X      State
+Bridges, Kristine        Vela HS, Edinburg             287    3      10      X      State
+Tamez, Karla             Vela HS, Edinburg             273.1  4      7       X      Alternate
+Narvaez, Rosendo         PSJA North HS, Pharr          273.1  4      7       X      Alternate
+Gomez, Roberto           PSJA North HS, Pharr          266    6      4       X
+Zhu, Charles             Reagan HS, San Antonio        259    7
+Medina, David            Mission H S, Mission          259    7
+McElrath, Natalie        Vela HS, Edinburg             259    7
+Gonzalez, Julian         United South HS, Laredo       252    10
+Hernanez, Alejandro      Mission H S, Mission          238    11
+Juarez, Mariana          PSJA North HS, Pharr          231    12
+Rodriguez, Gabriel       Mission H S, Mission          224    13
+Cua, Miles               Science Academy, Mercedes     224    13
+Li, Jialong              Wagner HS, San Antonio        217    15
+Munoz-Gonzales, Valeria  Jay H S, San Antonio          217    15
+Campos, Andrea           United South HS, Laredo       217    15
+Garza, Alyssa            Mission H S, Mission          217    15
+Prasad, Rishabh          Reagan HS, San Antonio        212    19
+Tran, Matthew            O'Connor HS, Helotes          203    20
+PINA, XAVIER             Palmview HS, La Joya          203    20
+Ylagan, Ryan             Reagan HS, San Antonio        198    22
+Ylagan, Riley            Reagan HS, San Antonio        196    23
+Nino, Bryan              PSJA North HS, Pharr          196    23
+Templeman, Philip        Canyon HS, New Braunfels      184    25
+Irigoyen, Luis           Jay H S, San Antonio          178    26
+Licata, Hunter           Jay H S, San Antonio          177    27
+Barrios, Eduardo         Science Academy, Mercedes     177    27
+Frink-Larcart, Deseree   Jay H S, San Antonio          175    29
+Cho, Yohahn              Warren HS, San Antonio        168    30
+Ruiz, Celic              United South HS, Laredo       168    30
+Perales, Norma           Los Fresnos H S, Los Fresnos  168    30
+Rathod, Neil             Vandegrift H S, Austin        163    33
+Ooi, Xia Hui             Science Academy, Mercedes     156    34
+Deitrich, Stefan         Lake Travis H S, Austin       151    35
+Therwhanger, Alexis      Wagner HS, San Antonio        149    36
+Zhou, Didi               Lake Travis H S, Austin       147    37
+Van Daele, Ellen         Lake Travis H S, Austin       147    37
+Van Daele, Tess          Lake Travis H S, Austin       140    39
+Ollaca, Discivitee       Wagner HS, San Antonio        135    40
+Lara, Juan               Hanna H S, Brownsville        133    41
+Banda, Maria             United South HS, Laredo       124    42
+Khalil, Mohammad         Science Academy, Mercedes     100    43
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Vela HS, Edinburg          1     854.1  1      10      X      State
+PSJA North HS, Pharr       1     770.1  2      5       X      Alternate
+Mission H S, Mission       1     721    3
+Reagan HS, San Antonio     1     669    4
+United South HS, Laredo    1     637    5
+Jay H S, San Antonio       1     572    6
+Science Academy, Mercedes  1     557    7
+Wagner HS, San Antonio     1     501    8
+Lake Travis H S, Austin    1     445    9
+
+TEAM RESULTS
+------------------------------

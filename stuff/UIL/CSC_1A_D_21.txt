@@ -1,0 +1,20 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                 Score  Place  Points  Medal  Advance
+Johnson, Warren      Slidell HS, Slidell    108    1      15      X      Region
+Coston, Stone        Slidell HS, Slidell    104    2      12      X      Region
+Davis, Dusty         Slidell HS, Slidell    78     3      10      X      Region
+Talamantes, Tristyn  Slidell HS, Slidell    40     4      8       X      Alternate
+Stiteler, Grant      Saint Jo HS, Saint Jo  26     5      6       X
+Ogden, Kyle          Saint Jo HS, Saint Jo  -12    6      4       X
+Pledger, Wesley      Saint Jo HS, Saint Jo  -20    7
+Sanchez, Monica      Saint Jo HS, Saint Jo  -20    7
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Slidell HS, Slidell    1     690    1      20      X      Region
+Saint Jo HS, Saint Jo  1     -6     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

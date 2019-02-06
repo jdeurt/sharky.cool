@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Brewer, Ragan        Wells HS, Wells                  114    1      15      X      Region
+Rogers, Trey         Apple Springs HS, Apple Springs  83     2      12      X      Region
+Baird, Cody          Apple Springs HS, Apple Springs  75     3      10      X      Region
+Smith, Kaitlin       Wells HS, Wells                  74     4      8       X      Alternate
+Aycock, JayVan       Apple Springs HS, Apple Springs  74     5      6       X
+Butts, Kayla         Martinsville HS, Martinsville    39     6      4       X
+Selman, Trace        Wells HS, Wells                  39     7
+Syzdek, Sam          Apple Springs HS, Apple Springs  37     8
+Randall, Chloe       Martinsville HS, Martinsville    1      9
+Alfred, Sarah        Kennard H S, Kennard             -1     10
+Mueller, Mollie      Martinsville HS, Martinsville    -23    11
+Ballard, Hunter      Martinsville HS, Martinsville    -30    12
+Benge, Cody          Kennard H S, Kennard             -39    13
+Pendergraft, Dakota  Kennard H S, Kennard             -42    14
+Parrish, Hunter      Kennard H S, Kennard             -46    15
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Apple Springs HS, Apple Springs  1     232    1      10      X      Region
+Wells HS, Wells                  1     227    2      5       X      Alternate
+Martinsville HS, Martinsville    1     17     3
+Kennard H S, Kennard             1     -82    4
+
+TEAM RESULTS
+------------------------------

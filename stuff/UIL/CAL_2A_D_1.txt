@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Irwin, Klaire      Gruver HS, Gruver           168    1      15      X      Region
+Neelley, Jackson   Vega HS, Vega               156    2      12      X      Region
+Whitehead, Kari    Gruver HS, Gruver           147    3      10      X      Region
+Armes, Carter      Gruver HS, Gruver           121    4      8       X      Alternate
+Haynes, Hunter     Gruver HS, Gruver           114    5      6       X
+Walker, Macy       Vega HS, Vega               107    6      4       X
+Lancaster, Nathan  Vega HS, Vega               101    7
+Wallace, Abby      West Texas HS, Stinnett     73     8
+Anthony, Tayler    Boys Ranch HS, Boys Ranch   69     9
+AUDRAIN, TARYN     Sanford-Fritch H S, Fritch  53     10
+Thomas, Hailey     West Texas HS, Stinnett     51     11
+Aldridge, J'rea    Boys Ranch HS, Boys Ranch   49     12
+Knoll, Anita       Vega HS, Vega               43     13
+Yarbrough, Aubry   Boys Ranch HS, Boys Ranch   38     14
+Brand, Brianna     Boys Ranch HS, Boys Ranch   30     15
+REYNOLDS, CAMERON  Sanford-Fritch H S, Fritch  5      16
+Lavake, Ashton     Stratford HS, Stratford     -9     17
+GARTON, KAYLOR     Sanford-Fritch H S, Fritch  -33    18
+FLORER, SABEN      Sanford-Fritch H S, Fritch  -42    19
+Collums, Dempsey   Stratford HS, Stratford     -45    20
+Sims, Hannah       Stratford HS, Stratford     -47    21
+Vacio, Akira       Stratford HS, Stratford     -50    22
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Gruver HS, Gruver           1     436    1      10      X      Region
+Vega HS, Vega               1     364    2      5       X      Alternate
+Boys Ranch HS, Boys Ranch   1     156    3
+Sanford-Fritch H S, Fritch  1     25     4
+Stratford HS, Stratford     1     -101   5
+
+TEAM RESULTS
+------------------------------

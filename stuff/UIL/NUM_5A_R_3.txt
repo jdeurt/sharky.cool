@@ -1,0 +1,65 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                               Score  Place  Points  Medal  Advance
+Kolenbrander, Josh   Cedar Park HS, Cedar Park            296    1      15      X      State
+Beck, John           Corsicana H S, Corsicana             215    2      12      X      State
+Yan, Bryan           College Station HS, College Station  193    3      10      X      State
+Yu, Richard          College Station HS, College Station  189    4      8       X      Alternate
+Phan-Tran, Brian     Shadow Creek HS, Pearland            179    5      6       X
+Guidry, Bryce        Lumberton HS, Lumberton              178    6      4       X
+Song, Ethan          Wisdom H S, Houston                  169    7
+Romero, Claudio      Ennis H S, Ennis                     164    8
+Gan, Eric            A & M Cons HS, College Station       158    9
+Reed, Caden          Corsicana H S, Corsicana             154    10
+Alford, Chase        Magnolia HS, Magnolia                152    11
+Mosqueda, Rogelio    Milby HS, Houston                    150    12
+Gonzalez, Brayant    Dayton H S, Dayton                   146    13
+Lee, Kate            Cedar Park HS, Cedar Park            136    14
+Narayanan, Srinidhi  College Station HS, College Station  128    15
+Liu, Peter           A & M Cons HS, College Station       126    16
+Simpson, David       Rouse HS, Leander                    126    16
+Zhan, Jennifer       A & M Cons HS, College Station       126    16
+Hu, Amelia "Amy"     College Station HS, College Station  123    19
+Studwell, Alex       Tomball Memorial HS, Tomball         122    20
+Sumar, Adeel         Nederland H S, Nederland             101    21
+Wright, Troy         Cedar Park HS, Cedar Park            96     22
+Martin, Blake        Dayton H S, Dayton                   93     23
+Leyva, Arely         Dayton H S, Dayton                   93     23
+Bote, Gerardo        Barbers Hill HS, Mont Belvieu        91     25
+Sass, Jacob          Magnolia HS, Magnolia                87     26
+Rasmussen, Melissa   A & M Cons HS, College Station       84     27
+Peavey, Melanie      Cedar Creek H S, Cedar Creek         76     28
+Guerrero, Mauricio   Wisdom H S, Houston                  69     29
+Tang, Austin         Shadow Creek HS, Pearland            65     30
+Tran, Anthony        Lumberton HS, Lumberton              64     31
+Demny, Madeline      Magnolia HS, Magnolia                62     32
+Ni, Aaron            Wisdom H S, Houston                  61     33
+Gerardo, Jonathan    Dayton H S, Dayton                   57     34
+Garcia, Sebastian    Livingston H S, Livingston           55     35
+Cai, Evelyn          Shadow Creek HS, Pearland            54     36
+Trinh, Ricardo       Wisdom H S, Houston                  50     37
+Regalado, Humberto   Corsicana H S, Corsicana             47     38
+Waite, Dylan         Port Neches-Groves HS, Port Neches   39     39
+Alexander, Hannah    Lumberton HS, Lumberton              26     40
+Sloan, Kaegan        Magnolia HS, Magnolia                23     41
+Palma, James         Shadow Creek HS, Pearland            22     42
+Yu, Fu-Yao           Elkins H S, Missouri City            18     43
+Lee, Erin            Cedar Park HS, Cedar Park            16     44
+Reed, Carson         Corsicana H S, Corsicana             6      45
+Nguyen, Lennon       Lumberton HS, Lumberton              5      46
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Cedar Park HS, Cedar Park            1     528    1      10      X      State
+College Station HS, College Station  1     510    2      5       X      Alternate
+Corsicana H S, Corsicana             1     416    3
+A & M Cons HS, College Station       1     410    4
+Dayton H S, Dayton                   1     332    5
+Magnolia HS, Magnolia                1     301    6
+Wisdom H S, Houston                  1     299    7
+Shadow Creek HS, Pearland            1     298    8
+Lumberton HS, Lumberton              1     268    9
+
+TEAM RESULTS
+------------------------------

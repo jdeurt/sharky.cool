@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Haider, Sameer      Wylie HS, Abilene           311    1      15      X      Region
+Zhang, Anthony      Wylie HS, Abilene           236    2      12      X      Region
+Zhang, Andrew       Wylie HS, Abilene           209    3      10      X      Region
+Sokolnicki, Ian     Wylie HS, Abilene           191    4      8       X      Alternate
+Correa, Charlie     Big Spring HS, Big Spring   102    5      6       X
+Collette, Ransom    Big Spring HS, Big Spring   70     6      4       X
+Bryan, Abby         Big Spring HS, Big Spring   56     7
+Coppedge, Jacob     Sweetwater H S, Sweetwater  52     8
+Pena, Isaiah        Sweetwater H S, Sweetwater  25     9
+Stafford, Collins   Sweetwater H S, Sweetwater  14     10
+Desai, Rutik        Snyder H S, Snyder          7      11
+Stewart, Kalob      Big Spring HS, Big Spring   5      12
+Choutaplli, Rushil  Wylie HS, Abilene           0      13
+Chance, Kaitlyn     Sweetwater H S, Sweetwater  0      13
+Mitchell, Madison   Snyder H S, Snyder          -1     15
+Blair, Chandler     Snyder H S, Snyder          -8     16
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Wylie HS, Abilene           1     756    1      10      X      Region
+Big Spring HS, Big Spring   1     228    2      5       X      Alternate
+Sweetwater H S, Sweetwater  1     91     3
+Snyder H S, Snyder          1     -2     4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                              Score  Place  Points  Medal  Advance
+Hoke, Tanner       Boerne HS, Boerne                   232    1      15      X      Region
+Taylor, Zane       Boerne HS, Boerne                   186    2      12      X      Region
+Hinkley, Bryce     Bandera HS, Bandera                 128    3      10      X      Region
+Randle, Bowen      Bandera HS, Bandera                 88     4      8       X      Alternate
+Petty, Harper      Hondo H S, Hondo                    38     5      6       X
+Guzman, David      Bandera HS, Bandera                 24     6      4       X
+Von Heuvel, Erich  Hondo H S, Hondo                    14     7
+Pullen, Tyler      Boerne HS, Boerne                   10     8
+Tacker, Jake       Bandera HS, Bandera                 2      9
+Cooke, Esten       Fredericksburg H S, Fredericksburg  0      10
+Tapia, Adam        Hondo H S, Hondo                    -4     11
+Taylor, Hannah     Boerne HS, Boerne                   -8     12
+Scott, Ethan       Fredericksburg H S, Fredericksburg  -10    13
+Voorhees, Gabe     Fredericksburg H S, Fredericksburg  -12    14
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Boerne HS, Boerne                   1     1088   1      20      X      Region
+Bandera HS, Bandera                 1     475    2      16      X      Alternate
+Hondo H S, Hondo                    1     48     3      12      X
+Fredericksburg H S, Fredericksburg  1     28     4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,31 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                              Score  Place  Points  Medal  Advance
+Wyatt, Avery               Rankin H S, Rankin                  38     1      15      X      Region
+Tissiere, Madison          Comstock H S, Comstock              37     2      12      X      Region
+Helms, Jalen               Grandfalls-Royalty H S, Grandfalls  27     3      9       X      Region
+Rodriguez, Yasmine         Grandfalls-Royalty H S, Grandfalls  27     3      9       X      Region
+Shelton, Kamren            Rankin H S, Rankin                  22     5      6       X      Alternate
+Romero, Jovannie           Buena Vista HS, Imperial            18     6      4       X
+Cura, Carlos               Rankin H S, Rankin                  17     7
+Cleveland, Jacob           Sanderson H S, Sanderson            15     8
+Malagon, Carlos            Buena Vista HS, Imperial            8      9
+Villela-Navarre, Kimberly  Sanderson H S, Sanderson            8      9
+Cadena, Jerry Lee          Grandfalls-Royalty H S, Grandfalls  8      9
+Black, Markus              Rankin H S, Rankin                  7      12
+Mills, Wyatt               Sanderson H S, Sanderson            6      13
+Crook, Ariana              Grandfalls-Royalty H S, Grandfalls  5      14
+Cavender, Andrew           Sanderson H S, Sanderson            -2     15
+Martinez, Valentino        Buena Vista HS, Imperial            -10    16
+Flores, Cruzita            Buena Vista HS, Imperial            -12    17
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Rankin H S, Rankin                  1     77     1      10      X      Region
+Grandfalls-Royalty H S, Grandfalls  1     62     2      5       X      Alternate
+Sanderson H S, Sanderson            1     29     3
+Buena Vista HS, Imperial            1     16     4
+
+TEAM RESULTS
+------------------------------

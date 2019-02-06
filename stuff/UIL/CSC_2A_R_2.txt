@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                           Score  Place  Points  Medal  Advance
+Warren, Ally       Archer City HS, Archer City      80     1      15      X      State
+Southard, Yancey   Perrin-Whitt H S, Perrin         78     2      12      X      State
+Gray, Spencer      Trenton HS, Trenton              76     3      10      X      State
+Teague, Travis     De Leon HS, De Leon              72     4      8       X      Alternate
+Haden, Joshua      Trenton HS, Trenton              68     5      6       X
+Scott, Jano        De Leon HS, De Leon              68     6      4       X
+Reeve, Jeffrey     Archer City HS, Archer City      50     7
+Young, Hayden      Perrin-Whitt H S, Perrin         50     7
+Finley, Timothy    Trenton HS, Trenton              50     7
+Medina, Israel     Rayburn H S, Ivanhoe             44     10
+Martin, Trey       Martin's Mill HS, Martin's Mill  40     11
+Davis, Courtney    Perrin-Whitt H S, Perrin         34     12
+Gates, Kaylyn      Martin's Mill HS, Martin's Mill  32     13
+Brister, Mackenze  Hico H S, Hico                   30     14
+Strub, Nathaniel   Big Sandy H S, Big Sandy         28     15
+Tucker, Kelli      Perrin-Whitt H S, Perrin         26     16
+Amador, Jennifer   Hico H S, Hico                   26     16
+Aguilar, Moises    Trenton HS, Trenton              24     18
+Smith, Kole        Rayburn H S, Ivanhoe             22     19
+Carter, Rowan      Linden-Kildare H S, Linden       20     20
+Moon, Briley       Martin's Mill HS, Martin's Mill  16     21
+McCasland, Clay    Archer City HS, Archer City      14     22
+Hernandez, Chris   Linden-Kildare H S, Linden       14     22
+Villeda, Ramiro    Hico H S, Hico                   12     24
+Sims, Trevor       Lindsay H S, Lindsay             12     24
+Ditto, Ross        Archer City HS, Archer City      10     26
+White, Brody       De Leon HS, De Leon              10     26
+Ballard, Colten    Rayburn H S, Ivanhoe             6      28
+Martinez, Cain     Big Sandy H S, Big Sandy         6      28
+Menefee, Hakeem    Big Sandy H S, Big Sandy         0      30
+Waynick, Tanner    Martin's Mill HS, Martin's Mill  -2     31
+Cruz, Christina    Hico H S, Hico                   -2     31
+Scott, Stellina    De Leon HS, De Leon              -4     33
+Adams, Peyton      Big Sandy H S, Big Sandy         -6     34
+Russell, Forest    Lindsay H S, Lindsay             -8     35
+Russel, Allorah    Rayburn H S, Ivanhoe             -10    36
+Sherrill, Eithan   Linden-Kildare H S, Linden       -20    37
+Holman, Colton     Union Grove H S, Gladewater      -44    38
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Trenton HS, Trenton              1     369    1      20      X      State
+Perrin-Whitt H S, Perrin         1     342    2      16      X      Alternate
+De Leon HS, De Leon              1     325    3      12      X
+Archer City HS, Archer City      1     324    4
+Big Sandy H S, Big Sandy         1     269    5
+Hico H S, Hico                   1     188    6
+Rayburn H S, Ivanhoe             1     172    7
+Martin's Mill HS, Martin's Mill  1     88     8
+Linden-Kildare H S, Linden       1     74     9
+
+TEAM RESULTS
+------------------------------

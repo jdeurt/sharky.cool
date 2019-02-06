@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                Score  Place  Points  Medal  Advance
+Dong, Jessica     Knippa H S, Knippa    140    1      15      X      Region
+Ramirez, Rebekah  Knippa H S, Knippa    106    2      12      X      Region
+Cox, Ryan         Knippa H S, Knippa    90     3      10      X      Region
+Keeney, Bethany   Knippa H S, Knippa    74     4      8       X      Alternate
+Schilhab, Cody    Medina H S, Medina    60     5      6       X
+Wilson, Shelby    Medina H S, Medina    58     6      4       X
+Reed, Rothe       D'Hanis H S, D'Hanis  52     7
+Kerr, Coleman     Leakey H S, Leakey    50     8
+Hinds, Joshua     Medina H S, Medina    46     9
+Hart, Haden       Leakey H S, Leakey    24     10
+Bohannan, Devin   Utopia HS, Utopia     18     11
+Bobo, Ashton      Leakey H S, Leakey    16     12
+Martinez, Dulce   Leakey H S, Leakey    10     13
+Arnold, Caden     Medina H S, Medina    6      14
+Weaver, Kayleen   Utopia HS, Utopia     -12    15
+
+TOP SCORERS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Knippa H S, Knippa  1     336    1      10      X      Region
+Medina H S, Medina  1     164    2      5       X      Alternate
+Leakey H S, Leakey  1     90     3
+
+TEAM RESULTS
+------------------------------

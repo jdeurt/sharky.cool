@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                    Score  Place  Points  Medal  Advance
+Gautier, Scott     Whitesboro HS, Whitesboro                 222    1      15      X      Region
+Munoz, Jacob       Callisburg HS, Gainesville                153    2      11      X      Region
+Fruth, Brenden     Ponder HS, Ponder                         153    2      11      X      Region
+Barker, Desirae    Callisburg HS, Gainesville                147    4      8       X      Alternate
+Arterberry, Reese  Ponder HS, Ponder                         127    5      6       X
+Hill, Nate         Ponder HS, Ponder                         121    6      4       X
+DeAnda, Jaquez     Callisburg HS, Gainesville                118    7
+Kulesz, Hunter     Pilot Point HS, Pilot Point               108    8
+Pagel, Jacob       Ponder HS, Ponder                         104    9
+Ackley, Jared      Whitesboro HS, Whitesboro                 92     10
+Dawlah, Reya       Gunter HS, Gunter                         83     11
+Reed, Ryder        Callisburg HS, Gainesville                75     12
+Lipscomb, Jackson  Pottsboro HS, Pottsboro                   74     13
+Davenport, Jonah   Whitesboro HS, Whitesboro                 71     14
+Carpenter, Roo     Whitesboro HS, Whitesboro                 50     15
+Nguyen, Melody     IL Texas - Keller-Saginaw HS, Fort Worth  49     16
+Houston, Johnny    Pilot Point HS, Pilot Point               49     16
+Nguyen, Regina     IL Texas - Keller-Saginaw HS, Fort Worth  33     18
+Smith, Kaylee      Gunter HS, Gunter                         23     19
+Kochanski, Joshua  Pilot Point HS, Pilot Point               18     20
+Kyeremeh, Malcolm  IL Texas - Keller-Saginaw HS, Fort Worth  17     21
+Jackson, Colton    Pottsboro HS, Pottsboro                   2      22
+Nesbitt, Garrett   Pilot Point HS, Pilot Point               -5     23
+Gonzalez, Alan     IL Texas - Keller-Saginaw HS, Fort Worth  -7     24
+Drinnon, Nickolas  Pottsboro HS, Pottsboro                   -11    25
+Pool, Cherokee     Pottsboro HS, Pottsboro                   -13    26
+Spencer, Reagan    Gunter HS, Gunter                         -22    27
+
+TOP SCORERS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Callisburg HS, Gainesville                1     418    1      10      X      Region
+Ponder HS, Ponder                         1     401    2      5       X      Alternate
+Whitesboro HS, Whitesboro                 1     385    3
+Pilot Point HS, Pilot Point               1     175    4
+IL Texas - Keller-Saginaw HS, Fort Worth  1     99     5
+Gunter HS, Gunter                         1     84     6
+Pottsboro HS, Pottsboro                   1     65     7
+
+TEAM RESULTS
+------------------------------

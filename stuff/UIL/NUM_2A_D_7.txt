@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                     Score  Place  Points  Medal  Advance
+TORRALBA, MANUEL    Ozona H S, Ozona           99     1      15      X      Region
+TORRALBA, HUMBERTO  Ozona H S, Ozona           80     2      12      X      Region
+Olivares, Anthony   Eldorado HS, Eldorado      77     3      10      X      Region
+Dennis, Aidan       Eldorado HS, Eldorado      53     4      7       X      Alternate
+Dutchover, David    Irion Co HS, Mertzon       53     4      7       X      Alternate
+Allen, Cameron      Forsan HS, Forsan          48     6      4       X
+Lindsey, Christine  Eldorado HS, Eldorado      43     7
+Havlak, Heather     Miles HS, Miles            41     8
+GUTIERREZ, BRAEDEN  Ozona H S, Ozona           34     9
+Perez, Matthew      Irion Co HS, Mertzon       28     10
+Book, Taylen        Miles HS, Miles            16     11
+ALVARADO, DOMYNIC   Winters HS, Winters        14     12
+Treadwell, Jamie    Christoval HS, Christoval  8      13
+SANCHEZ, RICO       Winters HS, Winters        7      14
+Averette, Katie     Forsan HS, Forsan          5      15
+Parks, Jon          Irion Co HS, Mertzon       5      15
+Elliott, Brianna    Forsan HS, Forsan          3      17
+CANO, CITLALI       Ozona H S, Ozona           0      18
+NAVA, DAYTON        Winters HS, Winters        -6     19
+SANCHEZ, MARC       Winters HS, Winters        -9     20
+Scott, Spencer      Irion Co HS, Mertzon       -9     20
+Treadwell, Allie    Christoval HS, Christoval  -10    22
+Peffer, Kiera       Forsan HS, Forsan          -17    23
+Edmiston, Clayton   Christoval HS, Christoval  -22    24
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Ozona H S, Ozona           1     213    1      10      X      Region
+Eldorado HS, Eldorado      1     173    2      5       X      Alternate
+Irion Co HS, Mertzon       1     86     3
+Forsan HS, Forsan          1     56     4
+Winters HS, Winters        1     15     5
+Christoval HS, Christoval  1     -24    6
+
+TEAM RESULTS
+------------------------------

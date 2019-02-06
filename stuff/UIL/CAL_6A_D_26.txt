@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                     Score  Place  Points  Medal  Advance
+Zhu, Charles           Reagan HS, San Antonio     224    1      15      X      Region
+Ylagan, Ryan           Reagan HS, San Antonio     199    2      12      X      Region
+Ylagan, Riley          Reagan HS, San Antonio     170    3      10      X      Region
+Prasad, Rishabh        Reagan HS, San Antonio     156    4      8       X      Alternate
+Baker, Joe             Madison HS, San Antonio    135    5      6       X
+Le, Kathy              Churchill HS, San Antonio  135    6      4       X
+Louden, Jack           Churchill HS, San Antonio  134    7
+Caldera, Marcus        Roosevelt HS, San Antonio  133    8
+Kaplan, Saffron        Roosevelt HS, San Antonio  125    9
+Luong, Micheal         Roosevelt HS, San Antonio  113    10
+Akalkotkar, Ravi       Churchill HS, San Antonio  110    11
+Wheeler, Austin        Madison HS, San Antonio    108    12
+Tran, Lance            Johnson HS, San Antonio    107    13
+Joshi, Om              Churchill HS, San Antonio  96     14
+Lee, DaHee             Madison HS, San Antonio    90     15
+Allen, Jaidyn          MacArthur HS, San Antonio  80     16
+Garcia, Elizabeth      MacArthur HS, San Antonio  80     16
+Mangal, Nolan          Johnson HS, San Antonio    65     18
+Kaza, Surya            Johnson HS, San Antonio    53     19
+Luong, Kim             Roosevelt HS, San Antonio  51     20
+Cantu-Trevino, Amadeo  MacArthur HS, San Antonio  50     21
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Reagan HS, San Antonio     1     593    1      10      X      Region
+Churchill HS, San Antonio  1     379    2      5       X      Alternate
+Roosevelt HS, San Antonio  1     371    3
+Madison HS, San Antonio    1     333    4
+Johnson HS, San Antonio    1     225    5
+MacArthur HS, San Antonio  1     210    6
+
+TEAM RESULTS
+------------------------------

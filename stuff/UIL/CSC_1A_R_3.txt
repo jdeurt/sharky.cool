@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Coston, Stone        Slidell HS, Slidell      122    1      15      X      State
+Parks, Elisabeth     Tioga HS, Tioga          70     2      11      X      State
+Garner, Keith        Fruitvale HS, Fruitvale  70     2      11      X      State
+Davis, Dusty         Slidell HS, Slidell      64     4      8       X      Alternate
+Talamantes, Tristyn  Slidell HS, Slidell      44     5      6       X
+Johnson, Warren      Slidell HS, Slidell      42     6      4       X
+Bates, Mackenzie     Blum HS, Blum            18     7
+Davis, Colton        Graford H S, Graford     16     8
+Allen, Brendan       Blum HS, Blum            6      9
+Sanchez, Monica      Saint Jo HS, Saint Jo    6      9
+Polk, Austin         Graford H S, Graford     4      11
+Hipolito, Moses      Gorman H S, Gorman       4      11
+Terry, Brandon       Zephyr HS, Zephyr        4      11
+Holbach, Malachi     Gustine HS, Gustine      4      11
+Burkett, Camdyne     Blum HS, Blum            4      11
+Castillo, Adrian     Gustine HS, Gustine      2      16
+Ramirez, Claudia     Gustine HS, Gustine      2      16
+Ramirez, Jessica     Gorman H S, Gorman       0      18
+Simes, Abbie         Tioga HS, Tioga          0      18
+Witte, Kevin         Fruitvale HS, Fruitvale  0      18
+Pledger, Wesley      Saint Jo HS, Saint Jo    0      18
+Phillips, David      Graford H S, Graford     -4     22
+Phillips, Brett      Graford H S, Graford     -6     23
+Gutierrez, Gustavo   Gorman H S, Gorman       -8     24
+Polley, Owenn        Tioga HS, Tioga          -8     24
+Stiteler, Grant      Saint Jo HS, Saint Jo    -10    26
+Russell, B.J.        Fruitvale HS, Fruitvale  -10    26
+Murillo, Karina      Gustine HS, Gustine      -12    28
+Hart, Hunter         Fruitvale HS, Fruitvale  -14    29
+Staples, Ethan       Tioga HS, Tioga          -18    30
+Ogden, Kyle          Saint Jo HS, Saint Jo    -30    31
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Slidell HS, Slidell      1     505    1      20      X      State
+Tioga HS, Tioga          1     172    2      16      X      Alternate
+Fruitvale HS, Fruitvale  1     120    3      12      X
+Blum HS, Blum            1     28     4
+Graford H S, Graford     1     16     5
+Gustine HS, Gustine      1     8      6
+Gorman H S, Gorman       1     -4     7
+Saint Jo HS, Saint Jo    1     -4     7
+
+TEAM RESULTS
+------------------------------

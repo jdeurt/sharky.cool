@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Sampson, Riki      Frenship H S, Wolfforth  253    1      15      X      Region
+Seo, Hannah        Frenship H S, Wolfforth  103    2      12      X      Region
+Diaz, Thomas       Tascosa HS, Amarillo     59     3      10      X      Region
+Campbell, Cade     Central HS, San Angelo   58     4      8       X      Alternate
+Ybarra, Rocky      Central HS, San Angelo   53     5      6       X
+Salsedo, Ethan     Tascosa HS, Amarillo     48     6      4       X
+Ferguson, Alexis   Tascosa HS, Amarillo     32     7
+Liang, Zekun       Permian H S, Odessa      22     8
+Stowe, Holden      Permian H S, Odessa      21     9
+Herndon, Zoe       Odessa H S, Odessa       15     10
+Schipper, Ian      Central HS, San Angelo   11     11
+Menchaca, Jacob    Permian H S, Odessa      8      12
+Martinez, Marco    Permian H S, Odessa      8      12
+Zubia, Jason       Odessa H S, Odessa       8      12
+Webb, Tatjanna     Central HS, San Angelo   5      15
+Shepherd, Kayla    Frenship H S, Wolfforth  5      15
+Gonzales, Julian   Frenship H S, Wolfforth  4      17
+Anderson, Astrin   Odessa H S, Odessa       -1     18
+Henderson, Nathan  Tascosa HS, Amarillo     -13    19
+Prasad, Vivek      Odessa H S, Odessa       -20    20
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Frenship H S, Wolfforth  1     361    1      10      X      Region
+Tascosa HS, Amarillo     1     139    2      5       X      Alternate
+Central HS, San Angelo   1     122    3
+Permian H S, Odessa      1     51     4
+Odessa H S, Odessa       1     22     5
+
+TEAM RESULTS
+------------------------------

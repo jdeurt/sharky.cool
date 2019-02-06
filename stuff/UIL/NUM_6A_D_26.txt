@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                     Score  Place  Points  Medal  Advance
+Moynihan, Lucas        Reagan HS, San Antonio     240    1      15      X      Region
+Ranjan, Nikhil         Reagan HS, San Antonio     237    2      12      X      Region
+Joshi, Om              Churchill HS, San Antonio  190    3      10      X      Region
+Prasad, Rishabh        Reagan HS, San Antonio     163    4      8       X      Alternate
+Akalkotkar, Ravi       Churchill HS, San Antonio  110    5      6       X
+Li, Haojia             Reagan HS, San Antonio     103    6      4       X
+Crusius, Kyle          Churchill HS, San Antonio  99     7
+Kaplan, Saffron        Roosevelt HS, San Antonio  91     8
+Chen, Kaijie           Lee H S, San Antonio       89     9
+Murphy, Quinn          Johnson HS, San Antonio    85     10
+Fernandes, Davi        Roosevelt HS, San Antonio  82     11
+Tschoepe, Jacob        Roosevelt HS, San Antonio  76     12
+Garcia, Eduardo        Madison HS, San Antonio    66     13
+Rodriguez, Ty          Churchill HS, San Antonio  64     14
+Hoque, Siyam           Madison HS, San Antonio    59     15
+Punjani, Anaya         Johnson HS, San Antonio    54     16
+Wheeler, Austin        Madison HS, San Antonio    48     17
+Caldera, Marcus        Roosevelt HS, San Antonio  34     18
+Kaza, Surya            Johnson HS, San Antonio    22     19
+Levine, Jacob          MacArthur HS, San Antonio  18     20
+Cantu Trevino, Amadeo  MacArthur HS, San Antonio  14     21
+Garcia, Elizabeth      MacArthur HS, San Antonio  13     22
+Bolanos, Josh          MacArthur HS, San Antonio  8      23
+Laws, Teagan           Madison HS, San Antonio    -6     24
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Reagan HS, San Antonio     1     640    1      10      X      Region
+Churchill HS, San Antonio  1     399    2      5       X      Alternate
+Roosevelt HS, San Antonio  1     249    3
+Madison HS, San Antonio    1     173    4
+Johnson HS, San Antonio    1     161    5
+MacArthur HS, San Antonio  1     45     6
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Shelburne, Katherine   Belton HS, Belton                208    1      15      X      Region
+Kuang, Hanxing         Midway H S, Woodway              206    2      12      X      Region
+Woo, Si-Yoon           Belton HS, Belton                166    3      10      X      Region
+Win, Lawrence          Belton HS, Belton                164    4      8       X      Alternate
+VanderHeiden, Nikita   Midway H S, Woodway              150    5      6       X
+Loiselle, Loren        Belton HS, Belton                142    6      4       X
+Bender, Stephen        Midway H S, Woodway              114    7
+Garcia, Kalvin         Copperas Cove HS, Copperas Cove  98     8
+Handley, Lauren        Belton HS, Belton                96     9
+Sandoval, Joseph       Midway H S, Woodway              92     10
+Montgomery, Mariah     Belton HS, Belton                86     11
+Moon, Hayoung          Midway H S, Woodway              76     12
+Warkentine, Amilia     Midway H S, Woodway              76     12
+Larry, Arianna         Ellison H S, Killeen             64     14
+Trevino, Nick          Ellison H S, Killeen             62     15
+Gonzales, Noah         Copperas Cove HS, Copperas Cove  44     16
+Prestridge, Christian  Copperas Cove HS, Copperas Cove  34     17
+Steele, Natalie        Copperas Cove HS, Copperas Cove  34     17
+Hernandez, Abdiel      Copperas Cove HS, Copperas Cove  26     19
+Figueroa, Adriana      Copperas Cove HS, Copperas Cove  18     20
+Villanueva, Katheryn   Ellison H S, Killeen             6      21
+
+TOP SCORERS
+------------------------------
+Contestant            School      Results               Points
+Shelburne, Katherine  Belton HS   Top Scorer Biology    3
+Woo, Si-Yoon          Belton HS   Alternate Biology     0
+VanderHeiden, Nikita  Midway H S  Top Scorer Chemistry  3
+Kuang, Hanxing        Midway H S  Alternate Chemistry   0
+Shelburne, Katherine  Belton HS   Top Scorer Physics    3
+Win, Lawrence         Belton HS   Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Belton HS, Belton                1     538    1      10      X      Region
+Midway H S, Woodway              1     470    2      5       X      Alternate
+Copperas Cove HS, Copperas Cove  1     176    3
+Ellison H S, Killeen             1     132    4

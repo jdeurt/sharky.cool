@@ -1,0 +1,25 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                         Score  Place  Points  Medal  Advance
+Moon, Landon      Brock HS, Brock                126    1      15      X      Region
+Locke, Preston    Millsap H S, Millsap           112    2      12      X      Region
+Clapp, Ethan      Brock HS, Brock                54     3      10      X      Region
+Clark, Emily      Cisco HS, Cisco                38     4      8       X      Alternate
+Peace, Jake       Cisco HS, Cisco                24     5      6       X
+Richard, Nathan   Millsap H S, Millsap           20     6      4       X
+Oliver, Ashton    Cisco HS, Cisco                8      7
+Collins, Travis   Millsap H S, Millsap           6      8
+Raymond, Garrett  Breckenridge HS, Breckenridge  4      9
+Hall, Zane        Brock HS, Brock                4      9
+O'Grady, Colin    Brock HS, Brock                2      11
+Casarez, Angie    Millsap H S, Millsap           -4     12
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Brock HS, Brock       1     534    1      20      X      Region
+Millsap H S, Millsap  1     318    2      16      X      Alternate
+Cisco HS, Cisco       1     230    3      12      X
+
+TEAM RESULTS
+------------------------------

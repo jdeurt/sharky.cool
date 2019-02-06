@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Malani, Khushi       West Brook HS, Beaumont  182    1      15      X      Region
+Kalathra, Susann     West Brook HS, Beaumont  168    2      12      X      Region
+Liu, Kent            West Brook HS, Beaumont  139    3      10      X      Region
+Le, Hoang            Dobie H S, Houston       126    4      8       X      Alternate
+Xu, Yinong           La Porte H S, La Porte   98     5      6       X
+Ly, Tin              Dobie H S, Houston       92     6      4       X
+Chennupati, Vignesh  West Brook HS, Beaumont  90     7
+Phan, Timmy          Dobie H S, Houston       82     8
+Hernandez, Gisselle  Rayburn H S, Pasadena    75     9
+Mendoza, Jesus       Rayburn H S, Pasadena    57     10
+Tran, Charlie        Dobie H S, Houston       42     11
+Hinds, Virginia      La Porte H S, La Porte   28     12
+Mathews, Miraya      La Porte H S, La Porte   21     13
+Orozco, Devyn        La Porte H S, La Porte   16     14
+Orozco, Noel         Rayburn H S, Pasadena    0      15
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+West Brook HS, Beaumont  1     489    1      10      X      Region
+Dobie H S, Houston       1     300    2      5       X      Alternate
+La Porte H S, La Porte   1     147    3
+Rayburn H S, Pasadena    1     132    4
+
+TEAM RESULTS
+------------------------------

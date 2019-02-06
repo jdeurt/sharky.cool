@@ -1,0 +1,51 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Dow, Will           Aubrey HS, Aubrey        158    1      15      X      Region
+Lewis, Jeffrey S    Anna HS, Anna            96     2      12      X      Region
+Hatcher, Peyton     Celina HS, Celina        88     3      10      X      Region
+Morrow, Branden     Celina HS, Celina        82     4      6       X      Alternate
+Self, Daniel        Princeton HS, Princeton  82     4      6       X      Alternate
+Bretz, Noah         Princeton HS, Princeton  82     4      6       X      Alternate
+Vana, Kaitlyn       Celina HS, Celina        78     7
+Wingert, Sheldon    Aubrey HS, Aubrey        76     8
+Vasquez, Jocelyn    Celina HS, Celina        64     9
+Snyder, Samuel      Celina HS, Celina        60     10
+Rollwage, Kirsten   Aubrey HS, Aubrey        36     11
+Jasso, Noel         Princeton HS, Princeton  34     12
+Neumann, Spencer    Aubrey HS, Aubrey        34     12
+Gallimore, Jacob    Melissa H S, Melissa     34     12
+Freeman, Taylor     Aubrey HS, Aubrey        28     15
+Chang, Aaron        Celina HS, Celina        26     16
+Vega, Issac         Melissa H S, Melissa     26     16
+Berkeland, Justin   Melissa H S, Melissa     26     16
+Melcher, Brittany   Melissa H S, Melissa     26     16
+Branson, Ella       Melissa H S, Melissa     24     20
+Shumway, Trevor     Aubrey HS, Aubrey        22     21
+Belranger, Katy     Melissa H S, Melissa     20     22
+Williams, Madison   Bonham HS, Bonham        16     23
+Thompson, Jacob G   Anna HS, Anna            8      24
+Shellman, Noah      Bonham HS, Bonham        6      25
+Walker, Kylie       Bonham HS, Bonham        0      26
+Deveaux, Payton     Bonham HS, Bonham        0      26
+Singleton, Tristan  Bonham HS, Bonham        -12    28
+Chavez, Cristian    Bonham HS, Bonham        -12    28
+
+TOP SCORERS
+------------------------------
+Contestant        School        Results               Points
+Dow, Will         Aubrey HS     Top Scorer Biology    3
+Lewis, Jeffrey S  Anna HS       Alternate Biology     0
+Dow, Will         Aubrey HS     Top Scorer Chemistry  3
+Bretz, Noah       Princeton HS  Alternate Chemistry   0
+Dow, Will         Aubrey HS     Top Scorer Physics    3
+Lewis, Jeffrey S  Anna HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Aubrey HS, Aubrey        1     270    1      10      X      Region
+Celina HS, Celina        1     248    2      5       X      Alternate
+Princeton HS, Princeton  1     198    3
+Melissa H S, Melissa     1     86     4
+Bonham HS, Bonham        1     22     5

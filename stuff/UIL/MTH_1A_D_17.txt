@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                         Score  Place  Points  Medal  Advance
+Polk, Austin       Graford H S, Graford           88     1      15      X      Region
+Waters, Tanner     Graford H S, Graford           72     2      12      X      Region
+Shields, KC        Newcastle H S, Newcastle       68     3      10      X      Region
+Ray, Emma          Newcastle H S, Newcastle       56     4      8       X      Alternate
+Leal, Landon       Throckmorton HS, Throckmorton  56     5      6       X
+Bozeman, Gage      Newcastle H S, Newcastle       52     6      4       X
+Payne, Gracie      Newcastle H S, Newcastle       44     7
+Jackson, Spencer   Throckmorton HS, Throckmorton  42     8
+Phillips, Brett    Graford H S, Graford           28     9
+Ford, Tanner       Graford H S, Graford           26     10
+Imotichey, Taylor  Bryson HS, Bryson              24     11
+Armstrong, Ethan   Woodson HS, Woodson            20     12
+Perkins, Eric      Paint Creek H S, Haskell       8      13
+Grand, Ashton      Paint Creek H S, Haskell       6      14
+Miles, Haylee      Woodson HS, Woodson            -2     15
+Carpenter, Travis  Woodson HS, Woodson            -2     15
+Karl, Maggy        Throckmorton HS, Throckmorton  -4     17
+Brown, Jordan      Woodson HS, Woodson            -6     18
+Knowles, Dyna      Paint Creek H S, Haskell       -10    19
+Khanlar, Hannah    Bryson HS, Bryson              -18    20
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Graford H S, Graford           1     188    1      10      X      Region
+Newcastle H S, Newcastle       1     176    2      5       X      Alternate
+Throckmorton HS, Throckmorton  1     94     3
+Woodson HS, Woodson            1     16     4
+Paint Creek H S, Haskell       1     4      5
+
+TEAM RESULTS
+------------------------------

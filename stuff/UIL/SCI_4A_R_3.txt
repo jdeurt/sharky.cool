@@ -1,0 +1,72 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                                  Score  Place  Points  Medal  Advance
+Stone, Ben              Hardin-Jefferson H S, Sour Lake         216    1      15      X      State
+Luckadoo, Hayden        Liberty Hill HS, Liberty Hill           178    2      12      X      State
+Benitez, Sebastian      Hudson HS, Lufkin                       164    3      10      X      State
+Brand, Alec             Liberty Hill HS, Liberty Hill           158    4      8       X      Alternate
+Buttery, Heath          Llano H S, Llano                        152    5      6       X
+Barr, Chandler          Little Cypress-Mauriceville HS, Orange  144    6      4       X
+Monroe, Will            Jasper H S, Jasper                      124    7
+Dumas, Andrew           Liberty Hill HS, Liberty Hill           114    8
+Craft, Nolan            Hudson HS, Lufkin                       114    8
+Hayman, Charlie         Hardin-Jefferson H S, Sour Lake         96     10
+Ayers, Iyan             Hamshire-Fannett H S, Hamshire          80     11
+Croley, Garrett         Hudson HS, Lufkin                       76     12
+Garcia-Castillo, Jesus  Palestine H S, Palestine                74     13
+Curl, Brandon           Bridge City HS, Bridge City             74     13
+Aymond, Weston          La Grange H S, La Grange                70     15
+Goebel, Ashton          Hardin-Jefferson H S, Sour Lake         66     16
+Alvarez, Alyson         Palestine H S, Palestine                54     17
+Handley, Sarah          Hudson HS, Lufkin                       54     17
+Bryan, David            Gatesville H S, Gatesville              48     19
+Stone, Gwen             Hardin-Jefferson H S, Sour Lake         48     19
+Durant, Paige           Llano H S, Llano                        40     21
+Jensen, Hannah          Hardin-Jefferson H S, Sour Lake         40     21
+Coleman, Kennedy        Liberty Hill HS, Liberty Hill           38     23
+Hail, Gideon            Challenge Early College HS, Houston     36     24
+Moore, Jacey            Lorena H S, Lorena                      28     25
+Kiser, Alexis           Palestine H S, Palestine                26     26
+Givan, Daxton           La Grange H S, La Grange                26     26
+Rohan, Dillon           La Grange H S, La Grange                24     28
+Lewis, Christian        Robinson H S, Robinson                  24     28
+Perry, Logan            Giddings H S, Giddings                  22     30
+Johns, Spencer          Little Cypress-Mauriceville HS, Orange  20     31
+Isham, Hunter           Lorena H S, Lorena                      18     32
+Kuykendall, Shannon     Lorena H S, Lorena                      18     32
+Valdez, Julian          China Spring HS, China Spring           16     34
+Coker, Serena           Palestine H S, Palestine                14     35
+Bennett, Collin         Lorena H S, Lorena                      12     36
+Bonnette, Kalan         Little Cypress-Mauriceville HS, Orange  6      37
+Little, Kaitlyn         La Grange H S, La Grange                0      38
+Kekic, Sinan            Challenge Early College HS, Houston     0      38
+Hernandez, Javier       Challenge Early College HS, Houston     0      38
+Montony, Edgar          Llano H S, Llano                        0      38
+Perry, Kenneth          Llano H S, Llano                        0      38
+Howell, Bennett         Challenge Early College HS, Houston     -2     43
+Russell, Lucas          Little Cypress-Mauriceville HS, Orange  -4     44
+Quintanilla, Gabriela   Liberty HS, Houston                     -4     44
+Risinger, Jacob         Madisonville HS, Madisonville           -8     46
+
+TOP SCORERS
+------------------------------
+Contestant          School                          Results               Points
+Buttery, Heath      Llano H S                       Top Scorer Biology    3
+Stone, Ben          Hardin-Jefferson H S            Alternate Biology     0
+Benitez, Sebastian  Hudson HS                       Top Scorer Chemistry  3
+Stone, Ben          Hardin-Jefferson H S            Alternate Chemistry   0
+Barr, Chandler      Little Cypress-Mauriceville HS  Top Scorer Physics    3
+Luckadoo, Hayden    Liberty Hill HS                 Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Liberty Hill HS, Liberty Hill           1     450    1      10      X      State
+Hardin-Jefferson H S, Sour Lake         1     378    2      5       X      Alternate
+Hudson HS, Lufkin                       1     354    3
+Llano H S, Llano                        1     192    4
+Little Cypress-Mauriceville HS, Orange  1     170    5
+Palestine H S, Palestine                1     154    6
+La Grange H S, La Grange                1     120    7
+Lorena H S, Lorena                      1     64     8
+Challenge Early College HS, Houston     1     36     9

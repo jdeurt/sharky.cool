@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                               Score  Place  Points  Medal  Advance
+Song, Ethan         Wisdom H S, Houston                  273    1      15      X      State
+Guerrero, Mauricio  Wisdom H S, Houston                  238    2      12      X      State
+Ni, Aaron           Wisdom H S, Houston                  231    3      10      X      State
+Yu, Fu-Yao          Elkins H S, Missouri City            224    4      8       X      Alternate
+Aimihoue, Bai       Wisdom H S, Houston                  222    5      6       X
+Alford, Ryan        Magnolia HS, Magnolia                211    6      4       X
+Romero, Claudio     Ennis H S, Ennis                     210    7
+Matous, Nathan      Ennis H S, Ennis                     196    8
+Kim, Joon           College Station HS, College Station  196    8
+Studwell, Alex      Tomball Memorial HS, Tomball         195    10
+Mahone, Katie       Ennis H S, Ennis                     189    11
+Hu, Amelia "Amy"    College Station HS, College Station  189    11
+Singh, Ashish       Elkins H S, Missouri City            189    11
+Li, Selena          A & M Cons HS, College Station       186    14
+Malhotra, Radha     Tomball Memorial HS, Tomball         186    14
+McGinnis, Hannah    Whitehouse HS, Whitehouse            177    16
+Rasmussen, Melissa  A & M Cons HS, College Station       174    17
+Hood, Ronald        Elkins H S, Missouri City            169    18
+Triana, LizBeth     Ennis H S, Ennis                     168    19
+Kolenbrander, Josh  Cedar Park HS, Cedar Park            167    20
+Zhang, Alan         Tomball Memorial HS, Tomball         163    21
+Saravanan, Rithvik  Cedar Park HS, Cedar Park            161    22
+Yan, Bryan          College Station HS, College Station  156    23
+Kim, Phillip        College Station HS, College Station  154    24
+Yang, Melissa       A & M Cons HS, College Station       149    25
+Whitehead, Justin   Lumberton HS, Lumberton              148    26
+Thomsen, Zachery    Hutto H S, Hutto                     147    27
+Bote, Gerardo       Barbers Hill HS, Mont Belvieu        143    28
+Phung, Noreen       Lumberton HS, Lumberton              142    29
+Wang, Bill          A & M Cons HS, College Station       139    30
+Hannah, Alexander   Lumberton HS, Lumberton              128    31
+Si, Jack            Cedar Park HS, Cedar Park            117    32
+Gonzalez, Brayant   Dayton H S, Dayton                   114    33
+Ngo, Nathan         Shadow Creek HS, Pearland            112    34
+Burce, Joanna       Nederland H S, Nederland             107    35
+Contreras, Kayla    Lee H S, Baytown                     104    36
+Eng, William        Tomball Memorial HS, Tomball         102    37
+Garcia, Luis        Lee H S, Baytown                     98     38
+Mendoza, Carlos     Lee H S, Baytown                     93     39
+Nguyen, Luke        Lumberton HS, Lumberton              93     39
+Lee, Kate           Cedar Park HS, Cedar Park            87     41
+Garcia, Nayeli      Lee H S, Baytown                     0      42
+Levesque, Keilan    Texas City HS, Texas City            0      42
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Wisdom H S, Houston                  1     742    1      10      X      State
+Ennis H S, Ennis                     1     595    2      5       X      Alternate
+Elkins H S, Missouri City            1     582    3
+Tomball Memorial HS, Tomball         1     544    4
+College Station HS, College Station  1     541    5
+A & M Cons HS, College Station       1     509    6
+Cedar Park HS, Cedar Park            1     445    7
+Lumberton HS, Lumberton              1     418    8
+Lee H S, Baytown                     1     295    9
+
+TEAM RESULTS
+------------------------------

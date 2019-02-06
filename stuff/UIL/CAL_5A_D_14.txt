@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                        Score  Place  Points  Medal  Advance
+Davenport, John         Prosper HS, Prosper           252    1      15      X      Region
+Keith, Austin           Prosper HS, Prosper           203    2      12      X      Region
+Windon, Alexander       Prosper HS, Prosper           189.1  3      10      X      Region
+Garner, Austin          Prosper HS, Prosper           189    4      8       X      Alternate
+Corriveau, Travis       McKinney North H S, McKinney  156    5      6       X
+Kim, Grace              Creekview HS, Carrollton      147    6      4       X
+Gonzalez-Garcia, Cesar  McKinney North H S, McKinney  128    7
+Waugh, Rebecca          McKinney North H S, McKinney  120    8
+Oliver, Armando         Little Elm H S, Little Elm    91     9
+Willis, Isaac           Little Elm H S, Little Elm    87     10
+Marquez, Gratzelly      Lake Dallas H S, Lake Dallas  61     11
+Saunders, Madison       McKinney North H S, McKinney  56     12
+Iro, Gold               Little Elm H S, Little Elm    20     13
+Barlee, Daiveyn         Creekview HS, Carrollton      13     14
+Mendoza, Andrew         Little Elm H S, Little Elm    -17    15
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Prosper HS, Prosper           1     644.1  1      10      X      Region
+McKinney North H S, McKinney  1     404    2      5       X      Alternate
+Little Elm H S, Little Elm    1     198    3
+
+TEAM RESULTS
+------------------------------

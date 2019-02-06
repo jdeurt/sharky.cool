@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                   Score  Place  Points  Medal  Advance
+Laberge, Samuel     Franklin H S, El Paso                    186    1      15      X      Region
+Yi, Jaeha           Coronado HS, El Paso                     108    2      12      X      Region
+Herrera, Melchor    Franklin H S, El Paso                    100    3      10      X      Region
+Torres, Michael     Transmountain Early College HS, El Paso  78     4      8       X      Alternate
+Budreckis, Sarunas  Eastwood H S, El Paso                    62     5      6       X
+Hernandez, Roberto  Coronado HS, El Paso                     54     6      4       X
+Amogh, Misra        Coronado HS, El Paso                     44     7
+Ma, Andy            Franklin H S, El Paso                    36     8
+Mauricio, Lesli     Eastwood H S, El Paso                    22     9
+Hernandez, Luis     Coronado HS, El Paso                     22     9
+West, David         Transmountain Early College HS, El Paso  20     11
+Martinez, Nicholas  Eastwood H S, El Paso                    8      12
+Rodriguez, Ruby     Transmountain Early College HS, El Paso  2      13
+Blumenfeld, Ethan   Franklin H S, El Paso                    2      13
+Campos, Johann      Eastwood H S, El Paso                    0      15
+Eskridge, Aaron     El Dorado HS, El Paso                    0      15
+Garcia, Paolo       El Dorado HS, El Paso                    0      15
+Lujan, Sophia       El Dorado HS, El Paso                    0      15
+Saucedo, David      El Dorado HS, El Paso                    -8     19
+Navarro, Israel     Transmountain Early College HS, El Paso  -14    20
+
+TOP SCORERS
+------------------------------
+School                                   Team  Score  Place  Points  Medal  Advance
+Franklin H S, El Paso                    1     737    1      20      X      Region
+Coronado HS, El Paso                     1     446    2      16      X      Alternate
+Eastwood H S, El Paso                    1     147    3      12      X
+Transmountain Early College HS, El Paso  1     100    4
+El Dorado HS, El Paso                    1     0      5
+
+TEAM RESULTS
+------------------------------

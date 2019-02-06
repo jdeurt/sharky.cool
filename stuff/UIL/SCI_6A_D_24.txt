@@ -1,0 +1,61 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                         Score  Place  Points  Medal  Advance
+Falco, Julian           Friendswood H S, Friendswood   254    1      15      X      Region
+Li, Edward              Clear Lake HS, Houston         238    2      12      X      Region
+Lu, Evan                Clear Lake HS, Houston         214    3      10      X      Region
+Song, Grace             Clear Lake HS, Houston         208    4      8       X      Alternate
+Zhou, Dean              Clear Lake HS, Houston         204    5      6       X
+Majmudar, Akhil         Clear Brook HS, Friendswood    188    6      4       X
+Walker, Jaden           Friendswood H S, Friendswood   162    7
+Kuo, Ben                Friendswood H S, Friendswood   152    8
+Sang, Julie             Clear Lake HS, Houston         146    9
+Stockdale, Ainsley V    Clear Springs HS, League City  138    10
+Pritt, Gabriel          Dickinson H S, Dickinson       138    10
+Flick, Kyle             Friendswood H S, Friendswood   136    12
+Ye, Regina Y            Clear Springs HS, League City  124    13
+Aglyamov, Fedor         Friendswood H S, Friendswood   124    13
+Coburn, Grant           Clear Creek HS, League City    118    15
+Noorbaksh, Cameron      Clear Creek HS, League City    118    15
+Nguyen, Emily M         Clear Springs HS, League City  108    17
+Pickett, Maxwell E      Clear Springs HS, League City  100    18
+Maredia, Sharil M       Clear Springs HS, League City  92     19
+Sampson, Andrew         Clear Falls HS, League City    90     20
+Hall, Emily             Clear Brook HS, Friendswood    88     21
+Alvarez, Christian      Friendswood H S, Friendswood   86     22
+Shams Ul-Hooda, Yasein  Clear Creek HS, League City    84     23
+Hill, Trenten           Dickinson H S, Dickinson       80     24
+Jiang, Christine        Clear Brook HS, Friendswood    66     25
+Lu, Austin              Clear Lake HS, Houston         52     26
+Koza, Meghan E          Clear Springs HS, League City  42     27
+Telios, Alexia          Clear Creek HS, League City    42     27
+Westheimer, Christa     Clear Brook HS, Friendswood    28     29
+Phillips, Metyia        Clear Brook HS, Friendswood    16     30
+Clemmons, Mystery       Clear Brook HS, Friendswood    8      31
+Booker, Jordan          Dickinson H S, Dickinson       2      32
+Lokesh, Yogapriya       Clear Creek HS, League City    0      33
+Aditya, Vimal           Clear Creek HS, League City    0      33
+Sashital, Divya         Clear Falls HS, League City    0      33
+Bussard, Hannah         Clear Falls HS, League City    0      33
+Kennedy, Lauren         Dickinson H S, Dickinson       -4     37
+
+TOP SCORERS
+------------------------------
+Contestant     School           Results               Points
+Song, Grace    Clear Lake HS    Top Scorer Biology    3
+Falco, Julian  Friendswood H S  Alternate Biology     0
+Lu, Evan       Clear Lake HS    Top Scorer Chemistry  3
+Li, Edward     Clear Lake HS    Alternate Chemistry   0
+Li, Edward     Clear Lake HS    Top Scorer Physics    3
+Lu, Evan       Clear Lake HS    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Clear Lake HS, Houston         1     660    1      10      X      Region
+Friendswood H S, Friendswood   1     568    2      5       X      Alternate
+Clear Springs HS, League City  1     370    3
+Clear Brook HS, Friendswood    1     342    4
+Clear Creek HS, League City    1     320    5
+Dickinson H S, Dickinson       1     220    6
+Clear Falls HS, League City    1     90     7

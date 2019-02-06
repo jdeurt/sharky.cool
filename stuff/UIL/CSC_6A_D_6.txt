@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Arjun, Aditya      Plano West Sr HS, Plano     240    1      15      X      Region
+Lin, Dachey        Plano West Sr HS, Plano     232    2      12      X      Region
+Fazzani, Bruno     Plano East Sr HS, Plano     226    3      9       X      Region
+Kinney, Kevin      Plano Sr HS, Plano          226    3      9       X      Region
+McMahon, Collin    Plano West Sr HS, Plano     216    5      6       X      Alternate
+Zou, Elizabeth     Plano West Sr HS, Plano     208    6      4       X
+Nguyen, Thai       McKinney Boyd HS, McKinney  192    7
+Humphrey, Leonard  McKinney HS, McKinney       190    8
+Duffee, Christian  McKinney Boyd HS, McKinney  186    9
+Choudhary, Harsh   Plano East Sr HS, Plano     184    10
+Gal, Roie          Plano Sr HS, Plano          184    10
+Landrum, Liam      McKinney HS, McKinney       182    12
+Barth, Zoe         Plano Sr HS, Plano          176    13
+Khan, Azhan        McKinney HS, McKinney       172    14
+Yen, Howard        Plano Sr HS, Plano          170    15
+Qavi, Humza        Plano East Sr HS, Plano     168    16
+Patel, Vehansh     Plano East Sr HS, Plano     160    17
+Cardenas, Peter    Allen HS, Allen             160    17
+Leibovich, Inbar   McKinney Boyd HS, McKinney  152    19
+Chen, Sean         McKinney HS, McKinney       150    20
+Norwood, Jarod     McKinney Boyd HS, McKinney  142    21
+Dilley, Brock      Allen HS, Allen             140    22
+Noeske, Richard    Allen HS, Allen             132    23
+Malapati, Kaushik  Allen HS, Allen             0      24
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Plano West Sr HS, Plano     1     1343   1      20      X      Region
+Plano East Sr HS, Plano     1     1218   2      16      X      Alternate
+Plano Sr HS, Plano          1     1181   3      12      X
+McKinney HS, McKinney       1     1074   4
+McKinney Boyd HS, McKinney  1     1055   5
+Allen HS, Allen             1     792    6
+
+TEAM RESULTS
+------------------------------

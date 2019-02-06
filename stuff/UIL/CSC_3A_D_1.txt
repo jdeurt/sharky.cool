@@ -1,0 +1,24 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Cook, Quinn        Canadian HS, Canadian    90     1      15      X      Region
+Moreno, Alex       Canadian HS, Canadian    54     2      12      X      Region
+Marnell, Mason     Tulia H S, Tulia         40     3      10      X      Region
+Hood, Melody       Canadian HS, Canadian    40     4      8       X      Alternate
+Esparza, Geovanny  Canadian HS, Canadian    30     5      6       X
+Gaither, Lane      Tulia H S, Tulia         12     6      4       X
+Childers, Jakob    Tulia H S, Tulia         12     7
+Ewing, Dillon      Tulia H S, Tulia         6      8
+Brittain, Travis   River Road HS, Amarillo  4      9
+Thrash, Austin     River Road HS, Amarillo  -8     10
+Williams, Kaiden   River Road HS, Amarillo  -8     10
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Canadian HS, Canadian    1     294    1      20      X      Region
+Tulia H S, Tulia         1     179    2      16      X      Alternate
+River Road HS, Amarillo  1     -12    3      12      X
+
+TEAM RESULTS
+------------------------------

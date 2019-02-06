@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Taylor, Zane         Boerne HS, Boerne                   196    1      15      X      Region
+Taylor, Hannah       Boerne HS, Boerne                   163    2      12      X      Region
+Albon, Garrett       Boerne HS, Boerne                   149    3      10      X      Region
+Henk, Christian      Bandera HS, Bandera                 142    4      8       X      Alternate
+Hodge, Georgette     Boerne HS, Boerne                   125    5      6       X
+Rubalcava, Samantha  Bandera HS, Bandera                 112    6      4       X
+Allison, Meagan      Canyon Lake HS, Fischer             101    7
+Martin, Taylor       Bandera HS, Bandera                 77     8
+Trujillo, Jaden      Fredericksburg H S, Fredericksburg  75     9
+Bitzkie, Luke        Bandera HS, Bandera                 74     10
+Mason, McKayla       Canyon Lake HS, Fischer             66     11
+Embers, Jackson      Hondo H S, Hondo                    64     12
+Jones, Victoria      Canyon Lake HS, Fischer             53     13
+Dorman, Erin         Canyon Lake HS, Fischer             51     14
+Holster, Sydney      Fredericksburg H S, Fredericksburg  27     15
+Handley, Josh        Fredericksburg H S, Fredericksburg  21     16
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Boerne HS, Boerne                   1     508    1      10      X      Region
+Bandera HS, Bandera                 1     331    2      5       X      Alternate
+Canyon Lake HS, Fischer             1     220    3
+Fredericksburg H S, Fredericksburg  1     123    4
+
+TEAM RESULTS
+------------------------------

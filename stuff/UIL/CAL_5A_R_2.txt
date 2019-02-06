@@ -1,0 +1,55 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                              Score  Place  Points  Medal  Advance
+Davenport, John           Prosper HS, Prosper                 245    1      15      X      State
+Luo, Richard              Highland Park H S, Dallas           238    2      12      X      State
+Liera, Jose               Mount Pleasant H S, Mount Pleasant  238    3      10      X      State
+Windon, Alexander         Prosper HS, Prosper                 231    4      8       X      Alternate
+Hickey, Andrew            Hallsville H S, Hallsville          231    5      6       X
+Shirvaikar, Vinit         Liberty HS, Frisco                  231    6      4       X
+Nandekar, Parth           Highland Park H S, Dallas           229    7
+Barboza, David            Mount Pleasant H S, Mount Pleasant  228    8
+Sheard, Hannah            Hallsville H S, Hallsville          224    9
+Saiboonchan, Pornphiphat  Mount Pleasant H S, Mount Pleasant  222    10
+Sangineni, Pradyun        Liberty HS, Frisco                  210    11
+Keith, Austin             Prosper HS, Prosper                 210    11
+Mohler, Abby              Hallsville H S, Hallsville          205    13
+Garner, Austin            Prosper HS, Prosper                 203    14
+Li, Amy                   Highland Park H S, Dallas           203    14
+Mohler, Andrew            Hallsville H S, Hallsville          198    16
+Nandagopal, Govind        Liberty HS, Frisco                  196    17
+Liu, Andy                 Liberty HS, Frisco                  189    18
+Shahid, Sanum             Mount Pleasant H S, Mount Pleasant  189    18
+Lee, Tyler                Timberview HS, Arlington            165    20
+Moncrief, Chase           Lake Ridge HS, Mansfield            149    21
+Bathan, Ben               Lake Ridge HS, Mansfield            147    22
+Wang, Stacy               Highland Park H S, Dallas           146    23
+Cano, Yuliana             Everman H S, Everman                142    24
+Kavanaugh, Zachary        Everman H S, Everman                136    25
+Cano, Gerardo             Everman H S, Everman                135    26
+Chuong, Ashley            Lake Ridge HS, Mansfield            135    26
+Martinez, David           Adams HS, Dallas                    126    28
+Robbins, Brant            Joshua HS, Joshua                   100    29
+Dusek, Collin             Hillcrest HS, Dallas                95     30
+Nguyen, Michelle          Lake Ridge HS, Mansfield            93     31
+Pazzi, Scarlett           Hillcrest HS, Dallas                83     32
+Hernandez, Claudia        Seagoville H S, Dallas              77     33
+Huang, Kaishen            Everman H S, Everman                64     34
+Selene, Rangel            Seagoville H S, Dallas              58     35
+Romero, Kimberly          Hillcrest HS, Dallas                49     36
+Negatu, Elias             Hillcrest HS, Dallas                47     37
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Mount Pleasant H S, Mount Pleasant  1     688    1      10      X      State
+Prosper HS, Prosper                 1     686    2      5       X      Alternate
+Highland Park H S, Dallas           1     670    3
+Hallsville H S, Hallsville          1     660    4
+Liberty HS, Frisco                  1     637    5
+Lake Ridge HS, Mansfield            1     431    6
+Everman H S, Everman                1     413    7
+Hillcrest HS, Dallas                1     227    8
+
+TEAM RESULTS
+------------------------------

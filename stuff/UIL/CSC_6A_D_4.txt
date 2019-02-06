@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                         Score  Place  Points  Medal  Advance
+Reynolds, Orion         Martin HS, Arlington           234    1      15      X      Region
+Barksdale, William      North Crowley H S, Fort Worth  206    2      12      X      Region
+Bruhn, Cole             Martin HS, Arlington           184    3      10      X      Region
+Dinh, Dylan             Martin HS, Arlington           178    4      8       X      Alternate
+Moses, Mark             Paschal H S, Fort Worth        162    5      6       X
+Ortega, Noah            Paschal H S, Fort Worth        146    6      4       X
+Baker-Kallus, Augustus  Paschal H S, Fort Worth        146    7
+Spindler, Scarlett      Lamar HS, Arlington            136    8
+Bui, Nicholas           Martin HS, Arlington           134    9
+Travis, Ian             Paschal H S, Fort Worth        124    10
+Ramos, Kyler            North Crowley H S, Fort Worth  118    11
+DiPalma, Taylor         Lamar HS, Arlington            104    12
+McBride, Shane          Mansfield HS, Mansfield        96     13
+Chang, Trishton         North Crowley H S, Fort Worth  94     14
+Homer, Teddy            Mansfield HS, Mansfield        94     14
+Goswami, Neal           Mansfield HS, Mansfield        46     16
+Harrison, Benjamin      North Crowley H S, Fort Worth  30     17
+West, William           Houston HS, Arlington          22     18
+Mehmedovic, Nelmin      Houston HS, Arlington          20     19
+Cervantes, Augustin     Houston HS, Arlington          14     20
+Stanzel, Dustin         Lamar HS, Arlington            10     21
+Dominguez, Joshua       Houston HS, Arlington          -10    22
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Martin HS, Arlington           1     1256   1      20      X      Region
+North Crowley H S, Fort Worth  1     888    2      16      X      Alternate
+Paschal H S, Fort Worth        1     744    3      12      X
+Lamar HS, Arlington            1     430    4
+Mansfield HS, Mansfield        1     411    5
+Houston HS, Arlington          1     116    6
+
+TEAM RESULTS
+------------------------------

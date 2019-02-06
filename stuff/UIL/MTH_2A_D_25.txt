@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                Score  Place  Points  Medal  Advance
+Steglich, Erin    Holland H S, Holland  88     1      15      X      Region
+Rendon, Drew      Holland H S, Holland  82     2      12      X      Region
+Poling, Kyge      Thrall HS, Thrall     70     3      10      X      Region
+Hooker, Kelton    Thrall HS, Thrall     66     4      8       X      Alternate
+Schneider, John   Granger H S, Granger  66     5      6       X
+Dague, Kolby      Holland H S, Holland  52     6      4       X
+Bounds, Kenna     Milano H S, Milano    50     7
+Van Til, Alex     Thrall HS, Thrall     46     8
+Graf, Bryanna     Milano H S, Milano    42     9
+Pickett, Ryan     Granger H S, Granger  42     9
+Weins, Joshua     Holland H S, Holland  26     11
+Broussard, Jaxon  Milano H S, Milano    24     12
+Lay, Bruce        Granger H S, Granger  14     13
+Jackson, Kaylee   Thrall HS, Thrall     10     14
+Miller, Kiara     Granger H S, Granger  8      15
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Holland H S, Holland  1     222    1      10      X      Region
+Thrall HS, Thrall     1     182    2      5       X      Alternate
+Granger H S, Granger  1     122    3
+Milano H S, Milano    1     116    4
+
+TEAM RESULTS
+------------------------------

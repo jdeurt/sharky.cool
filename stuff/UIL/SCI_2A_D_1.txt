@@ -1,0 +1,58 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Logsdon, Cole       Gruver HS, Gruver           104    1      15      X      Region
+Johnson, Nick       Gruver HS, Gruver           100    2      12      X      Region
+Seagler, Lane       Gruver HS, Gruver           90     3      10      X      Region
+Irwin, Klaire       Gruver HS, Gruver           86     4      8       X      Alternate
+Kelp, Keegan        Gruver HS, Gruver           84     5      6       X
+Harris, Noah        Stratford HS, Stratford     62     6      4       X
+Nelson, Kaiden      Sunray H S, Sunray          58     7
+Bright, Barrett     West Texas HS, Stinnett     56     8
+Ferguson, Caleb     Sunray H S, Sunray          56     8
+Brewer, William     West Texas HS, Stinnett     52     10
+Villalobos, Ferny   Gruver HS, Gruver           48     11
+Williams, Dalin     West Texas HS, Stinnett     46     12
+RASMUSSEN, SKYLER   Sanford-Fritch H S, Fritch  46     12
+Hess, Shay          Stratford HS, Stratford     34     14
+Lancaster, Nathan   Vega HS, Vega               32     15
+Gist, RB            Vega HS, Vega               28     16
+Crownover, Cole     Sunray H S, Sunray          26     17
+King, John          West Texas HS, Stinnett     24     18
+BEEKMAN, TUCKER     Sanford-Fritch H S, Fritch  24     18
+Applegate, Drayke   Vega HS, Vega               22     20
+Shirley, Judge      Sunray H S, Sunray          22     20
+Sandvig, Matthew    Stratford HS, Stratford     20     22
+EAKIN, JENNY        Sanford-Fritch H S, Fritch  20     22
+WILLS, KEEGAN       Sanford-Fritch H S, Fritch  20     22
+Stone, Evan         Vega HS, Vega               20     22
+Payne, Nick         Stratford HS, Stratford     16     26
+Thomas, Hailey      West Texas HS, Stinnett     14     27
+Diaz, Frey          Sunray H S, Sunray          12     28
+Metcalf, Carlee     Stratford HS, Stratford     10     29
+Stroud, Reagan      West Texas HS, Stinnett     10     29
+BROWN, JACOB        Sanford-Fritch H S, Fritch  8      31
+KERBO, RODNEY       Sanford-Fritch H S, Fritch  8      31
+Mays, Cody          Vega HS, Vega               2      33
+Richardson, Kaylei  Vega HS, Vega               -2     34
+Mendoza, Luis       Stratford HS, Stratford     -10    35
+
+TOP SCORERS
+------------------------------
+Contestant     School        Results               Points
+Seagler, Lane  Gruver HS     Top Scorer Biology    3
+Logsdon, Cole  Gruver HS     Alternate Biology     0
+Johnson, Nick  Gruver HS     Top Scorer Chemistry  3
+Logsdon, Cole  Gruver HS     Alternate Chemistry   0
+Johnson, Nick  Gruver HS     Top Scorer Physics    3
+Mendoza, Luis  Stratford HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Gruver HS, Gruver           1     294    1      10      X      Region
+West Texas HS, Stinnett     1     154    2      5       X      Alternate
+Sunray H S, Sunray          1     140    3
+Stratford HS, Stratford     1     116    4
+Sanford-Fritch H S, Fritch  1     90     5
+Vega HS, Vega               1     82     6

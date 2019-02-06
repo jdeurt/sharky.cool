@@ -1,0 +1,51 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Potts, Riley        Mason HS, Mason                80     1      15      X      Region
+Davis, Mecina       Junction H S, Junction         72     2      12      X      Region
+Ikehara, Maggie     Junction H S, Junction         62     3      10      X      Region
+Potts, James        Mason HS, Mason                58     4      8       X      Alternate
+Ruffin, Ryli        Mason HS, Mason                52     5      6       X
+Turner, Kolt        San Saba HS, San Saba          48     6      4       X
+Mason, Autumn       San Saba HS, San Saba          46     7
+Reed, Grace         San Saba HS, San Saba          44     8
+Oblogin, Vadym      Harper H S, Harper             44     8
+Brand, Zane         Harper H S, Harper             40     10
+Morrison, Sterling  Junction H S, Junction         40     10
+Udall, David        Junction H S, Junction         40     10
+Nowlin, Rebecca     Junction H S, Junction         36     13
+Simonton, James     Mason HS, Mason                36     13
+Crenwelge, Kinley   Harper H S, Harper             32     15
+Kerr, TR            Mason HS, Mason                32     15
+Enfield, Ravyn      Center Point HS, Center Point  32     15
+Zion, Lauren        Junction H S, Junction         26     18
+Lackey, Josh        Center Point HS, Center Point  24     19
+McMillan, Bode      Mason HS, Mason                24     19
+Thomas, Emily       Center Point HS, Center Point  20     21
+Eixman, Kade        Harper H S, Harper             20     21
+Saint, Sarah        San Saba HS, San Saba          18     23
+Herrera, Sakima     San Saba HS, San Saba          10     24
+Stewart, John       Harper H S, Harper             6      25
+Carmichael, Luke    Center Point HS, Center Point  6      25
+Santiago, Gabby     Center Point HS, Center Point  -2     27
+Brown, Seth         Harper H S, Harper             -2     27
+
+TOP SCORERS
+------------------------------
+Contestant       School        Results               Points
+Davis, Mecina    Junction H S  Top Scorer Biology    3
+Potts, Riley     Mason HS      Alternate Biology     0
+Zion, Lauren     Junction H S  Top Scorer Chemistry  1.50
+Ikehara, Maggie  Junction H S  Top Scorer Chemistry  1.50
+Potts, Riley     Mason HS      Top Scorer Physics    3
+Reed, Grace      San Saba HS   Alternate Physics     0
+Simonton, James  Mason HS      Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Mason HS, Mason                1     190    1      10      X      Region
+Junction H S, Junction         1     174    2      5       X      Alternate
+San Saba HS, San Saba          1     138    3
+Harper H S, Harper             1     116    4
+Center Point HS, Center Point  1     76     5

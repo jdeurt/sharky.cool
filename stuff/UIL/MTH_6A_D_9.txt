@@ -1,0 +1,46 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Chandak, Yash        Science-Eng Magnet Hs, Dallas         346    1      15      X      Region
+Rege, Raviraj        Science-Eng Magnet Hs, Dallas         336    2      12      X      Region
+Diaz, Victor         Science-Eng Magnet Hs, Dallas         300    3      10      X      Region
+Trejo, Moises        Science-Eng Magnet Hs, Dallas         274    4      8       X      Alternate
+Gao, Richard         School for Talented & Gifted, Dallas  108    5      6       X
+Yahia, Ettesaf       School for Talented & Gifted, Dallas  94     6      4       X
+Mendoza, Rogelio     Skyline HS, Dallas                    72     7
+Romero, Manuel       Skyline HS, Dallas                    68     8
+Vera, Adrian         Skyline HS, Dallas                    68     8
+ESPARZA, ANGEL       Sanders Law Magnet, Dallas            56     10
+Anyanwu, Andrew      School of Business & Mgmt, Dallas     44     11
+Gonzalez, Jacob      School of Business & Mgmt, Dallas     40     12
+Villalobos, Samuel   School of Business & Mgmt, Dallas     40     12
+Perales, Rania       Sanders Law Magnet, Dallas            38     14
+Amenewolde, Peter    School for Talented & Gifted, Dallas  34     15
+Williams, Tiara      Lassiter Early College HS, Dallas     34     15
+Moreno, Jacqueline   Sanders Law Magnet, Dallas            32     17
+Arce, Justin         School of Business & Mgmt, Dallas     30     18
+Deng, Holly          School for Talented & Gifted, Dallas  20     19
+Lujan, Raquel        Lassiter Early College HS, Dallas     20     19
+Gamino, Jennifer     Lassiter Early College HS, Dallas     20     19
+Estrada, Helja       Sanders Law Magnet, Dallas            14     22
+Coronel, Tristan     Lassiter Early College HS, Dallas     2      23
+Emery, Haven         School for Talented & Gifted, Dallas  0      24
+Pupo Jaimes, Evidia  School of Health Professions, Dallas  0      24
+Ocando, Laura        School of Health Professions, Dallas  0      24
+Roque, Fatima        School of Health Professions, Dallas  0      24
+Lara, David          School of Health Professions, Dallas  0      24
+Servin, Diego        Skyline HS, Dallas                    0      24
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Science-Eng Magnet Hs, Dallas         1     982    1      10      X      Region
+School for Talented & Gifted, Dallas  1     236    2      5       X      Alternate
+Skyline HS, Dallas                    1     208    3
+Sanders Law Magnet, Dallas            1     126    4
+School of Business & Mgmt, Dallas     1     124    5
+Lassiter Early College HS, Dallas     1     74     6
+School of Health Professions, Dallas  1     0      7
+
+TEAM RESULTS
+------------------------------

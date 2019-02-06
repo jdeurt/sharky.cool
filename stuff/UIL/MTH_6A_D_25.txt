@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+He, Lance              Westlake HS, Austin          178    1      15      X      Region
+Wei, Sarah             Westlake HS, Austin          174    2      11      X      Region
+Gorti, Varun           Vandegrift H S, Austin       174    2      11      X      Region
+Barksdale, Levi        Hays HS, Buda                140    4      8       X      Alternate
+Johnson, Bret          Hays HS, Buda                136    5      6       X
+Ikonomopoulos, Jason   Lake Travis H S, Austin      132    6      4       X
+Van Daele, Ellen       Lake Travis H S, Austin      118    7
+Grimaldi Rossi, Tiago  Vista Ridge H S, Cedar Park  106    8
+Rahman, Nashita        Westlake HS, Austin          104    9
+Yoon, Chanwoo          Vista Ridge H S, Cedar Park  94     10
+Lee, Andrew            Westlake HS, Austin          90     11
+Blevins, Ezekiel       Vista Ridge H S, Cedar Park  88     12
+Cox, Jason             Lake Travis H S, Austin      82     13
+Burke, Joel            Vista Ridge H S, Cedar Park  80     14
+Deitrich, Stefan       Lake Travis H S, Austin      78     15
+Kellner, Oscar         Leander H S, Leander         76     16
+Chida, Melanie         Hays HS, Buda                72     17
+Kellner, Joaquin       Leander H S, Leander         58     18
+Sherry, Danielle       Leander H S, Leander         56     19
+Barlow, Aaron          Hays HS, Buda                48     20
+Richter, Shelby        Lehman High School, Kyle     38     21
+Power, Abigail         Lehman High School, Kyle     28     22
+Bohreer, Jacob         Vandegrift H S, Austin       18     23
+Power, Emma            Lehman High School, Kyle     12     24
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Westlake HS, Austin          1     456    1      10      X      Region
+Hays HS, Buda                1     348    2      5       X      Alternate
+Lake Travis H S, Austin      1     332    3
+Vista Ridge H S, Cedar Park  1     288    4
+Leander H S, Leander         1     190    5
+Lehman High School, Kyle     1     78     6
+
+TEAM RESULTS
+------------------------------

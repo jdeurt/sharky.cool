@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                        Score  Place  Points  Medal  Advance
+Metcalf, Caytlin   High Island H S, High Island  52     1      15      X      Region
+Lieby, Casey       Spurger HS, Spurger           48     2      12      X      Region
+Dowdy, Joshua      Spurger HS, Spurger           36     3      10      X      Region
+Barrow, Justin     High Island H S, High Island  32     4      8       X      Alternate
+Diosdado, Abraham  Leggett HS, Leggett           30     5      6       X
+Huff, Joshua       Leggett HS, Leggett           20     6      4       X
+Jackson, Nate      High Island H S, High Island  14     7
+Bryan, Jaden       High Island H S, High Island  10     8
+Diosdado, Tomas    Leggett HS, Leggett           2      9
+Koroma, Keyera     Leggett HS, Leggett           0      10
+Davis, April       Leggett HS, Leggett           0      10
+Meeks, Cessoul     High Island H S, High Island  0      10
+Jada, Wade         Leggett HS, Leggett           -22    13
+Smith, Shelby      High Island H S, High Island  -34    14
+
+TOP SCORERS
+------------------------------
+Contestant        School           Results               Points
+Lieby, Casey      Spurger HS       Top Scorer Biology    3
+Metcalf, Caytlin  High Island H S  Alternate Biology     0
+Dowdy, Joshua     Spurger HS       Top Scorer Chemistry  1.50
+Davis, April      Leggett HS       Alternate Chemistry   1.50
+Dowdy, Joshua     Spurger HS       Top Scorer Physics    3
+Metcalf, Caytlin  High Island H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+High Island H S, High Island  1     98     1      10      X      Region
+Leggett HS, Leggett           1     52     2      5       X      Alternate

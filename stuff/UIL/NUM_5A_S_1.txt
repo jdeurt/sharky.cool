@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                               Score  Place  Points  Medal
+Luo, Richard        Highland Park H S, Dallas            310    1      15      X
+Kolenbrander, Josh  Cedar Park HS, Cedar Park            296    2      12      X
+Li, Amy             Highland Park H S, Dallas            286    3      10      X
+Wang, Jennifer      Azle HS, Azle                        246    4      8       X
+Zhang, Jason        Hallsville H S, Hallsville           242    5      6       X
+Zhang, Phyllis      Lubbock HS, Lubbock                  237    6      4       X
+Nandekar, Parth     Highland Park H S, Dallas            235    7
+Nath, Tanuja        Lubbock HS, Lubbock                  232    8
+Wang, Stacy         Highland Park H S, Dallas            232    8
+Lambert, Christian  Hallsville H S, Hallsville           229    10
+Ohba, Yuka          Sharyland HS, Mission                226    11
+Zhang, Jamal        Hallsville H S, Hallsville           225    12
+Black, Nathan       Flour Bluff H S, Corpus Christi      220    13
+Mittal, Yash        Lubbock HS, Lubbock                  216    14
+Zhang, Jessica      Calhoun HS, Port Lavaca              215    15
+Yan, Jin            Lubbock HS, Lubbock                  205    16
+Beck, John          Corsicana H S, Corsicana             187    17
+Yan, Bryan          College Station HS, College Station  148    18
+Hart, Casey         Hallsville H S, Hallsville           141    19
+Guerra, Jorge       Sharyland HS, Mission                133    20
+Lee, Kate           Cedar Park HS, Cedar Park            83     21
+Wright, Troy        Cedar Park HS, Cedar Park            80     22
+Kim, Subi           Sharyland HS, Mission                74     23
+Bewley, Benjamin    Sharyland HS, Mission                72     24
+Lee, Erin           Cedar Park HS, Cedar Park            53     25
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Highland Park H S, Dallas   1     831    1      10      X
+Hallsville H S, Hallsville  1     696    2      5       X      Alternate
+Lubbock HS, Lubbock         1     685    3
+Cedar Park HS, Cedar Park   1     459    4
+Sharyland HS, Mission       1     433    5
+
+TEAM RESULTS
+------------------------------

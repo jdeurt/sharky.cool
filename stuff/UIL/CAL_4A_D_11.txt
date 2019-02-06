@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Hatcher, Peyton     Celina HS, Celina        127    1      15      X      Region
+Parra, Noel         Princeton HS, Princeton  120    2      12      X      Region
+Rogers, Jacob       Princeton HS, Princeton  113    3      10      X      Region
+Jasso, Noel         Princeton HS, Princeton  106    4      8       X      Alternate
+Zdrojeski, Kaitlyn  Celina HS, Celina        103    5      6       X
+Chaloupka, Blake    Melissa H S, Melissa     99     6      4       X
+Chavez, Cristian    Bonham HS, Bonham        91     7
+Lewis, Jeffrey S    Anna HS, Anna            88     8
+Dickens, Haley      Princeton HS, Princeton  86     9
+Snyder, Samuel      Celina HS, Celina        85     10
+Vaughan, Aaron      Melissa H S, Melissa     74     11
+Saldana, Matthew    Melissa H S, Melissa     72     12
+Cave, Aly           Celina HS, Celina        71     13
+Farmer, Jacan       Aubrey HS, Aubrey        69     14
+McDaniel, Gabriel   Aubrey HS, Aubrey        55     15
+Bluda, Lizabeth     Anna HS, Anna            25     16
+Wingert, Sheldon    Aubrey HS, Aubrey        22     17
+Bush, Kasha         Bonham HS, Bonham        0      18
+Campbell, Rayen     Bonham HS, Bonham        0      18
+Whitmire, Michael   Aubrey HS, Aubrey        -10    20
+Gachukia, Lydia     Melissa H S, Melissa     -12    21
+Condron, Chloe A    Anna HS, Anna            -22    22
+Thompson, Jacob G   Anna HS, Anna            -29    23
+Arris, Randy        Bonham HS, Bonham        -40    24
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Princeton HS, Princeton  1     339    1      10      X      Region
+Celina HS, Celina        1     315    2      5       X      Alternate
+Melissa H S, Melissa     1     245    3
+Aubrey HS, Aubrey        1     146    4
+Anna HS, Anna            1     91     5
+Bonham HS, Bonham        1     91     5
+
+TEAM RESULTS
+------------------------------

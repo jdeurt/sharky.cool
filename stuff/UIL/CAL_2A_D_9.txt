@@ -1,0 +1,47 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Osborne, Bethany     Quanah HS, Quanah            196    1      15      X      Region
+DeLira, Johhana      Olney H S, Olney             128    2      12      X      Region
+Orsak, Blaine        Seymour HS, Seymour          121    3      10      X      Region
+Fuksa, Christian     Olney H S, Olney             116    4      8       X      Alternate
+Jacoba, Jaden        Olney H S, Olney             114    5      5       X
+Sun, Christina       Electra HS, Electra          114    5      5       X
+Myers, Brenn         Electra HS, Electra          114    7
+Unruh, Jacob         Electra HS, Electra          111    8
+Habert, Emma         Seymour HS, Seymour          111    8
+Wilhelm, Jacob       Archer City HS, Archer City  105    10
+Estraca, Gavin       Seymour HS, Seymour          93     11
+Cude, Bryanne        Munday H S, Munday           90     12
+Buzduga, Ana         Olney H S, Olney             86     13
+Cedillo, Zoe         Munday H S, Munday           81     14
+Lowrance, Kasey      Munday H S, Munday           79     15
+Sanderson, Kaylee    Petrolia HS, Petrolia        74     16
+Brooks, Tessa        Archer City HS, Archer City  69     17
+Fleming, Keaton      Petrolia HS, Petrolia        63     18
+Brown, Laynie        Windthorst HS, Windthorst    62     19
+Speck, Bailey        Munday H S, Munday           61     20
+Schreiber, Blaire    Windthorst HS, Windthorst    59     21
+Mahorney, Kadin      Quanah HS, Quanah            54     22
+Brown, Abby          Windthorst HS, Windthorst    50     23
+Knobloch, Coltin     Archer City HS, Archer City  48     24
+Tamrakar, Aadarsha   Quanah HS, Quanah            42     25
+Hemmi, Claire        Windthorst HS, Windthorst    40     26
+Hernandez, Tristain  Electra HS, Electra          39     27
+Howard, Breanna      Archer City HS, Archer City  16     28
+Mitchell, McKayla    Petrolia HS, Petrolia        -33    29
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Olney H S, Olney             1     358    1      10      X      Region
+Electra HS, Electra          1     339    2      5       X      Alternate
+Seymour HS, Seymour          1     325    3
+Quanah HS, Quanah            1     292    4
+Munday H S, Munday           1     250    5
+Archer City HS, Archer City  1     222    6
+Windthorst HS, Windthorst    1     171    7
+Petrolia HS, Petrolia        1     104    8
+
+TEAM RESULTS
+------------------------------

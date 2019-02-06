@@ -1,0 +1,61 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                              Score  Place  Points  Medal  Advance
+Luo, Richard              Highland Park H S, Dallas           352    1      15      X      State
+Liera, Jose               Mount Pleasant H S, Mount Pleasant  312    2      12      X      State
+Xie, Michael              Highland Park H S, Dallas           300    3      10      X      State
+Li, Amy                   Highland Park H S, Dallas           288    4      8       X      Alternate
+Rhythm, Garg              Centennial HS, Frisco               274    5      6       X
+Sheard, Hannah            Hallsville H S, Hallsville          274    6      4       X
+Wang, Stacy               Highland Park H S, Dallas           268    7
+Kolluri, Anikait          Reedy HS, Frisco                    258    8
+Davenport, John           Prosper HS, Prosper                 254    9
+Saiboonchan, Pornphiphat  Mount Pleasant H S, Mount Pleasant  254    9
+Lambert, Christian        Hallsville H S, Hallsville          250    11
+Zhang, Matthew            Reedy HS, Frisco                    232    12
+Wang, Rosie               Prosper HS, Prosper                 224    13
+Huang, Timothy            Seguin HS, Arlington                220    14
+Barboza, David            Mount Pleasant H S, Mount Pleasant  214    15
+Jain, Ansh                Reedy HS, Frisco                    210    16
+Punnen, Lisa              Liberty HS, Frisco                  200    17
+Crawford, Andrew          Prosper HS, Prosper                 188    18
+Hickey, Andrew            Hallsville H S, Hallsville          176    19
+Tran, Anh                 Timberview HS, Arlington            166    20
+Segovia, Nathon           Mount Pleasant H S, Mount Pleasant  154    21
+Lee, Tyler                Timberview HS, Arlington            150    22
+Brown, Jason              Prosper HS, Prosper                 146    23
+Parrish, Cortlan          Burleson HS, Burleson               134    24
+Springer, Zac             Hallsville H S, Hallsville          132    25
+Jang, Greg                Reedy HS, Frisco                    130    26
+Tran, Johnson             Timberview HS, Arlington            100    27
+Martinez, David           Adams HS, Dallas                    98     28
+Montes, Abraham           Crowley H S, Crowley                94     29
+Le, Hien                  Seguin HS, Arlington                84     30
+Ngo, Tho                  Timberview HS, Arlington            84     30
+Moosa, Khalifa            Seguin HS, Arlington                66     32
+Dusek, Collin             Hillcrest HS, Dallas                64     33
+Pazzi, Scarlett           Hillcrest HS, Dallas                58     34
+Ramos, Andres             Samuell HS, Dallas                  48     35
+Lopez, Christian          Molina H S, Dallas                  48     35
+Ogari, Yobesh             Samuell HS, Dallas                  46     37
+Gonzalez, Andrea          Samuell HS, Dallas                  40     38
+Charles, Jackie           Seguin HS, Arlington                14     39
+Duran, David              Adams HS, Dallas                    14     39
+Albright, Alexis          Adams HS, Dallas                    -12    41
+Lemer-Rodriguez, Miguel   Samuell HS, Dallas                  -28    42
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Highland Park H S, Dallas           1     940    1      10      X      State
+Mount Pleasant H S, Mount Pleasant  1     780    2      5       X      Alternate
+Reedy HS, Frisco                    1     700    3
+Hallsville H S, Hallsville          1     700    3
+Prosper HS, Prosper                 1     666    5
+Timberview HS, Arlington            1     416    6
+Seguin HS, Arlington                1     370    7
+Samuell HS, Dallas                  1     134    8
+Adams HS, Dallas                    1     100    9
+
+TEAM RESULTS
+------------------------------

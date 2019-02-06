@@ -1,0 +1,54 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                  Score  Place  Points  Medal  Advance
+Hennig, William      Paint Rock HS, Paint Rock               164    1      15      X      Region
+Brown, Linden        Richland Springs H S, Richland Springs  38     2      12      X      Region
+Bednar, Paige        Paint Rock HS, Paint Rock               32     3      10      X      Region
+Lockhart, Giles      Cherokee HS, Cherokee                   30     4      8       X      Alternate
+Moya, Anthony        Eden HS, Eden                           28     5      6       X
+Recio, David         Paint Rock HS, Paint Rock               26     6      4       X
+Otte, Bryan          Lohn HS, Lohn                           24     7
+Johnson, Kendall     Cherokee HS, Cherokee                   24     7
+Hall, Chase          Rochelle HS, Rochelle                   20     9
+Collier, Karson      Lohn HS, Lohn                           18     10
+Cutrer, Haleigh      Menard HS, Menard                       18     10
+Watkins, Ryan        Eden HS, Eden                           16     12
+Brown, Zach          Richland Springs H S, Richland Springs  16     12
+Schultz, Ben         Richland Springs H S, Richland Springs  14     14
+Watson, Christopher  Cherokee HS, Cherokee                   14     14
+Harding, Kohlton     Cherokee HS, Cherokee                   14     14
+Hall, Jc             Rochelle HS, Rochelle                   14     14
+Duque, Michael       Lohn HS, Lohn                           12     18
+Rayburn, Joshua      Menard HS, Menard                       12     18
+Marshall, Jasmine    Menard HS, Menard                       12     18
+Stiefel, Weston      Cherokee HS, Cherokee                   12     18
+Stotts, Wyatt        Cherokee HS, Cherokee                   12     18
+Wolfe, Meagan        Rochelle HS, Rochelle                   12     18
+Hillert, Haleigh     Menard HS, Menard                       10     24
+Burkhart, Jordan     Richland Springs H S, Richland Springs  10     24
+Hernandez, Matthew   Eden HS, Eden                           10     24
+Aguirre, Raven       Menard HS, Menard                       6      27
+Cole, Cache          Eden HS, Eden                           6      27
+Gossett, Jacey       Richland Springs H S, Richland Springs  2      29
+Moya, Austin         Eden HS, Eden                           -10    30
+
+TOP SCORERS
+------------------------------
+Contestant       School                Results               Points
+Hennig, William  Paint Rock HS         Top Scorer Biology    3
+Brown, Linden    Richland Springs H S  Alternate Biology     0
+Hennig, William  Paint Rock HS         Top Scorer Chemistry  3
+Duque, Michael   Lohn HS               Alternate Chemistry   0
+Hennig, William  Paint Rock HS         Top Scorer Physics    3
+Wolfe, Meagan    Rochelle HS           Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Paint Rock HS, Paint Rock               1     222    1      10      X      Region
+Cherokee HS, Cherokee                   1     68     2      5       X      Alternate
+Richland Springs H S, Richland Springs  1     68     3
+Eden HS, Eden                           1     54     4
+Lohn HS, Lohn                           1     54     4
+Rochelle HS, Rochelle                   1     46     6
+Menard HS, Menard                       1     42     7

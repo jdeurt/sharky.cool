@@ -1,0 +1,24 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                        Score  Place  Points  Medal  Advance
+Free, Madison      Leggett HS, Leggett           36     1      15      X      Region
+Flores, Selena     Goodrich H S, Goodrich        34     2      12      X      Region
+Machuca, Alexis    Goodrich H S, Goodrich        32     3      10      X      Region
+Machuca, Juan      Goodrich H S, Goodrich        26     4      8       X      Alternate
+Diosdado, Abraham  Leggett HS, Leggett           16     5      6       X
+Black, Alexandra   Leggett HS, Leggett           14     6      4       X
+Garzon, Cristian   Goodrich H S, Goodrich        14     7
+Hansen, Erika      Leggett HS, Leggett           8      8
+Rodriguez, Ethan   High Island H S, High Island  6      9
+Malinchalk, Milo   High Island H S, High Island  -4     10
+Chambers, Trey     High Island H S, High Island  -8     11
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Goodrich H S, Goodrich        1     92     1      10      X      Region
+Leggett HS, Leggett           1     66     2      5       X      Alternate
+High Island H S, High Island  1     -6     3
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Bickham, Joshua, Z.  Friendswood H S, Friendswood   149    1      15      X      Region
+Noorbakhsh, Cameron  Clear Creek HS, League City    133    2      11      X      Region
+Wu, Deanna           Clear Lake HS, Houston         133    3      11      X      Region
+Zhou, Dean           Clear Lake HS, Houston         132    4      8       X      Alternate
+Liu, Xiaohan         Clear Springs HS, League City  128    5      6       X
+Majmudar, Akhil      Clear Brook HS, Friendswood    119    6      4       X
+Wilson, Jeffery      Clear Brook HS, Friendswood    114    7
+Yang, Angel          Clear Lake HS, Houston         112    8
+Li, Edward           Clear Lake HS, Houston         106    9
+Tran, Phillip        Friendswood H S, Friendswood   83     10
+Chen, Yujiang        Friendswood H S, Friendswood   81     11
+Rytting, Nora M      Clear Springs HS, League City  81     11
+Gupta, Neelish       Friendswood H S, Friendswood   70     13
+Cailey, Richardson   Dickinson H S, Dickinson       65     14
+King, Kyle P         Clear Springs HS, League City  56     15
+Freeman, Baylee L    Clear Springs HS, League City  49     16
+Chen, Jennifer       Clear Brook HS, Friendswood    44     17
+Moody, Katie         Alvin HS, Alvin                27     18
+Jiang, Christine     Clear Brook HS, Friendswood    20     19
+Rodriguez, Amy       Dickinson H S, Dickinson       0      20
+Hairgrave, Koral     Dickinson H S, Dickinson       0      20
+Cox, Victoria        Alvin HS, Alvin                0      20
+French, Samuel       Alvin HS, Alvin                0      20
+Lindberg, Scott      Clear Creek HS, League City    0      20
+Rehan, Muhammed      Clear Creek HS, League City    0      20
+Astello, Ashley      Alvin HS, Alvin                -17    26
+Ware, Jade           Dickinson H S, Dickinson       -34    27
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Clear Lake HS, Houston         1     377    1      10      X      Region
+Friendswood H S, Friendswood   1     313    2      5       X      Alternate
+Clear Brook HS, Friendswood    1     277    3
+Clear Springs HS, League City  1     265    4
+Clear Creek HS, League City    1     133    5
+Dickinson H S, Dickinson       1     65     6
+Alvin HS, Alvin                1     27     7
+
+TEAM RESULTS
+------------------------------

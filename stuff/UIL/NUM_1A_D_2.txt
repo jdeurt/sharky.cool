@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Kuehler, Lauren    Groom HS, Groom            23     1      15      X      Region
+Ritter, Aubrey     Groom HS, Groom            18     2      12      X      Region
+Gay, Madisen P     Hedley H S, Hedley         17     3      10      X      Region
+Watson, Jacob      McLean H S, McLean         8      4      8       X      Alternate
+Chaney, Jaxon      White Deer HS, White Deer  6      5      5       X
+Lambert, Jayden G  Hedley H S, Hedley         6      5      5       X
+Cotton, Shaun      White Deer HS, White Deer  2      7
+Wells, Zach L      Hedley H S, Hedley         2      7
+Damron, Drake      White Deer HS, White Deer  0      9
+Ellis, Dylan       McLean H S, McLean         -10    10
+Hembree, Haylie    McLean H S, McLean         -11    11
+Hinton, Kasie N    Hedley H S, Hedley         -27    12
+Gollihugh, Austin  White Deer HS, White Deer  -31    13
+Johnson, Braxton   Groom HS, Groom            -37    14
+Holmes, Devin      McLean H S, McLean         -55    15
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Hedley H S, Hedley         1     25     1      10      X      Region
+White Deer HS, White Deer  1     8      2      5       X      Alternate
+Groom HS, Groom            1     4      3
+McLean H S, McLean         1     -13    4
+
+TEAM RESULTS
+------------------------------

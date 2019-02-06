@@ -1,0 +1,61 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Syzdek, Samuel       Apple Springs HS, Apple Springs  92     1      13.50   X      State
+Williams, Michael    Knippa H S, Knippa               92     1      13.50   X      State
+Ramirez, Rebekah     Knippa H S, Knippa               72     3      10      X      State
+Dong, Jessica        Knippa H S, Knippa               65     4      8       X      Alternate
+Drabek, Garrett      Moulton HS, Moulton              57     5      6       X
+Cox, Ryan            Knippa H S, Knippa               53     6      2       X
+Rothe, Reed          D'Hanis H S, D'Hanis             53     6      2       X
+Higgins, Peyton      D'Hanis H S, D'Hanis             49     8
+Gunn, Anthony        Gholson HS, Waco                 43     9
+Lueamsai, Belle      Apple Springs HS, Apple Springs  39     10
+Selby, Amanda        McMullen County HS, Tilden       39     10
+Langston, Caden      Slocum H S, Elkhart              36     12
+Baird, Cody          Apple Springs HS, Apple Springs  36     12
+Machuca, Alexis      Goodrich H S, Goodrich           36     12
+Kram, Braden         Moulton HS, Moulton              34     15
+Bartos, Noah         Moulton HS, Moulton              31     16
+Goehring, Ryker      Round Top-Carmine H S, Carmine   30     17
+Acker, Brett         McMullen County HS, Tilden       25     18
+Neal, Travis         Slocum H S, Elkhart              23     19
+Schultz, Brayden     Oglesby H S, Oglesby             22     20
+Charo, Trista        Aquilla HS, Aquilla              22     20
+Staytham, Brayden    Slocum H S, Elkhart              22     20
+Freytag, Trevor      Moulton HS, Moulton              22     20
+Beard, Thomas        D'Hanis H S, D'Hanis             21     24
+Urbanovsky, Matthew  Abbott HS, Abbott                18     25
+Zamzow, Kara         Abbott HS, Abbott                17     26
+Miller, Cristian     Oakwood H S, Oakwood             16     27
+Aycock, JayVan       Apple Springs HS, Apple Springs  15     28
+Atkinson, Erin       McMullen County HS, Tilden       14     29
+Powell, Wyatt T      Jonesboro H S, Jonesboro         13     30
+Bailey, Reece        Abbott HS, Abbott                13     30
+Machuca, Juan        Goodrich H S, Goodrich           13     30
+Sauers, Delaney      Avalon HS, Avalon                12     33
+Brown, Dustin T      Jonesboro H S, Jonesboro         6      34
+Casas, Marc          McMullen County HS, Tilden       4      35
+Guess, Randy         Slocum H S, Elkhart              3      36
+Ortiz, Karina        Goodrich H S, Goodrich           0      37
+Sanders, Kaleb D     Jonesboro H S, Jonesboro         -4     38
+Schulz, Daylan       Abbott HS, Abbott                -4     38
+Flores, Selena       Goodrich H S, Goodrich           -4     38
+Tailor, Hailee       D'Hanis H S, D'Hanis             -5     41
+Sanders, Keith O     Jonesboro H S, Jonesboro         -11    42
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Knippa H S, Knippa               1     229    1      10      X      State
+Apple Springs HS, Apple Springs  1     167    2      5       X      Alternate
+D'Hanis H S, D'Hanis             1     123    3
+Moulton HS, Moulton              1     122    4
+Slocum H S, Elkhart              1     81     5
+McMullen County HS, Tilden       1     78     6
+Goodrich H S, Goodrich           1     49     7
+Abbott HS, Abbott                1     48     8
+Jonesboro H S, Jonesboro         1     15     9
+
+TEAM RESULTS
+------------------------------

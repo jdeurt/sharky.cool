@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                          Score  Place  Points  Medal  Advance
+Gall, Weston         Jarrell H S, Jarrell            213    1      15      X      State
+Sanchez, Jose        Buffalo HS, Buffalo             120    2      12      X      State
+Haller, Mandi N      New Waverly H S, New Waverly    113    3      10      X      State
+Chambers, Bailee D   New Waverly H S, New Waverly    109    4      8       X      Alternate
+Young, Baylor        Central HS, Pollok              105    5      6       X
+Booker, Lance        Whitney HS, Whitney             93     6      4       X
+Uptmor, Natalie      Buffalo HS, Buffalo             83     7
+Lehnhardt, Michael   Grandview H S, Grandview        82     8
+Linebrink, Chris     McGregor H S, McGregor          78     9
+Edney, Cade S        New Waverly H S, New Waverly    76     10
+Whitley, Reagan      East Bernard H S, East Bernard  76     10
+Lee, Cole            East Bernard H S, East Bernard  66     12
+Terrell, Jacob       Elkhart H S, Elkhart            64     13
+Berg, Seth           Academy HS, Little River        62     14
+Slowtalker, Marques  New Waverly H S, New Waverly    60     15
+Boehm, Cort          McGregor H S, McGregor          56     16
+Chase, Bailey        Buffalo HS, Buffalo             51     17
+Doyle, Cody          Central HS, Pollok              51     17
+Bradley, Brian       Elkhart H S, Elkhart            46     19
+Lake, Kyle           Anahuac HS, Anahuac             45     20
+Hanna, Brody         Mildred H S, Corsicana          40     21
+Camacho, Jorge       McGregor H S, McGregor          39     22
+Ly, Tracey           Anahuac HS, Anahuac             38     23
+Rider, Colton        Elkhart H S, Elkhart            38     23
+Patterson, Noah      Grandview H S, Grandview        37     25
+Guerrero, Emmanuel   Central HS, Pollok              31     26
+Barton, Chandler     Yoe HS, Cameron                 31     26
+Boyd, Austin         Grandview H S, Grandview        30     28
+McAdams, Robert      Corrigan-Camden H S, Corrigan   30     28
+Golleher, Scott      Anahuac HS, Anahuac             30     28
+Daniel, Bekah        East Chambers H S, Winnie       29     31
+Randall, Zachary     Central HS, Pollok              20     32
+Orozco, William      Anahuac HS, Anahuac             20     32
+Bolgiano, Jake       Grandview H S, Grandview        17     34
+Stephens, Walker     Jarrell H S, Jarrell            13     35
+Kammlah, Connor      Jarrell H S, Jarrell            13     35
+Danson, Jasmine      Jarrell H S, Jarrell            11     37
+Dominguez, Sonia     Buffalo HS, Buffalo             6      38
+Arnold, Sophie       McGregor H S, McGregor          6      38
+Gonzalez, Juan       Brazos HS, Wallis               5      40
+Lopez, Alexander     East Bernard H S, East Bernard  2      41
+Matthys, Cana        East Bernard H S, East Bernard  -22    42
+Sparkman, Tucker     Elkhart H S, Elkhart            -43    43
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+New Waverly H S, New Waverly    1     298    1      10      X      State
+Buffalo HS, Buffalo             1     254    2      5       X      Alternate
+Jarrell H S, Jarrell            1     239    3
+Central HS, Pollok              1     187    4
+McGregor H S, McGregor          1     173    5
+Grandview H S, Grandview        1     149    6
+Elkhart H S, Elkhart            1     148    7
+East Bernard H S, East Bernard  1     144    8
+Anahuac HS, Anahuac             1     113    9
+
+TEAM RESULTS
+------------------------------

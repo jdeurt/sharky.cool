@@ -1,0 +1,24 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                 Score  Place  Points  Medal  Advance
+Franks, Eric       Elkhart H S, Elkhart   128    1      15      X      Region
+Terrell, Jacob     Elkhart H S, Elkhart   126    2      12      X      Region
+Andrews, William   Elkhart H S, Elkhart   44     3      10      X      Region
+Rider, Colton      Elkhart H S, Elkhart   36     4      8       X      Alternate
+Chase, Bailey      Buffalo HS, Buffalo    26     5      6       X
+Uptmor, Natalie    Buffalo HS, Buffalo    18     6      4       X
+Prevost, Austin    Malakoff HS, Malakoff  14     7
+Davis, Dalton      Malakoff HS, Malakoff  4      8
+Tran, Brandon      Malakoff HS, Malakoff  2      9
+Daniel, Andrea     Buffalo HS, Buffalo    2      9
+Pokryska, Jeffrey  Buffalo HS, Buffalo    -12    11
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Elkhart H S, Elkhart   1     593    1      20      X      Region
+Buffalo HS, Buffalo    1     101    2      16      X      Alternate
+Malakoff HS, Malakoff  1     20     3      12      X
+
+TEAM RESULTS
+------------------------------

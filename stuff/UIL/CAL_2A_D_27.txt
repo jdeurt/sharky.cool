@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                  Score  Place  Points  Medal  Advance
+Wooten, Nick         Harper H S, Harper      148    1      15      X      Region
+Ramon, Marina        Mason HS, Mason         138    2      12      X      Region
+Chesters, Ethan      Harper H S, Harper      128    3      10      X      Region
+Fluhmann, Josh       Mason HS, Mason         125    4      8       X      Alternate
+Mader, Luke          Harper H S, Harper      117    5      6       X
+Palmer, Kendra       Harper H S, Harper      114    6      4       X
+Anderson, Sydney     Mason HS, Mason         108    7
+Meador, Abigail      San Saba HS, San Saba   101    8
+Davis, Mecina        Junction H S, Junction  89     9
+Martinez, Shyann     San Saba HS, San Saba   82     10
+Hooper, Leah         San Saba HS, San Saba   81     11
+Patel, Domini        Junction H S, Junction  72     12
+Palacio, Raegan      Mason HS, Mason         65     13
+Herbst, Brady        Junction H S, Junction  47     14
+Ortega, Michael      San Saba HS, San Saba   43     15
+Van Winkle, Michael  Junction H S, Junction  -27    16
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Harper H S, Harper      1     393    1      10      X      Region
+Mason HS, Mason         1     371    2      5       X      Alternate
+San Saba HS, San Saba   1     264    3
+Junction H S, Junction  1     208    4
+
+TEAM RESULTS
+------------------------------

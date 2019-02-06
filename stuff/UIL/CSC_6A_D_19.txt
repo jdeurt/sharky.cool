@@ -1,0 +1,43 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                    Score  Place  Points  Medal  Advance
+Rydahl, Thor         Seven Lakes H S, Katy     232    1      15      X      Region
+Cortes, Santiago     Taylor HS, Katy           224    2      12      X      Region
+Koka, Shanth         Seven Lakes H S, Katy     216    3      9       X      Region
+Venkat, Naveen       Seven Lakes H S, Katy     216    3      9       X      Region
+Li, Andrew           Tompkins HS, Katy         208    5      6       X      Alternate
+Zhang, Jimmy         Cinco Ranch HS, Katy      206    6      4       X
+Hill, Morgan         Seven Lakes H S, Katy     200    7
+Athaide, Edward      Strake Jesuit, Houston    192    8
+Wang, Jed            Taylor HS, Katy           190    9
+Doggett, Cameron     Taylor HS, Katy           178    10
+Zhao, Will           Taylor HS, Katy           176    11
+Nguyen, Matthew      Tompkins HS, Katy         164    12
+Zeller, Christopher  Tompkins HS, Katy         162    13
+Saxena, Anmol        Cinco Ranch HS, Katy      156    14
+Vu, Andrew           Strake Jesuit, Houston    142    15
+Bhonsley, Adithya    Cinco Ranch HS, Katy      136    16
+Xue, Yutai           Cinco Ranch HS, Katy      134    17
+Chen, Victor         Strake Jesuit, Houston    126    18
+Raparti, Prasanna    Tompkins HS, Katy         106    19
+O'Connell, Dennis    Strake Jesuit, Houston    100    20
+Okwo, Arum           Morton Ranch HS, Katy     96     21
+Amiji, Husein        Mayde Creek H S, Houston  58     22
+Bostick, Nina        Morton Ranch HS, Katy     54     23
+Shankar, Adi         Mayde Creek H S, Houston  48     24
+Ghulam, Owais        Mayde Creek H S, Houston  24     25
+Guiterrez, Hailey    Morton Ranch HS, Katy     8      26
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Seven Lakes H S, Katy     1     1324   1      20      X      Region
+Taylor HS, Katy           1     1287   2      16      X      Alternate
+Tompkins HS, Katy         1     1169   3      12      X
+Cinco Ranch HS, Katy      1     1038   4
+Strake Jesuit, Houston    1     820    5
+Morton Ranch HS, Katy     1     383    6
+Mayde Creek H S, Houston  1     365    7
+
+TEAM RESULTS
+------------------------------

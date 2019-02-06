@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                              Score  Place  Points  Medal  Advance
+Limarta, Ian          Alexander HS, Laredo                245    1      15      X      Region
+Gonzalez, Alejandro   United HS, Laredo                   156    2      12      X      Region
+Gonzalez, Connor      Johnson (LBJ) HS, Laredo            155    3      10      X      Region
+Mejia, Alan           United HS, Laredo                   151    4      8       X      Alternate
+Gonzalez, Lorenzo     United HS, Laredo                   149    5      6       X
+Lara, Francisco       Alexander HS, Laredo                129    6      4       X
+Gamas, Frank          United HS, Laredo                   123    7
+Hipolito, Kristopher  Alexander HS, Laredo                121    8
+Castillo, Luis        Johnson (LBJ) HS, Laredo            103    9
+Guzman, Ashley        United South HS, Laredo             89     10
+Garcia, Yesenia       United South HS, Laredo             86     11
+Lozano, Adolfo        Eagle Pass H S, Eagle Pass          85     12
+Olvera, Edwin         Eagle Pass H S, Eagle Pass          82     13
+Cardenas, Hector      Alexander HS, Laredo                73     14
+Vasquez, Linda        Johnson (LBJ) HS, Laredo            73     14
+Huerta, Josue         United South HS, Laredo             64     16
+Engel, Zachary        Del Rio H S, Del Rio                63     17
+Barrientos, Alyssa    Eagle Pass H S, Eagle Pass          62     18
+Bermea, Valeria       Johnson (LBJ) HS, Laredo            62     18
+Gonzalez, Jaime       United South HS, Laredo             34     20
+Escalante, Amayrany   Eagle Pass H S, Eagle Pass          28     21
+Sustaita, Oscar       South San Antonio H S, San Antonio  -3     22
+Sanchez, Abraham      South San Antonio H S, San Antonio  -10    23
+Torres, Ashley        South San Antonio H S, San Antonio  -13    24
+Guevara, Ruby         South San Antonio H S, San Antonio  -52    25
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Alexander HS, Laredo                1     495    1      10      X      Region
+United HS, Laredo                   1     456    2      5       X      Alternate
+Johnson (LBJ) HS, Laredo            1     331    3
+United South HS, Laredo             1     239    4
+Eagle Pass H S, Eagle Pass          1     229    5
+South San Antonio H S, San Antonio  1     -26    6
+
+TEAM RESULTS
+------------------------------

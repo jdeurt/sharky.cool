@@ -1,0 +1,32 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                       Score  Place  Points  Medal  Advance
+Flores, Allen      San Isidro HS, San Isidro    48     1      15      X      Region
+Salazar, Victoria  La Villa HS, La Villa        46     2      11      X      Region
+Garcia, Marco A.   La Villa HS, La Villa        46     2      11      X      Region
+Uresti, Edgar      San Perlita HS, San Perlita  26     4      8       X      Alternate
+Hinojosa, Mathew   La Villa HS, La Villa        24     5      6       X
+Alvarado, Sofia    Lasara H S, Lasara           24     6      2       X
+Solis, Amy         San Isidro HS, San Isidro    24     6      2       X
+Muniz, Jovany      San Isidro HS, San Isidro    20     8
+Rangel, Diego      San Perlita HS, San Perlita  16     9
+Garcia, Perla      San Isidro HS, San Isidro    14     10
+Siordia, Maria A.  La Villa HS, La Villa        14     10
+Ozuna, Anahi       San Perlita HS, San Perlita  14     10
+Morales, A         Santa Maria HS, Santa Maria  12     13
+Aguilar, Marco     Lasara H S, Lasara           10     14
+Briones, Albert    Santa Maria HS, Santa Maria  4      15
+Rios, Jackie       Lasara H S, Lasara           4      15
+Hinojosa, Eduardo  Santa Maria HS, Santa Maria  -12    17
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+La Villa HS, La Villa        1     116    1      10      X      Region
+San Isidro HS, San Isidro    1     92     2      5       X      Alternate
+San Perlita HS, San Perlita  1     56     3
+Lasara H S, Lasara           1     38     4
+Santa Maria HS, Santa Maria  1     4      5
+
+TEAM RESULTS
+------------------------------

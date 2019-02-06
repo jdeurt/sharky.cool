@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Wells, Cody          Rosebud-Lott H S, Rosebud           142    1      15      X      Region
+Saldivar, Andrew     Rosebud-Lott H S, Rosebud           113    2      12      X      Region
+Salazar, Jazmine     Crawford H S, Crawford              92     3      10      X      Region
+Beverly, Ilamae L    Valley Mills HS, Valley Mills       81     4      8       X      Alternate
+Herwald, Adam        Rosebud-Lott H S, Rosebud           68     5      6       X
+Williams, Anne       Crawford H S, Crawford              62     6      4       X
+Lara, Sebastian      Harmony School of Innov-Waco, Waco  60     7
+Moya, Luis R         Valley Mills HS, Valley Mills       56     8
+Plemons, Colby       Crawford H S, Crawford              50     9
+Seamanski, Sarah G   Valley Mills HS, Valley Mills       44     10
+Smith, Eliana A      Valley Mills HS, Valley Mills       34     11
+Rodriguez, Gracie    Rosebud-Lott H S, Rosebud           28     12
+Krienke, Josh        Bosqueville HS, Waco                6      13
+Castenada, Sabrina   Bosqueville HS, Waco                4      14
+Westerfeld, Taylor   Crawford H S, Crawford              -5     15
+Allen, Baylee        Moody HS, Moody                     -26    16
+Tabors, Samantha     Moody HS, Moody                     -43    17
+Maldonado, Daisy     Harmony School of Innov-Waco, Waco  -48    18
+Smith, Ian           Bosqueville HS, Waco                -51    19
+Caudillo, Rosalinda  Harmony School of Innov-Waco, Waco  -54    20
+Wade, Gracie         Harmony School of Innov-Waco, Waco  -74    21
+Nunn, Cade           Bosqueville HS, Waco                -78    22
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Rosebud-Lott H S, Rosebud           1     323    1      10      X      Region
+Crawford H S, Crawford              1     204    2      5       X      Alternate
+Valley Mills HS, Valley Mills       1     181    3
+Bosqueville HS, Waco                1     -41    4
+Harmony School of Innov-Waco, Waco  1     -42    5
+
+TEAM RESULTS
+------------------------------

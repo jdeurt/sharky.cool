@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Dehnert, Brady       Burkburnett HS, Burkburnett  184    1      15      X      Region
+Beasley, Brittany    Burkburnett HS, Burkburnett  158    2      12      X      Region
+Keeton, Timothy      Burkburnett HS, Burkburnett  132    3      10      X      Region
+Wang, Jacob          Hirschi H S, Wichita Falls   122    4      8       X      Alternate
+Goodman-Blue, Evan   Hirschi H S, Wichita Falls   116    5      6       X
+Alpers, Michael      Burkburnett HS, Burkburnett  102    6      4       X
+Agyepong, Kweku      Hirschi H S, Wichita Falls   98     7
+Carlson, Kiersten    Burkburnett HS, Burkburnett  92     8
+Nicolas, Alexis      Hirschi H S, Wichita Falls   90     9
+Jones, Joel          Graham H S, Graham           78     10
+Nzeh-Biko, Gordian   Hirschi H S, Wichita Falls   74     11
+Le, Anna             Iowa Park H S, Iowa Park     66     12
+Patel, Bhavin        Hirschi H S, Wichita Falls   64     13
+Ramirez, Jorge       Graham H S, Graham           62     14
+Hay, Micaelah        Graham H S, Graham           54     15
+Hernandez, Joe       Graham H S, Graham           42     16
+Allen, Michael       Vernon H S, Vernon           40     17
+Daniel, Caleb        Burkburnett HS, Burkburnett  30     18
+Green, Korbyn        Iowa Park H S, Iowa Park     26     19
+Castleberry, Truman  Vernon H S, Vernon           24     20
+Smith, Hailey        Iowa Park H S, Iowa Park     20     21
+Horn, Brek           Vernon H S, Vernon           20     21
+Choate, Lainey       Graham H S, Graham           16     23
+Bhakta, Rahal        Vernon H S, Vernon           12     24
+Olvera, Alicia       Graham H S, Graham           12     24
+Gilbert, Kenzie      Iowa Park H S, Iowa Park     6      26
+
+TOP SCORERS
+------------------------------
+Contestant          School          Results               Points
+Nicolas, Alexis     Hirschi H S     Top Scorer Biology    3
+Dehnert, Brady      Burkburnett HS  Alternate Biology     0
+Keeton, Timothy     Burkburnett HS  Top Scorer Chemistry  3
+Dehnert, Brady      Burkburnett HS  Alternate Chemistry   0
+Dehnert, Brady      Burkburnett HS  Top Scorer Physics    3
+Beasley, Brittany   Burkburnett HS  Alternate Physics     0
+Goodman-Blue, Evan  Hirschi H S     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Burkburnett HS, Burkburnett  1     474    1      10      X      Region
+Hirschi H S, Wichita Falls   1     336    2      5       X      Alternate
+Graham H S, Graham           1     194    3
+Iowa Park H S, Iowa Park     1     112    4
+Vernon H S, Vernon           1     84     5

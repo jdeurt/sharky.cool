@@ -1,0 +1,43 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                        Score  Place  Points  Medal  Advance
+Hopkins, Noah       Strawn H S, Strawn            76     1      15      X      Region
+Sandoval, Tyson     Gorman H S, Gorman            46     2      12      X      Region
+Schnarel, Karl      Lipan H S, Lipan              17     3      7       X      Region
+Heavyside, Hatcher  Lipan H S, Lipan              17     3      7       X      Region
+Padron, Trent       Gorman H S, Gorman            17     3      7       X      Region
+Lynch, Cody         Gorman H S, Gorman            17     3      7       X      Region
+Whiteley, Luke      Lingleville H S, Lingleville  8      7                     Alternate
+Coffman, Camron     Gordon H S, Gordon            7      8
+Aguilar, Jesus      Lingleville H S, Lingleville  0      9
+Sharp, Layton       Lipan H S, Lipan              -1     10
+Shockley, Bryce     Lipan H S, Lipan              -3     11
+Meredith, Alexaz    Moran H S, Moran              -3     11
+New, Khloe          Moran H S, Moran              -3     11
+Hawley, Dariann     Moran H S, Moran              -3     11
+Miller, Tyler       Moran H S, Moran              -4     15
+Ruiz, Ivan          Strawn H S, Strawn            -6     16
+Wyatt, Tyler        Gordon H S, Gordon            -10    17
+Mahan, Brandon      Gordon H S, Gordon            -10    17
+Martinez, Vanessa   Strawn H S, Strawn            -11    19
+Seymore, Ethan      Gordon H S, Gordon            -13    20
+Moreno, Carlos      Lingleville H S, Lingleville  -15    21
+Hicks, Jordyn       Lingleville H S, Lingleville  -19    22
+Tira, Shaffer       Huckabay HS, Stephenville     -19    22
+Sara, Muro          Huckabay HS, Stephenville     -27    24
+Wilfong, Austin     Huckabay HS, Stephenville     -40    25
+Shayla, Muro        Huckabay HS, Stephenville     -49    26
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Gorman H S, Gorman            1     80     1      10      X      Region
+Strawn H S, Strawn            1     59     2      5       X      Alternate
+Lipan H S, Lipan              1     33     3
+Lingleville H S, Lingleville  1     -7     4
+Moran H S, Moran              1     -9     5
+Gordon H S, Gordon            1     -13    6
+Huckabay HS, Stephenville     1     -86    7
+
+TEAM RESULTS
+------------------------------

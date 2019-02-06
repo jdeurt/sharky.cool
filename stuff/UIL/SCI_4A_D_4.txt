@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                            Score  Place  Points  Medal  Advance
+Buckner, Dustin      Andrews HS, Andrews               116    1      15      X      Region
+Barton, Jordan       Andrews HS, Andrews               94     2      12      X      Region
+Bell, Christian      Greenwood H S, Midland            72     3      10      X      Region
+Silvestre, Paloma    Fort Stockton H S, Fort Stockton  60     4      8       X      Alternate
+Sandoval, Ethan      Pecos H S, Pecos                  56     5      6       X
+Scott, Korbin        Andrews HS, Andrews               54     6      2       X
+Reyes, Ricardo       Greenwood H S, Midland            54     6      2       X
+Valenzuela, Jaylene  Greenwood H S, Midland            46     8
+Rodriguez, Rebecca   Fort Stockton H S, Fort Stockton  44     9
+Rodriguez, Adam      Pecos H S, Pecos                  44     9
+Savage, Ty           Fort Stockton H S, Fort Stockton  40     11
+Bernal, Raquelle     Fort Stockton H S, Fort Stockton  36     12
+Stallings, Leyla     Andrews HS, Andrews               36     12
+Stallings, Prudence  Andrews HS, Andrews               30     14
+Estorga, J'lynn      Pecos H S, Pecos                  24     15
+Jasso, Ashlee        Fort Stockton H S, Fort Stockton  22     16
+Fawcett, Brynli      Greenwood H S, Midland            20     17
+Salas, Miguel        Fort Stockton H S, Fort Stockton  14     18
+Cook, Carsten        Greenwood H S, Midland            14     18
+Ledesma, Daisey      Greenwood H S, Midland            10     20
+Tran, Jason          Monahans H S, Monahans            10     20
+Hickman, Jakob       Monahans H S, Monahans            6      22
+Wilson, Randall      Pecos H S, Pecos                  0      23
+Jackson, Jaityn      Andrews HS, Andrews               -2     24
+Porras, Javier       Monahans H S, Monahans            -2     24
+
+TOP SCORERS
+------------------------------
+Contestant           School             Results               Points
+Barton, Jordan       Andrews HS         Top Scorer Biology    3
+Buckner, Dustin      Andrews HS         Alternate Biology     0
+Buckner, Dustin      Andrews HS         Top Scorer Chemistry  3
+Barton, Jordan       Andrews HS         Alternate Chemistry   0
+Valenzuela, Jaylene  Greenwood H S      Alternate Chemistry   0
+Bell, Christian      Greenwood H S      Top Scorer Physics    3
+Silvestre, Paloma    Fort Stockton H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Andrews HS, Andrews               1     264    1      10      X      Region
+Greenwood H S, Midland            1     172    2      5       X      Alternate
+Fort Stockton H S, Fort Stockton  1     144    3
+Pecos H S, Pecos                  1     124    4
+Monahans H S, Monahans            1     14     5

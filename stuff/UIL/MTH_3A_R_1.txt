@@ -1,0 +1,65 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Lancaster, Matthew     City View HS, Wichita Falls  200    1      15      X      State
+Hoebelheinrich, Jacob  Jim Ned H S, Tuscola         196    2      12      X      State
+Waggoner, Logan        Paradise HS, Paradise        180    3      10      X      State
+McPherson, Halston     Brock HS, Brock              168    4      8       X      Alternate
+DeRay, Rayven          Coleman HS, Coleman          148    5      6       X
+Senne, Ethan           Jim Ned H S, Tuscola         140    6      4       X
+Johnson, Andrew        Tolar HS, Tolar              138    7
+Valle, Jacob           Brady HS, Brady              132    8
+Fleming, Zach          Wall HS, Wall                128    9
+Boleman, Sage          Brock HS, Brock              128    9
+Caddell, Dylan         Idalou H S, Idalou           126    11
+Chaloupka, Dakota      Jim Ned H S, Tuscola         126    11
+Finney, Jackson        Brock HS, Brock              114    13
+Spencer, Riley         Alpine HS, Alpine            102    14
+Walker, Travis         Grape Creek HS, San Angelo   96     15
+Pulliam, Stephen       Canadian HS, Canadian        88     16
+Nguyen, Hung           Kermit H S, Kermit           84     17
+Cook, Darby            Canadian HS, Canadian        82     18
+Robbins, Riley         Shallowater HS, Shallowater  78     19
+Deramus, John          Coleman HS, Coleman          78     19
+Cordell, Kaden         Sonora HS, Sonora            76     21
+Rauh, Lonna            River Road HS, Amarillo      74     22
+Kelso, Graham          Wall HS, Wall                74     22
+Faynan, Dawson         Clyde H S, Clyde             72     24
+Page, Nicholas         Jim Ned H S, Tuscola         68     25
+Tutter, Ashlynn        Brock HS, Brock              68     25
+Hodges, NIck           Tolar HS, Tolar              62     27
+Perez, Logan           Holliday H S, Holliday       58     28
+Brooks, Nick           Idalou H S, Idalou           54     29
+Nall, Jared            Coleman HS, Coleman          54     29
+Valles, Jayme          Alpine HS, Alpine            52     31
+Alexander, Abby        Wall HS, Wall                52     31
+Rice, Brandon          Alpine HS, Alpine            50     33
+Bonnell, Jack          Tolar HS, Tolar              50     33
+DeGuia, Rose           Alpine HS, Alpine            48     35
+Nader, Michael         City View HS, Wichita Falls  44     36
+Morphew, Derian        Tolar HS, Tolar              40     37
+Rose, Hannah           Coleman HS, Coleman          32     38
+Hoang, Tuan            City View HS, Wichita Falls  32     38
+Weise, Lara            Wall HS, Wall                26     40
+Moses, Kaden           Idalou H S, Idalou           24     41
+Dockray, Peyton        Canadian HS, Canadian        22     42
+Martinez, Dora         City View HS, Wichita Falls  16     43
+Hood, Melody           Canadian HS, Canadian        14     44
+Smith, Arianna         Idalou H S, Idalou           12     45
+Porras, Aaron          Dimmitt H S, Dimmitt         10     46
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Jim Ned H S, Tuscola         1     462    1      10      X      State
+Brock HS, Brock              1     410    2      5       X      Alternate
+Coleman HS, Coleman          1     280    3
+City View HS, Wichita Falls  1     276    4
+Wall HS, Wall                1     254    5
+Tolar HS, Tolar              1     250    6
+Alpine HS, Alpine            1     204    7
+Idalou H S, Idalou           1     204    8
+Canadian HS, Canadian        1     192    9
+
+TEAM RESULTS
+------------------------------

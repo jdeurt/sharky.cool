@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                  Score  Place  Points  Medal  Advance
+Brown, Linden      Richland Springs H S, Richland Springs  100    1      15      X      Region
+Schultz, Ben       Richland Springs H S, Richland Springs  58     2      12      X      Region
+Harding, Kohlton   Cherokee HS, Cherokee                   46     3      10      X      Region
+Burkhart, Jordan   Richland Springs H S, Richland Springs  44     4      7       X      Alternate
+Watkins, Ryan      Eden HS, Eden                           44     4      7       X      Alternate
+Hennig, William    Paint Rock HS, Paint Rock               42     6      2       X
+Hemphill, Kristen  Lohn HS, Lohn                           42     6      2       X
+Paik, Crista       Cherokee HS, Cherokee                   38     8
+Wolfe, Megan       Rochelle HS, Rochelle                   32     9
+Stone, Austin      Paint Rock HS, Paint Rock               28     10
+Hernandez, Nathan  Eden HS, Eden                           24     11
+Cole, Cache        Eden HS, Eden                           20     12
+Barron, Christian  Rochelle HS, Rochelle                   20     12
+Castorena, Claire  Menard HS, Menard                       18     14
+Bond, Raegan       Cherokee HS, Cherokee                   18     14
+Thomas, Aaricka    Eden HS, Eden                           16     16
+Williams, Alyxis   Lohn HS, Lohn                           12     17
+Hall, Jc           Rochelle HS, Rochelle                   12     17
+Strickland, Cody   Paint Rock HS, Paint Rock               10     19
+Calie, Taliaferro  Rochelle HS, Rochelle                   10     19
+Gossett, Jacey     Richland Springs H S, Richland Springs  4      21
+Medrano, Emmanuel  Cherokee HS, Cherokee                   -2     22
+Rayburn, Joshua    Menard HS, Menard                       -6     23
+Collier, Karson    Lohn HS, Lohn                           -8     24
+Torres, Octavia    Lohn HS, Lohn                           -28    25
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Richland Springs H S, Richland Springs  1     202    1      10      X      Region
+Cherokee HS, Cherokee                   1     102    2      5       X      Alternate
+Eden HS, Eden                           1     88     3
+Paint Rock HS, Paint Rock               1     80     4
+Rochelle HS, Rochelle                   1     64     5
+Lohn HS, Lohn                           1     46     6
+
+TEAM RESULTS
+------------------------------

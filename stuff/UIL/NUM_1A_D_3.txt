@@ -1,0 +1,27 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                 Score  Place  Points  Medal  Advance
+Weber, Aidan        Hartley H S, Hartley   155    1      15      X      Region
+Mize, Melissa       Hartley H S, Hartley   143    2      12      X      Region
+Soto, Elva          Hartley H S, Hartley   127    3      10      X      Region
+Perianez, Omar      Hartley H S, Hartley   124    4      8       X      Alternate
+Davis, Jackson      Happy HS, Happy        59     5      6       X
+McCarley, Colton    Happy HS, Happy        50     6      4       X
+Middleton, Cy       Happy HS, Happy        49     7
+Murray, Gavin       Channing HS, Channing  6      8
+Johnson, Teagen     Happy HS, Happy        -14    9
+Birdsong, Garrett   Channing HS, Channing  -17    10
+Montes, Samuel      Texline HS, Texline    -36    11
+Riley, Zoey G.      Texline HS, Texline    -43    12
+Martinez, Serentiy  Texline HS, Texline    -77    13
+Luther, Colton C.   Texline HS, Texline    -78    14
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Hartley H S, Hartley  1     425    1      10      X      Region
+Happy HS, Happy       1     158    2      5       X      Alternate
+Texline HS, Texline   1     -156   3
+
+TEAM RESULTS
+------------------------------

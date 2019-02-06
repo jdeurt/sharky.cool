@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Rosenblad, Caleb   Rotan HS, Rotan          60     1      15      X      Region
+Sotelo, Ian        Rule HS, Rule            44     2      12      X      Region
+Lewis, M'Kayla     Trent HS, Trent          32     3      10      X      Region
+Bell, Koy          Rotan HS, Rotan          24     4      8       X      Alternate
+Rojas, Miguel      Aspermont HS, Aspermont  22     5      6       X
+Raines, Katelynn   Trent HS, Trent          20     6      2       X
+Van Poppel, Cole   Rotan HS, Rotan          20     6      2       X
+Lieb, Ethan        Lueders-Avoca HS, Avoca  18     8
+Fraser, Gracie     Aspermont HS, Aspermont  14     9
+Thompson, Chase    Rule HS, Rule            14     9
+Swink, Slade       Aspermont HS, Aspermont  12     11
+Hammond, Clara     Lueders-Avoca HS, Avoca  12     11
+Moorefield, Jacob  Lueders-Avoca HS, Avoca  6      13
+Anderle, Raychel   Rotan HS, Rotan          6      13
+Koenig, Mattie     Aspermont HS, Aspermont  -4     15
+Fritzler, Delbert  Rule HS, Rule            -4     15
+Rojas, Thomas      Aspermont HS, Aspermont  -6     17
+Carter, Luke       Aspermont HS, Aspermont  -30    18
+
+TOP SCORERS
+------------------------------
+Contestant        School    Results               Points
+Rosenblad, Caleb  Rotan HS  Top Scorer Biology    3
+Sotelo, Ian       Rule HS   Alternate Biology     0
+Rosenblad, Caleb  Rotan HS  Top Scorer Chemistry  3
+Bell, Koy         Rotan HS  Alternate Chemistry   0
+Van Poppel, Cole  Rotan HS  Top Scorer Physics    3
+Raines, Katelynn  Trent HS  Alternate Physics     0
+Rosenblad, Caleb  Rotan HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Rotan HS, Rotan            1     104    1      10      X      Region
+Rule HS, Rule              1     54     2      5       X      Alternate
+Aspermont HS, Aspermont    1     48     3
+Lueders-Avoca HS, Lueders  1     36     4

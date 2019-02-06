@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                   Score  Place  Points  Medal  Advance
+Kolenbrander, Josh   Cedar Park HS, Cedar Park                194    1      15      X      Region
+Gearhart, Robert     Cedar Park HS, Cedar Park                158    2      12      X      Region
+Lily, Elizey         Bastrop HS, Bastrop                      140    3      10      X      Region
+Dinh, Thinh          Rouse HS, Leander                        112    4      8       X      Alternate
+Lavalley, Dylan      Rouse HS, Leander                        102    5      6       X
+Koite, Nathaniel     East View HS, Georgetown                 100    6      4       X
+Stein, Hannah        Cedar Park HS, Cedar Park                100    7
+Simpson, David       Rouse HS, Leander                        96     8
+Dittmar, Chad        Rouse HS, Leander                        92     9
+Saravanan, Rithvik   Cedar Park HS, Cedar Park                80     10
+Aimee, Robertson     Bastrop HS, Bastrop                      76     11
+Perkins, Jebron      East View HS, Georgetown                 72     12
+Avery, Koi           Bastrop HS, Bastrop                      60     13
+Bulding, Travis      Hutto H S, Hutto                         54     14
+Martinez, Mackenzie  Cedar Park HS, Cedar Park                46     15
+Chanaa, Rawan        Hutto H S, Hutto                         40     16
+Etheredge, William   Colorado River Collegiate Acad, Bastrop  32     17
+Lewey, Emily         Cedar Creek H S, Cedar Creek             30     18
+Morales, Noe         East View HS, Georgetown                 2      19
+Pham, Austin         Rouse HS, Leander                        0      20
+Brown, Keaton        Rouse HS, Leander                        0      20
+Ou, Joshua           Cedar Park HS, Cedar Park                0      20
+Spiller, Reagan      East View HS, Georgetown                 0      20
+Deleeuw, Rebekah     Hutto H S, Hutto                         0      20
+Kadura, Luke         Cedar Creek H S, Cedar Creek             -8     25
+Riggan, Matthew      Hutto H S, Hutto                         -30    26
+
+TOP SCORERS
+------------------------------
+Contestant          School         Results               Points
+Lily, Elizey        Bastrop HS     Top Scorer Biology    3
+Gearhart, Robert    Cedar Park HS  Alternate Biology     0
+Kolenbrander, Josh  Cedar Park HS  Top Scorer Chemistry  3
+Dinh, Thinh         Rouse HS       Alternate Chemistry   0
+Simpson, David      Rouse HS       Top Scorer Physics    3
+Kolenbrander, Josh  Cedar Park HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Cedar Park HS, Cedar Park  1     452    1      10      X      Region
+Rouse HS, Leander          1     310    2      5       X      Alternate
+Bastrop HS, Bastrop        1     276    3
+East View HS, Georgetown   1     174    4
+Hutto H S, Hutto           1     94     5

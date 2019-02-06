@@ -1,0 +1,50 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+Lynn, Preston         Knox City HS, Knox City      56     1      15      X      Region
+Trajkovski, Kristina  Knox City HS, Knox City      48     2      12      X      Region
+Ha, Jake              Chillicothe HS, Chillicothe  42     3      10      X      Region
+Lewis, Carson         Knox City HS, Knox City      36     4      8       X      Alternate
+Barrientez, Caleb     Benjamin HS, Benjamin        28     5      6       X
+Ledesma, Dustin       Knox City HS, Knox City      26     6      4       X
+McWilliams, Andi      Harrold HS, Harrold          24     7
+Hawkins, Brady        Knox City HS, Knox City      24     7
+Sawin, Lindsey        Northside HS, Vernon         22     9
+Reinisch, Morgon      Northside HS, Vernon         22     9
+Jackson, Miranda      Chillicothe HS, Chillicothe  20     11
+Hacker, Shawn         Knox City HS, Knox City      16     12
+Brooks, Chloe         Northside HS, Vernon         16     12
+Suau, Marina          Benjamin HS, Benjamin        16     12
+Donham, Hope          Benjamin HS, Benjamin        14     15
+Espinal, J.C.         Benjamin HS, Benjamin        14     15
+Flores, Maddox        Chillicothe HS, Chillicothe  12     17
+Lozano, Corey         Northside HS, Vernon         10     18
+Kuehne, Dylan         Benjamin HS, Benjamin        10     18
+Sawin, Bryant         Northside HS, Vernon         4      20
+Patterson, Gabby      Harrold HS, Harrold          -2     21
+McKnight, Benjamin    Crowell HS, Crowell          -2     21
+Holbert, Faith        Crowell HS, Crowell          -4     23
+Matute, Alexis        Harrold HS, Harrold          -6     24
+Nunez, Aracely        Crowell HS, Crowell          -8     25
+McIlroy, Samuel       Northside HS, Vernon         -48    26
+Ortega, David         Chillicothe HS, Chillicothe  -56    27
+
+TOP SCORERS
+------------------------------
+Contestant     School          Results               Points
+Lynn, Preston  Knox City HS    Top Scorer Biology    3
+Ha, Jake       Chillicothe HS  Alternate Biology     0
+Brooks, Chloe  Northside HS    Top Scorer Chemistry  3
+Lynn, Preston  Knox City HS    Alternate Chemistry   0
+Brooks, Chloe  Northside HS    Top Scorer Physics    3
+Suau, Marina   Benjamin HS     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Knox City HS, Knox City      1     140    1      10      X      Region
+Chillicothe HS, Chillicothe  1     74     2      5       X      Alternate
+Northside HS, Vernon         1     60     3
+Benjamin HS, Benjamin        1     58     4
+Harrold HS, Harrold          1     16     5
+Crowell HS, Crowell          1     -14    6

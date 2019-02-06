@@ -1,0 +1,51 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                   Score  Place  Points  Medal  Advance
+Kolenbrander, Josh     Cedar Park HS, Cedar Park                346    1      15      X      Region
+Simpson, David         Rouse HS, Leander                        186    2      12      X      Region
+Lee, Erin              Cedar Park HS, Cedar Park                170    3      10      X      Region
+Saravanan, Rithvik     Cedar Park HS, Cedar Park                166    4      8       X      Alternate
+Peavey, Melanie        Cedar Creek H S, Cedar Creek             148    5      6       X
+Si, Jack               Cedar Park HS, Cedar Park                132    6      4       X
+Bommakanti, Sriram     Rouse HS, Leander                        126    7
+Bommankanti, Harish    Rouse HS, Leander                        116    8
+Dinh, Thinh            Rouse HS, Leander                        110    9
+Wassilchalk, Adam      Hutto H S, Hutto                         108    10
+Jones, Claire          Cedar Creek H S, Cedar Creek             102    11
+Sharpe, Josh           Bastrop HS, Bastrop                      94     12
+Hollister, Trevor      Hutto H S, Hutto                         94     12
+Koite, Nathaniel       East View HS, Georgetown                 90     14
+Oliver, Evan           Georgetown HS, Georgetown                76     15
+Etherington, Stephen   Bastrop HS, Bastrop                      74     16
+Birk, Simon            Connally HS, Austin                      74     16
+Flachs, Elise          Georgetown HS, Georgetown                72     18
+Etheredge, William     Colorado River Collegiate Acad, Bastrop  60     19
+Striedel, Reagann      Georgetown HS, Georgetown                56     20
+Boultinghouse, Marina  Georgetown HS, Georgetown                50     21
+Bulding, Travis        Hutto H S, Hutto                         50     21
+Kadura, Luke           Cedar Creek H S, Cedar Creek             44     23
+Perkins, Jebron        East View HS, Georgetown                 36     24
+Chanaa, Rawan          Hutto H S, Hutto                         34     25
+Martinez, Jason        Connally HS, Austin                      30     26
+Morales, Noe           East View HS, Georgetown                 22     27
+Mauro, Jacob           Colorado River Collegiate Acad, Bastrop  20     28
+Carreon, Aaron         Colorado River Collegiate Acad, Bastrop  14     29
+Roper, Nikolas         Colorado River Collegiate Acad, Bastrop  12     30
+Thompson, Treston      Bastrop HS, Bastrop                      10     31
+Zane, Isabella         East View HS, Georgetown                 0      32
+Corley, Krimson        Bastrop HS, Bastrop                      -8     33
+
+TOP SCORERS
+------------------------------
+School                                   Team  Score  Place  Points  Medal  Advance
+Cedar Park HS, Cedar Park                1     682    1      10      X      Region
+Rouse HS, Leander                        1     428    2      5       X      Alternate
+Cedar Creek H S, Cedar Creek             1     294    3
+Hutto H S, Hutto                         1     252    4
+Georgetown HS, Georgetown                1     204    5
+Bastrop HS, Bastrop                      1     178    6
+East View HS, Georgetown                 1     148    7
+Colorado River Collegiate Acad, Bastrop  1     94     8
+
+TEAM RESULTS
+------------------------------

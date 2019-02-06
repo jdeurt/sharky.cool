@@ -1,0 +1,19 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School             Score  Place  Points  Medal  Advance
+Ramirez, Dylan   Weimar HS, Weimar  18     1      15      X      Region
+Gomulka, Lauren  Shiner HS, Shiner  4      2      11      X      Region
+Heiman, Garrett  Shiner HS, Shiner  4      2      11      X      Region
+Bevis, Shane     Shiner HS, Shiner  2      4      8       X      Alternate
+Hasse, Emily     Weimar HS, Weimar  0      5      6       X
+Arvizu, Erik     Weimar HS, Weimar  -2     6      4       X
+Cruz, Hector     Shiner HS, Shiner  -8     7
+
+TOP SCORERS
+------------------------------
+School             Team  Score  Place  Points  Medal  Advance
+Weimar HS, Weimar  1     16     1      20      X      Region
+Shiner HS, Shiner  1     10     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

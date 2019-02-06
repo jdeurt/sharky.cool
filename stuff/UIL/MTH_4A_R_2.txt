@@ -1,0 +1,65 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Mohar, Nicholas      Argyle HS, Argyle                   320    1      15      X      State
+Gahlawat, Kunal      Argyle HS, Argyle                   266    2      12      X      State
+Darnell, Matthew     Argyle HS, Argyle                   260    3      10      X      State
+Ma, Austin           Lebanon Trail HS, Frisco            250    4      8       X      Alternate
+Mock, Jonathan P     Tatum HS, Tatum                     236    5      6       X
+White, Conner        Bullard HS, Bullard                 230    6      4       X
+Nagabhirava, Rohan   Lebanon Trail HS, Frisco            222    7
+Hennes, Andrew       Argyle HS, Argyle                   194    8
+Medley, Ethan        Bullard HS, Bullard                 194    8
+Gupta, Shivam        Lebanon Trail HS, Frisco            160    10
+Nicks, Riley         Canton HS, Canton                   152    11
+Farmer, Jacan        Aubrey HS, Aubrey                   148    12
+Long, Ronald         Princeton HS, Princeton             138    13
+Keith, Spencer       Kaufman H S, Kaufman                126    14
+Barfoot, Zee         Atlanta HS, Atlanta                 120    15
+Khalilullah, Taha    Lebanon Trail HS, Frisco            118    16
+Dowell, Eleanor      Uplift North Hills Prep HS, Irving  116    17
+Rahrnan, sameen      Uplift North Hills Prep HS, Irving  110    18
+Ruiz, Eduardo        Kaufman H S, Kaufman                106    19
+Gipson, Cameron      Gilmer H S, Gilmer                  106    19
+Snyder, Samuel       Celina HS, Celina                   104    21
+Armstrong, Heather   North Lamar H S, Paris              100    22
+Du Preez, Daniel     Van HS, Van                         98     23
+Swanson, Robert      Van HS, Van                         98     23
+Zdrojeski, Kaitlyn   Celina HS, Celina                   94     25
+Suarez, Luis         Brownsboro HS, Brownsboro           92     26
+Cox, Josh            Kaufman H S, Kaufman                90     27
+Keller, Jacqueline   Celina HS, Celina                   90     27
+Ramesin, manasa      Uplift North Hills Prep HS, Irving  84     29
+Clark, Joshua        Center HS, Center                   82     30
+Rodriguez, Hannah    Princeton HS, Princeton             80     31
+Tousignant, Brandon  Kaufman H S, Kaufman                78     32
+Swanson, Timothy     Van HS, Van                         72     33
+McCoy, Megan         Bullard HS, Bullard                 72     33
+Clark, Lainey        Celina HS, Celina                   70     35
+Walters, Shelby      Carthage HS, Carthage               62     36
+Brems, Meghan        Bullard HS, Bullard                 56     37
+Chambers, Landon     Community HS, Nevada                54     38
+Carney, Cameron      Atlanta HS, Atlanta                 50     39
+Nash, Jacob          Atlanta HS, Atlanta                 50     39
+Simmons, Alyssa      Atlanta HS, Atlanta                 46     41
+Rainwater, Julian M  Tatum HS, Tatum                     38     42
+Geremonte, Eleanor   Van HS, Van                         32     43
+ganguly, samridhi    Uplift North Hills Prep HS, Irving  22     44
+Navarro, Natalya J   Tatum HS, Tatum                     10     45
+Fagan, Timothy       Tatum HS, Tatum                     0      46
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Argyle HS, Argyle                   1     846    1      10      X      State
+Lebanon Trail HS, Frisco            1     632    2      5       X      Alternate
+Bullard HS, Bullard                 1     496    3
+Kaufman H S, Kaufman                1     322    4
+Uplift North Hills Prep HS, Irving  1     310    5
+Celina HS, Celina                   1     288    6
+Tatum HS, Tatum                     1     284    7
+Van HS, Van                         1     268    8
+Atlanta HS, Atlanta                 1     220    9
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,76 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                    School                                Score  Place  Points  Medal  Advance
+Rodrigues, Darren             King HS, Corpus Christi               306    1      15      X      Region
+Trial, Hallie                 Flour Bluff H S, Corpus Christi       304    2      12      X      Region
+Fan, Christopher              King HS, Corpus Christi               278    3      10      X      Region
+Lerma, Jacob                  Flour Bluff H S, Corpus Christi       162    4      8       X      Alternate
+Nacci, William                King HS, Corpus Christi               142    5      6       X
+Beckwith, Kevin               Ray H S, Corpus Christi               128    6      4       X
+Reta, Gabriel                 Carroll HS, Corpus Christi            120    7
+Maheshwari, Akash             King HS, Corpus Christi               120    7
+Weddle, Lucas                 Ray H S, Corpus Christi               112    9
+Armena, Marc                  Ray H S, Corpus Christi               104    10
+Martinez, Benjamin            Veterans Memorial HS, Corpus Christi  104    10
+Baldree, McKenzie             Moody HS, Corpus Christi              90     12
+Hodge, Brandon                Gregory-Portland H S, Portland        88     13
+Jones, Juliet                 Ray H S, Corpus Christi               76     14
+Elizalde, Emerson             Flour Bluff H S, Corpus Christi       76     14
+Poncedeleon, Jessica          Moody HS, Corpus Christi              74     16
+Alanmanou, Aiden              King HS, Corpus Christi               72     17
+Kulkarni, Nikhil              Ray H S, Corpus Christi               70     18
+Cayce, Brandon                Veterans Memorial HS, Corpus Christi  68     19
+Lundgren, Evan                Veterans Memorial HS, Corpus Christi  68     19
+Ungerman, Livia               Flour Bluff H S, Corpus Christi       60     21
+Jeoung, Dongsub               Ray H S, Corpus Christi               58     22
+Cornejo, Pauline              Moody HS, Corpus Christi              56     23
+Malachite, Cain               Tuloso-Midway H S, Corpus Christi     52     24
+Biediger, Holden              Gregory-Portland H S, Portland        50     25
+Black, Nathan                 Flour Bluff H S, Corpus Christi       48     26
+Ramos, Michael                Moody HS, Corpus Christi              44     27
+Bervinkle, Sarah              Flour Bluff H S, Corpus Christi       44     27
+Newman, Ethan                 Calallen HS, Corpus Christi           36     29
+Odvina, Katelynn              Moody HS, Corpus Christi              34     30
+Cho, Matthew                  Veterans Memorial HS, Corpus Christi  32     31
+Loghan, Ryan                  Veterans Memorial HS, Corpus Christi  30     32
+Hasette, James                Carroll HS, Corpus Christi            30     32
+Hofstetter, Jake Dylan        Calallen HS, Corpus Christi           30     32
+Flower, Anastasia             Tuloso-Midway H S, Corpus Christi     24     35
+Al-Akash, Ibrahim             Veterans Memorial HS, Corpus Christi  22     36
+Mendoza, Denilson             Carroll HS, Corpus Christi            18     37
+Gatlin, Franchesca            Tuloso-Midway H S, Corpus Christi     14     38
+Halgarth, Ray                 Calallen HS, Corpus Christi           12     39
+Vance, Kiya                   Carroll HS, Corpus Christi            10     40
+Nigou, Julien                 Calallen HS, Corpus Christi           10     40
+Hayes, Raegan                 Calallen HS, Corpus Christi           8      42
+Mireles, Jr., Francisco X.    Gregory-Portland H S, Portland        6      43
+Gomez-Rangel, Julia Fernanda  Miller HS, Corpus Christi             0      44
+Colburn, Brian                Calallen HS, Corpus Christi           0      44
+Betsabe, Uria                 Miller HS, Corpus Christi             0      44
+Mix, Austin                   Gregory-Portland H S, Portland        -6     47
+Quintanilla, Megan            Tuloso-Midway H S, Corpus Christi     -6     47
+Cantu, Leslie                 Tuloso-Midway H S, Corpus Christi     -18    49
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+Trial, Hallie      Flour Bluff H S  Top Scorer Biology    3
+Rodrigues, Darren  King HS          Alternate Biology     0
+Trial, Hallie      Flour Bluff H S  Top Scorer Chemistry  3
+Rodrigues, Darren  King HS          Alternate Chemistry   0
+Fan, Christopher   King HS          Alternate Chemistry   0
+Rodrigues, Darren  King HS          Top Scorer Physics    3
+Fan, Christopher   King HS          Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+King HS, Corpus Christi               1     726    1      10      X      Region
+Flour Bluff H S, Corpus Christi       1     542    2      5       X      Alternate
+Ray H S, Corpus Christi               1     344    3
+Veterans Memorial HS, Corpus Christi  1     240    4
+Moody HS, Corpus Christi              1     220    5
+Carroll HS, Corpus Christi            1     168    6
+Gregory-Portland H S, Portland        1     144    7
+Tuloso-Midway H S, Corpus Christi     1     90     8
+Calallen HS, Corpus Christi           1     78     9

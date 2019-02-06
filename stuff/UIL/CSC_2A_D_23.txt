@@ -1,0 +1,21 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Hassell, James     Colmesneil HS, Colmesneil  62     1      15      X      Region
+Mabry, Julius      Colmesneil HS, Colmesneil  46     2      12      X      Region
+Smith, Gordon      Colmesneil HS, Colmesneil  32     3      10      X      Region
+Lynn, Ashley       West Sabine HS, Pineland   16     4      8       X      Alternate
+Saylor, Kat        Colmesneil HS, Colmesneil  14     5      6       X
+Thompson, Charles  West Sabine HS, Pineland   12     6      4       X
+Spring, Hunter     West Sabine HS, Pineland   6      7
+Gilbert, Isaac     Brookeland HS, Brookeland  0      8
+Landry, Jacob      West Sabine HS, Pineland   -2     9
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Colmesneil HS, Colmesneil  1     260    1      20      X      Region
+West Sabine HS, Pineland   1     94     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

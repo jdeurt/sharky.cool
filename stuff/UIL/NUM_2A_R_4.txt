@@ -1,0 +1,61 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                         Score  Place  Points  Medal  Advance
+Havens, Autumn        Woodsboro HS, Woodsboro        148    1      15      X      State
+Wooten, Nick          Harper H S, Harper             135    2      12      X      State
+Sisk, Hudson          Pettus HS, Pettus              122    3      10      X      State
+Rodriguez, Christal   Pettus HS, Pettus              118    4      8       X      Alternate
+Patel, Vinay          Woodsboro HS, Woodsboro        112    5      6       X
+Shimek, Jared         Shiner HS, Shiner              98     6      4       X
+Bruce, Gordon A       Brackett HS, Brackettville     97     7
+Mader, Luke           Harper H S, Harper             91     8
+Huskey, Neil          Pettus HS, Pettus              89     9
+Chrismon, Jacy        Shiner HS, Shiner              87     10
+Boedeker, Courtney    Shiner HS, Shiner              87     10
+Morrison, Sterling    Junction H S, Junction         83     12
+Burns, Coy            Woodsboro HS, Woodsboro        82     13
+Garcia, Brandon       Harper H S, Harper             75     14
+Bosl, Collin          Flatonia H S, Flatonia         74     15
+Flores, Allen         San Isidro HS, San Isidro      73     16
+Wenske, Taylor        Shiner HS, Shiner              69     17
+Rendon, Drew          Holland H S, Holland           64     18
+Richter, Riley        Thrall HS, Thrall              64     18
+Britton, Dakota       Brackett HS, Brackettville     49     20
+Salazar, Victoria A.  La Villa HS, La Villa          41     21
+Mallett, Hailey       Iola HS, Iola                  40     22
+Cole, Jessie          Thrall HS, Thrall              38     23
+Bouldin, Becky        Normangee HS, Normangee        34     24
+Sharber, Riley        Freer HS, Freer                31     25
+Palmer, Sam           Brackett HS, Brackettville     29     26
+Van Til, Alex         Thrall HS, Thrall              28     27
+Garcia, Marco A.      La Villa HS, La Villa          27     28
+Maldonado, Lorraine   Woodsboro HS, Woodsboro        24     29
+Kile, Kristen         Three Rivers HS, Three Rivers  23     30
+Conn, Brandon         Three Rivers HS, Three Rivers  22     31
+Rodriguez, Sammy      Brackett HS, Brackettville     22     31
+Barrett, Nathan       Normangee HS, Normangee        19     33
+Oblogin, Vadym        Harper H S, Harper             18     34
+Moya, Josh            Three Rivers HS, Three Rivers  13     35
+Vasquez, Aleah        Iola HS, Iola                  6      36
+Bradicich, Hannah     Iola HS, Iola                  4      37
+Stockton, Taylor      Three Rivers HS, Three Rivers  2      38
+Nail, Ryan            Pettus HS, Pettus              0      39
+Webb, Emmy            Iola HS, Iola                  -3     40
+Garcia, Perla         San Isidro HS, San Isidro      -6     41
+Estrada, Sergio       San Isidro HS, San Isidro      -7     42
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Woodsboro HS, Woodsboro        1     342    1      10      X      State
+Pettus HS, Pettus              1     329    2      5       X      Alternate
+Harper H S, Harper             1     301    3
+Shiner HS, Shiner              1     272    4
+Brackett HS, Brackettville     1     175    5
+Thrall HS, Thrall              1     130    6
+San Isidro HS, San Isidro      1     60     7
+Three Rivers HS, Three Rivers  1     58     8
+Iola HS, Iola                  1     50     9
+
+TEAM RESULTS
+------------------------------

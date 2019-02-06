@@ -1,0 +1,26 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                 Score  Place  Points  Medal  Advance
+Cranford, Preston  Wimberley HS, Wimberley                224    1      15      X      Region
+McLemore, Ben      Wimberley HS, Wimberley                108    2      12      X      Region
+Carter, Bryce      Navarro HS, Geronimo                   90     3      10      X      Region
+Latz, Drew         Wimberley HS, Wimberley                70     4      8       X      Alternate
+Henke, Heath       Gonzales HS, Gonzales                  63     5      6       X
+Price, Joshua      Wimberley HS, Wimberley                57     6      4       X
+Halthom, Lili      Navarro HS, Geronimo                   5      7
+Reyna, Vicente     Gonzales HS, Gonzales                  4      8
+Hughes, Tallyn     Navarro HS, Geronimo                   2      9
+Fedor, Alex        Navarro HS, Geronimo                   -1     10
+Lookabill, Jaydyn  Gonzales HS, Gonzales                  -25    11
+Choi, Sharon       Judson Veterans Memorial, San Antonio  -154   12
+Rivera, Adrian     Gonzales HS, Gonzales                  -161   13
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Wimberley HS, Wimberley  1     402    1      10      X      Region
+Navarro HS, Geronimo     1     97     2      5       X      Alternate
+Gonzales HS, Gonzales    1     42     3
+
+TEAM RESULTS
+------------------------------

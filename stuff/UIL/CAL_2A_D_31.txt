@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Cruces, Carolina    Three Rivers HS, Three Rivers  217    1      15      X      Region
+Moya, Josh          Three Rivers HS, Three Rivers  147    2      12      X      Region
+Noel, Kaitlyn       Three Rivers HS, Three Rivers  140    3      9       X      Region
+Conn, Brandon       Three Rivers HS, Three Rivers  140    3      9       X      Region
+Pena, Louie         Benavides HS, Benavides        69     5      6       X      Alternate
+Lujan, Ashley       Ben Bolt HS, Ben Bolt          64     6      4       X
+Garza, Emma         Freer HS, Freer                58     7
+Garza, Eddie        Freer HS, Freer                52     8
+Brest, Megan        Agua Dulce HS, Agua Dulce      50     9
+Moreno, Sierra      Ben Bolt HS, Ben Bolt          48     10
+Beets, Hayden       Agua Dulce HS, Agua Dulce      25     11
+Aguayo, Danielle    Ben Bolt HS, Ben Bolt          14     12
+Cantu, Daniel       Kaufer HS, Riviera             13     13
+Cantu, Cameran      Freer HS, Freer                -22    14
+Salinas, Monique    Benavides HS, Benavides        -25    15
+Moseley, Sebastian  Kaufer HS, Riviera             -33    16
+Sanchez, Anastasia  Premont HS, Premont            -54    17
+Gonzalez, Karilou   Premont HS, Premont            -58    18
+Rodriguez, Maria    Premont HS, Premont            -71    19
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Three Rivers HS, Three Rivers  1     504    1      10      X      Region
+Ben Bolt HS, Ben Bolt          1     126    2      5       X      Alternate
+Freer HS, Freer                1     88     3
+Premont HS, Premont            1     -183   4
+
+TEAM RESULTS
+------------------------------

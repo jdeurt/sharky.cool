@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                           Score  Place  Points  Medal  Advance
+Cao, William            Flower Mound HS, Flower Mound    320    1      15      X      Region
+King, Brendan           Marcus HS, Flower Mound          266    2      12      X      Region
+Law, Wilhem             Flower Mound HS, Flower Mound    232    3      10      X      Region
+Yun, Sunjong            Hebron HS, Carrollton            216    4      8       X      Alternate
+Tang, Alex              Flower Mound HS, Flower Mound    196    5      6       X
+Hirsch, Jason           Marcus HS, Flower Mound          188    6      4       X
+Dai, Jingyi             Hebron HS, Carrollton            186    7
+Williams, Joe           Flower Mound HS, Flower Mound    180    8
+Kodali, Ananya          Marcus HS, Flower Mound          168    9
+Ji, Matthew             Nelson High School, Trophy Club  160    10
+Charania, Ayra          Marcus HS, Flower Mound          144    11
+Xu, Peiyuan             Carroll HS, Southlake            142    12
+Yun, Chanjong           Hebron HS, Carrollton            116    13
+Mishra, Mrityunjay      Coppell HS, Coppell              110    14
+Tung, Madelynn          Carroll HS, Southlake            102    15
+Baton, Jason            Nelson High School, Trophy Club  100    16
+Zhou, Anthony           Carroll HS, Southlake            98     17
+Lee, Thomas             Coppell HS, Coppell              90     18
+Kuketz, Garrett         Carroll HS, Southlake            88     19
+Vadduri, Anirudh        Coppell HS, Coppell              80     20
+Bennet, Danyl           Nelson High School, Trophy Club  48     21
+Yoon, Brian             Hebron HS, Carrollton            44     22
+Corado, Lizbeth Franco  Lewisville H S, Lewisville       16     23
+Diaz, Lizbeth Rodrigu   Lewisville H S, Lewisville       8      24
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Flower Mound HS, Flower Mound    1     748    1      10      X      Region
+Marcus HS, Flower Mound          1     622    2      5       X      Alternate
+Hebron HS, Carrollton            1     518    3
+Carroll HS, Southlake            1     342    4
+Nelson High School, Trophy Club  1     308    5
+Coppell HS, Coppell              1     280    6
+
+TEAM RESULTS
+------------------------------

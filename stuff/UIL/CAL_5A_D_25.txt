@@ -1,0 +1,19 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                    Score  Place  Points  Medal  Advance
+Malhotra, Priya      Johnson (LBJ) HS, Austin  111    1      15      X      Region
+Williams, David      Austin HS, Austin         83     2      12      X      Region
+McGahagin, Alex      Austin HS, Austin         72     3      10      X      Region
+Martinez, Elizabeth  Crockett HS, Austin       44     4      8       X      Alternate
+Seeds, Shea          Austin HS, Austin         27     5      6       X
+Davidson, Lily       Crockett HS, Austin       25     6      4       X
+Kanji, Simran        Crockett HS, Austin       -81    7
+
+TOP SCORERS
+------------------------------
+School               Team  Score  Place  Points  Medal  Advance
+Austin HS, Austin    1     182    1      10      X      Region
+Crockett HS, Austin  1     -12    2      5       X      Alternate
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                 Score  Place  Points  Medal  Advance
+Olivas, Derek          Austin HS, El Paso     314    1      15      X      Region
+Le, Kyle V.            Chapin HS, El Paso     232    2      12      X      Region
+Gonzalez, Gabriel      Austin HS, El Paso     190    3      10      X      Region
+Longoria, Jose         Austin HS, El Paso     186    4      8       X      Alternate
+Ramirez, Damaris       Austin HS, El Paso     166    5      6       X
+Kamath, Rohan E.       Chapin HS, El Paso     164    6      4       X
+Carillo, Jose A.       Chapin HS, El Paso     148    7
+Reyes, Christopher     Bowie HS, El Paso      126    8
+Rodriguez, Andres H.   Chapin HS, El Paso     106    9
+Morales, Isabella      El Paso H S, El Paso   80     10
+Castaneda, Lesly       El Paso H S, El Paso   62     11
+Wang, Lucy             Andress HS, El Paso    60     12
+Lopez, Nick            Burges HS, El Paso     58     13
+Davisbell, Jeremiah    Burges HS, El Paso     56     14
+Parra, Isabel          Jefferson HS, El Paso  52     15
+Quintero, Christopher  Irvin H S, El Paso     48     16
+Min, Mildred           Jefferson HS, El Paso  34     17
+Namgoong, Su           Jefferson HS, El Paso  32     18
+Resendiz, Alexis       Irvin H S, El Paso     26     19
+Hernandez, Missael     Burges HS, El Paso     24     20
+Sooyeon, Kim           Andress HS, El Paso    22     21
+Louloupies, Marios     Burges HS, El Paso     22     21
+Mendoza, Cynthia       El Paso H S, El Paso   20     23
+Gonzalez, Ricardo      Irvin H S, El Paso     20     23
+McClain, Melissa       Andress HS, El Paso    20     23
+Amaya, Atziry          Bowie HS, El Paso      16     26
+Schiaccino, Eva        El Paso H S, El Paso   10     27
+Perea, Hector          Irvin H S, El Paso     10     27
+Aguilera, Maria        Bowie HS, El Paso      4      29
+Speer, Juan Pablo      Jefferson HS, El Paso  -4     30
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Austin HS, El Paso     1     690    1      10      X      Region
+Chapin HS, El Paso     1     544    2      5       X      Alternate
+El Paso H S, El Paso   1     162    3
+Bowie HS, El Paso      1     146    4
+Burges HS, El Paso     1     138    5
+Jefferson HS, El Paso  1     118    6
+Andress HS, El Paso    1     102    7
+Irvin H S, El Paso     1     94     8
+
+TEAM RESULTS
+------------------------------

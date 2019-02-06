@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                          Score  Place  Points  Medal  Advance
+Kurkjian, Joey          Round Rock H S, Round Rock      224    1      15      X      Region
+Li, Kevin               Westwood HS, Austin             200    2      12      X      Region
+Xu, David               Westwood HS, Austin             198    3      10      X      Region
+Joshi, Govind           Round Rock H S, Round Rock      188    4      7       X      Alternate
+Nair, Sid               Westwood HS, Austin             188    4      7       X      Alternate
+McCully, Mason          Round Rock H S, Round Rock      182    6      4       X
+Sanford, Sage           Round Rock H S, Round Rock      176    7
+Wells, Christian        McNeil H S, Austin              170    8
+Zhang, Jenny            Westwood HS, Austin             164    9
+Archer, Sean P          Cedar Ridge HS, Round Rock      160    10
+Kampfe, Jameson F       Cedar Ridge HS, Round Rock      160    10
+Sreenivasan, Adithya    McNeil H S, Austin              156    12
+Kannan, Aadithya        McNeil H S, Austin              150    13
+Phirke, Vaidehi N       Cedar Ridge HS, Round Rock      116    14
+Chukwurah, Chukwunonso  Stony Point H S, Round Rock     114    15
+Manda, Nikhil           Cedar Ridge HS, Round Rock      110    16
+Pham, Benjamin          Hendrickson HS, Pflugerville    96     17
+Loser, Amy              Pflugerville H S, Pflugerville  60     18
+Shabbir, Ahad           Hendrickson HS, Pflugerville    56     19
+Ebert, Jonathan         Hendrickson HS, Pflugerville    8      20
+Carrington, Adrian      Pflugerville H S, Pflugerville  -6     21
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Westwood HS, Austin           1     1241   1      20      X      Region
+Round Rock H S, Round Rock    1     1069   2      16      X      Alternate
+McNeil H S, Austin            1     831    3      12      X
+Cedar Ridge HS, Round Rock    1     666    4
+Hendrickson HS, Pflugerville  1     340    5
+
+TEAM RESULTS
+------------------------------

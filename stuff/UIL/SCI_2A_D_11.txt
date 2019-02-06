@@ -1,0 +1,50 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                    Score  Place  Points  Medal  Advance
+Walterscheid, Abby N  Muenster HS, Muenster     60     1      15      X      Region
+Knabe, Lex            Era H S, Era              56     2      12      X      Region
+Lamar, Hannah R       Muenster HS, Muenster     54     3      10      X      Region
+Tucker, Kelli         Perrin-Whitt H S, Perrin  50     4      8       X      Alternate
+Griffin, Austin       Alvord HS, Alvord         44     5      6       X
+Southard, Yancey      Perrin-Whitt H S, Perrin  42     6      4       X
+Fisher, Mary E        Muenster HS, Muenster     40     7
+Allen, Emily          Poolville HS, Poolville   40     8
+Smith, Lance P        Muenster HS, Muenster     36     9
+Moseley, Randi        Era H S, Era              34     10
+Holmes, Jake          Perrin-Whitt H S, Perrin  24     11
+Lang, Evan            Poolville HS, Poolville   24     12
+Hesse, Erin E         Muenster HS, Muenster     22     13
+Sprague, Dalton       Poolville HS, Poolville   20     14
+Klein, Ransom         Alvord HS, Alvord         20     14
+Woods, Gunner         Poolville HS, Poolville   16     16
+Adams, Hailey         Era H S, Era              16     16
+Vegas, Ben            Era H S, Era              16     16
+Lovelace, Pipper      Alvord HS, Alvord         16     16
+Waneck, Blair W       Muenster HS, Muenster     12     20
+Kelly, Sarah          Poolville HS, Poolville   10     21
+Davis, Courtney       Perrin-Whitt H S, Perrin  10     21
+Thomas, Wyatt         Poolville HS, Poolville   6      23
+Groce, Jacki          Era H S, Era              0      24
+Everett, Aurora       Alvord HS, Alvord         -4     25
+Christain, Sandra     Era H S, Era              -6     26
+Machal, Clayton       Alvord HS, Alvord         -6     26
+
+TOP SCORERS
+------------------------------
+Contestant            School            Results               Points
+Walterscheid, Abby N  Muenster HS       Top Scorer Biology    3
+Moseley, Randi        Era H S           Alternate Biology     0
+Griffin, Austin       Alvord HS         Alternate Biology     0
+Knabe, Lex            Era H S           Top Scorer Chemistry  3
+Lovelace, Pipper      Alvord HS         Alternate Chemistry   0
+Tucker, Kelli         Perrin-Whitt H S  Top Scorer Physics    3
+Lamar, Hannah R       Muenster HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Muenster HS, Muenster     1     154    1      10      X      Region
+Perrin-Whitt H S, Perrin  1     116    2      5       X      Alternate
+Era H S, Era              1     106    3
+Poolville HS, Poolville   1     84     4
+Alvord HS, Alvord         1     80     5

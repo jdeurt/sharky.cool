@@ -1,0 +1,56 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                                Score  Place  Points  Medal  Advance
+Tanna, Vivek            Grapevine H S, Grapevine              338    1      15      X      Region
+Valencic, Luka          Grapevine H S, Grapevine              256    2      12      X      Region
+Comiskey, Aidan         Grapevine H S, Grapevine              218    3      10      X      Region
+Kluber, Grant           Grapevine H S, Grapevine              192    4      8       X      Alternate
+Kolli, Jayaker          Colleyville-Heritage HS, Colleyville  154    5      6       X
+Santosa, Mardhika       Grapevine H S, Grapevine              146    6      4       X
+Taylor, Robert          Richland H S, N Richland Hills        136    7
+Santosa, Utari          Grapevine H S, Grapevine              118    8
+Serrato, David          Richland H S, N Richland Hills        114    9
+DiSalvi, Grace          Richland H S, N Richland Hills        108    10
+Ruhlman, Jenna          Birdville HS, N Richland Hills        104    11
+Banarjee, Rahul         Colleyville-Heritage HS, Colleyville  100    12
+Pruett, Joshua          Richland H S, N Richland Hills        96     13
+Rosenberg, Joshua       Collegiate Academy TCC NE HS, Hurst   92     14
+Winters, Sam            Colleyville-Heritage HS, Colleyville  90     15
+Green, Hannah           Birdville HS, N Richland Hills        86     16
+Blackburn, Alicia       Birdville HS, N Richland Hills        72     17
+Pang, Kevin             Richland H S, N Richland Hills        68     18
+Pierce, Keegan          Birdville HS, N Richland Hills        68     19
+Rhodes, Tanner          Birdville HS, N Richland Hills        62     20
+O'Rear, Patrick         Collegiate Academy TCC NE HS, Hurst   48     21
+Harris, Madeleine       Collegiate Academy TCC NE HS, Hurst   42     22
+Lipenko, Michael        Birdville HS, N Richland Hills        38     23
+Romero, Cristopher      Dunbar H S, Fort Worth                34     24
+Diaz, Orlando           Dunbar H S, Fort Worth                30     25
+Ordonez, Abel           Dunbar H S, Fort Worth                26     26
+Chu, Vy                 Carter-Riverside HS, Fort Worth       18     27
+Rodriguez, Aracely      Dunbar H S, Fort Worth                18     28
+Ochoa, Carlos           Carter-Riverside HS, Fort Worth       12     29
+Richardson, RonTarious  Dunbar H S, Fort Worth                8      30
+Nguyen, Han             Carter-Riverside HS, Fort Worth       -12    31
+Ajidagba, Faruq         Dunbar H S, Fort Worth                -56    32
+
+TOP SCORERS
+------------------------------
+Contestant      School         Results               Points
+Ruhlman, Jenna  Birdville HS   Top Scorer Biology    3
+Tanna, Vivek    Grapevine H S  Alternate Biology     0
+Tanna, Vivek    Grapevine H S  Top Scorer Chemistry  3
+Valencic, Luka  Grapevine H S  Alternate Chemistry   0
+Tanna, Vivek    Grapevine H S  Top Scorer Physics    3
+Valencic, Luka  Grapevine H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Grapevine H S, Grapevine              1     812    1      10      X      Region
+Richland H S, N Richland Hills        1     358    2      5       X      Alternate
+Colleyville-Heritage HS, Colleyville  1     344    3
+Birdville HS, N Richland Hills        1     262    4
+Collegiate Academy TCC NE HS, Hurst   1     182    5
+Dunbar H S, Fort Worth                1     90     6
+Carter-Riverside HS, Fort Worth       1     18     7

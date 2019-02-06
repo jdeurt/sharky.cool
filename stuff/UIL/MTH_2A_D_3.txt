@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+Dictson, Eli          Sudan HS, Sudan              94     1      15      X      Region
+Harper, Aaron         Sudan HS, Sudan              82     2      12      X      Region
+Hernandez, Maykala S  Lockney H S, Lockney         48     3      10      X      Region
+Melendez, Beatriz     Sudan HS, Sudan              44     4      8       X      Alternate
+Blackledge, Thomas J  Lockney H S, Lockney         40     5      6       X
+Carillo, Enrique      Bovina HS, Bovina            40     6      4       X
+Mitchell, John        Farwell H S, Farwell         34     7
+Howell, Tucker        Sudan HS, Sudan              32     8
+Galvan, Brandon       Farwell H S, Farwell         32     8
+Sifuentez, Judith     Olton HS, Olton              30     10
+Flores, Ariana        Bovina HS, Bovina            28     11
+Soliz, Bonnie         Olton HS, Olton              24     12
+Crume, Victor         Farwell H S, Farwell         24     12
+Flores, Brenda        Bovina HS, Bovina            22     14
+Azua, Felipe D        Lockney H S, Lockney         14     15
+Valdez, Fernando      Lockney H S, Lockney         12     16
+Flores, Yamile        Olton HS, Olton              12     16
+White, Katy           Farwell H S, Farwell         10     18
+Perez, Moises         Bovina HS, Bovina            8      19
+Coronado, Samuel      Olton HS, Olton              4      20
+Flores, Ancil         Hale Center HS, Hale Center  -10    21
+Trotter, Alyssa       Hale Center HS, Hale Center  -16    22
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Sudan HS, Sudan       1     220    1      10      X      Region
+Lockney H S, Lockney  1     102    2      5       X      Alternate
+Bovina HS, Bovina     1     90     3
+Farwell H S, Farwell  1     90     3
+Olton HS, Olton       1     66     5
+
+TEAM RESULTS
+------------------------------

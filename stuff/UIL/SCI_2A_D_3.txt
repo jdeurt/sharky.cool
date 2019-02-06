@@ -1,0 +1,47 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Jennings, Faith     Sudan HS, Sudan              54     1      15      X      Region
+Lefevre, Hunter R   Lockney H S, Lockney         44     2      12      X      Region
+Valdez, Fernando    Lockney H S, Lockney         34     3      10      X      Region
+Struve, Ty          Olton HS, Olton              32     4      8       X      Alternate
+Nunez, Jesus        Sudan HS, Sudan              28     5      6       X
+Smith, Bonham       Olton HS, Olton              26     6      4       X
+Valencia, Miranda   Hale Center HS, Hale Center  24     7
+Melendez, Miguel    Sudan HS, Sudan              22     8
+Moore, Taylor B     Lockney H S, Lockney         20     9
+Setliff, Lyndee S   Lockney H S, Lockney         20     9
+Perez, Moises       Bovina HS, Bovina            20     11
+Carillo, Enrique    Bovina HS, Bovina            18     12
+Dzul, Daniel        Farwell H S, Farwell         18     13
+Trotter, Alyssa     Hale Center HS, Hale Center  16     14
+Gonzales, Alfredo   Olton HS, Olton              12     15
+Tolbert, Payton     Sudan HS, Sudan              12     16
+Salazar, Bethany A  Lockney H S, Lockney         8      17
+Cannon, Callan      Sudan HS, Sudan              4      18
+Gallo, Andres       Olton HS, Olton              4      19
+Carrasco, Paulina   Bovina HS, Bovina            4      20
+Azua, Felipe D      Lockney H S, Lockney         -2     21
+Mahaney, Parker     Farwell H S, Farwell         -2     22
+Netherland, Callan  Sudan HS, Sudan              -4     23
+Lopez, Jaisen       Hale Center HS, Hale Center  -4     24
+
+TOP SCORERS
+------------------------------
+Contestant         School          Results               Points
+Jennings, Faith    Sudan HS        Top Scorer Biology    3
+Lefevre, Hunter R  Lockney H S     Alternate Biology     0
+Trotter, Alyssa    Hale Center HS  Top Scorer Chemistry  3
+Tolbert, Payton    Sudan HS        Alternate Chemistry   0
+Cannon, Callan     Sudan HS        Alternate Chemistry   0
+Valencia, Miranda  Hale Center HS  Top Scorer Physics    3
+Trotter, Alyssa    Hale Center HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Sudan HS, Sudan              1     104    1      10      X      Region
+Lockney H S, Lockney         1     98     2      5       X      Alternate
+Olton HS, Olton              1     70     3
+Bovina HS, Bovina            1     42     4
+Hale Center HS, Hale Center  1     36     5

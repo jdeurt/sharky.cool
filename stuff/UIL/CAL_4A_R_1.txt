@@ -1,0 +1,59 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                            Score  Place  Points  Medal  Advance
+Shuey, Anthony       Hirschi H S, Wichita Falls        266    1      15      X      State
+Branch, Addison      Wylie HS, Abilene                 259    2      12      X      State
+Nicolas, Alexis      Hirschi H S, Wichita Falls        252    3      10      X      State
+Kamath, Ila          Hirschi H S, Wichita Falls        231.5  4      8       X      Alternate
+Tobey, David         Wylie HS, Abilene                 231.0  5      6       X
+Carmona, Aylin       Denver City H S, Denver City      231.0  6      4       X
+Buckner, Dustin      Andrews HS, Andrews               224.5  7
+Trotter, Matt        Andrews HS, Andrews               224.4  8
+Kuhn, Noah           Mineral Wells H S, Mineral Wells  219    9
+Shahane, Tanvi       Wylie HS, Abilene                 217.5  10
+Choutapalli, Rushil  Wylie HS, Abilene                 217.4  11
+Dodson, Kailey       Andrews HS, Andrews               210    12
+Gilbreath, Kate      Mineral Wells H S, Mineral Wells  196    13
+Shirazy, Venus       Hirschi H S, Wichita Falls        182    14
+Williams, Caitlin    Denver City H S, Denver City      163    15
+Mendoza, Andrea      Glen Rose H S, Glen Rose          156    16
+Nelson, Lars         Borger HS, Borger                 154    17
+Sigala, Cindy        Denver City H S, Denver City      149    18
+Hill, Grace          Glen Rose H S, Glen Rose          149    18
+MacAdam, Connor      Benbrook HS, Benbrook             148    20
+Hamid, Rohoman       Borger HS, Borger                 144    21
+Shipp, Shelby        Mineral Wells H S, Mineral Wells  135    22
+Garcia, Avery        Denver City H S, Denver City      133    23
+Hernandez, Janeli    Perryton H S, Perryton            128    24
+Velez, Samantha      Perryton H S, Perryton            128    24
+Garcia, Manuel       Mineral Wells H S, Mineral Wells  128    24
+Fowler, Michael      Benbrook HS, Benbrook             127    27
+Fender, Clayton      Godley H S, Godley                119    28
+Sustaita, Joshua     Fabens H S, Fabens                114    29
+Rafsnider, Erin      Godley H S, Godley                106    30
+Jackson, Jaityn      Andrews HS, Andrews               103    31
+Davis, Katherine     Borger HS, Borger                 95     32
+Saenz, Emery         Fabens H S, Fabens                95     32
+Jaeks, Natalie       Benbrook HS, Benbrook             92     34
+Hipolito, Grace      Borger HS, Borger                 78     35
+Bennett, McKenzie    Godley H S, Godley                78     35
+Clingman, Grace      Benbrook HS, Benbrook             75     37
+Nunez, Alan          Fabens H S, Fabens                71     38
+Mendoza, Cesar       Fabens H S, Fabens                67     39
+Shoemaker, Gabe      Godley H S, Godley                0      40
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Hirschi H S, Wichita Falls        1     749.5  1      10      X      State
+Wylie HS, Abilene                 1     707.5  2      5       X      Alternate
+Andrews HS, Andrews               1     658.9  3
+Mineral Wells H S, Mineral Wells  1     550    4
+Denver City H S, Denver City      1     543.0  5
+Borger HS, Borger                 1     393    6
+Benbrook HS, Benbrook             1     367    7
+Godley H S, Godley                1     303    8
+Fabens H S, Fabens                1     280    9
+
+TEAM RESULTS
+------------------------------

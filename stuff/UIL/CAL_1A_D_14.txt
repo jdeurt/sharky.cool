@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Andrade, Rodrigo       Garden City H S, Garden City     156    1      15      X      Region
+Koenning, Parker       Garden City H S, Garden City     149    2      11      X      Region
+Tubb, Karli            Garden City H S, Garden City     149    2      11      X      Region
+Miller, Scott          Garden City H S, Garden City     149    4      8       X      Alternate
+Bolin, Zachary         Veribest HS, Veribest            121    5      6       X
+Saldivar, Sybra        Veribest HS, Veribest            107    6      4       X
+Rasco, Devin           Blackwell HS, Blackwell          51     7
+Meyer, Elizabeth       Blackwell HS, Blackwell          41     8
+Williams, Mercedes     Blackwell HS, Blackwell          35     9
+Rojo, Mario            Veribest HS, Veribest            32     10
+Burns, Kiara           Robert Lee H S, Robert Lee       29     11
+Scott, Brendan         Blackwell HS, Blackwell          22     12
+Beltran, Jose H        Sterling City HS, Sterling City  15     13
+Moore, Raegen          Bronte HS, Bronte                4      14
+Kimble, Amanda D       Water Valley HS, Water Valley    0      15
+Arthur, Nathan         Bronte HS, Bronte                0      15
+Chantill, Jaxon        Bronte HS, Bronte                0      15
+Calderon, Francisco J  Sterling City HS, Sterling City  -3     18
+Bolin, Joshua          Veribest HS, Veribest            -4     19
+Makalynn, Mead M       Sterling City HS, Sterling City  -5     20
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Garden City H S, Garden City     1     454    1      10      X      Region
+Veribest HS, Veribest            1     260    2      5       X      Alternate
+Blackwell HS, Blackwell          1     127    3
+Sterling City HS, Sterling City  1     7      4
+Bronte HS, Bronte                1     4      5
+
+TEAM RESULTS
+------------------------------

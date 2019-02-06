@@ -1,0 +1,23 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Espinoza, Adrian       Sabine Pass HS, Sabine Pass  197    1      15      X      Region
+Magana, Jorge          Sabine Pass HS, Sabine Pass  185    2      12      X      Region
+Galvan, Adrian         Sabine Pass HS, Sabine Pass  169    3      10      X      Region
+Blood, Kirk            Sabine Pass HS, Sabine Pass  93     4      8       X      Alternate
+Roth, Jay              West Hardin HS, Saratoga     19     5      6       X
+Hendrix, Josh          West Hardin HS, Saratoga     18     6      4       X
+Gomez, Jose            Hull-Daisetta HS, Daisetta   12     7
+Jonsonn, Emilia        West Hardin HS, Saratoga     6      8
+Cervantes, Julio       Hull-Daisetta HS, Daisetta   -9     9
+Quintanilla, Nathalie  Hull-Daisetta HS, Daisetta   -38    10
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Sabine Pass HS, Sabine Pass  1     551    1      10      X      Region
+West Hardin HS, Saratoga     1     43     2      5       X      Alternate
+Hull-Daisetta HS, Daisetta   1     -35    3
+
+TEAM RESULTS
+------------------------------

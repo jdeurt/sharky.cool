@@ -1,0 +1,23 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                  Score  Place  Points  Medal  Advance
+Young, Baylor             Central HS, Pollok      120    1      15      X      Region
+Ranniger, Jared           Hemphill H S, Hemphill  34     2      12      X      Region
+Floyd, Selia              Newton H S, Newton      16     3      10      X      Region
+Wike, Garrett             Hemphill H S, Hemphill  8      4      8       X      Alternate
+Clancy, Jack              Hemphill H S, Hemphill  0      5      5       X
+Bush, James               Newton H S, Newton      0      5      5       X
+Guzman-Salinas, Victoria  Newton H S, Newton      -2     7
+Lindow, Aaron             Hemphill H S, Hemphill  -6     8
+Parrish, Jared            Newton H S, Newton      -18    9
+McGaughey, Michael        Central HS, Pollok      -30    10
+Wright, Christi           Central HS, Pollok      -36    11
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Central HS, Pollok      1     234    1      20      X      Region
+Hemphill H S, Hemphill  1     102    2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

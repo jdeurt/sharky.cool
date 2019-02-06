@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                          Score  Place  Points  Medal  Advance
+Miranda, Aurora, A    Blanco HS, Blanco               100    1      15      X      Region
+Teegardin, Matthew    Florence H S, Florence          98     2      12      X      Region
+Pharris, Garrett      Lago Vista HS, Lago Vista       94     3      10      X      Region
+Barnett, Mitchell, W  Blanco HS, Blanco               93     4      8       X      Alternate
+Collier, J.D.         Ingram Tom Moore HS, Ingram     91     5      6       X
+Henriquez, Jackeline  Johnson (LBJ) HS, Johnson City  88     6      4       X
+Haffner, Mason        Comfort HS, Comfort             78     7
+Hernandez, Schyla     Comfort HS, Comfort             70     8
+Chau, Laura           Lago Vista HS, Lago Vista       65     9
+Burke, Schuyler       Lago Vista HS, Lago Vista       65     9
+Pillatzke, Niki       Ingram Tom Moore HS, Ingram     56     11
+Guerrero, Alicia      Johnson (LBJ) HS, Johnson City  56     11
+Hernandez, Kaleb      Comfort HS, Comfort             55     13
+D'Lorm, Raoult        Lago Vista HS, Lago Vista       55     13
+Millican, Noah        Johnson (LBJ) HS, Johnson City  43     15
+Tate, Brittin         Ingram Tom Moore HS, Ingram     27     16
+Millican, Zachary     Johnson (LBJ) HS, Johnson City  16     17
+Palazzo, Roman        Comfort HS, Comfort             -24    18
+Vaughn, Kyla          Florence H S, Florence          -34    19
+Velasquez, Jackie     Florence H S, Florence          -38    20
+Drum, Cadence, E      Blanco HS, Blanco               -41    21
+Schad, Leslie         Florence H S, Florence          -110   22
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Lago Vista HS, Lago Vista       1     224    1      10      X      Region
+Comfort HS, Comfort             1     203    2      5       X      Alternate
+Johnson (LBJ) HS, Johnson City  1     187    3
+Ingram Tom Moore HS, Ingram     1     174    4
+Blanco HS, Blanco               1     152    5
+Florence H S, Florence          1     26     6
+
+TEAM RESULTS
+------------------------------

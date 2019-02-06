@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Montes, Abraham      Crowley H S, Crowley     160    1      15      X      Region
+Blount, Matthew      Seguin HS, Arlington     156    2      12      X      Region
+Rodriguez, Alyssa    Joshua HS, Joshua        146    3      10      X      Region
+Ochoa, Diego         Crowley H S, Crowley     124    4      8       X      Alternate
+Fountaine, Michael   Joshua HS, Joshua        112    5      6       X
+Buckelew, Gillian    Crowley H S, Crowley     110    6      4       X
+Powell, Laif         Joshua HS, Joshua        106    7
+Alexander, Mica      Crowley H S, Crowley     106    7
+Robbins, Brant       Joshua HS, Joshua        98     9
+Vasquez, Carlos      Seguin HS, Arlington     62     10
+Hoang, Thuong        Seguin HS, Arlington     58     11
+Dunn, Dylan          Granbury H S, Granbury   14     12
+Parupia, Kamran      Seguin HS, Arlington     4      13
+Casper, Christian    Granbury H S, Granbury   4      13
+Eagan, Michael       Centennial HS, Burleson  0      15
+Saucier, Gabrielle   Centennial HS, Burleson  0      15
+Kavanaugh, Zachary   Everman H S, Everman     0      15
+Ibarra, Juan "Alex"  Everman H S, Everman     0      15
+Martin, Andrew       Everman H S, Everman     0      15
+Nelson, Charles      Everman H S, Everman     0      15
+Lopez, Rudy          Cleburne HS, Cleburne    -10    21
+Eastman, Dakota      Granbury H S, Granbury   -14    22
+Clifford, Caleb      Cleburne HS, Cleburne    -16    23
+Coward, Seth         Cleburne HS, Cleburne    -26    24
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Joshua HS, Joshua       1     779    1      20      X      Region
+Crowley H S, Crowley    1     739    2      16      X      Alternate
+Seguin HS, Arlington    1     676    3      12      X
+Granbury H S, Granbury  1     64     4
+Everman H S, Everman    1     0      5
+Cleburne HS, Cleburne   1     -52    6
+
+TEAM RESULTS
+------------------------------

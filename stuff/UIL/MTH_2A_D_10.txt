@@ -1,0 +1,43 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                        Score  Place  Points  Medal  Advance
+DeJong, Paige       Hamilton H S, Hamilton        60     1      15      X      Region
+Dirkse, Zac         Meridian H S, Meridian        58     2      12      X      Region
+Herrin, Thaddeus    Goldthwaite H S, Goldthwaite  48     3      10      X      Region
+Nunez, Xavier       Meridian H S, Meridian        46     4      8       X      Alternate
+Jones, Emma         Santo H S, Santo              38     5      6       X
+Rice, Stanley       Hico H S, Hico                36     6      4       X
+Richards, Holli     Santo H S, Santo              34     7
+Dulaney, Katy       Meridian H S, Meridian        32     8
+Sides, Daniel       De Leon HS, De Leon           32     8
+Owen, Chelsea       Hamilton H S, Hamilton        30     10
+Villeda, Ramiro     Hico H S, Hico                26     11
+Coyote, Gabriel     Ranger H S, Ranger            24     12
+Morales, Marisol    Hico H S, Hico                22     13
+Neri, Yesenia       Meridian H S, Meridian        18     14
+Medina, Brennan     Goldthwaite H S, Goldthwaite  16     15
+Benefield, Genesis  De Leon HS, De Leon           14     16
+Brown, Emily        Hamilton H S, Hamilton        14     16
+Dyson, Ethan        De Leon HS, De Leon           12     18
+Dyson, Sierra       De Leon HS, De Leon           12     18
+Jones, Brittany     Hico H S, Hico                12     18
+Roberts, Logan      Ranger H S, Ranger            12     18
+Lozoya, Marlenne    Goldthwaite H S, Goldthwaite  10     22
+Mersinger, Adra     Goldthwaite H S, Goldthwaite  0      23
+Perry, Marissa      Santo H S, Santo              0      23
+Sanchez, John       Ranger H S, Ranger            -6     25
+Blair, Faith        Santo H S, Santo              -12    26
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Meridian H S, Meridian        1     136    1      10      X      Region
+Hamilton H S, Hamilton        1     104    2      5       X      Alternate
+Hico H S, Hico                1     84     3
+Goldthwaite H S, Goldthwaite  1     74     4
+Santo H S, Santo              1     72     5
+De Leon HS, De Leon           1     58     6
+Ranger H S, Ranger            1     30     7
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                  Score  Place  Points  Medal
+Fisher, Will       Johnson (LBJ) HS, Austin                218    1      15      X
+Wen, Mark          Lovejoy HS, Lucas                       202    2      12      X
+Taylor, Robert     Richland H S, N Richland Hills          196    3      9       X
+Bell, Samuel I     Lovejoy HS, Lucas                       196    3      9       X
+Coleman, Russell   Johnson (LBJ) HS, Austin                194    5      5       X
+Slaton, Will       Johnson (LBJ) HS, Austin                194    5      5       X
+Yeh, Shao-Lon      Lubbock HS, Lubbock                     194    7
+Chang, Andrew      Lovejoy HS, Lucas                       186    8
+Johnson, Benjamin  Magnolia HS, Magnolia                   186    8
+Ford, Terrell      Magnolia HS, Magnolia                   186    8
+Bown, Brendon      Denton H S, Denton                      178    11
+Tian, Samuel       Johnson (LBJ) HS, Austin                172    12
+Alford, Ryan       Magnolia HS, Magnolia                   170    13
+Garg, Rhythm       Centennial HS, Frisco                   168    14
+Peterson, Emily    Centennial HS, Frisco                   164    15
+Gahagan, Ryan      Dripping Springs H S, Dripping Springs  164    15
+Zhang, Phyllis     Lubbock HS, Lubbock                     156    17
+Sorstokke, Kyle    Lovejoy HS, Lucas                       156    17
+Watts, Jake        Lubbock HS, Lubbock                     150    19
+Siddiqui, Arham    Centennial HS, Frisco                   126    20
+Russell, Tyler     Lindale H S, Lindale                    124    21
+He, Yi             Wisdom H S, Houston                     114    22
+Shin, John         Lubbock HS, Lubbock                     102    23
+Sass, Jacob        Magnolia HS, Magnolia                   86     24
+Kelly, Devon       Centennial HS, Frisco                   84     25
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Johnson (LBJ) HS, Austin  1     1326   1      20      X
+Lovejoy HS, Lucas         1     1229   2      16      X      Alternate
+Magnolia HS, Magnolia     1     1187   3      12      X
+Lubbock HS, Lubbock       1     1090   4
+Centennial HS, Frisco     1     998    5
+
+TEAM RESULTS
+------------------------------

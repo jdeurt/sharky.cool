@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                   Score  Place  Points  Medal  Advance
+Wilhelm, Holly        Dumas H S, Dumas         196    1      15      X      Region
+Brue, Jacob           Randall H S, Amarillo    192    2      12      X      Region
+Liu, Hunter           Amarillo HS, Amarillo    140    3      10      X      Region
+Vo, Linh              Palo Duro H S, Amarillo  130    4      8       X      Alternate
+Tirumala, Sahithi     Amarillo HS, Amarillo    130    5      6       X
+Miller, Dawson        Amarillo HS, Amarillo    118    6      4       X
+Harwell, Tripp        Amarillo HS, Amarillo    114    7
+Franklin, Emily       Plainview HS, Plainview  102    8
+Tang, Jenny           Canyon HS, Canyon        98     9
+Phelan, Haley         Randall H S, Amarillo    96     10
+Sewell, Julian        Canyon HS, Canyon        88     11
+Blackwell, Collin     Randall H S, Amarillo    86     12
+Lasater, Drew         Dumas H S, Dumas         78     13
+Ramirez, Juan Felipe  Dumas H S, Dumas         78     13
+Doan, Trang           Palo Duro H S, Amarillo  76     15
+Sauer, Ashli          Dumas H S, Dumas         72     16
+Butcher, Olivia       Canyon HS, Canyon        64     17
+Franklin, Timothy     Plainview HS, Plainview  62     18
+Gonzalez, Jorge       Plainview HS, Plainview  56     19
+Boschen, Emily        Randall H S, Amarillo    52     20
+Wikinson, Victoria    Palo Duro H S, Amarillo  52     20
+Ramirez, Jonah        Canyon HS, Canyon        50     22
+Lopez, Jerric         Plainview HS, Plainview  50     22
+Mitchell, Katelyn     Palo Duro H S, Amarillo  34     24
+Macedo, Johanna       Caprock HS, Amarillo     0      25
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Amarillo HS, Amarillo    1     388    1      10      X      Region
+Randall H S, Amarillo    1     374    2      5       X      Alternate
+Dumas H S, Dumas         1     352    3
+Palo Duro H S, Amarillo  1     258    4
+Canyon HS, Canyon        1     250    5
+Plainview HS, Plainview  1     220    6
+
+TEAM RESULTS
+------------------------------

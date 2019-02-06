@@ -1,0 +1,59 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                      Score  Place  Points  Medal  Advance
+Hayden, Jaron        Industrial H S, Vanderbilt  104    1      15      X      Region
+Vu, Lan Anh          Palacios H S, Palacios      94     2      12      X      Region
+Nguyen, Tyson        Palacios H S, Palacios      68     3      10      X      Region
+White, Rachel        Palacios H S, Palacios      56     4      7       X      Alternate
+Musselman, James     Edna H S, Edna              56     4      7       X      Alternate
+Mann, Clayton        Tidehaven HS, El Maton      54     6      4       X
+Wisofsky, Katrina    Industrial H S, Vanderbilt  48     7
+Carrillo, Salvador   Palacios H S, Palacios      44     8
+Vu, Justin           Palacios H S, Palacios      44     8
+Kuchler, Zoen        Industrial H S, Vanderbilt  40     10
+Jeffrey, Elizabeth   Boling HS, Boling           38     11
+Mercer, Rayanne      Edna H S, Edna              38     11
+Franz, Jaycie        Van Vleck HS, Van Vleck     36     13
+Fellers, Jeffery     Industrial H S, Vanderbilt  34     14
+Martinez, Kimberly   Boling HS, Boling           30     15
+Chaney, Sydni        Industrial H S, Vanderbilt  30     15
+Navarro, Joseph      Van Vleck HS, Van Vleck     30     15
+Kacer, Joey          Tidehaven HS, El Maton      28     18
+Salazar, Sandra      Edna H S, Edna              26     19
+Kessler, Tim         Palacios H S, Palacios      24     20
+Waldorf, Saylor      Van Vleck HS, Van Vleck     22     21
+Ramos, Adrian        Industrial H S, Vanderbilt  20     22
+Villegas, Andre      Tidehaven HS, El Maton      16     23
+Lawrence, Britney    Tidehaven HS, El Maton      16     23
+Huddleston, Grant    Tidehaven HS, El Maton      14     25
+Castillo, Gabrielle  Boling HS, Boling           10     26
+Brooks, Jacob        Tidehaven HS, El Maton      10     26
+Galicia, Brandon     Boling HS, Boling           8      28
+Sulak, Kodey         Boling HS, Boling           8      28
+Gonzales, Joseph     Boling HS, Boling           2      30
+Chilek, Skylar       Van Vleck HS, Van Vleck     2      30
+Lavergne, Harlie     Van Vleck HS, Van Vleck     2      30
+Orsak, Raney         Edna H S, Edna              0      33
+Carroll, Logan       Edna H S, Edna              0      33
+Fellers, Natalie     Edna H S, Edna              -4     35
+Lopez, Zimbilet      Van Vleck HS, Van Vleck     -12    36
+
+TOP SCORERS
+------------------------------
+Contestant     School          Results               Points
+Vu, Lan Anh    Palacios H S    Top Scorer Biology    3
+Nguyen, Tyson  Palacios H S    Alternate Biology     0
+Hayden, Jaron  Industrial H S  Top Scorer Chemistry  3
+Kuchler, Zoen  Industrial H S  Alternate Chemistry   0
+Hayden, Jaron  Industrial H S  Top Scorer Physics    3
+Vu, Lan Anh    Palacios H S    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Palacios H S, Palacios      1     218    1      10      X      Region
+Industrial H S, Vanderbilt  1     192    2      5       X      Alternate
+Edna H S, Edna              1     120    3
+Tidehaven HS, El Maton      1     98     4
+Van Vleck HS, Van Vleck     1     88     5
+Boling HS, Boling           1     78     6

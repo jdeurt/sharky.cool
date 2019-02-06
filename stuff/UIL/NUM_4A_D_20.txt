@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                      Score  Place  Points  Medal  Advance
+Saunders, Emily       La Grange H S, La Grange    104    1      15      X      Region
+Arnold, Joshua        La Grange H S, La Grange    89     2      12      X      Region
+Pearson, Hunter       La Grange H S, La Grange    77     3      10      X      Region
+Montelongo, Cristian  Giddings H S, Giddings      61     4      8       X      Alternate
+Recek, Jessica        La Grange H S, La Grange    53     5      6       X
+Aly, Jakob            Caldwell HS, Caldwell       52     6      4       X
+Perez, Daniel         Giddings H S, Giddings      44     7
+Jungman, Ty           Caldwell HS, Caldwell       39     8
+Mackey, Teegan        Giddings H S, Giddings      25     9
+Tittle, Cullen        Caldwell HS, Caldwell       20     10
+Pietsch, Lucy         Giddings H S, Giddings      17     11
+Berry, Thomas         Caldwell HS, Caldwell       14     12
+Briones, Carlos       Navasota HS, Navasota       11     13
+Brown, Ethan          Smithville H S, Smithville  7      14
+Gonzales, Antonio     Navasota HS, Navasota       -1     15
+Edwards, Matthew      Smithville H S, Smithville  -2     16
+Strout, Vivian        Smithville H S, Smithville  -12    17
+Peralta, Adriana      Navasota HS, Navasota       -13    18
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+La Grange H S, La Grange    1     270    1      10      X      Region
+Giddings H S, Giddings      1     130    2      5       X      Alternate
+Caldwell HS, Caldwell       1     111    3
+Navasota HS, Navasota       1     -3     4
+Smithville H S, Smithville  1     -7     5
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                              Score  Place  Points  Medal  Advance
+Munns, Connor     Martin's Mill HS, Martin's Mill     84     1      15      X      Region
+Ross, Charles     Campbell HS, Campbell               72     2      12      X      Region
+Busby, Lexi       Cumby H S, Cumby                    62     3      10      X      Region
+Rogers, Landrey   Martin's Mill HS, Martin's Mill     56     4      8       X      Alternate
+Seely, Erin       Campbell HS, Campbell               53     5      6       X
+Perez, Mario      North Hopkins H S, Sulphur Springs  53     6      4       X
+Busby, Bailey     Cumby H S, Cumby                    42     7
+Bouley, Summer    Campbell HS, Campbell               42     7
+Hebert, Alyssa    Cumby H S, Cumby                    41     9
+Homan, Cody       Martin's Mill HS, Martin's Mill     41     9
+Bell, Sydney      North Hopkins H S, Sulphur Springs  31     11
+Rivera, Jessie    North Hopkins H S, Sulphur Springs  17     12
+Gilcrest, Taylor  Campbell HS, Campbell               14     13
+Hickman, Robert   Cumby H S, Cumby                    -2     14
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Martin's Mill HS, Martin's Mill     1     181    1      10      X      Region
+Campbell HS, Campbell               1     167    2      5       X      Alternate
+Cumby H S, Cumby                    1     145    3
+North Hopkins H S, Sulphur Springs  1     101    4
+
+TEAM RESULTS
+------------------------------

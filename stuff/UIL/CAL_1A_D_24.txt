@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Rongel, Abigail     Fruitvale HS, Fruitvale                 184    1      15      X      Region
+Nix, Krysta         Fruitvale HS, Fruitvale                 161    2      12      X      Region
+Driskill, Jordan    Fruitvale HS, Fruitvale                 156    3      10      X      Region
+White, Rose         Fruitvale HS, Fruitvale                 122    4      8       X      Alternate
+Zhu, Ricky          UT Tyler Innovation Academy, Palestine  120    5      6       X
+Wilson, Kaitlyn     Bloomburg HS, Bloomburg                 76     6      4       X
+Bradshaw, Devin     UT Tyler Innovation Academy, Palestine  72     7
+Kupetz, Emily       UT Tyler Innovation Academy, Palestine  60     8
+Potts, Bradley      Yantis HS, Yantis                       54     9
+Scott, Elena        UT Tyler Innovation Academy, Longview   49     10
+Narayanan, Tejas    UT Tyler Innovation Academy, Tyler      41     11
+Calhoun, Kamryn     Bloomburg HS, Bloomburg                 33     12
+Huntsberger, David  UT Tyler Innovation Academy, Tyler      33     12
+Hackler, Kyleigh    UT Tyler Innovation Academy, Longview   30     14
+Draper, Devyn       Bloomburg HS, Bloomburg                 21     15
+Andrews, Annalynn   Union Hill H S, Gilmer                  16     16
+Wynne, Baker        UT Tyler Innovation Academy, Tyler      -6     17
+Stroud, Theoren     UT Tyler Innovation Academy, Tyler      -31    18
+Harrist, Braylee    Bloomburg HS, Bloomburg                 -36    19
+Moser, Shane        UT Tyler Innovation Academy, Palestine  -42    20
+Pugh, Jade          UT Tyler Innovation Academy, Longview   -120   21
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Fruitvale HS, Fruitvale                 1     501    1      10      X      Region
+UT Tyler Innovation Academy, Palestine  1     252    2      5       X      Alternate
+Bloomburg HS, Bloomburg                 1     130    3
+UT Tyler Innovation Academy, Tyler      1     68     4
+UT Tyler Innovation Academy, Longview   1     -41    5
+
+TEAM RESULTS
+------------------------------

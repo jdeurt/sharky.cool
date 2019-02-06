@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                             Score  Place  Points  Medal  Advance
+Wright, Cypress      Hughes Springs HS, Hughes Springs  216    1      15      X      Region
+Henry, Colton        Queen City HS, Queen City          190    2      12      X      Region
+Garrison, Dylan      Queen City HS, Queen City          142    3      10      X      Region
+Oas, Adam            Queen City HS, Queen City          130    4      8       X      Alternate
+Beasley, Natalie L.  Daingerfield H S, Daingerfield     94     5      6       X
+Bowen, Jordan        Queen City HS, Queen City          94     6      4       X
+Stewart, Calli       Hughes Springs HS, Hughes Springs  84     7
+Gonzalez, Victor M.  Daingerfield H S, Daingerfield     64     8
+Gilmore, Zachary T.  Daingerfield H S, Daingerfield     58     9
+Tutt, Denton         New Boston H S, New Boston         58     9
+Byrd, Tanner         Hughes Springs HS, Hughes Springs  58     9
+Carter, Laura J.     Daingerfield H S, Daingerfield     54     12
+Herron, Hannah       Pewitt HS, Omaha                   54     12
+Daughtery, Kera      Hooks H S, Hooks                   54     12
+Martin, Jackson      New Boston H S, New Boston         50     15
+Priddy, Cameron      Hughes Springs HS, Hughes Springs  36     16
+Buck, Kevin          Hooks H S, Hooks                   36     16
+McNeil, Will         Hooks H S, Hooks                   34     18
+Wallace, Bradley     Pewitt HS, Omaha                   32     19
+Pureco, Jose         Pewitt HS, Omaha                   18     20
+Sheridan, Micah      New Boston H S, New Boston         14     21
+Penney, Tori         Hooks H S, Hooks                   -10    22
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Queen City HS, Queen City          1     462    1      10      X      Region
+Hughes Springs HS, Hughes Springs  1     358    2      5       X      Alternate
+Daingerfield H S, Daingerfield     1     216    3
+Hooks H S, Hooks                   1     124    4
+New Boston H S, New Boston         1     122    5
+Pewitt HS, Omaha                   1     104    6
+
+TEAM RESULTS
+------------------------------

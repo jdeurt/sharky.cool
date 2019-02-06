@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                    Score  Place  Points  Medal  Advance
+Gautier, Scott      Whitesboro HS, Whitesboro                 206    1      15      X      Region
+Ackley, Jared       Whitesboro HS, Whitesboro                 180    2      12      X      Region
+Arterberry, Reese   Ponder HS, Ponder                         156    3      10      X      Region
+Munoz, Jacob        Callisburg HS, Gainesville                150    4      8       X      Alternate
+Hill, Nate          Ponder HS, Ponder                         144    5      6       X
+Barker, Desirae     Callisburg HS, Gainesville                138    6      4       X
+Fruth, Brenden      Ponder HS, Ponder                         136    7
+Nguyen, Melody      IL Texas - Keller-Saginaw HS, Fort Worth  108    8
+Renteria, Angelina  Callisburg HS, Gainesville                98     9
+Davenport, Jonah    Whitesboro HS, Whitesboro                 94     10
+Griffin, Suzanna    S & S Consolidated HS, Sadler             90     11
+VanderWall, Tim     Ponder HS, Ponder                         84     12
+Pahari, Daniela     IL Texas - Keller-Saginaw HS, Fort Worth  78     13
+Munan, Jaron        Whitesboro HS, Whitesboro                 74     14
+Avendano, Brian     Gunter HS, Gunter                         74     15
+Spencer, Reagan     Gunter HS, Gunter                         66     16
+Williams, Jacob     Pottsboro HS, Pottsboro                   60     17
+Smith, Hannah       Gunter HS, Gunter                         60     18
+Pickle, Sabrina     Pottsboro HS, Pottsboro                   58     19
+Eubanks, Ariana     IL Texas - Keller-Saginaw HS, Fort Worth  56     20
+Kelso, Kristina     Pottsboro HS, Pottsboro                   42     21
+Rojas, Sarahi       Callisburg HS, Gainesville                38     22
+Henderson, Rachel   Pottsboro HS, Pottsboro                   38     23
+Smith, Kaylee       Gunter HS, Gunter                         34     24
+Bennett, Jolie      S & S Consolidated HS, Sadler             30     25
+Harrison, Jamie     S & S Consolidated HS, Sadler             28     26
+Daniels, Blake      IL Texas - Keller-Saginaw HS, Fort Worth  28     27
+Coker, Katie        S & S Consolidated HS, Sadler             -2     28
+
+TOP SCORERS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Whitesboro HS, Whitesboro                 1     480    1      10      X      Region
+Ponder HS, Ponder                         1     436    2      5       X      Alternate
+Callisburg HS, Gainesville                1     386    3
+IL Texas - Keller-Saginaw HS, Fort Worth  1     242    4
+Gunter HS, Gunter                         1     200    5
+Pottsboro HS, Pottsboro                   1     160    6
+S & S Consolidated HS, Sadler             1     148    7
+
+TEAM RESULTS
+------------------------------

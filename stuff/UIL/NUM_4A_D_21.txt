@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                     Score  Place  Points  Medal  Advance
+Lipscomb, Breanna   Hudson HS, Lufkin          122    1      15      X      Region
+Hillier, Hannah     Hudson HS, Lufkin          120    2      12      X      Region
+Smith, Kristyn      Hudson HS, Lufkin          93     3      10      X      Region
+Wafer, Caleb        Huntington HS, Huntington  77     4      8       X      Alternate
+Pantoja, Ricardo    Jasper H S, Jasper         56     5      6       X
+Chen, Danny         Jasper H S, Jasper         44     6      4       X
+Shepherd, Bryson    Diboll H S, Diboll         41     7
+Truss, Taylor       Huntington HS, Huntington  16     8
+Rodriguez, Valeria  Diboll H S, Diboll         16     8
+Martin, Selena      Jasper H S, Jasper         13     10
+Martinez, Alex      Diboll H S, Diboll         9      11
+Sullivan, Caleb     Jasper H S, Jasper         1      12
+Cassels, Rhett      Hudson HS, Lufkin          -2     13
+Howard, Tyler       Huntington HS, Huntington  -9     14
+Schlagel, Kirsten   Shepherd H S, Shepherd     -235   15
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Hudson HS, Lufkin          1     335    1      10      X      Region
+Jasper H S, Jasper         1     113    2      5       X      Alternate
+Huntington HS, Huntington  1     84     3
+Diboll H S, Diboll         1     66     4
+
+TEAM RESULTS
+------------------------------

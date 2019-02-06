@@ -1,0 +1,24 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Skillern, Lauren A     New Waverly H S, New Waverly  22     1      15      X      Region
+Roberts, Hunter        Onalaska, Onalaska            16     2      12      X      Region
+Mills, Marcus S        New Waverly H S, New Waverly  10     3      10      X      Region
+Calhoun, Cypress M     New Waverly H S, New Waverly  6      4      8       X      Alternate
+Miramontez, Alexandra  Trinity HS, Trinity           2      5      5       X
+Jessup, Jordan         Onalaska, Onalaska            2      5      5       X
+Medrano, Max           Trinity HS, Trinity           0      7
+Birkes, Connor         Trinity HS, Trinity           -4     8
+Fink, Courtney         Onalaska, Onalaska            -4     8
+Lucario, Jordyn L      New Waverly H S, New Waverly  -8     10
+Uresti, Pedro          Trinity HS, Trinity           -30    11
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+New Waverly H S, New Waverly  1     158    1      20      X      Region
+Trinity HS, Trinity           1     58     2      16      X      Alternate
+Onalaska, Onalaska            1     14     3      12      X
+
+TEAM RESULTS
+------------------------------

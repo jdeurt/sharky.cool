@@ -1,0 +1,85 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Holla, Satya         Science Academy, Mercedes             240    1      15      X      Region
+Sandlin, Jonathan    Los Fresnos H S, Los Fresnos          204    2      12      X      Region
+Cua, Miles           Science Academy, Mercedes             200    3      10      X      Region
+Qiao, Jack           Science Academy, Mercedes             194    4      8       X      Alternate
+Ojeda, Adrian        S Texas Acad of Medical Tech, Olmito  166    5      6       X
+Jha, Kunaal          Science Academy, Mercedes             138    6      4       X
+Khalil, Muhammad     Science Academy, Mercedes             132    7
+Jagadeesan, Subash   Science Academy, Mercedes             126    8
+Martinez, Joriam     Los Fresnos H S, Los Fresnos          106    9
+Mata, Carlos         S TX Bus Ed & Tech Academy, Edinburg  84     10
+Arrazolo, Leslie     Hanna H S, Brownsville                78     11
+Munoz, Isaac         Los Fresnos H S, Los Fresnos          76     12
+Gonzalez, Joely      Hanna H S, Brownsville                74     13
+Pams, Jeffery        S TX Bus Ed & Tech Academy, Edinburg  72     14
+Lopez, Elian         Weslaco East HS, Weslaco              70     15
+Armendariz, Andres   Los Fresnos H S, Los Fresnos          60     16
+De La Cruz, Angela   Los Fresnos H S, Los Fresnos          60     16
+Garcia, Alejandra    Weslaco HS, Weslaco                   58     18
+Martinez, Analin     Hanna H S, Brownsville                56     19
+Amaro, Efrain        S Texas Acad of Medical Tech, Olmito  54     20
+Garcia, Blass        Weslaco East HS, Weslaco              50     21
+Cervantes, Keila L   S Texas Acad of Medical Tech, Olmito  50     21
+Cantu, Andres        S TX Bus Ed & Tech Academy, Edinburg  48     23
+Gutierrez, Jose      Harlingen South HS, Harlingen         48     23
+Landaverde, Oziel    Harlingen HS, Harlingen               46     25
+Arnold, Ryan         Harlingen HS, Harlingen               44     26
+Almaguer, Nathaniel  Weslaco East HS, Weslaco              42     27
+Hurtado, Diego       S Texas Acad of Medical Tech, Olmito  38     28
+Garcia, Arnold       Hanna H S, Brownsville                36     29
+Lamas, Axel          Weslaco HS, Weslaco                   36     29
+Degley, Marshall     Harlingen HS, Harlingen               32     31
+Liu, Kang            Hanna H S, Brownsville                32     31
+Zamfir, George       Hanna H S, Brownsville                32     31
+Ledesma, Brandon     Harlingen HS, Harlingen               30     34
+Alvarado, Sebastian  Harlingen South HS, Harlingen         30     34
+Hernandez, Hector    San Benito HS, San Benito             28     36
+Duncan, Catherine    Harlingen South HS, Harlingen         28     36
+Aguilar, Alondra     Rivera HS, Brownsville                20     38
+Gauna, Samuel        Los Fresnos H S, Los Fresnos          20     38
+Maldonado, Gustavo   San Benito HS, San Benito             18     40
+Reza, Maverick       San Benito HS, San Benito             18     40
+Flores, Maddison     Harlingen South HS, Harlingen         16     42
+Perez, Tiffany       Harlingen HS, Harlingen               8      43
+Guevara, Alex        Harlingen South HS, Harlingen         4      44
+Aune, Megan          Harlingen South HS, Harlingen         4      44
+Molina, Lorenzo      Harlingen HS, Harlingen               0      46
+De Luna, Alysha      Weslaco HS, Weslaco                   0      46
+Villanueva, Leslie   Weslaco HS, Weslaco                   0      46
+Garcia, Britney      Weslaco HS, Weslaco                   0      46
+Elizondo, Patricia   Rivera HS, Brownsville                0      46
+Rodriguez, Carina    Weslaco East HS, Weslaco              0      46
+Espinoza, Arantxa    Weslaco East HS, Weslaco              0      46
+Kotta, Neil          S Texas Acad of Medical Tech, Olmito  0      46
+Cuellar, Alondra     S Texas Acad of Medical Tech, Olmito  0      46
+Saldana, Jazlyn      Rivera HS, Brownsville                -6     55
+Cabrales, Marianna   Weslaco East HS, Weslaco              -6     55
+
+TOP SCORERS
+------------------------------
+Contestant         School                        Results               Points
+Qiao, Jack         Science Academy               Top Scorer Biology    3
+Sandlin, Jonathan  Los Fresnos H S               Alternate Biology     0
+Ojeda, Adrian      S Texas Acad of Medical Tech  Alternate Biology     0
+Holla, Satya       Science Academy               Top Scorer Chemistry  3
+Sandlin, Jonathan  Los Fresnos H S               Alternate Chemistry   0
+Martinez, Joriam   Los Fresnos H S               Top Scorer Physics    3
+Cua, Miles         Science Academy               Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Science Academy, Mercedes             1     634    1      10      X      Region
+Los Fresnos H S, Los Fresnos          1     386    2      5       X      Alternate
+S Texas Acad of Medical Tech, Olmito  1     270    3
+Hanna H S, Brownsville                1     208    4
+S TX Bus Ed & Tech Academy, Edinburg  1     204    5
+Weslaco East HS, Weslaco              1     162    6
+Harlingen HS, Harlingen               1     122    7
+Harlingen South HS, Harlingen         1     106    8
+Weslaco HS, Weslaco                   1     94     9
+San Benito HS, San Benito             1     64     10
+Rivera HS, Brownsville                1     14     11

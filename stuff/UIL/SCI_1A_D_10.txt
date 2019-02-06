@@ -1,0 +1,46 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Valdez, Mykel        Comstock H S, Comstock              34     1      15      X      Region
+Bright, Landan       Rankin H S, Rankin                  30     2      12      X      Region
+Burk, Blaine         Comstock H S, Comstock              26     3      10      X      Region
+Cura, Carlos         Rankin H S, Rankin                  24     4      8       X      Alternate
+Kennedy, Tyler       Comstock H S, Comstock              22     5      6       X
+Sarabia, Joseph      Buena Vista HS, Imperial            18     6      2       X
+Roberts, Zane        Marathon HS, Marathon               18     6      2       X
+Proffit, Katlynne    Comstock H S, Comstock              18     8
+Isaac, Samuel        Comstock H S, Comstock              16     9
+Patel, Srusti        Comstock H S, Comstock              16     9
+Rios, Ben            Rankin H S, Rankin                  14     11
+Carrasco, Dylan      Sanderson H S, Sanderson            12     12
+Graham, Sebastian    Grandfalls-Royalty H S, Grandfalls  12     12
+Armendarez, Larisa   Rankin H S, Rankin                  12     12
+Martinez, Valentino  Buena Vista HS, Imperial            10     15
+Truesdell, Hunter    Sanderson H S, Sanderson            8      16
+Vasquez, Isaiah      Grandfalls-Royalty H S, Grandfalls  8      16
+Venable, Karlye      Grandfalls-Royalty H S, Grandfalls  6      18
+Templeton, Camryn    Rankin H S, Rankin                  6      18
+Cleveland, Jacob     Sanderson H S, Sanderson            4      20
+Romero, Jovannie     Buena Vista HS, Imperial            0      21
+Jurado, Taylor       Grandfalls-Royalty H S, Grandfalls  0      21
+Templeton, T.J.      Rankin H S, Rankin                  -12    23
+
+TOP SCORERS
+------------------------------
+Contestant          School        Results               Points
+Bright, Landan      Rankin H S    Top Scorer Biology    3
+Cura, Carlos        Rankin H S    Alternate Biology     0
+Roberts, Zane       Marathon HS   Top Scorer Chemistry  1.50
+Proffit, Katlynne   Comstock H S  Top Scorer Chemistry  1.50
+Armendarez, Larisa  Rankin H S    Top Scorer Physics    1
+Valdez, Mykel       Comstock H S  Top Scorer Physics    1
+Kennedy, Tyler      Comstock H S  Top Scorer Physics    1
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Comstock H S, Comstock              1     82     1      10      X      Region
+Rankin H S, Rankin                  1     68     2      5       X      Alternate
+Buena Vista HS, Imperial            1     28     3
+Grandfalls-Royalty H S, Grandfalls  1     26     4
+Sanderson H S, Sanderson            1     24     5

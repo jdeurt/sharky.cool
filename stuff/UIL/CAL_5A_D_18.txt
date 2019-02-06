@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                               Score  Place  Points  Medal  Advance
+Hu, Amelia "Amy"    College Station HS, College Station  189    1      15      X      Region
+Li, Selena          A & M Cons HS, College Station       188    2      12      X      Region
+Kim, Joon           College Station HS, College Station  175    3      10      X      Region
+Kim, Phillip        College Station HS, College Station  164    4      8       X      Alternate
+Yang, Melissa       A & M Cons HS, College Station       164    5      6       X
+Wong, Lizette       Temple HS, Temple                    147    6      4       X
+Rasmussen, Melissa  A & M Cons HS, College Station       134    7
+Gowan, Clayton      Temple HS, Temple                    133    8
+Yan, Bryan          College Station HS, College Station  128    9
+Tanaka, Jeb         Temple HS, Temple                    121    10
+Torres, Juliana     Temple HS, Temple                    87     11
+Dung, Pham          A & M Cons HS, College Station       84     12
+Paholek, Kristin    Bryan HS, Bryan                      79     13
+Stone, Sophia       Bryan HS, Bryan                      67     14
+Shockey, Kailee     Rudder HS, Bryan                     63     15
+Ivette, Padron      University HS, Waco                  60     16
+Graalum, Hunter     Rudder HS, Bryan                     57     17
+Segundo, Alfredo    Rudder HS, Bryan                     55     18
+Yazmin, Cruz        University HS, Waco                  23     19
+Laura, Diaz         University HS, Waco                  18     20
+Yount, Chris        Waco HS, Waco                        2      21
+Gonzalez, Angela    Waco HS, Waco                        2      21
+Lindeman, Ross      Rudder HS, Bryan                     -10    23
+Guevara, Evelyn     Waco HS, Waco                        -21    24
+Zunig, Ricardo      Waco HS, Waco                        -50    25
+Jasmin, Lopez       University HS, Waco                  -80    26
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+College Station HS, College Station  1     528    1      10      X      Region
+A & M Cons HS, College Station       1     486    2      5       X      Alternate
+Temple HS, Temple                    1     401    3
+Rudder HS, Bryan                     1     175    4
+University HS, Waco                  1     101    5
+Waco HS, Waco                        1     -17    6
+
+TEAM RESULTS
+------------------------------

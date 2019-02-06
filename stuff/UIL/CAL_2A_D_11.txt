@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                    Score  Place  Points  Medal  Advance
+Sprague, Dalton       Poolville HS, Poolville   161    1      15      X      Region
+Kelly, Sarah          Poolville HS, Poolville   149    2      12      X      Region
+Endres, Colby J       Muenster HS, Muenster     141    3      10      X      Region
+Woods, Gunner         Poolville HS, Poolville   140    4      8       X      Alternate
+Thomas, Wyatt         Poolville HS, Poolville   136    5      6       X
+Tucker, Karlee        Era H S, Era              133    6      4       X
+Thompson, Maddie      Era H S, Era              119    7
+Jennings, Sara        Era H S, Era              112    8
+Markwardt, Alexis E   Muenster HS, Muenster     109    9
+Thompson, Abigail     Era H S, Era              93     10
+Trubenbach, Lauren M  Muenster HS, Muenster     85     11
+Holmes, Jake          Perrin-Whitt H S, Perrin  79     12
+Deweber, Ashleigh R   Muenster HS, Muenster     76.0   13
+McLemore, Clay        Perrin-Whitt H S, Perrin  76     14
+Tucker, Kelli         Perrin-Whitt H S, Perrin  52     15
+Parra, Daniel         Chico HS, Chico           36     16
+Hornsby, Dusti        Chico HS, Chico           6      17
+Buckaloo, Shea        Alvord HS, Alvord         0      18
+Martinez, Makayla     Alvord HS, Alvord         -2     19
+Larson, Josi          Alvord HS, Alvord         -6     20
+Rodriguez, Natalie    Chico HS, Chico           -26    21
+Richardson, Brigham   Perrin-Whitt H S, Perrin  -27    22
+Ibarra, Mallerly      Chico HS, Chico           -64    23
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Poolville HS, Poolville   1     450    1      10      X      Region
+Era H S, Era              1     364    2      5       X      Alternate
+Muenster HS, Muenster     1     335    3
+Perrin-Whitt H S, Perrin  1     207    4
+Chico HS, Chico           1     16     5
+Alvord HS, Alvord         1     -8     6
+
+TEAM RESULTS
+------------------------------

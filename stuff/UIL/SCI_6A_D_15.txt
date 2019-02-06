@@ -1,0 +1,71 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                    Score  Place  Points  Medal  Advance
+Hall-Brown, Max       Klein HS, Klein           296    1      15      X      Region
+Ye, Thomas            Klein HS, Klein           270    2      12      X      Region
+Shah, Hriman          Klein Oak HS, Spring      248    3      10      X      Region
+Ji, Michael           Klein HS, Klein           240    4      8       X      Alternate
+Suresh, Shreyas       Klein HS, Klein           228    5      6       X
+Pavlovic, Damyan      Klein Oak HS, Spring      216    6      4       X
+Ling, Natalie         Memorial H S, Houston     200    7
+Tran, Joshua          Klein Oak HS, Spring      182    8
+Malone, Frank         Klein Oak HS, Spring      162    9
+Brighton, Scott       Klein Collins HS, Spring  142    10
+Moore, Charles        Memorial H S, Houston     138    11
+Guo, Yannie           Klein HS, Klein           132    12
+Cashman, Robert       Klein Oak HS, Spring      128    13
+Hossain, Zahid        Klein Collins HS, Spring  124    14
+Patel, Arjun          Klein Collins HS, Spring  120    15
+Rutledge, Stefan      Klein Oak HS, Spring      116    16
+Geehan, Hunter        Klein HS, Klein           112    17
+Cemer, Ethan          Klein Forest HS, Houston  110    18
+Baring, Geoffrey      Stratford H S, Houston    106    19
+Evans, Peter          Memorial H S, Houston     106    19
+Kim, Paul             Stratford H S, Houston    98     21
+Cabour, Tehani        Memorial H S, Houston     90     22
+Lim, Daniel           Memorial H S, Houston     88     23
+Holder, Garath        Spring Woods HS, Houston  84     24
+Elphingstone, Grace   Stratford H S, Houston    74     25
+Gluck, Eric           Stratford H S, Houston    74     25
+Shabankareh, Taylor   Klein Collins HS, Spring  70     27
+Doloksaribu, Janet    Klein Forest HS, Houston  58     28
+Nguyen, Khoa          Klein Forest HS, Houston  54     29
+Guo, Eileen           Spring Woods HS, Houston  54     29
+Tran, Megan           Memorial H S, Houston     46     31
+Torres, Giovanni      Spring Woods HS, Houston  44     32
+Lopez, Orlando        Northbrook H S, Houston   20     33
+Lopez, Julian         Northbrook H S, Houston   12     34
+Cruz Hernandez, Jose  Northbrook H S, Houston   8      35
+Zepata, Lorena        Spring Woods HS, Houston  0      36
+Dickerson, Amy        Spring Woods HS, Houston  0      36
+Quiroga, Darlene      Spring Woods HS, Houston  0      36
+Dang, Bryan           Klein Forest HS, Houston  0      36
+Iwuanyanwu, Ezinne    Klein Forest HS, Houston  0      36
+Johnson, Nadia        Northbrook H S, Houston   0      36
+Nguyen, Vivian        Klein Forest HS, Houston  0      36
+Gomez, Abrienna       Klein Collins HS, Spring  0      36
+Luu, Hannah           Klein Collins HS, Spring  0      36
+Useche, Rhomer        Northbrook H S, Houston   -4     45
+Munoz, Julieta        Northbrook H S, Houston   -26    46
+
+TOP SCORERS
+------------------------------
+Contestant       School        Results               Points
+Hall-Brown, Max  Klein HS      Top Scorer Biology    1.50
+Shah, Hriman     Klein Oak HS  Top Scorer Biology    1.50
+Ji, Michael      Klein HS      Top Scorer Chemistry  1.50
+Suresh, Shreyas  Klein HS      Top Scorer Chemistry  1.50
+Hall-Brown, Max  Klein HS      Top Scorer Physics    3
+Ye, Thomas       Klein HS      Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Klein HS, Klein           1     806    1      10      X      Region
+Klein Oak HS, Spring      1     646    2      5       X      Alternate
+Memorial H S, Houston     1     444    3
+Klein Collins HS, Spring  1     386    4
+Stratford H S, Houston    1     278    5
+Klein Forest HS, Houston  1     222    6
+Spring Woods HS, Houston  1     182    7
+Northbrook H S, Houston   1     40     8

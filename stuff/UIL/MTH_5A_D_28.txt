@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                                     Score  Place  Points  Medal  Advance
+Zhang, Wenting           Brackenridge HS, San Antonio               148    1      15      X      Region
+Osoria, Cynthia          Memorial H S, San Antonio                  56     2      12      X      Region
+Gallegos, Angie          Young Womens Leadership Acad, San Antonio  54     3      10      X      Region
+Carreon, Armani          Young Womens Leadership Acad, San Antonio  42     4      8       X      Alternate
+Islam, Tarikul           Edison HS, San Antonio                     40     5      6       X
+Wilson, Sarah            Highlands H S, San Antonio                 36     6      4       X
+Perez, Francisco         Memorial H S, San Antonio                  34     7
+Moreno, Jade             Memorial H S, San Antonio                  34     8
+Rodriguez, Kiana         Highlands H S, San Antonio                 30     9
+Arambula, Trinity        Brackenridge HS, San Antonio               18     10
+Nguyen, Danny            Brackenridge HS, San Antonio               14     11
+Cepeda, Madeline         Young Womens Leadership Acad, San Antonio  8      12
+Escobedo, Daisy          Edison HS, San Antonio                     6      13
+Rojas, Jennifer          Memorial H S, San Antonio                  4      14
+Lagunas, Jose            Highlands H S, San Antonio                 4      15
+Balboa, Alexandria       Edison HS, San Antonio                     4      16
+Campos, Alejandra        Young Womens Leadership Acad, San Antonio  0      17
+Nolasco-Caldera, Cierra  Highlands H S, San Antonio                 -14    18
+
+TOP SCORERS
+------------------------------
+School                                     Team  Score  Place  Points  Medal  Advance
+Brackenridge HS, San Antonio               1     180    1      10      X      Region
+Memorial H S, San Antonio                  1     124    2      5       X      Alternate
+Young Womens Leadership Acad, San Antonio  1     104    3
+Highlands H S, San Antonio                 1     70     4
+Edison HS, San Antonio                     1     50     5
+
+TEAM RESULTS
+------------------------------

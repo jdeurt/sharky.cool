@@ -1,0 +1,46 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                     Score  Place  Points  Medal  Advance
+Howell, Cade          Ropes HS, Ropesville       64     1      15      X      Region
+Perez, Noah           Meadow HS, Meadow          50     2      11      X      Region
+Thompson, Mac         Ropes HS, Ropesville       50     3      11      X      Region
+Luning, Sara          Ropes HS, Ropesville       46     4      7       X      Alternate
+McBee, Riley          Meadow HS, Meadow          46     5      7       X
+Moya, Ruben           Meadow HS, Meadow          38     6      4       X
+Smithson, Whit        New Home HS, New Home      36     7
+Faught, Conner        Wellman-Union HS, Wellman  36     7
+Anderson, Drew        Ropes HS, Ropesville       32     9
+Caswell, Brady        Meadow HS, Meadow          32     9
+Wiebe, Jonathan       Wellman-Union HS, Wellman  30     11
+Lucas, Kamryn         New Home HS, New Home      26     12
+Fonseca, Danielle     New Home HS, New Home      18     13
+Lambert, Tucker       Wellman-Union HS, Wellman  18     13
+Ashford, Zachary      Wellman-Union HS, Wellman  18     13
+Stokes, Riley         New Home HS, New Home      16     16
+Alaniz, Carmelita     Wellman-Union HS, Wellman  14     17
+Valentine, Johnathan  Meadow HS, Meadow          12     18
+Addison, Sam          Ropes HS, Ropesville       10     19
+White, Madison        Wellman-Union HS, Wellman  10     19
+Correa, Effi          New Home HS, New Home      8      21
+Humphrey, Kaylee      Meadow HS, Meadow          4      22
+Cadotte, James        Ropes HS, Ropesville       2      23
+Jackson, Courtney     New Home HS, New Home      -6     24
+
+TOP SCORERS
+------------------------------
+Contestant      School            Results               Points
+Smithson, Whit  New Home HS       Top Scorer Biology    3
+Howell, Cade    Ropes HS          Alternate Biology     0
+Luning, Sara    Ropes HS          Alternate Biology     0
+Perez, Noah     Meadow HS         Top Scorer Chemistry  3
+Thompson, Mac   Ropes HS          Alternate Chemistry   0
+Faught, Conner  Wellman-Union HS  Top Scorer Physics    3
+Howell, Cade    Ropes HS          Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Ropes HS, Ropesville       1     160    1      10      X      Region
+Meadow HS, Meadow          1     134    2      5       X      Alternate
+Wellman-Union HS, Wellman  1     84     3
+New Home HS, New Home      1     80     4

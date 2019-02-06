@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                      Score  Place  Points  Medal  Advance
+Teague, William         Bay City HS, Bay City       100    1      15      X      Region
+Singleton, Sarah Grace  El Campo H S, El Campo      80     2      12      X      Region
+Shah, Vishwa            Bay City HS, Bay City       64     3      10      X      Region
+Smith, Adam             Bay City HS, Bay City       58     4      8       X      Alternate
+Arispe, Kameryn         Brazosport HS, Freeport     50     5      5       X
+Castaneda, Santana      Brazosport HS, Freeport     50     5      5       X
+Wilson, Emily           El Campo H S, El Campo      42     7
+Cranford, Heaven        Sweeny HS, Sweeny           36     8
+Manor, Hannah           Columbia HS, West Columbia  34     9
+Aguilar, Adrian         Brazosport HS, Freeport     32     10
+Arnold, Elizabeth       Bay City HS, Bay City       32     10
+Pavlas, Sarah           El Campo H S, El Campo      30     12
+Stewart, Madison        Sweeny HS, Sweeny           28     13
+Briggs, Nicholas        Sweeny HS, Sweeny           26     14
+Gonzales, Nestor        Brazosport HS, Freeport     20     15
+Hammond, Marissa        Columbia HS, West Columbia  20     15
+Cruz, Victor            El Campo H S, El Campo      20     15
+Barrios, Alex           Columbia HS, West Columbia  18     18
+Sardelich, Jaxen        Columbia HS, West Columbia  14     19
+Jammer, Isaiah          Sweeny HS, Sweeny           12     20
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Bay City HS, Bay City       1     222    1      10      X      Region
+El Campo H S, El Campo      1     152    2      5       X      Alternate
+Brazosport HS, Freeport     1     132    3
+Sweeny HS, Sweeny           1     90     4
+Columbia HS, West Columbia  1     72     5
+
+TEAM RESULTS
+------------------------------

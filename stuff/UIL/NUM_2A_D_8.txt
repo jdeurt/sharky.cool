@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                  Score  Place  Points  Medal  Advance
+Mathis, Caden      Stamford H S, Stamford  129    1      15      X      Region
+Thomas, Tanner     Haskell H S, Haskell    122    2      12      X      Region
+Copeland, Peter    Stamford H S, Stamford  117    3      10      X      Region
+Hickman, Braleigh  Stamford H S, Stamford  82     4      8       X      Alternate
+Horn, Noah         Stamford H S, Stamford  47     5      6       X
+Byerly, Ethan      Hamlin HS, Hamlin       13     6      4       X
+Hebel, Elia        Albany HS, Albany       12     7
+Hendon, Landyn     Hawley HS, Hawley       8      8
+Woods, Jared       Hamlin HS, Hamlin       5      9
+Bridges, Brice     Haskell H S, Haskell    4      10
+Ruiz, Tatyanna     Anson HS, Anson         3      11
+Trail, Hannah      Albany HS, Albany       0      12
+Fuentes, Jeremy    Haskell H S, Haskell    -6     13
+Garcia, Reyna      Albany HS, Albany       -6     13
+Hernandez, Eddie   Anson HS, Anson         -10    15
+Pritchard, Trenon  Hamlin HS, Hamlin       -11    16
+Lynn, Destynie     Anson HS, Anson         -11    16
+Edgar, Carli       Albany HS, Albany       -11    16
+Hernandez, Josue   Haskell H S, Haskell    -12    19
+Hester, Jaidyn     Hawley HS, Hawley       -79    20
+Burton, Evelyn     Hawley HS, Hawley       -99    21
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Stamford H S, Stamford  1     328    1      10      X      Region
+Haskell H S, Haskell    1     120    2      5       X      Alternate
+Hamlin HS, Hamlin       1     7      3
+Albany HS, Albany       1     6      4
+Anson HS, Anson         1     -18    5
+Hawley HS, Hawley       1     -170   6
+
+TEAM RESULTS
+------------------------------

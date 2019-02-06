@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                          Score  Place  Points  Medal  Advance
+Narang, Ijay             Westwood HS, Austin             163    1      15      X      Region
+Wang, Eric               Westwood HS, Austin             157    2      12      X      Region
+Moondra, Anshul          Westwood HS, Austin             150    3      10      X      Region
+Palepu, Sai              Round Rock H S, Round Rock      116    4      8       X      Alternate
+Sreenivasan, Adithya     McNeil H S, Austin              112    5      6       X
+Nguyen, Darrin           Stony Point H S, Round Rock     93     6      4       X
+Bello, Tomi              Hendrickson HS, Pflugerville    92     7
+Rhode, Matthew           Stony Point H S, Round Rock     92     7
+Bandi, Rihit             Westwood HS, Austin             87     9
+Iyengar, Srishaan        Round Rock H S, Round Rock      78     10
+Alexander, Thomas        Hendrickson HS, Pflugerville    76     11
+Ravi, Shravan            McNeil H S, Austin              75     12
+Clark, Julian            McNeil H S, Austin              72     13
+Phirke, Vaidehi N        Cedar Ridge HS, Round Rock      70     14
+Hodges, James            Pflugerville H S, Pflugerville  63     15
+Cox, Tyler               Round Rock H S, Round Rock      59     16
+Chen, Chieh-An           Stony Point H S, Round Rock     53     17
+Golder, Caiden           Hendrickson HS, Pflugerville    36     18
+Hiray, Arnav             Stony Point H S, Round Rock     29     19
+Manzur, Karim A          Cedar Ridge HS, Round Rock      26     20
+Tran, Nhi T              Cedar Ridge HS, Round Rock      16     21
+Martinez Morale, Luis E  Cedar Ridge HS, Round Rock      8      22
+Nisely, Blake            Hendrickson HS, Pflugerville    5      23
+Konathan, Daniel         Round Rock H S, Round Rock      5      23
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Westwood HS, Austin           1     470    1      10      X      Region
+McNeil H S, Austin            1     259    2      5       X      Alternate
+Round Rock H S, Round Rock    1     253    3
+Stony Point H S, Round Rock   1     238    4
+Hendrickson HS, Pflugerville  1     204    5
+Cedar Ridge HS, Round Rock    1     112    6
+
+TEAM RESULTS
+------------------------------

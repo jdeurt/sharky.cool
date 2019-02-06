@@ -1,0 +1,82 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                    Score  Place  Points  Medal  Advance
+Patel, Aman            Arlington Heights HS, Fort Worth          168    1      15      X      Region
+Hinojosa, Odaliz       Arlington Heights HS, Fort Worth          164    2      12      X      Region
+Donnay, Jeramiah       Texas Acad Biomedical Sci HS, Fort Worth  134    3      10      X      Region
+Nguyen, Christine      Texas Acad Biomedical Sci HS, Fort Worth  130    4      8       X      Alternate
+Knapp, Jacob           TCC South Collegiate HS, Fort Worth       120    5      6       X
+Acosta, Aaron          Trimble Technical HS, Fort Worth          116    6      4       X
+Hall, Harrison         Texas Acad Biomedical Sci HS, Fort Worth  114    7
+Jimenez, Rosa Isela    Arlington Heights HS, Fort Worth          106    8
+Sheffield, Matthew     Arlington Heights HS, Fort Worth          96     9
+Funez, Kevin           Texas Acad Biomedical Sci HS, Fort Worth  96     9
+Alonso, Lesly          North Side HS, Fort Worth                 82     11
+DeMott, Ella           Arlington Heights HS, Fort Worth          80     12
+De Maria, Anthony      Texas Acad Biomedical Sci HS, Fort Worth  70     13
+Butterfield, Ari       Southwest H S, Fort Worth                 70     13
+Rush, Anna             Arlington Heights HS, Fort Worth          58     15
+Paredes, Jesus         World Languages Institute HS, Fort Worth  58     15
+Torres, Fernando       Texas Acad Biomedical Sci HS, Fort Worth  54     17
+Rivas, Leonardo        Southwest H S, Fort Worth                 54     17
+Wallace, Simone        Wyatt HS, Fort Worth                      50     19
+Garcia, Albert         Trimble Technical HS, Fort Worth          48     20
+Mascorro, Janet        North Side HS, Fort Worth                 48     20
+Salcedo, Elizabeth     Wyatt HS, Fort Worth                      46     22
+Quintanilla, Anahi     Trimble Technical HS, Fort Worth          44     23
+Valdez, Jesus          Wyatt HS, Fort Worth                      44     23
+Morales, Miguel        Southwest H S, Fort Worth                 42     25
+Lopez, Carolina        North Side HS, Fort Worth                 36     26
+Jones, Abigail         Young Women's Leadership, Fort Worth      36     26
+Mendoza, Paola         North Side HS, Fort Worth                 34     28
+Rabel, Catherine       Western Hills HS, Fort Worth              30     29
+Phan, Lisa             Trimble Technical HS, Fort Worth          28     30
+Wilson, Mikayla        Trimble Technical HS, Fort Worth          28     30
+Stevens, Tyler         Southwest H S, Fort Worth                 26     32
+Noriega, Carrie        Wyatt HS, Fort Worth                      24     33
+Rios-Rodriguez, Jorge  Western Hills HS, Fort Worth              24     33
+Torres, Andrea         World Languages Institute HS, Fort Worth  22     35
+Chau, Betty            Trimble Technical HS, Fort Worth          20     36
+Martinez, Julieta      Southwest H S, Fort Worth                 16     37
+Williams, Katherine    Western Hills HS, Fort Worth              16     37
+Castellon, Johnathan   Western Hills HS, Fort Worth              16     37
+Gwin, Natalie          Southwest H S, Fort Worth                 14     40
+Lopez, Zaytte          Wyatt HS, Fort Worth                      12     41
+Cordero, Cristobal     World Languages Institute HS, Fort Worth  10     42
+Perez, Melany          World Languages Institute HS, Fort Worth  10     42
+Campos, Kevin          World Languages Institute HS, Fort Worth  10     42
+Baker, Sara            Western Hills HS, Fort Worth              8      45
+Perez, Miguel          South Hills H S, Ft. Worth                2      46
+Dominguez, Brayan      South Hills H S, Ft. Worth                2      46
+Moreno, Natalie        World Languages Institute HS, Fort Worth  2      46
+Barnett, Joseph        North Side HS, Fort Worth                 0      49
+Lewis, Aliyah          Western Hills HS, Fort Worth              0      49
+Vasquez, Omar          South Hills H S, Ft. Worth                0      49
+Kirby, Matt            South Hills H S, Ft. Worth                0      49
+Chavarria, Elias       North Side HS, Fort Worth                 -6     53
+Aguirre, Daniel        South Hills H S, Ft. Worth                -6     53
+Salas, Chantal         Young Women's Leadership, Fort Worth      -22    55
+Ozaeta, Eduardo        South Hills H S, Ft. Worth                -46    56
+
+TOP SCORERS
+------------------------------
+Contestant        School                        Results               Points
+Hinojosa, Odaliz  Arlington Heights HS          Top Scorer Biology    1.50
+Hall, Harrison    Texas Acad Biomedical Sci HS  Top Scorer Biology    1.50
+Hinojosa, Odaliz  Arlington Heights HS          Top Scorer Chemistry  3
+Donnay, Jeramiah  Texas Acad Biomedical Sci HS  Alternate Chemistry   0
+Acosta, Aaron     Trimble Technical HS          Top Scorer Physics    3
+Patel, Aman       Arlington Heights HS          Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Arlington Heights HS, Fort Worth          1     438    1      10      X      Region
+Texas Acad Biomedical Sci HS, Fort Worth  1     378    2      5       X      Alternate
+Trimble Technical HS, Fort Worth          1     208    3
+North Side HS, Fort Worth                 1     166    4
+Southwest H S, Fort Worth                 1     166    4
+Wyatt HS, Fort Worth                      1     140    6
+World Languages Institute HS, Fort Worth  1     90     7
+Western Hills HS, Fort Worth              1     70     8
+South Hills H S, Ft. Worth                1     4      9

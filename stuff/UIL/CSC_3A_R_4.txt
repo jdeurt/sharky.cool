@@ -1,0 +1,63 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                             Score  Place  Points  Medal  Advance
+Pena, Joe                Palacios H S, Palacios             122    1      15      X      State
+Perera, Anton            BASIS Shavano HS, San Antonio      118    2      12      X      State
+Struck, David, R         Blanco HS, Blanco                  116    3      10      X      State
+Stuhrenberg, Clayton     Palacios H S, Palacios             110    4      8       X      Alternate
+O'Berg, Evan             Randolph HS, Universal City        100    5      6       X
+Castanon, Daniel         Palacios H S, Palacios             96     6      4       X
+Adlawan, Bren            Randolph HS, Universal City        94     7
+Drum, Cadence, E         Blanco HS, Blanco                  90     8
+Walsh, Andrew            Natalia H S, Natalia               78     9
+Bellamy, Trevor          Goliad H S, Goliad                 72     10
+Huerta, RJ               Cole HS, San Antonio               68     11
+Engel, Jackson           Palacios H S, Palacios             68     11
+Cantu, Ramiro            IDEA College Prep, McAllen         68     11
+Tippets, Andrew          Lago Vista HS, Lago Vista          64     14
+Guzman-Morales, Brandon  Cole HS, San Antonio               64     14
+Harrison, Ryan           Randolph HS, Universal City        64     14
+Grim, Jasmine            Cole HS, San Antonio               56     17
+Suniura, Gabriel         Lago Vista HS, Lago Vista          52     18
+Cruz, Victor             Goliad H S, Goliad                 52     18
+Tranbarger, Preston      BASIS Shavano HS, San Antonio      46     20
+Powell, Andrew           Hallettsville H S, Hallettsville   46     20
+Olvera, Kevin            IDEA Quest College Prep, Edinburg  38     22
+McNorton, Russell        London HS, Corpus Christi          36     23
+Johnson, Hunter          Randolph HS, Universal City        32     24
+Shuck, Parker            Cole HS, San Antonio               30     25
+Bravo, Gerardo           IDEA College Prep, McAllen         30     25
+Nieto Becerril, Saul     Lago Vista HS, Lago Vista          26     27
+Schoener, Cecilia        Goliad H S, Goliad                 26     27
+Barnett, Mitchell, W     Blanco HS, Blanco                  24     29
+Leos, Kassandra          Skidmore-Tynan HS, Skidmore        18     30
+Ochoa, Donovan           Skidmore-Tynan HS, Skidmore        18     30
+Lazo, Amado              San Diego HS, San Diego            16     32
+Beard, Brendan           London HS, Corpus Christi          10     33
+Ramirez, Mark            London HS, Corpus Christi          10     33
+Stubblefield, Taylor     London HS, Corpus Christi          6      35
+Robles, Laura            IDEA College Prep, McAllen         4      36
+Bernal, Lorenzo          Cotulla HS, Cotulla                0      37
+Blakeslee, Seth, M       Blanco HS, Blanco                  0      37
+Salinas, Tyler           Skidmore-Tynan HS, Skidmore        -4     39
+Perez, Josue             Cotulla HS, Cotulla                -4     39
+Vargas, Fernanda         IDEA College Prep, McAllen         -4     39
+Garcia, Valerie          San Diego HS, San Diego            -8     42
+Kiniskey, Marc Anthony   Cotulla HS, Cotulla                -8     42
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Palacios H S, Palacios       1     668    1      20      X      State
+Randolph HS, Universal City  1     553    2      16      X      Alternate
+Blanco HS, Blanco            1     455    3      12      X
+Lago Vista HS, Lago Vista    1     262    4
+Cole HS, San Antonio         1     248    5
+IDEA College Prep, McAllen   1     217    6
+Goliad H S, Goliad           1     150    7
+London HS, Corpus Christi    1     106    8
+Skidmore-Tynan HS, Skidmore  1     32     9
+Cotulla HS, Cotulla          1     -12    10
+
+TEAM RESULTS
+------------------------------

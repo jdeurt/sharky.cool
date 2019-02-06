@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                   Score  Place  Points  Medal  Advance
+Blount, Billy           Anderson HS, Austin      15     1      15      X      Region
+Raper, Gregory          Anderson HS, Austin      12     2      12      X      Region
+Castaneda, Isaac        Akins HS, Austin         10     3      10      X      Region
+Mooney, Canyon          Bowie HS, Austin         8      4      8       X      Alternate
+Martinez Torres, Ethan  Anderson HS, Austin      6      5      6       X
+Murtiono, David         Akins HS, Austin         4      6      4       X
+Hernandez, Robert       Del Valle HS, Del Valle  0      7
+Maciel, Luis            Del Valle HS, Del Valle  0      7
+Allen, Aaron            Del Valle HS, Del Valle  0      7
+Escalante, Amanda       Del Valle HS, Del Valle  0      7
+Kashakhi, Aram          Akins HS, Austin         0      7
+Benavides, Nathan       Akins HS, Austin         0      7
+Simmons, Zachary        Anderson HS, Austin      0      7
+Istomin, Nikita         Bowie HS, Austin         0      7
+Valentine, Shane        Bowie HS, Austin         0      7
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Anderson HS, Austin      1     53     1      20      X      Region
+Akins HS, Austin         1     34     2      16      X      Alternate
+Bowie HS, Austin         1     28     3      12      X
+Del Valle HS, Del Valle  1     0      4
+
+TEAM RESULTS
+------------------------------

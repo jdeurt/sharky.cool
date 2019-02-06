@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Crist, Kylee           Canton HS, Canton            142    1      15      X      Region
+Banghart, Colton       Mabank HS, Mabank            142    2      12      X      Region
+Banghart, Cameron      Mabank HS, Mabank            141    3      10      X      Region
+Abdullah, Kaleb        Rains H S, Emory             135    4      8       X      Alternate
+Teuton, Dontae         Wills Point HS, Wills Point  114    5      6       X
+Arent-Schocler, Dacia  Van HS, Van                  114    6      4       X
+Williams, Cole         Brownsboro HS, Brownsboro    113    7
+Du Preez, Daniel       Van HS, Van                  112    8
+Risner, Rylee          Canton HS, Canton            105    9
+Coffey, Chloe          Mabank HS, Mabank            99     10
+Swanson, Robert        Van HS, Van                  91     11
+Torres, Michael        Brownsboro HS, Brownsboro    86     12
+Perez, Emilia          Canton HS, Canton            85     13
+Parker, Ethan          Brownsboro HS, Brownsboro    84     14
+Swanson, Timothy       Van HS, Van                  68     15
+Jacobs, Ty             Rains H S, Emory             65     16
+White, Alex            Rains H S, Emory             58     17
+Oliver, Mackenzie      Canton HS, Canton            55     18
+King, Kaylee           Wills Point HS, Wills Point  51     19
+Kong, Leeanne          Mabank HS, Mabank            48     20
+Hannawald, Aiden       Wills Point HS, Wills Point  23     21
+Bacon, Brandon         Rains H S, Emory             2      22
+Wehrmann, Gage         Brownsboro HS, Brownsboro    2      22
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Mabank HS, Mabank            1     382    1      10      X      Region
+Canton HS, Canton            1     332    2      5       X      Alternate
+Van HS, Van                  1     317    3
+Brownsboro HS, Brownsboro    1     283    4
+Rains H S, Emory             1     258    5
+Wills Point HS, Wills Point  1     188    6
+
+TEAM RESULTS
+------------------------------

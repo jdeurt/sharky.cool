@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School               Score  Place  Points  Medal  Advance
+Castillo, Maria     Lometa H S, Lometa   128    1      15      X      Region
+Steger, Jenna       Priddy HS, Priddy    116    2      12      X      Region
+Hines, Holly        Lometa H S, Lometa   95     3      10      X      Region
+Goehmann, Dominic   Priddy HS, Priddy    91     4      8       X      Alternate
+Thompson, Sage      Lometa H S, Lometa   86     5      5       X
+Morgan, Kassie      Priddy HS, Priddy    86     5      5       X
+Crawford, Emily     Sidney HS, Sidney    81     7
+Johnston, Nicole    Sidney HS, Sidney    72     8
+Gutierrez, Alexis   Priddy HS, Priddy    60     9
+Mensch, Myra        Zephyr HS, Zephyr    52     10
+Stanley, Joann      Sidney HS, Sidney    51     11
+Crawford, Allie     Sidney HS, Sidney    44     12
+McKee, Austen       Gustine HS, Gustine  26     13
+Prado, Jose         Lometa H S, Lometa   23     14
+Terry, Neva         Zephyr HS, Zephyr    20     15
+Guerra, Anahi       Gustine HS, Gustine  -13    16
+Graham, Kaitlyn     Blanket HS, Blanket  -22    17
+Godfrey, Kolby      Blanket HS, Blanket  -27    18
+Torquemada, Mireya  Gustine HS, Gustine  -40    19
+Hickey, Erik        Blanket HS, Blanket  -50    20
+Lince, Martha       Gustine HS, Gustine  -52    21
+Hernandez, Mariana  Blanket HS, Blanket  -74    22
+
+TOP SCORERS
+------------------------------
+School               Team  Score  Place  Points  Medal  Advance
+Lometa H S, Lometa   1     309    1      10      X      Region
+Priddy HS, Priddy    1     293    2      5       X      Alternate
+Sidney HS, Sidney    1     204    3
+Gustine HS, Gustine  1     -27    4
+Blanket HS, Blanket  1     -99    5
+
+TEAM RESULTS
+------------------------------

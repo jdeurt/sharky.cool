@@ -1,0 +1,51 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                            Score  Place  Points  Medal  Advance
+Agrawal, Ayush        Sterling HS, Baytown              150    1      15      X      Region
+William, Patrick      Atascocita HS, Humble             147    2      12      X      Region
+Wu, Hongbin           Channelview HS, Channelview       131    3      10      X      Region
+Butterfield, Tyson    Kingwood H S, Humble              130    4      8       X      Alternate
+De La Rosa, Isabel    Sterling HS, Baytown              124    5      6       X
+Gupta, Pranav         Goose Creek Memorial HS, Baytown  122    6      4       X
+Nguyen, Havi          Sterling HS, Baytown              112    7
+Wells, Jordan         Atascocita HS, Humble             103    8
+Russel, Brandon       Kingwood H S, Humble              94     9
+Kulkarni, Jatin       Goose Creek Memorial HS, Baytown  94     9
+Sharma, Bhanu         Goose Creek Memorial HS, Baytown  90     11
+Bates, Tim            Kingwood H S, Humble              82     12
+Lin, Jia              Sterling HS, Baytown              76     13
+Turney, Blake         Atascocita HS, Humble             74     14
+Mai, Cecilia          North Shore H S, Houston          70     15
+Arreola, Danny        Atascocita HS, Humble             65     16
+Naikele, Ansh         Goose Creek Memorial HS, Baytown  44     17
+Chan, Michelle        North Shore H S, Houston          33     18
+Sampson, Francis      North Shore H S, Houston          25     19
+Meza, Richard         Channelview HS, Channelview       20     20
+Kinariwala, Kush      Quest Early College HS, Humble    13     21
+Smith, Kaitlin        Kingwood H S, Humble              10     22
+Tuttle, Grace         Quest Early College HS, Humble    8      23
+Benson, Dewane        Channelview HS, Channelview       7      24
+Xiang, Richard Y.     Summer Creek H S, Humble          1      25
+Parada, Eric          King HS, Houston                  0      26
+Aranda, Andrea        King HS, Houston                  0      26
+Azua, Jaqueline       King HS, Houston                  0      26
+Mora, Nelson          Channelview HS, Channelview       0      26
+Villanueva, Adrianne  North Shore H S, Houston          -6     30
+Ly, Tommy H.          Summer Creek H S, Humble          -7     31
+Horton, Andy          Quest Early College HS, Humble    -9     32
+Carr, Samantha        Quest Early College HS, Humble    -25    33
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Sterling HS, Baytown              1     386    1      10      X      Region
+Atascocita HS, Humble             1     324    2      5       X      Alternate
+Goose Creek Memorial HS, Baytown  1     306    3
+Kingwood H S, Humble              1     306    3
+Channelview HS, Channelview       1     158    5
+North Shore H S, Houston          1     128    6
+Quest Early College HS, Humble    1     12     7
+King HS, Houston                  1     0      8
+
+TEAM RESULTS
+------------------------------

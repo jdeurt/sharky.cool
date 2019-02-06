@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                   Score  Place  Points  Medal  Advance
+Lowery, Wyatt          Melissa H S, Melissa     100    1      15      X      Region
+Dagley, James          Melissa H S, Melissa     86     2      12      X      Region
+Padgett, Matthew A     Anna HS, Anna            84     3      10      X      Region
+Ozmore, Joe            Bonham HS, Bonham        74     4      8       X      Alternate
+Haggard, Dylan         Bonham HS, Bonham        60     5      6       X
+Lewis, Jeffrey S       Anna HS, Anna            52     6      4       X
+Somerville, Austen     Bonham HS, Bonham        50     7
+McPherson, Jonathan M  Anna HS, Anna            30     8
+Passanisi, Alex        Bonham HS, Bonham        26     9
+Sotelo, Matthew        Melissa H S, Melissa     22     10
+Contreras, Steven      Princeton HS, Princeton  18     11
+Wisthoff, Lacy S       Anna HS, Anna            12     12
+Whitmire, Michael      Aubrey HS, Aubrey        10     13
+Wofford, Joseph        Aubrey HS, Aubrey        6      14
+McDearis, Ian          Melissa H S, Melissa     4      15
+McDonald, Anthony      Princeton HS, Princeton  4      15
+Martinez, John         Princeton HS, Princeton  2      17
+Wilson, Ben            Aubrey HS, Aubrey        -4     18
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Anna HS, Anna            1     521    1      20      X      Region
+Melissa H S, Melissa     1     438    2      16      X      Alternate
+Bonham HS, Bonham        1     424    3      12      X
+Princeton HS, Princeton  1     79     4
+Aubrey HS, Aubrey        1     12     5
+
+TEAM RESULTS
+------------------------------

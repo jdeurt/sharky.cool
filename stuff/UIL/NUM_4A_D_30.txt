@@ -1,0 +1,25 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                     Score  Place  Points  Medal  Advance
+O'Connell, Tabetha   Somerset HS, Somerset      77     1      15      X      Region
+Jimenez, Erik        Somerset HS, Somerset      14     2      11      X      Region
+Ramirez, Alex        Pleasanton HS, Pleasanton  14     2      11      X      Region
+Saldana, Sean        Jones HS, Beeville         11     4      8       X      Alternate
+Rodriguez, Nicholas  Somerset HS, Somerset      8      5      5       X
+Martinez, Zorayda    Pleasanton HS, Pleasanton  8      5      5       X
+Caballero, Kory      Pleasanton HS, Pleasanton  2      7
+Gibson, Amber        Jones HS, Beeville         -1     8
+Gonzales, Samantha   Pleasanton HS, Pleasanton  -4     9
+Shelton, Benjamin    Jones HS, Beeville         -14    10
+Ledesma, Bryan       Somerset HS, Somerset      -34    11
+Franco, Anakin       Jones HS, Beeville         -289   12
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Somerset HS, Somerset      1     99     1      10      X      Region
+Pleasanton HS, Pleasanton  1     24     2      5       X      Alternate
+Jones HS, Beeville         1     -4     3
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Li, Amy            Highland Park H S, Dallas   336    1      15      X      Region
+Luo, Richard       Highland Park H S, Dallas   314    2      12      X      Region
+Xie, Michael       Highland Park H S, Dallas   282    3      10      X      Region
+Wang, Stacy        Highland Park H S, Dallas   270    4      8       X      Alternate
+Bell, Samuel I     Lovejoy HS, Lucas           150    5      6       X
+Bustamante, Jorge  Poteet HS, Mesquite         78     6      4       X
+Mao, Andrew        Lovejoy HS, Lucas           72     7
+Reimer, Brennan    Royse City H S, Royse City  58     8
+Lynch, Kyla        Poteet HS, Mesquite         54     9
+Keating, Louis     Forney H S, Forney          46     10
+Shaikh, Hassaan    Lovejoy HS, Lucas           46     10
+O'Donnell, Brooke  Royse City H S, Royse City  46     10
+Trammell, Maggie   Royse City H S, Royse City  44     13
+Leek, Jonathan     West Mesquite HS, Mesquite  40     14
+Crawford, William  Forney H S, Forney          38     15
+Chu, Jason         Wylie East H S, Wylie       32     16
+Preston, Luke      Forney H S, Forney          30     17
+Miner, Jordan      Forney H S, Forney          30     17
+Okorafor, Obioma   West Mesquite HS, Mesquite  26     19
+Sushil, Michelle   Poteet HS, Mesquite         24     20
+Sushil, Ashley     Poteet HS, Mesquite         22     21
+Adams, Carissa     West Mesquite HS, Mesquite  16     22
+Ortega, Juan       West Mesquite HS, Mesquite  6      23
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Highland Park H S, Dallas   1     932    1      10      X      Region
+Lovejoy HS, Lucas           1     268    2      5       X      Alternate
+Poteet HS, Mesquite         1     156    3
+Royse City H S, Royse City  1     148    4
+Forney H S, Forney          1     114    5
+West Mesquite HS, Mesquite  1     82     6
+
+TEAM RESULTS
+------------------------------

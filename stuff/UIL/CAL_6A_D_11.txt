@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                        Score  Place  Points  Medal  Advance
+Oliver, Ethan           Rockwall-Heath HS, Heath      168    1      15      X      Region
+Pawlowski, Felicity     Mesquite H S, Mesquite        156    2      12      X      Region
+Webb, Spencer           Lee H S, Tyler                147    3      10      X      Region
+Eckstein, Micah         Mesquite H S, Mesquite        135    4      8       X      Alternate
+Bailey, Meagan          Mesquite H S, Mesquite        135    5      6       X
+Haling, Jackson         Lee H S, Tyler                135    5      6       X
+Johnson, Maddie         Longview H S, Longview        128    7
+Pich, Jacob             Mesquite H S, Mesquite        121    8
+Ouyang, Keyi            Rockwall H S, Rockwall        112    9
+Huang, Victoria         Rockwall-Heath HS, Heath      110    10
+Fay, Bernard            Rockwall-Heath HS, Heath      107    11
+Apuan, Jason            Rockwall H S, Rockwall        105    12
+Jarrett, Erin           Rockwall-Heath HS, Heath      98     13
+Wilson, Jacob           Lee H S, Tyler                84     14
+Yeh, Joseph             Rockwall H S, Rockwall        71     15
+Pickens, Dalton         Horn H S, Mesquite            57     16
+Grant, John Mark        Lee H S, Tyler                53     17
+Sandoval, Lizbeth       North Mesquite H S, Mesquite  46     18
+Needum, Alonzo          Horn H S, Mesquite            46     18
+Sosa, Mirka             North Mesquite H S, Mesquite  31     20
+Campos, Celeste         North Mesquite H S, Mesquite  23     21
+Sims, Clifton           North Mesquite H S, Mesquite  3      22
+Bass-McClellan	, Desha  Horn H S, Mesquite            -18    23
+Edegbe, Naomi           Horn H S, Mesquite            -43    24
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Mesquite H S, Mesquite        1     426    1      10      X      Region
+Rockwall-Heath HS, Heath      1     385    2      5       X      Alternate
+Lee H S, Tyler                1     366    3
+Rockwall H S, Rockwall        1     288    4
+North Mesquite H S, Mesquite  1     100    5
+Horn H S, Mesquite            1     85     6
+
+TEAM RESULTS
+------------------------------

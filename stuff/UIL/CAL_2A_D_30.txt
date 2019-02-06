@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Ho, Ethan            Pettus HS, Pettus              203    1      15      X      Region
+Martinez, Samuel     Pettus HS, Pettus              182    2      12      X      Region
+Horner, Clay         Woodsboro HS, Woodsboro        156    3      10      X      Region
+Morris, Raven        Woodsboro HS, Woodsboro        147    4      8       X      Alternate
+Martinez, Carissa    Pettus HS, Pettus              112    5      6       X
+Lawson, Julien       Pettus HS, Pettus              112    6      4       X
+Maldonadp, Lorraine  Woodsboro HS, Woodsboro        112    7
+Windham, Luke        Port Aransas HS, Port Aransas  93     8
+Dzuik, Isabella      Falls City HS, Falls City      93     8
+Barello, Jordan      Port Aransas HS, Port Aransas  85     10
+Lyssy, Garrett       Falls City HS, Falls City      79     11
+Martinez, K'Lynn     Woodsboro HS, Woodsboro        79     11
+Garcia, Alexandra    Refugio HS, Refugio            71     13
+Collins, Tripp       Port Aransas HS, Port Aransas  70     14
+Morales, Albert      Refugio HS, Refugio            61     15
+Austin, Ashley       Refugio HS, Refugio            59     16
+Hons, Cloey          Falls City HS, Falls City      27     17
+Love, Ryan           Port Aransas HS, Port Aransas  24     18
+Connell, Justin      Kenedy H S, Kenedy             0      19
+Havron, Hailey       Kenedy H S, Kenedy             -38    20
+McMurray, Rachel     Falls City HS, Falls City      -39    21
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Pettus HS, Pettus              1     497    1      10      X      Region
+Woodsboro HS, Woodsboro        1     415    2      5       X      Alternate
+Port Aransas HS, Port Aransas  1     248    3
+Falls City HS, Falls City      1     199    4
+Refugio HS, Refugio            1     191    5
+
+TEAM RESULTS
+------------------------------

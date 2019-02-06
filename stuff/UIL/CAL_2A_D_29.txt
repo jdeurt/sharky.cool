@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                      Score  Place  Points  Medal  Advance
+Britton, Dakota       Brackett HS, Brackettville  163    1      15      X      Region
+Bruce, Gordon A       Brackett HS, Brackettville  156    2      12      X      Region
+Palmer, Sam           Brackett HS, Brackettville  121    3      10      X      Region
+Rodriguez, Sammy      Brackett HS, Brackettville  105    4      8       X      Alternate
+Kinney, Sara E.       Stacey H S, San Antonio     86     5      6       X
+Alonzo, Nathan        La Pryor H S, La Pryor      69     6      4       X
+Schneider, Trent      La Pryor H S, La Pryor      58     7
+Arteaga, Pablo        Sabinal HS, Sabinal         53     8
+Sanchez, Mercedes     Charlotte HS, Charlotte     49     9
+Garcia, Azeneth       La Pryor H S, La Pryor      40     10
+Dominguez, Jacob      Charlotte HS, Charlotte     33     11
+Reyna, Amanda         La Pryor H S, La Pryor      23     12
+Lopez, Rhianna        Sabinal HS, Sabinal         19     13
+Vargas, Sebastian R.  Stacey H S, San Antonio     11     14
+Contreras, Kamryn     Sabinal HS, Sabinal         0      15
+Rubio, Celia          Charlotte HS, Charlotte     -14    16
+Morales, Miranda J.   Stacey H S, San Antonio     -16    17
+Bodero, Raina         Charlotte HS, Charlotte     -17    18
+Contreras, Karlee     Sabinal HS, Sabinal         -22    19
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Brackett HS, Brackettville  1     440    1      10      X      Region
+La Pryor H S, La Pryor      1     167    2      5       X      Alternate
+Stacey H S, San Antonio     1     81     3
+Sabinal HS, Sabinal         1     72     4
+Charlotte HS, Charlotte     1     68     5
+
+TEAM RESULTS
+------------------------------

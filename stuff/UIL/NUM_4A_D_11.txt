@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                   Score  Place  Points  Medal  Advance
+Farmer, Jacan          Aubrey HS, Aubrey        130    1      15      X      Region
+Vaughan, Aaron         Melissa H S, Melissa     115    2      12      X      Region
+Snyder, Samuel         Celina HS, Celina        107    3      10      X      Region
+Rodriguez, Hannah      Princeton HS, Princeton  89     4      7       X      Alternate
+Schraeder, Brett       Melissa H S, Melissa     89     4      7       X      Alternate
+Murphy, Jasper         Melissa H S, Melissa     63     6      4       X
+Knowles, Celeste       Celina HS, Celina        41     7
+Clark, Lainey          Celina HS, Celina        38     8
+Lewis, Jeffrey S       Anna HS, Anna            38     8
+Thompson, Jacob G      Anna HS, Anna            33     10
+Dow, Will              Aubrey HS, Aubrey        29     11
+Adell, Jessica         Celina HS, Celina        23     12
+Avila, Melissa         Princeton HS, Princeton  21     13
+Weaks, Reese           Princeton HS, Princeton  20     14
+Chaloupka, Blake       Melissa H S, Melissa     11     15
+Stuber, Brant          Bonham HS, Bonham        9      16
+Wingert, Sheldon       Aubrey HS, Aubrey        7      17
+Yeisley, Adam          Princeton HS, Princeton  -4     18
+Sacco, Seth            Bonham HS, Bonham        -8     19
+Arris, Randy           Bonham HS, Bonham        -9     20
+Clement, Malena G      Anna HS, Anna            -11    21
+McDaniel, Gabe         Aubrey HS, Aubrey        -12    22
+Brownfield, Michael M  Anna HS, Anna            -20    23
+Singleton, Tristen     Bonham HS, Bonham        -31    24
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Melissa H S, Melissa     1     267    1      10      X      Region
+Celina HS, Celina        1     186    2      5       X      Alternate
+Aubrey HS, Aubrey        1     166    3
+Princeton HS, Princeton  1     130    4
+Anna HS, Anna            1     60     5
+Bonham HS, Bonham        1     -8     6
+
+TEAM RESULTS
+------------------------------

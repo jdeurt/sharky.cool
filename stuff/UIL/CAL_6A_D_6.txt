@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Kim, Nathan        Allen HS, Allen             210    1      15      X      Region
+Zou, Elizabeth     Plano West Sr HS, Plano     182    2      12      X      Region
+Wang, Brian        Plano West Sr HS, Plano     181    3      10      X      Region
+Asher, Anika       Allen HS, Allen             175    4      8       X      Alternate
+El-Hindi, Basil    McKinney HS, McKinney       175    5      6       X
+Weigel, Alec       McKinney HS, McKinney       163    6      4       X
+Landrum, Liam      McKinney HS, McKinney       161    7
+Remani, Chanakya   Plano East Sr HS, Plano     151    8
+Chow, Jakob        McKinney HS, McKinney       147    9
+Huang, Kenny       Plano Sr HS, Plano          141    10
+Chen, Joye         Allen HS, Allen             140    11
+Gates, Nathan      Guyer H S, Denton           134    12
+Chan, Justin       McKinney Boyd HS, McKinney  128    13
+Sun, Leila         Allen HS, Allen             126    14
+Thai, Kevin        Wylie HS, Wylie             124    15
+Guo, Richard       Plano West Sr HS, Plano     108    16
+Winter, Matthew    McKinney Boyd HS, McKinney  95     17
+Hughes, Rachel     Guyer H S, Denton           78     18
+Lin, Karen         Guyer H S, Denton           76     19
+Leibovich, Yuvali  McKinney Boyd HS, McKinney  47     20
+Mohamad, Lina      Wylie HS, Wylie             20     21
+Aravapalli, Anish  Plano Sr HS, Plano          0      22
+Bhat, Suraj        Plano Sr HS, Plano          0      22
+Killi, Ashish      Plano Sr HS, Plano          0      22
+McNeil, Avery      McKinney Boyd HS, McKinney  -39    25
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Allen HS, Allen             1     525    1      10      X      Region
+McKinney HS, McKinney       1     499    2      5       X      Alternate
+Plano West Sr HS, Plano     1     471    3
+Guyer H S, Denton           1     288    4
+McKinney Boyd HS, McKinney  1     270    5
+Plano Sr HS, Plano          1     141    6
+
+TEAM RESULTS
+------------------------------

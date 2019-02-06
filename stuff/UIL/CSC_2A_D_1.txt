@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Lancaster, Nathan  Vega HS, Vega               76     1      15      X      Region
+Kelp, Keegan       Gruver HS, Gruver           40     2      12      X      Region
+Bardwell, Gavin    Gruver HS, Gruver           36     3      10      X      Region
+SKAGGS, TYLER      Sanford-Fritch H S, Fritch  34     4      8       X      Alternate
+STONE, TRISTEN     Sanford-Fritch H S, Fritch  30     5      6       X
+Applegate, Drayke  Vega HS, Vega               18     6      2       X
+WILLS, KEEGAN      Sanford-Fritch H S, Fritch  18     6      2       X
+Smock, Austyn      Sunray H S, Sunray          12     8
+King, Klaire       Gruver HS, Gruver           10     9
+Mitchell, Noah     West Texas HS, Stinnett     8      10
+Wright, Ashley     Gruver HS, Gruver           6      11
+BROWN, JACOB       Sanford-Fritch H S, Fritch  6      11
+Knoll, Marie       Vega HS, Vega               4      13
+Freriks, Joseph    West Texas HS, Stinnett     4      13
+Stone, Evan        Vega HS, Vega               2      15
+Massingale, Codie  West Texas HS, Stinnett     -4     16
+Horne, Zach        West Texas HS, Stinnett     -4     16
+Cervantes, Karina  Sunray H S, Sunray          -14    18
+Cervantes, Brenda  Sunray H S, Sunray          -20    19
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Sanford-Fritch H S, Fritch  1     262    1      20      X      Region
+Gruver HS, Gruver           1     201    2      16      X      Alternate
+Vega HS, Vega               1     158    3      12      X
+West Texas HS, Stinnett     1     8      4
+Sunray H S, Sunray          1     -22    5
+
+TEAM RESULTS
+------------------------------

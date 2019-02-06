@@ -1,0 +1,47 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                            Score  Place  Points  Medal  Advance
+Tran, Anh             Timberview HS, Arlington          127    1      15      X      Region
+Ngo, Tho              Timberview HS, Arlington          117    2      12      X      Region
+Bair, Nick            Lake Ridge HS, Mansfield          89     3      10      X      Region
+Nguyen, Britney       Frontier HS, Mansfield            74     4      8       X      Alternate
+Asirvadam, Kevin      Waxahachie Global HS, Waxahachie  71     5      6       X
+Nguyen, Michelle      Lake Ridge HS, Mansfield          65     6      4       X
+Tran, Johnson         Timberview HS, Arlington          64     7
+Chuong, Ashley        Lake Ridge HS, Mansfield          60     8
+Wu, Longting (Yina)   Timberview HS, Arlington          59     9
+Kramer, Jonathan      Frontier HS, Mansfield            53     10
+Graves, Parker        Waxahachie Global HS, Waxahachie  44     11
+Su, Sydney            Lake Ridge HS, Mansfield          39     12
+Ye, Ming              Waxahachie HS, Waxahachie         38     13
+Tillman, Luke         Red Oak HS, Red Oak               26     14
+Watson, Aaron         Red Oak HS, Red Oak               26     14
+Bigham, Cathryn       Waxahachie HS, Waxahachie         17     16
+Asirvadam, Nicholas   Waxahachie Global HS, Waxahachie  11     17
+Nguyen, Katlin        Legacy HS, Mansfield              10     18
+Gates, Grant          Waxahachie HS, Waxahachie         8      19
+Boone, Aviery         Red Oak HS, Red Oak               4      20
+Kotlarich, Zachariah  Frontier HS, Mansfield            3      21
+Perez, Victor         Lancaster H S, Lancaster          -1     22
+Edwards, Noah         Frontier HS, Mansfield            -4     23
+Pasierb, Katelyn      Legacy HS, Mansfield              -15    24
+Schwartz, Reagan      Midlothian H S, Midlothian        -21    25
+Kacerek, Ashley       Waxahachie Global HS, Waxahachie  -37    26
+Aldarkazanly, Sara    Waxahachie HS, Waxahachie         -40    27
+Brown, Camilla        Legacy HS, Mansfield              -43    28
+Lara, Rene            Red Oak HS, Red Oak               -43    28
+Aleman, Faith         Lancaster H S, Lancaster          -86    30
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Timberview HS, Arlington          1     308    1      10      X      Region
+Lake Ridge HS, Mansfield          1     214    2      5       X      Alternate
+Frontier HS, Mansfield            1     130    3
+Waxahachie Global HS, Waxahachie  1     126    4
+Waxahachie HS, Waxahachie         1     63     5
+Red Oak HS, Red Oak               1     56     6
+Legacy HS, Mansfield              1     -48    7
+
+TEAM RESULTS
+------------------------------

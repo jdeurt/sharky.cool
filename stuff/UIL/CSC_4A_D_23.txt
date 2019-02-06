@@ -1,0 +1,23 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                    Score  Place  Points  Medal  Advance
+Deshotel, Gavin   Liberty HS, Liberty       84     1      15      X      Region
+Hortman, Casey    Liberty HS, Liberty       58     2      12      X      Region
+Johnson, Carson   Hargrave HS, Huffman      50     3      10      X      Region
+Donohue, Anthony  Hargrave HS, Huffman      46     4      8       X      Alternate
+Anderson, Hunter  Tarkington HS, Cleveland  40     5      6       X
+Davila, Xavier    Liberty HS, Liberty       22     6      4       X
+Willis, Marshall  Tarkington HS, Cleveland  10     7
+Parsons, Joshua   Tarkington HS, Cleveland  6      8
+Warner, Charles   Liberty HS, Liberty       0      9
+Bryan, Lauren     Hargrave HS, Huffman      -14    10
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Liberty HS, Liberty       1     459    1      20      X      Region
+Tarkington HS, Cleveland  1     296    2      16      X      Alternate
+Hargrave HS, Huffman      1     202    3      12      X
+
+TEAM RESULTS
+------------------------------

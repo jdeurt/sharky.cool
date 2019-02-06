@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                            Score  Place  Points  Medal  Advance
+Robbins, Brant         Joshua HS, Joshua                 135    1      15      X      Region
+Cano, Gerardo          Everman H S, Everman              127    2      12      X      Region
+Kavanaugh, Zachary     Everman H S, Everman              120    3      10      X      Region
+Huang, Timothy         Seguin HS, Arlington              119    4      8       X      Alternate
+Parrish, Cortlan       Burleson HS, Burleson             116    5      6       X
+Cano, Yuliana          Everman H S, Everman              113    6      4       X
+Segura, Isaac          Joshua HS, Joshua                 112    7
+Ahler, Caden           Granbury H S, Granbury            111    8
+Young, Ethan           Burleson HS, Burleson             100    9
+Rhodes, Liz            Crowley H S, Crowley              100    9
+Lucas, Marissa         Joshua HS, Joshua                 93     11
+Hesseltine, Brody      Granbury H S, Granbury            93     11
+Harper, Kay            Centennial HS, Burleson           87     13
+Quinn, Michael         Granbury H S, Granbury            86     14
+Montes, Abraham        Crowley H S, Crowley              79     15
+Villanueva, Elizabeth  Burleson Collegiate HS, Burleson  74     16
+Kisner, Jade           Granbury H S, Granbury            74     16
+Pando, Aurelio         Centennial HS, Burleson           72     18
+McHugh, Wesley         Joshua HS, Joshua                 70     19
+Ochoa, Diego           Crowley H S, Crowley              70     19
+Tithof, Chris          Crowley H S, Crowley              70     19
+Cook, Austin           Cleburne HS, Cleburne             67     22
+Huang, Kaishen         Everman H S, Everman              65     23
+Pham, Khang            Burleson HS, Burleson             61     24
+Thurman, Madison       Centennial HS, Burleson           61     24
+Benson, Ally           Cleburne HS, Cleburne             61     24
+Wylie, Cara            Burleson Collegiate HS, Burleson  48     27
+Nguyen, John Paul      Cleburne HS, Cleburne             46     28
+Martinez, Maria        Burleson Collegiate HS, Burleson  30     29
+Baker, Emma            Burleson Collegiate HS, Burleson  4      30
+Combrink, Rebekah      Centennial HS, Burleson           3      31
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Everman H S, Everman              1     360    1      10      X      Region
+Joshua HS, Joshua                 1     340    2      5       X      Alternate
+Granbury H S, Granbury            1     290    3
+Burleson HS, Burleson             1     277    4
+Crowley H S, Crowley              1     249    5
+Centennial HS, Burleson           1     220    6
+Cleburne HS, Cleburne             1     174    7
+Burleson Collegiate HS, Burleson  1     152    8
+
+TEAM RESULTS
+------------------------------

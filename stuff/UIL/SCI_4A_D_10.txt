@@ -1,0 +1,26 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                              Score  Place  Points  Medal  Advance
+Dowell, Eleanor    Uplift North Hills Prep HS, Irving  112    1      15      X      Region
+Lanka, Maanasa     Ranchview H S, Irving               44     2      11      X      Region
+Mayfield, Imani    Ranchview H S, Irving               44     2      11      X      Region
+layth, rowan       Uplift North Hills Prep HS, Irving  32     4      8       X      Alternate
+Walker, Katie      Ranchview H S, Irving               20     5      6       X
+Patel, Aryan       Ranchview H S, Irving               6      6      4       X
+Shaikh, Hamza      Ranchview H S, Irving               0      7
+Loxaya, Esmeralda  Carter HS, Dallas                   -24    8
+
+TOP SCORERS
+------------------------------
+Contestant       School                      Results               Points
+Lanka, Maanasa   Ranchview H S               Top Scorer Biology    3
+Mayfield, Imani  Ranchview H S               Alternate Biology     0
+Dowell, Eleanor  Uplift North Hills Prep HS  Top Scorer Chemistry  3
+layth, rowan     Uplift North Hills Prep HS  Alternate Chemistry   0
+Dowell, Eleanor  Uplift North Hills Prep HS  Top Scorer Physics    3
+Walker, Katie    Ranchview H S               Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Ranchview H S, Irving  1     108    1      10      X      Region

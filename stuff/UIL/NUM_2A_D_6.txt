@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                         Score  Place  Points  Medal  Advance
+Maurer, Colbi           Iraan H S, Iraan               29     1      13.50   X      Region
+Mitchell, Taryn         Iraan H S, Iraan               29     1      13.50   X      Region
+Santa Cruz, Jacqualine  Van Horn HS, Van Horn          26     3      10      X      Region
+Stephens, Taylor        McCamey H S, McCamey           23     4      8       X      Alternate
+McKee, Angel            McCamey H S, McCamey           20     5      6       X
+Rogel, Priscilla        Iraan H S, Iraan               18     6      2       X
+Maurer, Clint           Iraan H S, Iraan               18     6      2       X
+Black, Preslee          Wink HS, Wink                  14     8
+Schuller, Corwin        Van Horn HS, Van Horn          13     9
+Rackler, Davis          Wink HS, Wink                  13     9
+Santa Cruz, Justice     Van Horn HS, Van Horn          6      11
+Dominguez, Donovan      Fort Hancock HS, Fort Hancock  6      11
+Morales, Josue          Fort Hancock HS, Fort Hancock  4      13
+Hazlewood, Colby        McCamey H S, McCamey           -1     14
+Baeza, Crystal          Van Horn HS, Van Horn          -2     15
+Avalos, Juan            Fort Hancock HS, Fort Hancock  -2     15
+Valles, Derrick         McCamey H S, McCamey           -10    17
+Fostel, John            Wink HS, Wink                  -17    18
+Muniz, Grabriel         Wink HS, Wink                  -22    19
+Hernandez, Samuel       Fort Hancock HS, Fort Hancock  -32    20
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Iraan H S, Iraan               1     76     1      10      X      Region
+Van Horn HS, Van Horn          1     45     2      5       X      Alternate
+McCamey H S, McCamey           1     42     3
+Wink HS, Wink                  1     10     4
+Fort Hancock HS, Fort Hancock  1     8      5
+
+TEAM RESULTS
+------------------------------

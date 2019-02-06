@@ -1,0 +1,24 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                      Score  Place  Points  Medal  Advance
+Driscoll, Phillip       Clyde H S, Clyde            62     1      15      X      Region
+Schowengerdt, Harrison  Clyde H S, Clyde            20     2      12      X      Region
+Johnson, Leif           Jim Ned H S, Tuscola        16     3      10      X      Region
+Tatum, Sebastian        Jim Ned H S, Tuscola        14     4      8       X      Alternate
+Harris, Sydney          Stanton H S, Stanton        12     5      6       X
+Wheeler, Aaron          Stanton H S, Stanton        10     6      4       X
+Eberly, Wesley          Jim Ned H S, Tuscola        2      7
+Bowers, Aaron           Clyde H S, Clyde            2      7
+Alton, Dylan            Stanton H S, Stanton        -14    9
+Upshaw, Bradon          Colorado HS, Colorado City  -16    10
+Keesee, Kaelan          Stanton H S, Stanton        -20    11
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Clyde H S, Clyde      1     264    1      20      X      Region
+Jim Ned H S, Tuscola  1     92     2      16      X      Alternate
+Stanton H S, Stanton  1     8      3      12      X
+
+TEAM RESULTS
+------------------------------

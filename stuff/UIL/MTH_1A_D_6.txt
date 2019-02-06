@@ -1,0 +1,27 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Perez, Noah        Meadow HS, Meadow          68     1      15      X      Region
+Howell, Cade       Ropes HS, Ropesville       52     2      12      X      Region
+Wiebe, Jonathan    Wellman-Union HS, Wellman  38     3      10      X      Region
+Senter, Sayer      Ropes HS, Ropesville       24     4      8       X      Alternate
+Hildebrand, Julie  Wellman-Union HS, Wellman  22     5      6       X
+Wall, Trenity      Ropes HS, Ropesville       20     6      4       X
+Cruz, Michelle     Meadow HS, Meadow          18     7
+McLaurin, Lexi     New Home HS, New Home      16     8
+Buckelew, Kaden    New Home HS, New Home      16     8
+Barrington, Clara  New Home HS, New Home      10     10
+Flores, Jacob      Meadow HS, Meadow          10     10
+Jones, Kinsey      Ropes HS, Ropesville       0      12
+Tarin, Deryk       Meadow HS, Meadow          -4     13
+Bundy, Reed        New Home HS, New Home      -8     14
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Meadow HS, Meadow      1     96     1      10      X      Region
+Ropes HS, Ropesville   1     96     2      5       X      Alternate
+New Home HS, New Home  1     42     3
+
+TEAM RESULTS
+------------------------------

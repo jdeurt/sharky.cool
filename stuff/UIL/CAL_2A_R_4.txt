@@ -1,0 +1,58 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Ho, Ethan            Pettus HS, Pettus              231    1      15      X      State
+Cruces, Carolina     Three Rivers HS, Three Rivers  210    2      12      X      State
+Martinez, Samuel     Pettus HS, Pettus              189    3      10      X      State
+Britton, Dakota      Brackett HS, Brackettville     182    4      8       X      Alternate
+Wooten, Nick         Harper H S, Harper             178    5      6       X
+Moya, Josh           Three Rivers HS, Three Rivers  177    6      4       X
+Bruce, Gordon A      Brackett HS, Brackettville     170    7
+Horner, Clay         Woodsboro HS, Woodsboro        163    8
+Flores, Allen        San Isidro HS, San Isidro      163    8
+Muniz, Jovany        San Isidro HS, San Isidro      163    8
+Noel, Kaitlyn        Three Rivers HS, Three Rivers  161    11
+Conn, Brandon        Three Rivers HS, Three Rivers  161    11
+Solis, Amy           San Isidro HS, San Isidro      156    13
+Martinez, Carissa    Pettus HS, Pettus              154    14
+Shimek, Jared        Shiner HS, Shiner              149    15
+Ramon, Marina        Mason HS, Mason                147    16
+Cowan, Kaitlynn      Shiner HS, Shiner              147    16
+Rainosek, Cody       Shiner HS, Shiner              140    18
+Lawson, Julien       Pettus HS, Pettus              140    18
+Hooker, Kelton       Thrall HS, Thrall              135    20
+Mader, Luke          Harper H S, Harper             128    21
+Palmer, Kendra       Harper H S, Harper             128    21
+Palmer, Sam          Brackett HS, Brackettville     128    21
+Jackson, Kaylee      Thrall HS, Thrall              127    24
+Sanchez, Wendy       San Isidro HS, San Isidro      121    25
+Sandlin, Sarah       Normangee HS, Normangee        119    26
+Morris, Raven        Woodsboro HS, Woodsboro        119    26
+Maldonadp, Lorraine  Woodsboro HS, Woodsboro        112    28
+Van Til, Alex        Thrall HS, Thrall              106    29
+Tronicek, Sarah      Shiner HS, Shiner              98     30
+Rodriguez, Sammy     Brackett HS, Brackettville     98     30
+Mallett, Hailey      Iola HS, Iola                  91     32
+Barrett, Nathan      Normangee HS, Normangee        91     32
+Light, Madison       Normangee HS, Normangee        91     32
+Chesters, Ethan      Harper H S, Harper             87     35
+Johle, Zachary       Thrall HS, Thrall              84     36
+Preusse, Corey       Thorndale HS, Thorndale        77     37
+Martinez, K'Lynn     Woodsboro HS, Woodsboro        65     38
+Bouldin, Becky       Normangee HS, Normangee        44     39
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Pettus HS, Pettus              1     574    1      10      X      State
+Three Rivers HS, Three Rivers  1     548    2      5       X      Alternate
+San Isidro HS, San Isidro      1     482    3
+Brackett HS, Brackettville     1     480    4
+Shiner HS, Shiner              1     436    5
+Harper H S, Harper             1     434    6
+Woodsboro HS, Woodsboro        1     394    7
+Thrall HS, Thrall              1     368    8
+Normangee HS, Normangee        1     301    9
+
+TEAM RESULTS
+------------------------------

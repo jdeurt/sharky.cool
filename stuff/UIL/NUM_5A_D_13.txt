@@ -1,0 +1,50 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                 Score  Place  Points  Medal  Advance
+Garg, Rhythm           Centennial HS, Frisco  208    1      15      X      Region
+Jain, Ansh             Reedy HS, Frisco       193    2      12      X      Region
+Sangineni, Pradyun     Liberty HS, Frisco     190    3      10      X      Region
+Kapoor, Kunal          Reedy HS, Frisco       180    4      8       X      Alternate
+Kolluri, Anikait       Reedy HS, Frisco       175    5      6       X
+Shirvaikar, Vinit      Liberty HS, Frisco     174    6      4       X
+Nandagopal, Govind     Liberty HS, Frisco     163    7
+Matharasi, Aniket      Liberty HS, Frisco     142    8
+Pabbisetty, Sai        Heritage HS, Frisco    127    9
+Rout, Shreekris        Frisco H S, Frisco     124    10
+Challa, Sadhvika       Heritage HS, Frisco    121    11
+Kolli, Abhinav         Centennial HS, Frisco  118    12
+McCaulley, Samuel      Independence, Frisco   106    13
+Polisetty, Dinesh      Centennial HS, Frisco  102    14
+Cai, Fidel             Lone Star HS, Frisco   91     15
+Sethi, Akshay          Reedy HS, Frisco       83     16
+Pierce, James          Frisco H S, Frisco     73     17
+Maligi, Rahul          Heritage HS, Frisco    70     18
+Boshart, Nicholas      Frisco H S, Frisco     57     19
+Sontam, Tarun          Lone Star HS, Frisco   53     20
+Augustine, Joel        Independence, Frisco   50     21
+Chen, Joanne           Independence, Frisco   44     22
+Kannan, Krithik        Frisco H S, Frisco     39     23
+Subramanian, Priyanka  Centennial HS, Frisco  35     24
+Walter, Jack           Wakeland HS, Frisco    30     25
+Shi, Oliver            Wakeland HS, Frisco    22     26
+Konda, Pranit          Lone Star HS, Frisco   14     27
+Veluri, Shriya         Independence, Frisco   7      28
+Konduri, Krishna       Heritage HS, Frisco    1      29
+Ramakrishnan, Ritvik   Lone Star HS, Frisco   0      30
+Jones, Lucas           Wakeland HS, Frisco    0      30
+Rejda, Nick            Wakeland HS, Frisco    0      30
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Reedy HS, Frisco       1     548    1      10      X      Region
+Liberty HS, Frisco     1     527    2      5       X      Alternate
+Centennial HS, Frisco  1     428    3
+Heritage HS, Frisco    1     318    4
+Frisco H S, Frisco     1     254    5
+Independence, Frisco   1     200    6
+Lone Star HS, Frisco   1     158    7
+Wakeland HS, Frisco    1     52     8
+
+TEAM RESULTS
+------------------------------

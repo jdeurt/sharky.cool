@@ -1,0 +1,21 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                  Score  Place  Points  Medal  Advance
+Stubblefield, Taylor   London HS, Corpus Christi               28     1      13.50   X      Region
+Beard, Brendan         London HS, Corpus Christi               28     1      13.50   X      Region
+Ramirez, Mark          London HS, Corpus Christi               20     3      10      X      Region
+Avelar, Jose           Santa Gertrudis Academy HS, Kingsville  14     4      8       X      Alternate
+May, Grayson           Santa Gertrudis Academy HS, Kingsville  6      5      6       X
+Haces-Garcia, Joaquin  Santa Gertrudis Academy HS, Kingsville  0      6      4       X
+Punzalan, Vincent      Santa Gertrudis Academy HS, Kingsville  -4     7
+McNorton, Russell      London HS, Corpus Christi               -8     8
+Moreno, Adam           Banquete HS, Banquete                   -14    9
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+London HS, Corpus Christi               1     76     1      20      X      Region
+Santa Gertrudis Academy HS, Kingsville  1     20     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                        Score  Place  Points  Medal
+Senter, Sayer             Ropes HS, Ropesville          187    1      15      X
+Guthrie, Marin            Santa Anna HS, Santa Anna     182    2      12      X
+Perez, Andrea             Tioga HS, Tioga               177    3      10      X
+Wyatt, Avery              Rankin H S, Rankin            173    4      8       X
+Kalisek, Hannah           Moulton HS, Moulton           168    5      6       X
+Koenning, Parker          Garden City H S, Garden City  163    6      4       X
+Andrade, Rodrigo          Garden City H S, Garden City  163    7
+Clabaugh, Jabree          Ropes HS, Ropesville          161    8
+Lara, Mateo               Santa Anna HS, Santa Anna     161    8
+Driskill, Jordan          Fruitvale HS, Fruitvale       161    8
+Meisetschleager, Tristan  Moulton HS, Moulton           154    11
+Rongel, Abigail           Fruitvale HS, Fruitvale       149    12
+White, Rose               Fruitvale HS, Fruitvale       143    13
+Miller, Scott             Garden City H S, Garden City  142    14
+Medlock, Payton           Ropes HS, Ropesville          140    15
+Nalle, Jenna              Ropes HS, Ropesville          135    16
+Tubb, Karli               Garden City H S, Garden City  135    16
+Mitchon, Mandi            Moulton HS, Moulton           135    16
+Calfa, Angie              Santa Anna HS, Santa Anna     133    19
+Manzano, Mercedes         Moulton HS, Moulton           128    20
+White, Jaxon              Patton Springs H S, Afton     119    21
+Reading, Tressa           Knippa H S, Knippa            114    22
+Nix, Krysta               Fruitvale HS, Fruitvale       98     23
+Perry, Jayton             Santa Anna HS, Santa Anna     98     23
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Ropes HS, Ropesville          1     488    1      10      X
+Santa Anna HS, Santa Anna     1     476    2      5       X      Alternate
+Garden City H S, Garden City  1     468    3
+Moulton HS, Moulton           1     457    4
+Fruitvale HS, Fruitvale       1     453    5
+
+TEAM RESULTS
+------------------------------

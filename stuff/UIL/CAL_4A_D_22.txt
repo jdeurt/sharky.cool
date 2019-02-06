@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                  Score  Place  Points  Medal  Advance
+Curl, Brandon      Bridge City HS, Bridge City             266    1      15      X      Region
+Cunningham, Jacob  Bridge City HS, Bridge City             224    2      12      X      Region
+Tran, Michael      Bridge City HS, Bridge City             170    3      10      X      Region
+Hebert, Dylan      Hamshire-Fannett H S, Hamshire          149    4      8       X      Alternate
+Barr, Chandler     Little Cypress-Mauriceville HS, Orange  148    5      6       X
+Guerrero, Faith    Hamshire-Fannett H S, Hamshire          147    6      4       X
+Tsan, Jennifer     Orangefield H S, Orangefield            147    7
+Mugleston, Nick    Little Cypress-Mauriceville HS, Orange  142    8
+Arrieta, Marie     Hamshire-Fannett H S, Hamshire          135    9
+Tully, Emma        Hamshire-Fannett H S, Hamshire          120    10
+Carrell, Adam      Silsbee HS, Silsbee                     114    11
+Girouard, Austin   Little Cypress-Mauriceville HS, Orange  114    11
+Teng, Mengting     West Orange-Stark HS, Orange            113    13
+Shaffer, Heidi     Little Cypress-Mauriceville HS, Orange  105    14
+Gonzales, Alex     Bridge City HS, Bridge City             95     15
+Nguyen, Kathy      Orangefield H S, Orangefield            88     16
+Shutter, Carley    Silsbee HS, Silsbee                     86     17
+Francis, Adriana   Orangefield H S, Orangefield            83     18
+LaFluer, Patricia  West Orange-Stark HS, Orange            72     19
+Moore, Gavin       Silsbee HS, Silsbee                     65     20
+Fatima, Manahil    West Orange-Stark HS, Orange            59     21
+Booker, MaKaelen   West Orange-Stark HS, Orange            6      22
+Vayon, Carlee      Orangefield H S, Orangefield            -76    23
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Bridge City HS, Bridge City             1     660    1      10      X      Region
+Hamshire-Fannett H S, Hamshire          1     431    2      5       X      Alternate
+Little Cypress-Mauriceville HS, Orange  1     404    3
+Orangefield H S, Orangefield            1     318    4
+Silsbee HS, Silsbee                     1     265    5
+West Orange-Stark HS, Orange            1     244    6
+
+TEAM RESULTS
+------------------------------

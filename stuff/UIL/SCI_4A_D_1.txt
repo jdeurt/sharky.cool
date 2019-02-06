@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                  Score  Place  Points  Medal  Advance
+Nelson, Lars        Borger HS, Borger       178    1      15      X      Region
+Moran, Jacob T.     Bushland HS, Bushland   70     2      10      X      Region
+Hamid, Rohoman      Borger HS, Borger       70     2      10      X      Region
+Wright, Lindsey     Dalhart HS, Dalhart     70     2      10      X      Region
+Moreno, Bryan       Perryton H S, Perryton  66     5      6       X      Alternate
+Bradford, Kenton    Dalhart HS, Dalhart     64     6      4       X
+Garcia, Caitlyn     Dalhart HS, Dalhart     64     7
+Sarem, Natasha R.   Bushland HS, Bushland   62     8
+Sprinkle, Carter    Pampa HS, Pampa         52     9
+Quist, Ryan         Perryton H S, Perryton  44     10
+Herron, Lynn        Pampa HS, Pampa         42     11
+Bailey, Pearson     Borger HS, Borger       38     12
+Garcia, Danira      Dalhart HS, Dalhart     38     12
+Renteria, Max       Pampa HS, Pampa         36     14
+Marquez, Jackie     Perryton H S, Perryton  34     15
+Davis, Katherine    Borger HS, Borger       34     15
+Borunda, Fabian     Perryton H S, Perryton  32     17
+Townsend, Cole      Perryton H S, Perryton  32     17
+Moran, Scott P.     Bushland HS, Bushland   28     19
+Garland, Ronnie     Pampa HS, Pampa         26     20
+Hansen, Mads        Perryton H S, Perryton  24     21
+Gaines, Madison     Dalhart HS, Dalhart     24     21
+Cochran, Justin L.  Bushland HS, Bushland   18     23
+Garcia, Lynnette    Dalhart HS, Dalhart     16     24
+Miranda, Jose       Pampa HS, Pampa         10     25
+Miller, Hunter J.   Bushland HS, Bushland   8      26
+Cuevas, Brittany    Pampa HS, Pampa         6      27
+
+TOP SCORERS
+------------------------------
+Contestant         School       Results               Points
+Bradford, Kenton   Dalhart HS   Top Scorer Biology    3
+Moran, Jacob T.    Bushland HS  Alternate Biology     0
+Nelson, Lars       Borger HS    Top Scorer Chemistry  3
+Wright, Lindsey    Dalhart HS   Alternate Chemistry   0
+Nelson, Lars       Borger HS    Top Scorer Physics    3
+Sarem, Natasha R.  Bushland HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Borger HS, Borger       1     286    1      10      X      Region
+Dalhart HS, Dalhart     1     198    2      5       X      Alternate
+Bushland HS, Bushland   1     160    3
+Perryton H S, Perryton  1     144    4
+Pampa HS, Pampa         1     130    5

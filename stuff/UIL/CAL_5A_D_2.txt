@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                 Score  Place  Points  Medal  Advance
+Corona, Ricardo        Canutillo HS, El Paso                  280    1      15      X      Region
+Carrillo, Gabriel      Canutillo HS, El Paso                  259    2      12      X      Region
+Lara, Brian            Canutillo HS, El Paso                  245    3      10      X      Region
+Tovar, Carlos          Canutillo HS, El Paso                  238    4      8       X      Alternate
+Moriel, Cesar          Del Valle HS, El Paso                  217    5      6       X
+Marquez, Diana         Del Valle HS, El Paso                  203    6      4       X
+Garcia, Robert         Del Valle HS, El Paso                  196    7
+Montes, Daniela        Del Valle HS, El Paso                  189    8
+Lozano, Dominique      Parkland HS, El Paso                   114    9
+Gonzalez, Jacqueline   Parkland HS, El Paso                   111    10
+Campos, Adam           Bel Air HS, El Paso                    107    11
+De Luna, Breeza        Bel Air HS, El Paso                    92     12
+Griego, Morgan         Bel Air HS, El Paso                    88     13
+Sanchez, Veronica      Hanks H S, El Paso                     82     14
+Oyerinde, McTzviel     Northwest Early College HS, Canutillo  81     15
+Sanchez, Aldo          Eastlake H S, El Paso                  80     16
+Pinales, Beni          Bel Air HS, El Paso                    77     17
+Rodriguez, Amy         Parkland HS, El Paso                   72     18
+Hernandez, Valerie     Hanks H S, El Paso                     70     19
+Cisneros, Stephanie    Riverside H S, El Paso                 69     20
+Romero, Anthony        Parkland HS, El Paso                   67     21
+Gomez, Nathaniel       Riverside H S, El Paso                 58     22
+Martinez, Noah         Hanks H S, El Paso                     53     23
+Flores, Hannah         Northwest Early College HS, Canutillo  43     24
+Gonzalez, Joshua       Eastlake H S, El Paso                  34     25
+Cuevas, Jasmin         Northwest Early College HS, Canutillo  29     26
+Quiroz, Estrella       Riverside H S, El Paso                 24     27
+Rodriguez, Selaine     Ysleta HS, El Paso                     21     28
+Rosales, Adrian        Ysleta HS, El Paso                     7      29
+Tolentino, Christian   Eastlake H S, El Paso                  4      30
+Ingo, Alphonse         Ysleta HS, El Paso                     1      31
+Leyva, Madeline        Ysleta HS, El Paso                     -15    32
+Juarez-Rangel, Vianey  Horizon H S, El Paso                   -18    33
+Martinez, Jasmine      Riverside H S, El Paso                 -26    34
+Lewis, Amaya           Horizon H S, El Paso                   -42    35
+Cortez, Stephanie      Horizon H S, El Paso                   -52    36
+Tarin, Edgar           Eastlake H S, El Paso                  -57    37
+
+TOP SCORERS
+------------------------------
+School                                 Team  Score  Place  Points  Medal  Advance
+Canutillo HS, El Paso                  1     784    1      10      X      Region
+Del Valle HS, El Paso                  1     616    2      5       X      Alternate
+Parkland HS, El Paso                   1     297    3
+Bel Air HS, El Paso                    1     287    4
+Hanks H S, El Paso                     1     205    5
+Northwest Early College HS, Canutillo  1     153    6
+Riverside H S, El Paso                 1     151    7
+Eastlake H S, El Paso                  1     118    8
+Ysleta HS, El Paso                     1     29     9
+Horizon H S, El Paso                   1     -112   10
+
+TEAM RESULTS
+------------------------------

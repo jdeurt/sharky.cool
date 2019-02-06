@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                   Score  Place  Points  Medal  Advance
+Wang, Nicole      Savoy HS, Savoy          56     1      15      X      Region
+Johnson, Niki     Dodd City HS, Dodd City  52     2      12      X      Region
+Glaze, Baylee     Tioga HS, Tioga          46     3      10      X      Region
+Staples, Ethan    Tioga HS, Tioga          38     4      8       X      Alternate
+Vaught, Brayden   Dodd City HS, Dodd City  17     5      5       X
+Beach, Kyrin      Ector H S, Ector         17     5      5       X
+Parks, Amanda     Tioga HS, Tioga          13     7
+Essary, Nathan    Ector H S, Ector         8      8
+Jones, Cameron    Dodd City HS, Dodd City  -1     9
+Nelms, Kenny      Ector H S, Ector         -6     10
+Caloway, Makayla  Savoy HS, Savoy          -7     11
+Merritt, Madelyn  Savoy HS, Savoy          -15    12
+Gibbs, Wyatt      Ector H S, Ector         -23    13
+Ashley, Kayley    Savoy HS, Savoy          -36    14
+Stevens, Jaden    Dodd City HS, Dodd City  -36    14
+Geletko, Rayanne  Tioga HS, Tioga          -49    16
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Tioga HS, Tioga          1     97     1      10      X      Region
+Dodd City HS, Dodd City  1     68     2      5       X      Alternate
+Savoy HS, Savoy          1     34     3
+Ector H S, Ector         1     19     4
+
+TEAM RESULTS
+------------------------------

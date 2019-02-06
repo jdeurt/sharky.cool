@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                           Score  Place  Points  Medal  Advance
+King, Brendan         Marcus HS, Flower Mound          266    1      15      X      Region
+Xu, Peiyuan           Carroll HS, Southlake            204    2      12      X      Region
+Ward, Mitchell        Carroll HS, Southlake            200    3      10      X      Region
+Garner, Michael       Marcus HS, Flower Mound          198    4      8       X      Alternate
+Kodali, Anaya         Marcus HS, Flower Mound          188    5      6       X
+Gunampalli, Tarun     Flower Mound HS, Flower Mound    178    6      4       X
+Charania, Ayra        Marcus HS, Flower Mound          170    7
+Bashyam, Chaitanya    Marcus HS, Flower Mound          152    8
+Miao, Daniel          Flower Mound HS, Flower Mound    148    9
+Kuketz, Garrett       Carroll HS, Southlake            142    10
+Cao, William          Flower Mound HS, Flower Mound    140    11
+Jain, Anuj            Flower Mound HS, Flower Mound    138    12
+Singh, Sahaj          Carroll HS, Southlake            134    13
+Skarjune, Brendan     Marcus HS, Flower Mound          124    14
+Kowtha, Anvith        Flower Mound HS, Flower Mound    124    14
+Dontula, Ritesh       Coppell HS, Coppell              102    16
+Jeong, Han            Coppell HS, Coppell              92     17
+Shamblin, Grant       Hebron HS, Carrollton            88     18
+Parades, Andres       Nelson High School, Trophy Club  86     19
+Lee, Dongkyu          Coppell HS, Coppell              84     20
+Bandopadhyay, Shreya  Coppell HS, Coppell              78     21
+Mishra, Mrityunjay    Coppell HS, Coppell              70     22
+Kowtha, Rithi         Flower Mound HS, Flower Mound    70     22
+Otterson, Maddie      Nelson High School, Trophy Club  68     24
+Yun, Sunjong          Hebron HS, Carrollton            62     25
+McCulloch, Colleen    Nelson High School, Trophy Club  58     26
+Mims, Ashley          Nelson High School, Trophy Club  50     27
+Moin, Danish          Hebron HS, Carrollton            42     28
+RoyChowdhury, Ayush   Coppell HS, Coppell              34     29
+Joo, Ashley           Nelson High School, Trophy Club  32     30
+Heredia, Karla        Lewisville H S, Lewisville       16     31
+Duran, Lizeth         Lewisville H S, Lewisville       10     32
+Martinez, Javaughn    Lewisville H S, Lewisville       8      33
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+Miao, Daniel       Flower Mound HS  Top Scorer Biology    3
+Garner, Michael    Marcus HS        Alternate Biology     0
+Gunampalli, Tarun  Flower Mound HS  Top Scorer Chemistry  3
+Charania, Ayra     Marcus HS        Alternate Chemistry   0
+King, Brendan      Marcus HS        Top Scorer Physics    3
+Cao, William       Flower Mound HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Marcus HS, Flower Mound          1     652    1      10      X      Region
+Carroll HS, Southlake            1     546    2      5       X      Alternate
+Flower Mound HS, Flower Mound    1     466    3
+Coppell HS, Coppell              1     278    4
+Nelson High School, Trophy Club  1     212    5
+Hebron HS, Carrollton            1     192    6
+Lewisville H S, Lewisville       1     34     7

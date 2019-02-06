@@ -1,0 +1,22 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School               Score  Place  Points  Medal  Advance
+Castillo, Adrian     Gustine HS, Gustine  10     1      15      X      Region
+Murillo, Karina      Gustine HS, Gustine  4      2      12      X      Region
+Terry, Brandon       Zephyr HS, Zephyr    -8     3      10      X      Region
+Lopez, Mark          Blanket HS, Blanket  -10    4      8       X      Alternate
+Mills, Shawn         Blanket HS, Blanket  -10    5      6       X
+Ramirez, Claudia     Gustine HS, Gustine  -10    6      4       X
+Holbach, Malachi     Gustine HS, Gustine  -18    7
+Simpson, Walter      Zephyr HS, Zephyr    -20    8
+Terpening, Thomas    Zephyr HS, Zephyr    -28    9
+Reedy, Shon-Patrick  Zephyr HS, Zephyr    -40    10
+
+TOP SCORERS
+------------------------------
+School               Team  Score  Place  Points  Medal  Advance
+Gustine HS, Gustine  1     -10    1      20      X      Region
+Zephyr HS, Zephyr    1     -152   2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

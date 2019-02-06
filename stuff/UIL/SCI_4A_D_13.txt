@@ -1,0 +1,55 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                       Score  Place  Points  Medal  Advance
+Coffey, Chloe             Mabank HS, Mabank            104    1      15      X      Region
+Suarez, Luis              Brownsboro HS, Brownsboro    86     2      12      X      Region
+Swanson, Timothy          Van HS, Van                  72     3      10      X      Region
+Sandlin, Colin            Mabank HS, Mabank            64     4      8       X      Alternate
+Cotton, Hunter            Brownsboro HS, Brownsboro    62     5      6       X
+Nowlin-Martinez, Savanna  Canton HS, Canton            54     6      4       X
+Opitz, Madison            Canton HS, Canton            52     7
+Partin, Edmund            Canton HS, Canton            46     8
+Hipsher, Drayson          Canton HS, Canton            46     8
+Elliott, Sarah            Canton HS, Canton            46     8
+Abdullah, Kaleb           Rains H S, Emory             46     8
+Barrentine, Ethan         Brownsboro HS, Brownsboro    40     12
+Schunatz, Jacoby          Mabank HS, Mabank            32     13
+Lozano, Angel             Wills Point HS, Wills Point  32     13
+Koontz, Elijah            Van HS, Van                  32     13
+Jarrett, Jesse            Rains H S, Emory             32     13
+Armstrong, Hunter         Rains H S, Emory             30     17
+Hannawald, Aiden          Wills Point HS, Wills Point  26     18
+White, Alex               Rains H S, Emory             24     19
+Halsted, Lyric            Wills Point HS, Wills Point  24     19
+Stewart, Ashton           Van HS, Van                  18     21
+Nicks, Riley              Canton HS, Canton            16     22
+Olvera Rojo, Roberto      Brownsboro HS, Brownsboro    14     23
+Elliott, Hayden           Mabank HS, Mabank            12     24
+Norton, Naomi             Mabank HS, Mabank            12     24
+Benitez, Emily            Wills Point HS, Wills Point  12     24
+Ashby, Kasey              Wills Point HS, Wills Point  12     24
+Kong, Leeanne             Mabank HS, Mabank            10     28
+Bryant, Alice             Wills Point HS, Wills Point  10     28
+Starr, Lanee              Brownsboro HS, Brownsboro    8      30
+Gwenesynn, Mitchell       Van HS, Van                  6      31
+Arent-Schocler, Dacia     Van HS, Van                  4      32
+
+TOP SCORERS
+------------------------------
+Contestant        School         Results               Points
+Suarez, Luis      Brownsboro HS  Top Scorer Biology    3
+Cotton, Hunter    Brownsboro HS  Alternate Biology     0
+Coffey, Chloe     Mabank HS      Top Scorer Chemistry  3
+Sandlin, Colin    Mabank HS      Alternate Chemistry   0
+Swanson, Timothy  Van HS         Top Scorer Physics    1.50
+Abdullah, Kaleb   Rains H S      Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Mabank HS, Mabank            1     200    1      10      X      Region
+Brownsboro HS, Brownsboro    1     188    2      5       X      Alternate
+Canton HS, Canton            1     152    3
+Van HS, Van                  1     122    4
+Rains H S, Emory             1     108    5
+Wills Point HS, Wills Point  1     82     6

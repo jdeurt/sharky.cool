@@ -1,0 +1,15 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School           Score  Place  Points  Medal  Advance
+Parks, Elisabeth  Tioga HS, Tioga  122    1      15      X      Region
+Polley, Owenn     Tioga HS, Tioga  10     2      12      X      Region
+Simes, Abbie      Tioga HS, Tioga  8      3      10      X      Region
+Staples, Ethan    Tioga HS, Tioga  -6     4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School           Team  Score  Place  Points  Medal  Advance
+Tioga HS, Tioga  1     140    1      20      X      Region
+
+TEAM RESULTS
+------------------------------

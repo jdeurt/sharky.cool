@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                      Score  Place  Points  Medal  Advance
+Nguyen, Zachary       Garland H S, Garland        203    1      15      X      Region
+Chung, Norman         Garland H S, Garland        196    2      12      X      Region
+Pervaiz, Syed         Richardson H S, Richardson  170    3      10      X      Region
+Dam, Alina            Garland H S, Garland        168    4      8       X      Alternate
+Mach, Howard          Garland H S, Garland        161    5      6       X
+Abutalib, Syed        Richardson H S, Richardson  160    6      4       X
+Nguyen, Long          North Garland H S, Garland  154    7
+Tran, Kevin           North Garland H S, Garland  140    8
+Dejong, Alex          Richardson H S, Richardson  128    9
+Tran, Helen           North Garland H S, Garland  126    10
+Okamura, Leah         Pearce H S, Richardson      112    11
+Mishler, Patrick      Richardson H S, Richardson  110    12
+Ahmed, Maisha         North Garland H S, Garland  105    13
+Dinklang, Wallas      Pearce H S, Richardson      77     14
+Mandell, Nathan       Pearce H S, Richardson      61     15
+Hosseinpour, Mehshad  Pearce H S, Richardson      -29    16
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Garland H S, Garland        1     567    1      10      X      Region
+Richardson H S, Richardson  1     458    2      5       X      Alternate
+North Garland H S, Garland  1     420    3
+Pearce H S, Richardson      1     250    4
+
+TEAM RESULTS
+------------------------------

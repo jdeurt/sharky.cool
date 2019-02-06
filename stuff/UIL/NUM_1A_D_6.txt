@@ -1,0 +1,22 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                     Score  Place  Points  Medal  Advance
+Senter, Sayer     Ropes HS, Ropesville       83     1      15      X      Region
+Wiebe, Jonathan   Wellman-Union HS, Wellman  77     2      12      X      Region
+Howell, Cade      Ropes HS, Ropesville       73     3      10      X      Region
+Clabaugh, Jabree  Ropes HS, Ropesville       46     4      8       X      Alternate
+Olsen, Carolynne  New Home HS, New Home      34     5      6       X
+Trull, Chloe      Ropes HS, Ropesville       24     6      4       X
+Abney, Carter     New Home HS, New Home      5      7
+Mays, Jaelynn R   Southland HS, Southland    2      8
+LeClair, Kaleb    New Home HS, New Home      0      9
+Grantham, Keagen  New Home HS, New Home      -18    10
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Ropes HS, Ropesville   1     202    1      10      X      Region
+New Home HS, New Home  1     39     2      5       X      Alternate
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Hopping, Timothy   Gilmer H S, Gilmer          98     1      15      X      Region
+Patterson, Ezra    Chapel Hill HS, Tyler       80     2      12      X      Region
+Hoskins, Nicholas  Kilgore H S, Kilgore        78     3      10      X      Region
+Gipson, Cameron    Gilmer H S, Gilmer          70     4      8       X      Alternate
+Kuczkowski, Katy   Bullard HS, Bullard         68     5      5       X
+Flores, Eduardo    Spring Hill H S, Longview   68     5      5       X
+White, Conner      Bullard HS, Bullard         66     7
+Medley, Ethan      Bullard HS, Bullard         62     8
+Brownlee, Colton   Spring Hill H S, Longview   60     9
+Snell, Madison     Spring Hill H S, Longview   60     9
+Vadasz, Nick       Spring Hill H S, Longview   58     11
+McFatridge, David  Spring Hill H S, Longview   58     11
+Carter, Jared      Chapel Hill HS, Tyler       56     13
+McCoy, Megan       Bullard HS, Bullard         56     13
+Villarreal, Jesus  Chapel Hill HS, Tyler       52     15
+Bilnoski, Seth     Spring Hill H S, Longview   50     16
+Albright, Emma     Gilmer H S, Gilmer          46     17
+Sexton, Victoria   Gladewater H S, Gladewater  36     18
+Butts, Jordan      Kilgore H S, Kilgore        36     18
+Nichols, Josh      Gladewater H S, Gladewater  28     20
+Sanchez, Armando   Chapel Hill HS, Tyler       26     21
+Luna, Jonathan     Chapel Hill HS, Tyler       20     22
+McEvoy, Deanna     Gladewater H S, Gladewater  16     23
+Turner, Ben        Gladewater H S, Gladewater  16     23
+Ritchie, Hannah    Chapel Hill HS, Tyler       -12    25
+Hollins, Quavion   Kilgore H S, Kilgore        -44    26
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+Hoskins, Nicholas  Kilgore H S      Top Scorer Biology    3
+Flores, Eduardo    Spring Hill H S  Alternate Biology     0
+Vadasz, Nick       Spring Hill H S  Top Scorer Chemistry  3
+Hopping, Timothy   Gilmer H S       Alternate Chemistry   0
+White, Conner      Bullard HS       Top Scorer Physics    3
+Hopping, Timothy   Gilmer H S       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Gilmer H S, Gilmer          1     214    1      10      X      Region
+Bullard HS, Bullard         1     196    2      5       X      Alternate
+Chapel Hill HS, Tyler       1     188    3
+Spring Hill H S, Longview   1     188    3
+Gladewater H S, Gladewater  1     80     5
+Kilgore H S, Kilgore        1     70     6

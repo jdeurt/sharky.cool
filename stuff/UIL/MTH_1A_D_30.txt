@@ -1,0 +1,28 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                          Score  Place  Points  Medal  Advance
+Kubicek, Zane      Moulton HS, Moulton             66     1      15      X      Region
+Bartos, Noah       Moulton HS, Moulton             58     2      12      X      Region
+Drabek, Garrett    Moulton HS, Moulton             56     3      10      X      Region
+Kram, Braden       Moulton HS, Moulton             34     4      8       X      Alternate
+Ramirez, Luz       McDade HS, McDade               24     5      5       X
+Dearing, Samantha  Prairie Lea HS, Prairie Lea     24     5      5       X
+Cruz, Omar         McDade HS, McDade               14     7
+Caceres, Diana     Prairie Lea HS, Prairie Lea     14     7
+Ward, Bayley       Round Top-Carmine H S, Carmine  4      9
+Garcia, Brandon    Prairie Lea HS, Prairie Lea     4      9
+Gillette, Miles    Fayetteville HS, Fayetteville   -2     11
+Ramirez, Raul      McDade HS, McDade               -2     11
+Perez, Maria       Prairie Lea HS, Prairie Lea     -10    13
+Finke, Alexys      Round Top-Carmine H S, Carmine  -16    14
+Araujo, Aaron      McDade HS, McDade               -24    15
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Moulton HS, Moulton          1     180    1      10      X      Region
+Prairie Lea HS, Prairie Lea  1     42     2      5       X      Alternate
+McDade HS, McDade            1     36     3
+
+TEAM RESULTS
+------------------------------

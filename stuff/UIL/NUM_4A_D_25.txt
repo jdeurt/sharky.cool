@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Hendrix, John        Bellville HS, Bellville  123    1      15      X      Region
+Paget, Clayton       Bellville HS, Bellville  83     2      12      X      Region
+Sanchez, Aaron       Sealy H S, Sealy         80     3      10      X      Region
+Trinh, Dung          Stafford HS, Stafford    79     4      8       X      Alternate
+Smith, Lucas         Columbus HS, Columbus    77     5      6       X
+Clark, Hunter        Sealy H S, Sealy         61     6      4       X
+Atkinson, Lyndon     Needville HS, Needville  59     7
+Segovia, Alec        Bellville HS, Bellville  53     8
+Luong, Jason         Stafford HS, Stafford    53     8
+Garza, Tim           Needville HS, Needville  45     10
+Nguyen, Vy           Stafford HS, Stafford    40     11
+Stoeltje, Mason      Needville HS, Needville  39     12
+Ashorn, Patricia     Sealy H S, Sealy         39     12
+Henley, Alexia       Sealy H S, Sealy         36     14
+Lee, Joseph          Stafford HS, Stafford    30     15
+Lowe, Scotlyn        Needville HS, Needville  20     16
+Story, Erin          Columbus HS, Columbus    20     16
+Leopold, Hayden      Columbus HS, Columbus    17     18
+Pawlik, Madison      Columbus HS, Columbus    9      19
+Gonzalez, Julio      Royal HS, Pattison       -3     20
+Amador, Araceli      Royal HS, Pattison       -9     21
+Beausoleil, William  Bellville HS, Bellville  -16    22
+Rocha, Juliana       Royal HS, Pattison       -30    23
+Griffin, Ishma       Royal HS, Pattison       -33    24
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Bellville HS, Bellville  1     259    1      10      X      Region
+Sealy H S, Sealy         1     180    2      5       X      Alternate
+Stafford HS, Stafford    1     172    3
+Needville HS, Needville  1     143    4
+Columbus HS, Columbus    1     114    5
+Royal HS, Pattison       1     -42    6
+
+TEAM RESULTS
+------------------------------

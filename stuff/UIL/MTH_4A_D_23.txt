@@ -1,0 +1,25 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                           Score  Place  Points  Medal  Advance
+Stone, Ben         Hardin-Jefferson H S, Sour Lake  212    1      15      X      Region
+Anderson, Hunter   Tarkington HS, Cleveland         100    2      12      X      Region
+Matak, Landon      Hardin-Jefferson H S, Sour Lake  90     3      10      X      Region
+Worley, Dustin     Hargrave HS, Huffman             76     4      8       X      Alternate
+McCain, Chasity    Hardin-Jefferson H S, Sour Lake  72     5      6       X
+Ferrell, Jacob     Hargrave HS, Huffman             58     6      4       X
+Goebel, Ashton     Hardin-Jefferson H S, Sour Lake  56     7
+Callendar, Oliver  Hargrave HS, Huffman             32     8
+Layne, Noah        Hargrave HS, Huffman             26     9
+Thompson, Owen     Cleveland HS, Cleveland          20     10
+Korynna, Renteria  Tarkington HS, Cleveland         8      11
+Bautista, Marisol  Tarkington HS, Cleveland         -4     12
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Hardin-Jefferson H S, Sour Lake  1     374    1      10      X      Region
+Hargrave HS, Huffman             1     166    2      5       X      Alternate
+Tarkington HS, Cleveland         1     104    3
+
+TEAM RESULTS
+------------------------------

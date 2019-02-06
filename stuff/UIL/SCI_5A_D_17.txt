@@ -1,0 +1,60 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Tomlinson, River     Whitehouse HS, Whitehouse      192    1      15      X      Region
+Hilario, Vincent     Whitehouse HS, Whitehouse      156    2      12      X      Region
+Bari, Tasnia         Whitehouse HS, Whitehouse      154    3      10      X      Region
+McGinnis, Hannah     Whitehouse HS, Whitehouse      154    4      8       X      Alternate
+Boyce, Justin        Whitehouse HS, Whitehouse      146    5      6       X
+Pagan, Matthew       Ennis H S, Ennis               126    6      4       X
+Russell, Tyler       Lindale H S, Lindale           124    7
+Talukder, Raiyan     Whitehouse HS, Whitehouse      122    8
+Adams, Joe           Lindale H S, Lindale           116    9
+Artea, Sergio        Ennis H S, Ennis               104    10
+Kuslak, Brina        Lindale H S, Lindale           96     11
+Desai, Ronak         Lindale H S, Lindale           94     12
+Crowe, Connor        Jacksonville HS, Jacksonville  92     13
+Saldana, Lizbet      Jacksonville HS, Jacksonville  86     14
+Regalado, Humberto   Corsicana H S, Corsicana       82     15
+Desai, Riya          Lindale H S, Lindale           80     16
+Miller, Devon        Ennis H S, Ennis               76     17
+Meador, Tyler        Lindale H S, Lindale           72     18
+Plain, Trinity       Ennis H S, Ennis               66     19
+Galetka, Nick        Ennis H S, Ennis               64     20
+Christiansen, Alec   Jacksonville HS, Jacksonville  62     21
+Engstrom, Jordan     Nacogdoches H S, Nacogdoches   58     22
+Engstrom, Adam       Nacogdoches H S, Nacogdoches   56     23
+Hernandez, Alan      Ennis H S, Ennis               50     24
+Pardo, Kirsten       Jacksonville HS, Jacksonville  36     25
+Bonner, Gabriela     Corsicana H S, Corsicana       36     25
+Vaquera, Anneth      Corsicana H S, Corsicana       34     27
+Martinez, Uriel      Jacksonville HS, Jacksonville  32     28
+Nicholas, Christian  Nacogdoches H S, Nacogdoches   22     29
+Leon, Erick          Nacogdoches H S, Nacogdoches   22     29
+Reed, Caden          Corsicana H S, Corsicana       18     31
+Dublin, Jackson      Jacksonville HS, Jacksonville  16     32
+Guzman, Ronaldo      Corsicana H S, Corsicana       14     33
+Nicholas, Joshua     Nacogdoches H S, Nacogdoches   10     34
+Vera, Daniela        Nacogdoches H S, Nacogdoches   4      35
+Rivas, Sarai         Corsicana H S, Corsicana       -12    36
+
+TOP SCORERS
+------------------------------
+Contestant        School           Results               Points
+Bari, Tasnia      Whitehouse HS    Top Scorer Biology    3
+Crowe, Connor     Jacksonville HS  Alternate Biology     0
+McGinnis, Hannah  Whitehouse HS    Alternate Biology     0
+Tomlinson, River  Whitehouse HS    Top Scorer Chemistry  3
+Hilario, Vincent  Whitehouse HS    Alternate Chemistry   0
+Russell, Tyler    Lindale H S      Top Scorer Physics    3
+Meador, Tyler     Lindale H S      Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Whitehouse HS, Whitehouse      1     502    1      10      X      Region
+Lindale H S, Lindale           1     336    2      5       X      Alternate
+Ennis H S, Ennis               1     306    3
+Jacksonville HS, Jacksonville  1     240    4
+Corsicana H S, Corsicana       1     152    5
+Nacogdoches H S, Nacogdoches   1     136    6

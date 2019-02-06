@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+Lancaster, Matthew    City View HS, Wichita Falls  206    1      15      X      Region
+Waggoner, Logan       Paradise HS, Paradise        132    2      12      X      Region
+Perez, Logan          Holliday H S, Holliday       60     3      10      X      Region
+Nader, Michael        City View HS, Wichita Falls  58     4      8       X      Alternate
+Davenport, Landon     Jacksboro H S, Jacksboro     54     5      6       X
+Webb, Tryston         Paradise HS, Paradise        54     6      4       X
+Smith, J.C.           Henrietta H S, Henrietta     52     7
+Delgadillo, Siclaly   Paradise HS, Paradise        52     8
+Toulan, Brendan       Holliday H S, Holliday       44     9
+Prindle, Megan        Paradise HS, Paradise        34     10
+Frederick, Macie      Henrietta H S, Henrietta     32     11
+Ellis, Colten         Holliday H S, Holliday       32     12
+Martinez, Dora        City View HS, Wichita Falls  24     13
+Parrish, Jadan        Holliday H S, Holliday       22     14
+Rollans, Rhett        Jacksboro H S, Jacksboro     18     15
+Hoang, Tuan           City View HS, Wichita Falls  16     16
+Graves, Shana         Jacksboro H S, Jacksboro     14     17
+Harrington, Kobe      Nocona H S, Nocona           14     18
+Lemon, Destiny        Nocona H S, Nocona           14     19
+McNett, Desmond       Henrietta H S, Henrietta     14     20
+Diaz, Sergio          Nocona H S, Nocona           10     21
+Garcia, Fatima        Nocona H S, Nocona           8      22
+Richardson, Brinkley  Jacksboro H S, Jacksboro     6      23
+Hammonds, Dylan       Henrietta H S, Henrietta     0      24
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+City View HS, Wichita Falls  1     288    1      10      X      Region
+Paradise HS, Paradise        1     238    2      5       X      Alternate
+Holliday H S, Holliday       1     136    3
+Henrietta H S, Henrietta     1     98     4
+Jacksboro H S, Jacksboro     1     86     5
+Nocona H S, Nocona           1     38     6
+
+TEAM RESULTS
+------------------------------

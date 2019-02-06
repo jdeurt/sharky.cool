@@ -1,0 +1,21 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                          Score  Place  Points  Medal  Advance
+Sublett, Weston    May HS, May                     10     1      15      X      Region
+Flenniken, Connor  May HS, May                     8      2      12      X      Region
+McMillan, James    Cross Plains H S, Cross Plains  4      3      10      X      Region
+Brennan, L         Rising Star HS, Rising Star     4      4      8       X      Alternate
+Medford, M         Rising Star HS, Rising Star     2      5      6       X
+Pruitt, Dylan      May HS, May                     0      6      4       X
+Patterson, R       Rising Star HS, Rising Star     -2     7
+Willett, H         Rising Star HS, Rising Star     -10    8
+Calvagna, Eddy     Cross Plains H S, Cross Plains  -10    8
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+May HS, May                  1     18     1      20      X      Region
+Rising Star HS, Rising Star  1     4      2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,50 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                      Score  Place  Points  Medal  Advance
+Gibson, JJ           Guthrie HS, Guthrie         88     1      15      X      Region
+Valdes, Ismael       Valley HS, Turkey           52     2      12      X      Region
+Ruthven, Tara S.     Paducah HS, Paducah         50     3      10      X      Region
+Gibson, PL           Guthrie HS, Guthrie         42     4      8       X      Alternate
+Brandon, Brittney    Guthrie HS, Guthrie         42     5      6       X
+Moorhead, Keldan     Jayton H S, Jayton          40     6      4       X
+White, Jaxon         Patton Springs H S, Afton   40     7
+Cortez, Bobbie       Jayton H S, Jayton          38     8
+Jenkins, Eli         Guthrie HS, Guthrie         36     9
+Boger, Shaylee       Guthrie HS, Guthrie         34     10
+Schlueter, Tristan   Valley HS, Turkey           34     11
+Drum, Cade           Motley County H S, Matador  34     12
+Davis, Kyle          Patton Springs H S, Afton   32     13
+Falcon, Prescott     Motley County H S, Matador  28     14
+Givens, Madison      Spur HS, Spur               22     15
+Drum, Case           Motley County H S, Matador  22     16
+Reyna, David         Patton Springs H S, Afton   20     17
+Reyes, Karla         Spur HS, Spur               14     18
+Richards, Nathan     Motley County H S, Matador  12     19
+Smith, Pecos         Jayton H S, Jayton          10     20
+Smith, Brylee        Guthrie HS, Guthrie         8      21
+Reyes, Kevin         Spur HS, Spur               6      22
+Martinez, Francisco  Jayton H S, Jayton          4      23
+Allen, Daxon         Valley HS, Turkey           2      24
+Gilbert, Hunter M.   Paducah HS, Paducah         0      25
+Childers, Kailyx     Spur HS, Spur               -4     26
+Quilimaco, Leon      Patton Springs H S, Afton   -4     27
+
+TOP SCORERS
+------------------------------
+Contestant        School              Results               Points
+Gibson, JJ        Guthrie HS          Top Scorer Biology    3
+Ruthven, Tara S.  Paducah HS          Alternate Biology     0
+Valdes, Ismael    Valley HS           Top Scorer Chemistry  1.50
+Drum, Cade        Motley County H S   Top Scorer Chemistry  1.50
+Davis, Kyle       Patton Springs H S  Top Scorer Physics    3
+White, Jaxon      Patton Springs H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Guthrie HS, Guthrie         1     172    1      10      X      Region
+Patton Springs H S, Afton   1     92     2      5       X      Alternate
+Jayton H S, Jayton          1     88     3
+Valley HS, Turkey           1     88     3
+Motley County H S, Matador  1     84     5
+Spur HS, Spur               1     42     6

@@ -1,0 +1,15 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School              Score  Place  Points  Medal  Advance
+Rinke, Justus R   Hedley H S, Hedley  14     1      15      X      Region
+Bhakta, Kabir     Kelton HS, Wheeler  2      2      12      X      Region
+Monroe, Collin T  Hedley H S, Hedley  -4     3      10      X      Region
+Mestas, Zarek L   Hedley H S, Hedley  -14    4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Hedley H S, Hedley  1     -4     1      20      X      Region
+
+TEAM RESULTS
+------------------------------

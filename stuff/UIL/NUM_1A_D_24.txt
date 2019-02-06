@@ -1,0 +1,32 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Garner, Keith       Fruitvale HS, Fruitvale                 86     1      15      X      Region
+Hunt, Daniel        Yantis HS, Yantis                       57     2      12      X      Region
+Witte, Kevin        Fruitvale HS, Fruitvale                 50     3      10      X      Region
+Mcqueen, Austin     UT Tyler Innovation Academy, Palestine  36     4      8       X      Alternate
+Rush, Laney         Fruitvale HS, Fruitvale                 25     5      5       X
+Smith, Joshua       UT Tyler Innovation Academy, Tyler      25     5      5       X
+Servin, Olivia      Fruitvale HS, Fruitvale                 24     7
+Humphrey, Ryan      UT Tyler Innovation Academy, Tyler      20     8
+Willingham, Thomas  UT Tyler Innovation Academy, Palestine  14     9
+Heflin, Josie       Union Hill H S, Gilmer                  8      10
+Johnson, James      Bloomburg HS, Bloomburg                 -1     11
+Banta, Reid         UT Tyler Innovation Academy, Tyler      -1     11
+Ewalt, Tucker       Yantis HS, Yantis                       -3     13
+Olsen, James        Bloomburg HS, Bloomburg                 -4     14
+Adams, Kennie       UT Tyler Innovation Academy, Tyler      -10    15
+Calhoun, Kamryn     Bloomburg HS, Bloomburg                 -12    16
+Birdwell, Cobe      UT Tyler Innovation Academy, Palestine  -19    17
+Everingham, Chance  UT Tyler Innovation Academy, Longview   -54    18
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Fruitvale HS, Fruitvale                 1     161    1      10      X      Region
+UT Tyler Innovation Academy, Tyler      1     44     2      5       X      Alternate
+UT Tyler Innovation Academy, Palestine  1     31     3
+Bloomburg HS, Bloomburg                 1     -17    4
+
+TEAM RESULTS
+------------------------------

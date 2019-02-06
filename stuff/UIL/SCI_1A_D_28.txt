@@ -1,0 +1,46 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Goins, Levi          Chester HS, Chester              38     1      15      X      Region
+Hanson, Lily         Kennard H S, Kennard             34     2      12      X      Region
+Hanson, Andrew       Kennard H S, Kennard             34     3      10      X      Region
+Green, Kylie         Apple Springs HS, Apple Springs  32     4      8       X      Alternate
+Hammons, Cade        Kennard H S, Kennard             30     5      5       X
+Hollis, Ethan        Apple Springs HS, Apple Springs  30     5      5       X
+Bowden, Levi         Wells HS, Wells                  30     7
+Parrish, Hunter      Kennard H S, Kennard             22     8
+Parrish, Cade        Chester HS, Chester              22     8
+Brister, Emily       Apple Springs HS, Apple Springs  14     10
+Scroggins, Alexa     Wells HS, Wells                  12     11
+Syzdek, Samuel       Apple Springs HS, Apple Springs  12     11
+Barnes, Dane         Chester HS, Chester              12     11
+Burch, Kaley         Wells HS, Wells                  10     14
+Frederick, Shane     Wells HS, Wells                  6      15
+Pendergraft, Dakota  Kennard H S, Kennard             6      15
+Tullos, Drayden      Apple Springs HS, Apple Springs  4      17
+Cole, Tori           Kennard H S, Kennard             4      17
+Rayburn, Annie       Chester HS, Chester              4      17
+Wagnon, Stone        Martinsville HS, Martinsville    2      20
+Mejia, Abby          Martinsville HS, Martinsville    0      21
+Read, Seth           Chester HS, Chester              -2     22
+Tullos, Ethan        Apple Springs HS, Apple Springs  -6     23
+Griner, Gavin        Martinsville HS, Martinsville    -34    24
+
+TOP SCORERS
+------------------------------
+Contestant       School       Results               Points
+Hanson, Andrew   Kennard H S  Top Scorer Biology    1.50
+Hanson, Lily     Kennard H S  Top Scorer Biology    1.50
+Hanson, Andrew   Kennard H S  Top Scorer Chemistry  3
+Parrish, Hunter  Kennard H S  Alternate Chemistry   0
+Goins, Levi      Chester HS   Top Scorer Physics    3
+Bowden, Levi     Wells HS     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Kennard H S, Kennard             1     98     1      10      X      Region
+Apple Springs HS, Apple Springs  1     76     2      5       X      Alternate
+Chester HS, Chester              1     72     3
+Wells HS, Wells                  1     52     4
+Martinsville HS, Martinsville    1     -32    5

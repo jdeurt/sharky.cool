@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                          Score  Place  Points  Medal  Advance
+Solomon, JC         Danbury H S, Danbury            44     1      15      X      Region
+Lee, Cole           East Bernard H S, East Bernard  42     2      12      X      Region
+Dent, Jacob         Danbury H S, Danbury            42     3      9       X      Region
+Ressler, Katherine  Brazos HS, Wallis               42     3      9       X      Region
+Stephenson, Gerald  Hitchcock H S, Hitchcock        40     5      6       X      Alternate
+Waidner, Sandra     Hitchcock H S, Hitchcock        38     6      4       X
+Bosse, Justin       East Bernard H S, East Bernard  38     7
+Martin, Chris       Danbury H S, Danbury            36     8
+Phillips, Joaquin   Danbury H S, Danbury            36     8
+Mayo, Colten        Brazos HS, Wallis               36     8
+Ham, Bryce          Danbury H S, Danbury            36     8
+Canaris, Drayton    Rice H S, Altair                32     12
+Krpec, Macee        Rice H S, Altair                28     13
+Bodden, Trinity     Danbury H S, Danbury            28     13
+Pedroza, Jairo      Brazos HS, Wallis               22     15
+Gonzalez, Linda     Brazos HS, Wallis               18     16
+Combie, Florenz     Brazos HS, Wallis               12     17
+Muniz, Kandace      East Bernard H S, East Bernard  8      18
+Howard, Chloe       East Bernard H S, East Bernard  8      18
+Kalisek, Michael    Rice H S, Altair                8      18
+Waidner, Victoria   Hitchcock H S, Hitchcock        0      21
+Delgado, Jessica    Brazos HS, Wallis               0      21
+Schulman, Connor    Rice H S, Altair                -8     23
+Landry, Geran       Hitchcock H S, Hitchcock        -10    24
+Ibarra, Eli         Hitchcock H S, Hitchcock        -12    25
+Tholen, Jerad       Hitchcock H S, Hitchcock        -16    26
+Johnson, Joe        Rice H S, Altair                -18    27
+
+TOP SCORERS
+------------------------------
+Contestant          School            Results               Points
+Dent, Jacob         Danbury H S       Top Scorer Biology    3
+Waidner, Sandra     Hitchcock H S     Alternate Biology     0
+Mayo, Colten        Brazos HS         Top Scorer Chemistry  3
+Ressler, Katherine  Brazos HS         Alternate Chemistry   0
+Bosse, Justin       East Bernard H S  Top Scorer Physics    3
+Bodden, Trinity     Danbury H S       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Danbury H S, Danbury            1     122    1      10      X      Region
+Brazos HS, Wallis               1     100    2      5       X      Alternate
+East Bernard H S, East Bernard  1     88     3
+Hitchcock H S, Hitchcock        1     78     4
+Rice H S, Altair                1     68     5

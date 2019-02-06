@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Tran, Matthew          O'Connor HS, Helotes             214    1      15      X      Region
+Ran, Lindsey           Health Careers H S, San Antonio  188    2      12      X      Region
+Petterson, Thomas      Jay H S, San Antonio             173    3      10      X      Region
+Walsdorf, Rachel       Jay H S, San Antonio             126    4      8       X      Alternate
+Martinez, Jorge        Jay H S, San Antonio             115    5      6       X
+Provow, Joslyn         Jay H S, San Antonio             107    6      4       X
+Do, Trang              Brandeis HS, San Antonio         105    7
+Cho, Yohahn            Warren HS, San Antonio           100    8
+Cortes, Davcon         Marshall HS, San Antonio         98     9
+Cummings, Clayton      Clark HS, San Antonio            88     10
+Rice, John             O'Connor HS, Helotes             88     10
+Gao, Anne              Health Careers H S, San Antonio  85     12
+Howard, Madison        Holmes H S, San Antonio          85     12
+Kent, David            O'Connor HS, Helotes             80     14
+Burrus, Warren         O'Connor HS, Helotes             77     15
+Salinas, Olivia        Warren HS, San Antonio           72     16
+Li, Jenna              Health Careers H S, San Antonio  70     17
+Feng, Richard          Health Careers H S, San Antonio  69     18
+Chin, Will             Clark HS, San Antonio            68     19
+Fu, Annie              Brandeis HS, San Antonio         62     20
+Garza, Rose            Clark HS, San Antonio            51     21
+Pineiro, Nicolas       Holmes H S, San Antonio          42     22
+Ruiz-Tenorio, Gerardo  Holmes H S, San Antonio          35     23
+Cho, Yoel              Warren HS, San Antonio           29     24
+Ketchum, Abigail       Warren HS, San Antonio           27     25
+Calicotte, Mary        Stevens H S, San Antonio         25     26
+Reyna, Mckaylah        Holmes H S, San Antonio          20     27
+King, Joshua           Taft HS, San Antonio             18     28
+Lawrence, Noah         Taft HS, San Antonio             17     29
+Mullen, Danielle       Brennan H S, San Antonio         17     29
+Reyes, Andrea          Brandeis HS, San Antonio         5      31
+De Jesus, Mario        Marshall HS, San Antonio         1      32
+Dehoyos, Jacob         Brennan H S, San Antonio         -4     33
+Perez, Suzie           Stevens H S, San Antonio         -6     34
+Lindsey, Clayton       Clark HS, San Antonio            -10    35
+Cardenas, David        Brandeis HS, San Antonio         -19    36
+McClinton, Jordan      Taft HS, San Antonio             -19    36
+Machado, Serena        Stevens H S, San Antonio         -25    38
+Piedra, Enrique        Brennan H S, San Antonio         -27    39
+Siordia, Vincent       Taft HS, San Antonio             -58    40
+Bhat, Aditi            Marshall HS, San Antonio         -89    41
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Jay H S, San Antonio             1     414    1      10      X      Region
+O'Connor HS, Helotes             1     382    2      5       X      Alternate
+Health Careers H S, San Antonio  1     343    3
+Clark HS, San Antonio            1     207    4
+Warren HS, San Antonio           1     201    5
+Brandeis HS, San Antonio         1     172    6
+Holmes H S, San Antonio          1     162    7
+Taft HS, San Antonio             1     16     8
+Marshall HS, San Antonio         1     10     9
+Stevens H S, San Antonio         1     -6     10
+Brennan H S, San Antonio         1     -14    11
+
+TEAM RESULTS
+------------------------------

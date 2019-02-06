@@ -1,0 +1,59 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                         Score  Place  Points  Medal  Advance
+Cantu, Daniel      Kaufer HS, Riviera             42     1      15      X      Region
+Escamilla, Luke    Three Rivers HS, Three Rivers  40     2      12      X      Region
+Hubert, Zeke       Kaufer HS, Riviera             32     3      10      X      Region
+Nelson, Wendy      Kaufer HS, Riviera             30     4      8       X      Alternate
+Salinas, Monique   Benavides HS, Benavides        28     5      6       X
+Hernandez, Daniel  Premont HS, Premont            24     6      4       X
+Meineke, Kendall   Three Rivers HS, Three Rivers  22     7
+Trevino, Trey      Benavides HS, Benavides        22     7
+Bernsen, Teddy     Agua Dulce HS, Agua Dulce      22     7
+Torres, Julian     Three Rivers HS, Three Rivers  20     10
+Reynado, Nicholas  Agua Dulce HS, Agua Dulce      20     10
+Garza, Eddie       Freer HS, Freer                18     12
+Colle, Jamie       Agua Dulce HS, Agua Dulce      18     12
+Aguayo, Danielle   Ben Bolt HS, Ben Bolt          18     12
+Santos, Alma       Freer HS, Freer                18     12
+Poe, Simon         Premont HS, Premont            16     16
+Gonzalez, Bryan    Benavides HS, Benavides        16     16
+Lujan, Ashley      Ben Bolt HS, Ben Bolt          14     18
+Perez, Joel        Premont HS, Premont            14     18
+Rodriguez, John    Agua Dulce HS, Agua Dulce      14     18
+Moya, Josh         Three Rivers HS, Three Rivers  14     18
+Cruces, Carolina   Three Rivers HS, Three Rivers  12     22
+Long, Victoria     Agua Dulce HS, Agua Dulce      12     22
+McKnight, Layla    Kaufer HS, Riviera             12     22
+Noel, Kaitlyn      Three Rivers HS, Three Rivers  10     25
+Garcia, Zandra     Kaufer HS, Riviera             4      26
+Cantu, Cameran     Freer HS, Freer                4      26
+Linscomb, Jodi     Freer HS, Freer                -2     28
+Massey, Eric       Freer HS, Freer                -2     28
+Pena, Luis         Benavides HS, Benavides        -4     30
+Lerma, Samuel      Kaufer HS, Riviera             -18    31
+Cadena, Jayden     Ben Bolt HS, Ben Bolt          -44    32
+Garcia, Ashley     Benavides HS, Benavides        -50    33
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+Poe, Simon         Premont HS       Top Scorer Biology    3
+Cantu, Daniel      Kaufer HS        Alternate Biology     0
+Hernandez, Daniel  Premont HS       Top Scorer Chemistry  3
+Salinas, Monique   Benavides HS     Alternate Chemistry   0
+Escamilla, Luke    Three Rivers HS  Top Scorer Physics    0.75
+Trevino, Trey      Benavides HS     Top Scorer Physics    0.75
+Hubert, Zeke       Kaufer HS        Top Scorer Physics    0.75
+Bernsen, Teddy     Agua Dulce HS    Top Scorer Physics    0.75
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Kaufer HS, Riviera             1     104    1      10      X      Region
+Three Rivers HS, Three Rivers  1     82     2      5       X      Alternate
+Benavides HS, Benavides        1     66     3
+Agua Dulce HS, Agua Dulce      1     60     4
+Premont HS, Premont            1     54     5
+Freer HS, Freer                1     40     6
+Ben Bolt HS, Ben Bolt          1     -12    7

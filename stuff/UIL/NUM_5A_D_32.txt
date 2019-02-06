@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                             Score  Place  Points  Medal  Advance
+Garza, Neida        Edcouch-Elsa H S, Edcouch          117    1      15      X      Region
+Garza, Joel         Edcouch-Elsa H S, Edcouch          109    2      12      X      Region
+Moreno, Ernesto     Edcouch-Elsa H S, Edcouch          69     3      10      X      Region
+Tinajero, Alicia    Edcouch-Elsa H S, Edcouch          53     4      8       X      Alternate
+Garza, David        Lopez HS, Brownsville              32     5      6       X
+Ramirez, Ricardo    Porter HS, Brownsville             26     6      2       X
+Butanda, Adrian     Mercedes HS, Mercedes              26     6      2       X
+Vargas, Angelica    Porter HS, Brownsville             20     8
+Lopez, Esmeralda    Lopez HS, Brownsville              17     9
+Rodriguez, Juan     Porter HS, Brownsville             17     9
+Flores, John        Veterans Memorial HS, Brownsville  13     11
+Flores, Oziel       Porter HS, Brownsville             12     12
+Reyes, Rolando      Lopez HS, Brownsville              -1     13
+Lopez, Julissa      Lopez HS, Brownsville              -1     13
+Puente, David       Mercedes HS, Mercedes              -3     15
+Acuna, Guillermo    Donna North HS, Donna              -5     16
+Lara, Veronica      Mercedes HS, Mercedes              -7     17
+Garza, Francisco    Pace H S, Brownsville              -10    18
+Solano, Pablo       Mercedes HS, Mercedes              -16    19
+Moran, Cecilia      Pace H S, Brownsville              -52    20
+Abarca, Antonio     Pace H S, Brownsville              -82    21
+Poggio, Alexzandra  Pace H S, Brownsville              -106   22
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Edcouch-Elsa H S, Edcouch  1     295    1      10      X      Region
+Porter HS, Brownsville     1     63     2      5       X      Alternate
+Lopez HS, Brownsville      1     48     3
+Mercedes HS, Mercedes      1     16     4
+Pace H S, Brownsville      1     -144   5
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                    Score  Place  Points  Medal  Advance
+George, Nevin     Cinco Ranch HS, Katy      294    1      15      X      Region
+Liu, Hannah       Seven Lakes H S, Katy     278    2      12      X      Region
+Basvoju, Abhinav  Seven Lakes H S, Katy     256    3      10      X      Region
+Koka, Shanth      Seven Lakes H S, Katy     254    4      8       X      Alternate
+Ye, Jennings      Seven Lakes H S, Katy     250    5      6       X
+Lee, Donghyun     Cinco Ranch HS, Katy      176    6      4       X
+Joshi, Ansh       Tompkins HS, Katy         172    7
+Cortes, Santiago  Taylor HS, Katy           166    8
+Profilet, Ryan    Tompkins HS, Katy         164    9
+Karim, Joshua     Tompkins HS, Katy         154    10
+Yao, Kevin        Tompkins HS, Katy         154    11
+Zhang, Jinny      Cinco Ranch HS, Katy      136    12
+Vuong, Nathan     Mayde Creek H S, Houston  44     13
+Tarin, Sherlyn    Mayde Creek H S, Houston  40     14
+Tebo, Elizabeth   Mayde Creek H S, Houston  28     15
+Zaldivar, Cesar   Mayde Creek H S, Houston  8      16
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Seven Lakes H S, Katy     1     788    1      10      X      Region
+Cinco Ranch HS, Katy      1     606    2      5       X      Alternate
+Tompkins HS, Katy         1     490    3
+Mayde Creek H S, Houston  1     112    4
+
+TEAM RESULTS
+------------------------------

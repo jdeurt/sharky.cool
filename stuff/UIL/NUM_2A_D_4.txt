@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Montoya, Gilbert     Abernathy HS, Abernathy  87     1      15      X      Region
+Macias, Adrian       Abernathy HS, Abernathy  71     2      12      X      Region
+Moore, Grant         Abernathy HS, Abernathy  51     3      10      X      Region
+Bender, Seth         Abernathy HS, Abernathy  44     4      8       X      Alternate
+Diaz, Brooke         Ralls H S, Ralls         27     5      6       X
+Martinez, Arnoldo    Floydada H S, Floydada   23     6      4       X
+Salazar, Alyssa      Ralls H S, Ralls         18     7
+Tidwell, Kelby       Post HS, Post            16     8
+Gentry, Kevin        New Deal H S, New Deal   14     9
+Harding, Dakota      New Deal H S, New Deal   8      10
+Isbell, Jacob        Post HS, Post            8      10
+Self, Sterlin        Post HS, Post            8      10
+Briones, Jodie       Floydada H S, Floydada   4      13
+Record, Lucas        Post HS, Post            4      13
+Suarez, Andres       Floydada H S, Floydada   -1     15
+Smith, Joshua        Post HS, Post            -4     16
+Wells, Ryan          New Deal H S, New Deal   -5     17
+Rodriguez, Paul Ray  New Deal H S, New Deal   -10    18
+Ramirez, Ruth        Floydada H S, Floydada   -16    19
+Meza, Virginia       Ralls H S, Ralls         -18    20
+Salazar, Devin       Ralls H S, Ralls         -38    21
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Abernathy HS, Abernathy  1     209    1      10      X      Region
+Post HS, Post            1     32     2      5       X      Alternate
+Ralls H S, Ralls         1     27     3
+Floydada H S, Floydada   1     26     4
+New Deal H S, New Deal   1     17     5
+
+TEAM RESULTS
+------------------------------

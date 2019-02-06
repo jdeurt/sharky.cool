@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                            Score  Place  Points  Medal  Advance
+Acosta, Jay        Kennedale H S, Kennedale          202    1      15      X      Region
+Chen, Christopher  Kennedale H S, Kennedale          196    2      12      X      Region
+Nguyen, Long       Kennedale H S, Kennedale          182    3      10      X      Region
+Ham, Olivia        Kennedale H S, Kennedale          178    4      8       X      Alternate
+Kuhn, Noah         Mineral Wells H S, Mineral Wells  108    5      6       X
+Aaron, Bradley     Mineral Wells H S, Mineral Wells  50     6      4       X
+Babcock, Tanner    Springtown HS, Springtown         42     7
+Hall, Zachary      Springtown HS, Springtown         40     8
+Roberson, Jerin    Castleberry HS, Fort Worth        34     9
+Tieu, Khang        Castleberry HS, Fort Worth        14     10
+Crawford, Logan    Mineral Wells H S, Mineral Wells  14     10
+Counasse, Tucker   Springtown HS, Springtown         12     12
+Ronning, Michael   Springtown HS, Springtown         2      13
+Lemus, Kevin       Mineral Wells H S, Mineral Wells  -6     14
+Camacho, Karina    Castleberry HS, Fort Worth        -30    15
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Kennedale H S, Kennedale          1     1180   1      20      X      Region
+Mineral Wells H S, Mineral Wells  1     412    2      16      X      Alternate
+Springtown HS, Springtown         1     154    3      12      X
+Castleberry HS, Fort Worth        1     18     4
+
+TEAM RESULTS
+------------------------------

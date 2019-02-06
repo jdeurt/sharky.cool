@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Kwak, Peter          Flower Mound HS, Flower Mound    240    1      15      X      Region
+Cao, William         Flower Mound HS, Flower Mound    224    2      11      X      Region
+King, Brendan        Marcus HS, Flower Mound          224    2      11      X      Region
+Hirsch, Jason        Marcus HS, Flower Mound          202    4      8       X      Alternate
+Richey, David        Carroll HS, Southlake            200    5      5       X
+Karkala, Rohith      Coppell HS, Coppell              200    5      5       X
+Gates, Lucas         Hebron HS, Carrollton            190    7
+Madiar, Simoni       Carroll HS, Southlake            182    8
+Habich, Alex         Hebron HS, Carrollton            178    9
+Chandupatia, Pranav  Carroll HS, Southlake            170    10
+Bailey, Evan         Marcus HS, Flower Mound          166    11
+Jagan, Tanya         Hebron HS, Carrollton            158    12
+Law, Wilhem          Flower Mound HS, Flower Mound    154    13
+Davis, Nicholas      Lewisville H S, Lewisville       140    14
+Bottum, Blake        Carroll HS, Southlake            138    15
+Howard, Matthew      Nelson High School, Trophy Club  132    16
+Zheng, Skyler        Coppell HS, Coppell              128    17
+Cox, Tristan         Marcus HS, Flower Mound          126    18
+Soni, Eashan         Coppell HS, Coppell              124    19
+Funk, Brandon        Lewisville H S, Lewisville       122    20
+Teague, John         Flower Mound HS, Flower Mound    122    20
+Medzorian, Kevin     Nelson High School, Trophy Club  122    20
+Akinepalli, Pranav   Coppell HS, Coppell              122    20
+Ji, Matthew          Nelson High School, Trophy Club  112    24
+Castillo, Eugene     Nelson High School, Trophy Club  104    25
+Morrison, Zach       Lewisville H S, Lewisville       102    26
+Mahaley, Mya         Hebron HS, Carrollton            86     27
+Eckroth, James       Lewisville H S, Lewisville       46     28
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Flower Mound HS, Flower Mound    1     1333   1      20      X      Region
+Carroll HS, Southlake            1     1207   2      16      X      Alternate
+Marcus HS, Flower Mound          1     1127   3      12      X
+Hebron HS, Carrollton            1     1051   4
+Coppell HS, Coppell              1     987    5
+Nelson High School, Trophy Club  1     721    6
+Lewisville H S, Lewisville       1     659    7
+
+TEAM RESULTS
+------------------------------

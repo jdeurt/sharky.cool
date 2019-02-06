@@ -1,0 +1,22 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                               Score  Place  Points  Medal  Advance
+Alberts, Jacob         Challenge Early College HS, Houston  80     1      15      X      Region
+Garcia, Oscar          Challenge Early College HS, Houston  66     2      12      X      Region
+Benitiz, Brian         Challenge Early College HS, Houston  64     3      10      X      Region
+Randall, Rashard       Yates HS, Houston                    38     4      8       X      Alternate
+Dos Santos, Milagros   Challenge Early College HS, Houston  36     5      6       X
+Castorena, Jose        Wheatley HS, Houston                 34     6      4       X
+Panhwar, Hajra         Liberty HS, Houston                  30     7
+Maldonado, Hector      Liberty HS, Houston                  24     8
+Paredes, Vivian        Liberty HS, Houston                  16     9
+Quintanilla, Gabriela  Liberty HS, Houston                  -12    10
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Challenge Early College HS, Houston  1     210    1      10      X      Region
+Liberty HS, Houston                  1     70     2      5       X      Alternate
+
+TEAM RESULTS
+------------------------------

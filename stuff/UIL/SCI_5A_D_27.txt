@@ -1,0 +1,54 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                      Score  Place  Points  Medal  Advance
+Dairo, Paul          Foster H S, Richmond        166    1      15      X      Region
+Zhang, Jessica       Calhoun HS, Port Lavaca     140    2      12      X      Region
+Chidiac, Zoey        Foster H S, Richmond        104    3      10      X      Region
+Nguyen, Bao Khanh    Foster H S, Richmond        100    4      7       X      Alternate
+Koussa, George       Lamar Cons H S, Rosenberg   100    4      7       X      Alternate
+Lauterbach, Abigail  Calhoun HS, Port Lavaca     96     6      4       X
+Bui, Phuquy          Foster H S, Richmond        94     7
+Zhou, Yi             Foster H S, Richmond        92     8
+Lu, Zoey             Calhoun HS, Port Lavaca     74     9
+Deibel, Julie        Victoria East HS, Victoria  58     10
+Emma, Matak          Victoria East HS, Victoria  56     11
+Hu, Jr-Chen          Victoria East HS, Victoria  50     12
+Cook, Joey           Foster H S, Richmond        46     13
+Lindsey, Sam         Fulshear HS, Fulshear       46     13
+Jensen, Julia        Fulshear HS, Fulshear       46     13
+Valadez, Nathan      Calhoun HS, Port Lavaca     46     13
+Dai, Quanjie         Calhoun HS, Port Lavaca     42     17
+Wang, Katherine      Calhoun HS, Port Lavaca     42     17
+Moreno, Sofia        Fulshear HS, Fulshear       40     19
+Wertman, Teagan      Victoria East HS, Victoria  38     20
+Holt, Joseph         Victoria West HS, Victoria  38     20
+Reyes, Jonathan      Victoria West HS, Victoria  28     22
+Perry, Elijah        Victoria East HS, Victoria  28     22
+Mishra, Rhea         Fulshear HS, Fulshear       28     22
+Bilewski, Rafal      Fulshear HS, Fulshear       26     25
+Lowery, Emily        Victoria West HS, Victoria  18     26
+Garcia, Dakila       Fulshear HS, Fulshear       18     26
+Mikush, Mikenzie     Victoria West HS, Victoria  16     28
+Pham, Kathy          Victoria East HS, Victoria  0      29
+Reyes, Adriana       Victoria West HS, Victoria  -2     30
+Ramos, Brooke        Victoria West HS, Victoria  -8     31
+
+TOP SCORERS
+------------------------------
+Contestant       School          Results               Points
+Lu, Zoey         Calhoun HS      Top Scorer Biology    3
+Koussa, George   Lamar Cons H S  Alternate Biology     0
+Zhou, Yi         Foster H S      Top Scorer Chemistry  3
+Dairo, Paul      Foster H S      Alternate Chemistry   0
+Zhang, Jessica   Calhoun HS      Alternate Chemistry   0
+Dairo, Paul      Foster H S      Top Scorer Physics    1.50
+Valadez, Nathan  Calhoun HS      Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Foster H S, Richmond        1     370    1      10      X      Region
+Calhoun HS, Port Lavaca     1     310    2      5       X      Alternate
+Victoria East HS, Victoria  1     164    3
+Fulshear HS, Fulshear       1     132    4
+Victoria West HS, Victoria  1     84     5

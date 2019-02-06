@@ -1,0 +1,63 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                                  Score  Place  Points  Medal  Advance
+Kwak, Peter              Flower Mound HS, Flower Mound           240    1      15      X      State
+Reynolds, Orion          Martin HS, Arlington                    224    2      9       X      State
+Arjun, Aditya            Plano West Sr HS, Plano                 224    2      9       X      State
+Fazzani, Bruno           Plano East Sr HS, Plano                 224    2      9       X      State
+Kinney, Kevin            Plano Sr HS, Plano                      224    2      9       X      State
+King, Brendan            Marcus HS, Flower Mound                 216    6      0.80    X      Alternate
+McMahon, Collin          Plano West Sr HS, Plano                 216    6      0.80    X      Alternate
+Choudhary, Harsh         Plano East Sr HS, Plano                 216    6      0.80    X      Alternate
+Qavi, Humza              Plano East Sr HS, Plano                 216    6      0.80    X      Alternate
+Wang, Brian              Plano West Sr HS, Plano                 216    6      0.80    X      Alternate
+Kenny, Patrick           Central HS, Keller                      208    11
+Dinh, Dylan              Martin HS, Arlington                    208    11
+Barksdale, William       North Crowley H S, Fort Worth           206    13
+Cao, William             Flower Mound HS, Flower Mound           204    14
+Lin, Dachey              Plano West Sr HS, Plano                 200    15
+Belhiti, Badr            Killeen H S, Killeen                    192    16
+Yi, Jaeha                Coronado HS, El Paso                    180    17
+Bruhn, Cole              Martin HS, Arlington                    180    17
+Law, Wilhem              Flower Mound HS, Flower Mound           172    19
+Bui, Nicholas            Martin HS, Arlington                    164    20
+Laberge, Samuel          Franklin H S, El Paso                   158    21
+Teague, John             Flower Mound HS, Flower Mound           152    22
+Gupta, Shray             Keller H S, Keller                      148    23
+Herrera, Melchor         Franklin H S, El Paso                   146    24
+Cooley, William          Frenship H S, Wolfforth                 138    25
+Noh, Richard             Central HS, Keller                      136    26
+Win, Lawrence            Belton HS, Belton                       134    27
+Sylvester, Andrew        Timber Creek HS, Keller                 132    28
+Patel, Vehansh           Plano East Sr HS, Plano                 130    29
+Singh, Yug               Central HS, Keller                      128    30
+Lackey, Garrett          Midway H S, Woodway                     114    31
+Manacup, John            Frenship H S, Wolfforth                 106    32
+Ward, Vincent            Central HS, San Angelo                  96     33
+Fleeman, Braeden         Central HS, San Angelo                  96     33
+SonneveltBixler, Skylar  Central HS, San Angelo                  90     35
+Rucker, Joe              Irving HS, Irving                       88     36
+Bible, Sean              MacArthur HS, Irving                    84     37
+AJOSE, OJUOLAPE          South Grand Prairie H S, Grand Prairie  76     38
+Langdale, Brady          Midway H S, Woodway                     66     39
+Majors, Andrew           Midway H S, Woodway                     62     40
+ADEMUWAGUN, ESTHER       South Grand Prairie H S, Grand Prairie  56     41
+DURAN, LUIS              South Grand Prairie H S, Grand Prairie  54     42
+Ma, Andy                 Franklin H S, El Paso                   30     43
+Telles, Alec             Franklin H S, El Paso                   10     44
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Plano West Sr HS, Plano                 1     1246   1      20      X      State
+Plano East Sr HS, Plano                 1     1176   2      16      X      Alternate
+Flower Mound HS, Flower Mound           1     1141   3      12      X
+Martin HS, Arlington                    1     1032   4
+Central HS, Keller                      1     932    5
+Midway H S, Woodway                     1     477    6
+Franklin H S, El Paso                   1     444    7
+Central HS, San Angelo                  1     402    8
+South Grand Prairie H S, Grand Prairie  1     366    9
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,24 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School              Score  Place  Points  Medal  Advance
+Spencer, Riley      Alpine HS, Alpine   110    1      15      X      Region
+Nguyen, Hung        Kermit H S, Kermit  78     2      12      X      Region
+Rice, Brandon       Alpine HS, Alpine   60     3      10      X      Region
+DeGuia, Rose        Alpine HS, Alpine   44     4      8       X      Alternate
+Cardenas, Jennifer  Kermit H S, Kermit  38     5      6       X
+Castilla, Marcos    Crane HS, Crane     34     6      4       X
+Vasquez, Uriel      Crane HS, Crane     28     7
+Valles, Jayme       Alpine HS, Alpine   28     8
+Morales, Jennifer   Crane HS, Crane     16     9
+Page, Hunter        Kermit H S, Kermit  6      10
+Ortega, Naila       Crane HS, Crane     -30    11
+
+TOP SCORERS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Alpine HS, Alpine   1     214    1      10      X      Region
+Kermit H S, Kermit  1     122    2      5       X      Alternate
+Crane HS, Crane     1     78     3
+
+TEAM RESULTS
+------------------------------

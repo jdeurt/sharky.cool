@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Loewes, Harrison    Brock HS, Brock                210    1      15      X      Region
+Johnson, Andrew     Tolar HS, Tolar                204    2      12      X      Region
+Finney, Jackson     Brock HS, Brock                172    3      10      X      Region
+McPherson, Halston  Brock HS, Brock                154    4      8       X      Alternate
+Boleman, Sage       Brock HS, Brock                130    5      6       X
+Alvarado, Maria     Breckenridge HS, Breckenridge  76     6      4       X
+Moser, Makenna      Breckenridge HS, Breckenridge  72     7
+Morphew, Derian     Tolar HS, Tolar                64     8
+Locke, Preston      Millsap H S, Millsap           60     9
+Bonnell, Jack       Tolar HS, Tolar                60     9
+Hatchett, Maegan    Breckenridge HS, Breckenridge  56     11
+Clopton, Matt       Cisco HS, Cisco                52     12
+Casarez, Angie      Millsap H S, Millsap           40     13
+Hodges, NIck        Tolar HS, Tolar                36     14
+Haley, Knightlin    Breckenridge HS, Breckenridge  32     15
+Aguilar, Miguel     Millsap H S, Millsap           26     16
+Ball, Carmen        Cisco HS, Cisco                24     17
+Lovelace, Logan     Millsap H S, Millsap           18     18
+Peace, Jake         Cisco HS, Cisco                12     19
+Garcia, Esmerelda   Cisco HS, Cisco                -4     20
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Brock HS, Brock                1     536    1      10      X      Region
+Tolar HS, Tolar                1     328    2      5       X      Alternate
+Breckenridge HS, Breckenridge  1     204    3
+Millsap H S, Millsap           1     126    4
+Cisco HS, Cisco                1     88     5
+
+TEAM RESULTS
+------------------------------

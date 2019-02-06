@@ -1,0 +1,46 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                           Score  Place  Points  Medal  Advance
+Johnson, Micah S      Sulphur Bluff HS, Sulphur Bluff  44     1      15      X      Region
+Watts, Jacob J        Sulphur Bluff HS, Sulphur Bluff  22     2      12      X      Region
+South, Turner J       Sulphur Bluff HS, Sulphur Bluff  20     3      10      X      Region
+Mitchell, Jason       Roxton H S, Roxton               18     4      8       X      Alternate
+Valenzuela, Nathan    Saltillo HS, Saltillo            12     5      6       X
+Chesson, Elizabeth L  Fannindel HS, Ladonia            10     6      4       X
+Earp, Grant           Miller Grove H S, Cumby          10     7
+South, Trayton C      Sulphur Bluff HS, Sulphur Bluff  10     8
+Wade, Kristina        Saltillo HS, Saltillo            10     9
+Fornof, Rebekah A     Fannindel HS, Ladonia            10     10
+Foley, Isaac Z        Sulphur Bluff HS, Sulphur Bluff  8      11
+Ham, Eli L            Sulphur Bluff HS, Sulphur Bluff  8      11
+Carter, Hunter        Roxton H S, Roxton               8      11
+Schmacher, Lynn H     Fannindel HS, Ladonia            8      11
+Bain, Chandler        Saltillo HS, Saltillo            8      11
+Thomas, Dustin        Miller Grove H S, Cumby          8      11
+Serrano, Albert       Miller Grove H S, Cumby          8      11
+Moore, Ben            Saltillo HS, Saltillo            6      18
+Anderson, Alexis      Roxton H S, Roxton               4      19
+Blalock, Raymond      Roxton H S, Roxton               2      20
+Conner, Nikki M       Fannindel HS, Ladonia            2      20
+Peeples, Brittney     Saltillo HS, Saltillo            2      20
+Underwood, Zane       Saltillo HS, Saltillo            -2     23
+Childress, Amber P    Fannindel HS, Ladonia            -6     24
+
+TOP SCORERS
+------------------------------
+Contestant          School            Results               Points
+Johnson, Micah S    Sulphur Bluff HS  Top Scorer Biology    3
+Schmacher, Lynn H   Fannindel HS      Alternate Biology     0
+Carter, Hunter      Roxton H S        Top Scorer Chemistry  1.50
+Valenzuela, Nathan  Saltillo HS       Top Scorer Chemistry  1.50
+South, Turner J     Sulphur Bluff HS  Top Scorer Physics    1.50
+Johnson, Micah S    Sulphur Bluff HS  Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Sulphur Bluff HS, Sulphur Bluff  1     86     1      10      X      Region
+Saltillo HS, Saltillo            1     30     2      5       X      Alternate
+Roxton H S, Roxton               1     30     3
+Fannindel HS, Ladonia            1     28     4
+Miller Grove H S, Cumby          1     26     5

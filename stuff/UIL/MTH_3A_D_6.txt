@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School                 Score  Place  Points  Medal  Advance
+Valle, Jacob     Brady HS, Brady        94     1      15      X      Region
+DeRay, Rayven    Coleman HS, Coleman    84     2      12      X      Region
+Deramus, John    Coleman HS, Coleman    80     3      10      X      Region
+Cagle, Shelby    Bangs HS, Bangs        74     4      8       X      Alternate
+Ezzell, Preston  Early H S, Early       74     5      6       X
+Gilligan, Joe    Comanche HS, Comanche  68     6      4       X
+Smith, Dominque  Early H S, Early       62     7
+Rangel, Vianey   Comanche HS, Comanche  48     8
+Foster, Zachary  Comanche HS, Comanche  44     9
+Nall, Jared      Coleman HS, Coleman    44     9
+Moore, Cole      Dublin HS, Dublin      42     11
+Edgin, Ben       Bangs HS, Bangs        40     12
+Estes, Reta      Brady HS, Brady        40     12
+Rose, Hannah     Coleman HS, Coleman    38     14
+Mason, Brianna   Early H S, Early       34     15
+Kang, Inayat     Early H S, Early       32     16
+Mercer, Clayton  Comanche HS, Comanche  28     17
+Cook, Cody       Dublin HS, Dublin      24     18
+Colunga, Anna    Brady HS, Brady        18     19
+Light, Dawson    Bangs HS, Bangs        18     19
+Taylor, Chad     Bangs HS, Bangs        12     21
+Pitre, Kyler     Brady HS, Brady        8      22
+Ancira, Mystie   Dublin HS, Dublin      6      23
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Coleman HS, Coleman    1     208    1      10      X      Region
+Early H S, Early       1     170    2      5       X      Alternate
+Comanche HS, Comanche  1     160    3
+Brady HS, Brady        1     152    4
+Bangs HS, Bangs        1     132    5
+Dublin HS, Dublin      1     72     6
+
+TEAM RESULTS
+------------------------------

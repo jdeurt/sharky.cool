@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                           Score  Place  Points  Medal
+TORRALBA, MANUEL    Ozona H S, Ozona                 202    1      15      X
+Blood, Kirk         Sabine Pass HS, Sabine Pass      172    2      12      X
+ELLIOTT, CHANTZ     Ozona H S, Ozona                 152    3      10      X
+TORRALBA, HUMBERTO  Ozona H S, Ozona                 138    4      8       X
+Britton, Dakota     Brackett HS, Brackettville       130    5      6       X
+Jensen, Benjamin    Brackett HS, Brackettville       128    6      4       X
+Brown, Ben          Port Aransas HS, Port Aransas    104    7
+KNAACK, JOSH        Ozona H S, Ozona                 98     8
+Eckenrod, Mason     Brackett HS, Brackettville       96     9
+Russell, Ryan       San Augustine HS, San Augustine  92     10
+Hebert, Ben         Port Aransas HS, Port Aransas    90     11
+Zumwalt, Jacob      Sabine Pass HS, Sabine Pass      72     12
+Scott, Josh         Port Aransas HS, Port Aransas    72     12
+Barello, Jordan     Port Aransas HS, Port Aransas    62     14
+Escareno, Noah      Sabine Pass HS, Sabine Pass      58     15
+Allen, Jake         Brackett HS, Brackettville       54     16
+Medina, Jesus       Sabine Pass HS, Sabine Pass      48     17
+Warren, Ally        Archer City HS, Archer City      48     17
+Gray, Spencer       Trenton HS, Trenton              48     17
+Finley, Timothy     Trenton HS, Trenton              32     20
+Haden, Joshua       Trenton HS, Trenton              30     21
+Aguilar, Moises     Trenton HS, Trenton              18     22
+Southard, Yancey    Perrin-Whitt H S, Perrin         6      23
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Ozona H S, Ozona               1     1087   1      20      X
+Brackett HS, Brackettville     1     834    2      16      X      Alternate
+Sabine Pass HS, Sabine Pass    1     592    3      12      X
+Port Aransas HS, Port Aransas  1     566    4
+Trenton HS, Trenton            1     290    5
+
+TEAM RESULTS
+------------------------------

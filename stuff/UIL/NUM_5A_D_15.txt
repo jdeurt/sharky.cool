@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Luo, Richard        Highland Park H S, Dallas   337    1      15      X      Region
+Wang, Stacy         Highland Park H S, Dallas   271    2      12      X      Region
+Nandekar, Parth     Highland Park H S, Dallas   247    3      10      X      Region
+Li, Amy             Highland Park H S, Dallas   227    4      8       X      Alternate
+Bell, Samuel I      Lovejoy HS, Lucas           124    5      6       X
+Mao, Andrew         Lovejoy HS, Lucas           119    6      4       X
+Keating, Louis      Forney H S, Forney          41     7
+Shaikh, Hassaan     Lovejoy HS, Lucas           31     8
+Preston, Luke       Forney H S, Forney          30     9
+Ruiz, Ryan          Forney H S, Forney          17     10
+Leek, Jonathan      West Mesquite HS, Mesquite  17     10
+Hernandez, Maria    Royse City H S, Royse City  7      12
+Rodriguez, Elan     Poteet HS, Mesquite         1      13
+Banoub, Anne Marie  West Mesquite HS, Mesquite  -1     14
+Reimer, Brennan     Royse City H S, Royse City  -4     15
+Trammell, Maggie    Royse City H S, Royse City  -10    16
+Contreras, David    Royse City H S, Royse City  -12    17
+Huang, Yi Ming      Forney H S, Forney          -14    18
+Diaz, Francisco     Poteet HS, Mesquite         -28    19
+Recina, Jonathan    West Mesquite HS, Mesquite  -28    19
+Shipp, Lucy         Wylie East H S, Wylie       -32    21
+Okorafor, Obioma    West Mesquite HS, Mesquite  -36    22
+Derry, Jalyn        Poteet HS, Mesquite         -178   23
+Lindblom, Haley     Poteet HS, Mesquite         -189   24
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Highland Park H S, Dallas   1     855    1      10      X      Region
+Lovejoy HS, Lucas           1     274    2      5       X      Alternate
+Forney H S, Forney          1     88     3
+Royse City H S, Royse City  1     -7     4
+West Mesquite HS, Mesquite  1     -12    5
+Poteet HS, Mesquite         1     -205   6
+
+TEAM RESULTS
+------------------------------

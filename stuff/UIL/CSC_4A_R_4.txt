@@ -1,0 +1,56 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                               Score  Place  Points  Medal  Advance
+Schoener, James       Needville HS, Needville              232    1      15      X      State
+Hoke, Tanner          Boerne HS, Boerne                    224    2      10      X      State
+Sprinkle, Jesse R     Rockport-Fulton H S, Rockport        224    2      10      X      State
+Correa, Alexy         Hidalgo H S, Hidalgo                 224    2      10      X      State
+Schodek, Josef        Needville HS, Needville              208    5      5       X      Alternate
+Taylor, Zane          Boerne HS, Boerne                    208    5      5       X      Alternate
+Jiang, Jerry          Wharton HS, Wharton                  196    7
+Howell, Mason         Needville HS, Needville              192    8
+Mikeska, Colton       Needville HS, Needville              192    8
+Tejeda, Elio          Hidalgo H S, Hidalgo                 172    10
+Bennett, Jordan       La Feria H S, La Feria               162    11
+Smallwood, Simon      Rockport-Fulton H S, Rockport        160    12
+Cervantez, Fisher C   Rockport-Fulton H S, Rockport        152    13
+Cranford, Preston     Wimberley HS, Wimberley              144    14
+Anderson, Mitchell L  Rockport-Fulton H S, Rockport        130    15
+Price, Joshua         Wimberley HS, Wimberley              112    16
+Lofland, James        Gonzales HS, Gonzales                86     17
+Garcia, Zachary       Gonzales HS, Gonzales                82     18
+Smith, Caleb          Sweeny HS, Sweeny                    80     19
+Pecina, Eric          Gonzales HS, Gonzales                72     20
+Hinkley, Bryce        Bandera HS, Bandera                  50     21
+Gamez, Saul           Gonzales HS, Gonzales                34     22
+Pullen, Tyler         Boerne HS, Boerne                    30     23
+Frankum, Tyler        Wharton HS, Wharton                  30     23
+Cardenas, Brian       Carrizo Springs HS, Carrizo Springs  28     25
+Chapa, Benjamin       Carrizo Springs HS, Carrizo Springs  26     26
+McLemore, Ben         Wimberley HS, Wimberley              24     27
+Lozano, Josue         Hidalgo H S, Hidalgo                 24     27
+Jimenez, Eric         Somerset HS, Somerset                8      29
+Lerma, Yaniv          Somerset HS, Somerset                8      29
+Cervantes, Moisess    Hidalgo H S, Hidalgo                 8      29
+Taylor, Hannah        Boerne HS, Boerne                    6      32
+Hernandez, Ethan      Somerset HS, Somerset                4      33
+Osore, Paul           El Campo H S, El Campo               2      34
+May, William          Carrizo Springs HS, Carrizo Springs  0      35
+Valdez, Quinn         Wharton HS, Wharton                  -14    36
+Radicke, Waylon       Devine H S, Devine                   -36    37
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Needville HS, Needville              1     1042   1      20      X      State
+Rockport-Fulton H S, Rockport        1     1016   2      16      X      Alternate
+Boerne HS, Boerne                    1     877    3      12      X
+Hidalgo H S, Hidalgo                 1     695    4
+Wimberley HS, Wimberley              1     580    5
+Gonzales HS, Gonzales                1     410    6
+Wharton HS, Wharton                  1     327    7
+Somerset HS, Somerset                1     80     8
+Carrizo Springs HS, Carrizo Springs  1     54     9
+
+TEAM RESULTS
+------------------------------

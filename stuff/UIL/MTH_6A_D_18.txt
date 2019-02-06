@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                               Score  Place  Points  Medal  Advance
+Lee, Daniel          Carnegie Vanguard HS, Houston        322    1      15      X      Region
+Nguyen, An           Carnegie Vanguard HS, Houston        302    2      12      X      Region
+Devulapalli, Sri     Carnegie Vanguard HS, Houston        296    3      10      X      Region
+Tiu, Ekin            Carnegie Vanguard HS, Houston        288    4      8       X      Alternate
+Esteban, Eduardo     Heights HS, Houston                  170    5      6       X
+Sirakov, Martin      Bellaire HS, Bellaire                166    6      4       X
+Zhao, Arianna        Bellaire HS, Bellaire                112    7
+Zhu, Annie           Bellaire HS, Bellaire                92     8
+Ebel, Ryan           Heights HS, Houston                  88     9
+Ramirez, Bridgette   Heights HS, Houston                  86     10
+Deng, Megan (Qin)    Bellaire HS, Bellaire                72     11
+Gonzales, Xavier     Mickey Leland College Prep, Houston  58     12
+Mejia-Huerta, Lesuy  Heights HS, Houston                  54     13
+Barnes, Ben          Energy Institute HS, Houston         54     13
+Flores, Gustavo      Mickey Leland College Prep, Houston  46     15
+Marron, Francisco    Energy Institute HS, Houston         32     16
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Carnegie Vanguard HS, Houston  1     920    1      10      X      Region
+Bellaire HS, Bellaire          1     370    2      5       X      Alternate
+Heights HS, Houston            1     344    3
+
+TEAM RESULTS
+------------------------------

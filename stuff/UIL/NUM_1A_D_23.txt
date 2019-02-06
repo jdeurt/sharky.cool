@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                           Score  Place  Points  Medal  Advance
+Branom, Brandon L   Sulphur Bluff HS, Sulphur Bluff  25     1      15      X      Region
+Moore, Trevor       Saltillo HS, Saltillo            20     2      12      X      Region
+Valenzuela, Nathan  Saltillo HS, Saltillo            17     3      10      X      Region
+Butler, Lindsay     Saltillo HS, Saltillo            8      4      8       X      Alternate
+McGill, Branson     Saltillo HS, Saltillo            7      5      6       X
+South, Trayton C    Sulphur Bluff HS, Sulphur Bluff  -1     6      1       X
+Ramirez, Valentin   Roxton H S, Roxton               -1     6      1       X
+Schumacher, Lynn    Fannindel HS, Ladonia            -1     6      1       X
+Earp, Grant         Miller Grove H S, Cumby          -1     6      1       X
+Bessonett, Jorja    Miller Grove H S, Cumby          -2     10
+Jefferson, Hunter   Miller Grove H S, Cumby          -5     11
+Rosas, Diana Y      Sulphur Bluff HS, Sulphur Bluff  -11    12
+Haban, Connar       Roxton H S, Roxton               -13    13
+Mitchell, Jason     Roxton H S, Roxton               -15    14
+Pelerose, Alexa     Miller Grove H S, Cumby          -15    14
+Kelley, Alexis      Fannindel HS, Ladonia            -21    16
+Tubb, Hunter S      Sulphur Bluff HS, Sulphur Bluff  -44    17
+Crocker, Summer     Fannindel HS, Ladonia            -67    18
+Dillard, Kaylee     Roxton H S, Roxton               -97    19
+Shaw, Jawaylon      Fannindel HS, Ladonia            -109   20
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Saltillo HS, Saltillo            1     45     1      10      X      Region
+Sulphur Bluff HS, Sulphur Bluff  1     13     2      5       X      Alternate
+Miller Grove H S, Cumby          1     -8     3
+Roxton H S, Roxton               1     -29    4
+Fannindel HS, Ladonia            1     -89    5
+
+TEAM RESULTS
+------------------------------

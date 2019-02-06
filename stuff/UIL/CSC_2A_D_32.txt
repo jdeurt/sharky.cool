@@ -1,0 +1,24 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                       Score  Place  Points  Medal  Advance
+Garcia, Marco A.   La Villa HS, La Villa        36     1      15      X      Region
+Briones, A         Santa Maria HS, Santa Maria  10     2      12      X      Region
+Lozano, Jeremiah   Lasara H S, Lasara           6      3      10      X      Region
+Diaz, V            Santa Maria HS, Santa Maria  4      4      8       X      Alternate
+Martinez, Alberto  Lasara H S, Lasara           2      5      6       X
+Garza, Samual      Lasara H S, Lasara           -2     6      4       X
+Ramirez, Brian     Lasara H S, Lasara           -4     7
+Hernandez, Aaron   La Villa HS, La Villa        -6     8
+Velasquez, A       Santa Maria HS, Santa Maria  -8     9
+Ortiz, B           Santa Maria HS, Santa Maria  -8     9
+Casanova, Juan J.  La Villa HS, La Villa        -12    11
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+La Villa HS, La Villa        1     18     1      20      X      Region
+Lasara H S, Lasara           1     6      2      16      X      Alternate
+Santa Maria HS, Santa Maria  1     6      3      12      X
+
+TEAM RESULTS
+------------------------------

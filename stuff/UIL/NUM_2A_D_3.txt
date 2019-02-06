@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                Score  Place  Points  Medal  Advance
+Dictson, Eli        Sudan HS, Sudan       141    1      15      X      Region
+Harper, Aaron       Sudan HS, Sudan       118    2      12      X      Region
+Azua, Felipe D      Lockney H S, Lockney  68     3      10      X      Region
+Hester, Austin      Farwell H S, Farwell  65     4      8       X      Alternate
+Perkins, Slade      Farwell H S, Farwell  41     5      6       X
+Shipp, Kyle         Farwell H S, Farwell  28     6      4       X
+Sifuentez, Judith   Olton HS, Olton       27     7
+Coronado, Samuel    Olton HS, Olton       26     8
+Moeller, Tyler      Sudan HS, Sudan       26     8
+Actkinson, Leefe    Farwell H S, Farwell  25     10
+McInvale, Kaylee L  Lockney H S, Lockney  18     11
+Marquez, Shawn M    Lockney H S, Lockney  14     12
+Valdez, Fernando    Lockney H S, Lockney  7      13
+Soliz, Bonnie       Olton HS, Olton       6      14
+Estrada, Karime     Sudan HS, Sudan       -9     15
+Sanchez, Joaquin    Olton HS, Olton       -132   16
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Sudan HS, Sudan       1     285    1      10      X      Region
+Farwell H S, Farwell  1     134    2      5       X      Alternate
+Lockney H S, Lockney  1     100    3
+Olton HS, Olton       1     59     4
+
+TEAM RESULTS
+------------------------------

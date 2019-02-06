@@ -1,0 +1,25 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                      Score  Place  Points  Medal  Advance
+Hill, Nate        Ponder HS, Ponder           164    1      15      X      Region
+Fruth, Brenden    Ponder HS, Ponder           142    2      12      X      Region
+Glenn, Chaise     Ponder HS, Ponder           116    3      10      X      Region
+VanderWal, Tim    Ponder HS, Ponder           110    4      8       X      Alternate
+Pham, Alex        Callisburg HS, Gainesville  98     5      6       X
+Adams, Chris      Whitesboro HS, Whitesboro   34     6      4       X
+Miniter, Kevin    Callisburg HS, Gainesville  18     7
+Carpenter, Roo    Whitesboro HS, Whitesboro   10     8
+Lones, Zoe        Callisburg HS, Gainesville  8      9
+Standifer, Chase  Whitesboro HS, Whitesboro   4      10
+Adams, Nick       Whitesboro HS, Whitesboro   -2     11
+Ing, Trevor       Callisburg HS, Gainesville  -8     12
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Ponder HS, Ponder           1     837    1      20      X      Region
+Callisburg HS, Gainesville  1     364    2      16      X      Alternate
+Whitesboro HS, Whitesboro   1     168    3      12      X
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                      Score  Place  Points  Medal  Advance
+Bruce, Gordon A      Brackett HS, Brackettville  103    1      15      X      Region
+Britton, Dakota      Brackett HS, Brackettville  64     2      12      X      Region
+Palmer, Sam          Brackett HS, Brackettville  29     3      10      X      Region
+Rodriguez, Quentin   Brackett HS, Brackettville  17     4      8       X      Alternate
+Cox, Raegan          Sabinal HS, Sabinal         7      5      6       X
+Alonzo, Nathan       La Pryor H S, La Pryor      6      6      4       X
+Ryan, Cassedy M.     Stacey H S, San Antonio     4      7
+Rubio, Armando       Charlotte HS, Charlotte     -1     8
+Calvillo, Johnnie    Charlotte HS, Charlotte     -1     8
+Azeneth, Garcia      La Pryor H S, La Pryor      -3     10
+Dominguez, Jacob     Charlotte HS, Charlotte     -9     11
+Duran, Manuel        Charlotte HS, Charlotte     -10    12
+Moon, William C.     Stacey H S, San Antonio     -13    13
+Arteaga, Pablo       Sabinal HS, Sabinal         -40    14
+Lopez, Rhianna       Sabinal HS, Sabinal         -43    15
+Strickland, Nora G.  Stacey H S, San Antonio     -51    16
+Lopez, Ricardo       La Pryor H S, La Pryor      -70    17
+Narushima, Moe       Stacey H S, San Antonio     -78    18
+Samaniego, Kaylee    Sabinal HS, Sabinal         -94    19
+Rodriguez, Bianca    La Pryor H S, La Pryor      -114   20
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Brackett HS, Brackettville  1     196    1      10      X      Region
+Charlotte HS, Charlotte     1     -11    2      5       X      Alternate
+Stacey H S, San Antonio     1     -60    3
+La Pryor H S, La Pryor      1     -67    4
+Sabinal HS, Sabinal         1     -76    5
+
+TEAM RESULTS
+------------------------------

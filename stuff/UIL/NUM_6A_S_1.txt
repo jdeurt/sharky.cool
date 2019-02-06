@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal
+Wu, Eric             Clements HS, Sugar Land        359    1      15      X
+Liu, Andrew          Dulles H S, Sugar Land         350    2      12      X
+Lee, Andrew          Central HS, Keller             341    3      10      X
+Karanam, Akash       Clements HS, Sugar Land        319    4      8       X
+Zahid, Ethan         Dulles H S, Sugar Land         318    5      6       X
+Nguyen, Zachary      Garland H S, Garland           316    6      4       X
+Cua, Miles           Science Academy, Mercedes      311    7
+Sampson, Riki        Frenship H S, Wolfforth        310    8
+Rege, Raviraj        Science-Eng Magnet Hs, Dallas  308    9
+Thipireddy, Shreya   Dulles H S, Sugar Land         302    10
+Khurana, Avi         Central HS, Keller             272    11
+Chandak, Yash        Science-Eng Magnet Hs, Dallas  269    12
+Hernandez, Antony    Edinburg North H S, Edinburg   267    13
+Mukkat, Naveen       Dulles H S, Sugar Land         265    14
+Muppalla, Siddharth  Clements HS, Sugar Land        260    15
+Ramos, Ryan          Edinburg North H S, Edinburg   250    16
+Ogunfunmi, Tomisin   Science-Eng Magnet Hs, Dallas  233    17
+Venkat, Abhijith     Clements HS, Sugar Land        231    18
+Perez, Jared         Edinburg North H S, Edinburg   205    19
+Perez, Diego         Edinburg North H S, Edinburg   200    20
+Diaz, Victor         Science-Eng Magnet Hs, Dallas  181    21
+Le, Luc              Central HS, Keller             99     22
+Doan, Justin         Central HS, Keller             82     23
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Dulles H S, Sugar Land         1     970    1      10      X
+Clements HS, Sugar Land        1     938    2      5       X      Alternate
+Science-Eng Magnet Hs, Dallas  1     810    3
+Edinburg North H S, Edinburg   1     722    4
+Central HS, Keller             1     712    5
+
+TEAM RESULTS
+------------------------------

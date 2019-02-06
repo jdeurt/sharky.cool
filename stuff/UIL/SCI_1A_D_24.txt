@@ -1,0 +1,53 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Garner, Keith       Fruitvale HS, Fruitvale                 70     1      15      X      Region
+Zhu, Ricky          UT Tyler Innovation Academy, Palestine  62     2      12      X      Region
+Jones, Jason        Fruitvale HS, Fruitvale                 54     3      10      X      Region
+Narayanan, Tejas    UT Tyler Innovation Academy, Tyler      54     4      8       X      Alternate
+Adams, Kennie       UT Tyler Innovation Academy, Tyler      46     5      6       X
+Mcqueen, Austin     UT Tyler Innovation Academy, Palestine  44     6      4       X
+Carter, Blake       UT Tyler Innovation Academy, Tyler      40     7
+Cantu, Jazmin       UT Tyler Innovation Academy, Tyler      38     8
+Potts, Bradley      Yantis HS, Yantis                       34     9
+Willingham, Thomas  UT Tyler Innovation Academy, Palestine  32     10
+Bradshaw, Devin     UT Tyler Innovation Academy, Palestine  32     10
+Spenser, Bailey     Yantis HS, Yantis                       32     10
+Kypuros, Nyssa      UT Tyler Innovation Academy, Tyler      32     10
+Scott, Elena        UT Tyler Innovation Academy, Longview   30     14
+Nicholson, Jacie    Fruitvale HS, Fruitvale                 28     15
+Jordan, Maryah      Fruitvale HS, Fruitvale                 26     16
+Draper, Vincent     Bloomburg HS, Bloomburg                 22     17
+Collier, Nathaniel  UT Tyler Innovation Academy, Tyler      16     18
+Holland, Kaylee     Union Hill H S, Gilmer                  14     19
+Clayton, Madison    Bloomburg HS, Bloomburg                 8      20
+Santizo, Dustin     Yantis HS, Yantis                       4      21
+Sims, Grace         Bloomburg HS, Bloomburg                 4      21
+Heller, Payton      Union Hill H S, Gilmer                  0      23
+Crumpler, Seth      Bloomburg HS, Bloomburg                 -2     24
+Draper, Devyn       Bloomburg HS, Bloomburg                 -6     25
+Davis, Austin       Fruitvale HS, Fruitvale                 -8     26
+Farless, Karlee     Union Hill H S, Gilmer                  -8     26
+Meghji, Jameel      Fruitvale HS, Fruitvale                 -10    28
+Hackler, Kyleigh    UT Tyler Innovation Academy, Longview   -10    28
+Holland, Jenna      Union Hill H S, Gilmer                  -24    30
+
+TOP SCORERS
+------------------------------
+Contestant        School                       Results               Points
+Garner, Keith     Fruitvale HS                 Top Scorer Biology    3
+Jones, Jason      Fruitvale HS                 Alternate Biology     0
+Zhu, Ricky        UT Tyler Innovation Academy  Top Scorer Chemistry  3
+Carter, Blake     UT Tyler Innovation Academy  Alternate Chemistry   0
+Narayanan, Tejas  UT Tyler Innovation Academy  Top Scorer Physics    3
+Mcqueen, Austin   UT Tyler Innovation Academy  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Fruitvale HS, Fruitvale                 1     152    1      10      X      Region
+UT Tyler Innovation Academy, Tyler      1     140    2      5       X      Alternate
+UT Tyler Innovation Academy, Palestine  1     138    3
+Yantis HS, Yantis                       1     70     4
+Bloomburg HS, Bloomburg                 1     34     5
+Union Hill H S, Gilmer                  1     6      6

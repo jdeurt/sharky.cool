@@ -1,0 +1,58 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                                    Score  Place  Points  Medal  Advance
+Velazquez, Edgar        Western Hills HS, Fort Worth              99     1      15      X      Region
+Baez, Hector            North Side HS, Fort Worth                 71     2      12      X      Region
+Villagrana, Sandra      Young Women's Leadership, Fort Worth      68     3      10      X      Region
+Knapp, Jacob            TCC South Collegiate HS, Fort Worth       62     4      8       X      Alternate
+Mascorro, Janet         North Side HS, Fort Worth                 61     5      6       X
+Stevens, Tyler          Southwest H S, Fort Worth                 59     6      4       X
+Ibrahim, Priscilla      Texas Acad Biomedical Sci HS, Fort Worth  56     7
+Fuentes, Haydee         Western Hills HS, Fort Worth              55     8
+Marquez, Marissa        North Side HS, Fort Worth                 52     9
+Williams, Kynleigh      Arlington Heights HS, Fort Worth          46     10
+Patel, Aman             Arlington Heights HS, Fort Worth          45     11
+Fuentes, Ernesto        South Hills H S, Ft. Worth                45     11
+Funez, Kevin            Texas Acad Biomedical Sci HS, Fort Worth  36     13
+Torres, Fernando        Texas Acad Biomedical Sci HS, Fort Worth  35     14
+Lopez, Carolina         North Side HS, Fort Worth                 34     15
+Perez Pasillas, Elodia  Western Hills HS, Fort Worth              26     16
+Ferreira, Mario         Trimble Technical HS, Fort Worth          21     17
+Butterfield, Ari        Southwest H S, Fort Worth                 19     18
+Serwora, Michael        TCC South Collegiate HS, Fort Worth       19     18
+Ledesma, Isabel         Young Women's Leadership, Fort Worth      17     20
+Meyers, Jay             Arlington Heights HS, Fort Worth          16     21
+Ramirez, Bryan          Trimble Technical HS, Fort Worth          14     22
+Confreas, Jonathan      Trimble Technical HS, Fort Worth          14     22
+Ramirez, Matthew        Trimble Technical HS, Fort Worth          11     24
+Sharma, Aditya          Southwest H S, Fort Worth                 7      25
+Hinojosa, Odaliz        Arlington Heights HS, Fort Worth          6      26
+Mendez, Jose            South Hills H S, Ft. Worth                5      27
+Padron, Nicole          Western Hills HS, Fort Worth              -1     28
+Barber, Alaisha         Texas Acad Biomedical Sci HS, Fort Worth  -10    29
+Nguyen, Kiet            TCC South Collegiate HS, Fort Worth       -12    30
+Fogarty, Waylin         Southwest H S, Fort Worth                 -12    30
+Jones, Abigail          Young Women's Leadership, Fort Worth      -22    32
+Solanki, Rudra          South Hills H S, Ft. Worth                -25    33
+Loufoua, Yilika         Wyatt HS, Fort Worth                      -28    34
+Ortega, German          South Hills H S, Ft. Worth                -32    35
+Antillon, Alondra       Wyatt HS, Fort Worth                      -74    36
+Hein, Aung Phyo         Wyatt HS, Fort Worth                      -77    37
+Thein, Aung Phyo        Wyatt HS, Fort Worth                      -90    38
+
+TOP SCORERS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+North Side HS, Fort Worth                 1     184    1      10      X      Region
+Western Hills HS, Fort Worth              1     180    2      5       X      Alternate
+Texas Acad Biomedical Sci HS, Fort Worth  1     127    3
+Arlington Heights HS, Fort Worth          1     107    4
+Southwest H S, Fort Worth                 1     85     5
+TCC South Collegiate HS, Fort Worth       1     69     6
+Young Women's Leadership, Fort Worth      1     63     7
+Trimble Technical HS, Fort Worth          1     49     8
+South Hills H S, Ft. Worth                1     25     9
+Wyatt HS, Fort Worth                      1     -179   10
+
+TEAM RESULTS
+------------------------------

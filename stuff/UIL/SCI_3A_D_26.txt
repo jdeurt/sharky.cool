@@ -1,0 +1,46 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Perera, Anton        BASIS Shavano HS, San Antonio  186    1      15      X      Region
+Bordas, Torda        BASIS Shavano HS, San Antonio  182    2      12      X      Region
+Hesita, Caleb        BASIS Shavano HS, San Antonio  138    3      10      X      Region
+Choucair, Marc       BASIS Shavano HS, San Antonio  130    4      8       X      Alternate
+Lim, Janie           BASIS Shavano HS, San Antonio  112    5      6       X
+Tranbarger, Preston  BASIS Shavano HS, San Antonio  96     6      4       X
+Hoover, Zachary      Poth HS, Poth                  82     7
+Grim, Jasmine        Cole HS, San Antonio           70     8
+Keenan, Katie        Cole HS, San Antonio           62     9
+Lanier, Abby         Jourdanton HS, Jourdanton      54     10
+Lopez, Allexus       Jourdanton HS, Jourdanton      54     11
+Gisler, Brent        Karnes City H S, Karnes City   46     12
+Villanueva, Kyle     Cole HS, San Antonio           46     13
+Conn, Cooper         Poth HS, Poth                  44     14
+Morin, Chantan       Jourdanton HS, Jourdanton      38     15
+Goering, Josephine   Cole HS, San Antonio           34     16
+Soward, Erin         Jourdanton HS, Jourdanton      34     17
+Loeffler, Braden     Poth HS, Poth                  28     18
+Cooper, Sydney       Poth HS, Poth                  28     19
+Bonnet, Jacob        Karnes City H S, Karnes City   28     20
+Wiatrek, Jeralyn     Poth HS, Poth                  24     21
+Henke, Catherine     Poth HS, Poth                  16     22
+Otero, Mackenzie     Cole HS, San Antonio           14     23
+Vyvlecka, Clair      Jourdanton HS, Jourdanton      10     24
+Zuhlke, Nicole       Jourdanton HS, Jourdanton      10     25
+
+TOP SCORERS
+------------------------------
+Contestant           School            Results               Points
+Hesita, Caleb        BASIS Shavano HS  Top Scorer Biology    3
+Lim, Janie           BASIS Shavano HS  Alternate Biology     0
+Perera, Anton        BASIS Shavano HS  Top Scorer Chemistry  3
+Choucair, Marc       BASIS Shavano HS  Alternate Chemistry   0
+Bordas, Torda        BASIS Shavano HS  Top Scorer Physics    3
+Tranbarger, Preston  BASIS Shavano HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+BASIS Shavano HS, San Antonio  1     506    1      10      X      Region
+Cole HS, San Antonio           1     178    2      5       X      Alternate
+Poth HS, Poth                  1     154    3
+Jourdanton HS, Jourdanton      1     146    4

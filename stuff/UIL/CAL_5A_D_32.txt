@@ -1,0 +1,27 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                             Score  Place  Points  Medal  Advance
+Garza, Joel        Edcouch-Elsa H S, Edcouch          203    1      15      X      Region
+Tinajero, Alicia   Edcouch-Elsa H S, Edcouch          175    2      12      X      Region
+Miller, Paola      Edcouch-Elsa H S, Edcouch          154    3      10      X      Region
+Garza, Neida       Edcouch-Elsa H S, Edcouch          147    4      8       X      Alternate
+Acuna, Guillermo   Donna North HS, Donna              95     5      6       X
+Miranda, Nallely   Mercedes HS, Mercedes              86     6      4       X
+Barrientos, Norma  Mercedes HS, Mercedes              76     7
+Garza, Fernanda    Mercedes HS, Mercedes              72     8
+Chapa, Sophia      Mercedes HS, Mercedes              70     9
+Caceres, Abril     Porter HS, Brownsville             66     10
+Rosas, Priscilla   Porter HS, Brownsville             52     11
+Vargas, Angelica   Porter HS, Brownsville             46     12
+Hernandez, Miriam  Porter HS, Brownsville             35     13
+Rios, Fatima       Veterans Memorial HS, Brownsville  32     14
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Edcouch-Elsa H S, Edcouch  1     532    1      10      X      Region
+Mercedes HS, Mercedes      1     234    2      5       X      Alternate
+Porter HS, Brownsville     1     164    3
+
+TEAM RESULTS
+------------------------------

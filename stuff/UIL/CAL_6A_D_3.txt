@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Lee, Andrew          Central HS, Keller       210    1      15      X      Region
+Lee, David           Keller H S, Keller       126    2      12      X      Region
+Sameer, Ridha        Timber Creek HS, Keller  122    3      10      X      Region
+Gao, Yifei           Keller H S, Keller       120    4      8       X      Alternate
+Beutel, Matthew      Timber Creek HS, Keller  117    5      6       X
+Bisso, Steven        Timber Creek HS, Keller  112    6      4       X
+Kenny, Patrick       Central HS, Keller       112    7
+Le, Luc              Central HS, Keller       94     8
+Bhavimane, Shishira  Keller H S, Keller       93     9
+Shrestha, Mahan      Haltom HS, Haltom City   89     10
+Lopez, Katia         Haltom HS, Haltom City   84     11
+Seo, Youngin         Keller H S, Keller       84     11
+Yolou, Israel        Abilene HS, Abilene      81     13
+Stevens, Bradley     Abilene HS, Abilene      79     14
+Trinh, Andy          Central HS, Keller       78     15
+Garcia, Kevin        Fossil Ridge HS, Keller  76     16
+Gonzalez, Nathan     Abilene HS, Abilene      76     16
+Kumar, Aman          Haltom HS, Haltom City   72     18
+Matos, Adrian        Fossil Ridge HS, Keller  66     19
+Cox, Dylan           A.T.E.M.S., Abilene      65     20
+Elliott, Jacob       A.T.E.M.S., Abilene      62     21
+Zeman, Hunter        A.T.E.M.S., Abilene      7      22
+Castillo, Juliana    Haltom HS, Haltom City   -19    23
+Mohmand, Omar        Fossil Ridge HS, Keller  -21    24
+Nguyen, Bao          Fossil Ridge HS, Keller  -37    25
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Central HS, Keller       1     416    1      10      X      Region
+Timber Creek HS, Keller  1     351    2      5       X      Alternate
+Keller H S, Keller       1     339    3
+Haltom HS, Haltom City   1     245    4
+Abilene HS, Abilene      1     236    5
+A.T.E.M.S., Abilene      1     134    6
+Fossil Ridge HS, Keller  1     121    7
+
+TEAM RESULTS
+------------------------------

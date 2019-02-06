@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                     Score  Place  Points  Medal  Advance
+Grimes, Jacob        Booker HS, Booker          34     1      15      X      Region
+Hall, Chasee         Miami H S, Miami           32     2      12      X      Region
+Padgett, Shawn       Miami H S, Miami           30     3      10      X      Region
+Sena, Jacob          Booker HS, Booker          28     4      8       X      Alternate
+Ebenkamp, Jacob      Miami H S, Miami           26     5      6       X
+Boston, Lance        Booker HS, Booker          22     6      4       X
+Mitchell, Jarique    Fort Elliott HS, Briscoe   20     7
+Roberson, Seth       Miami H S, Miami           18     8
+Redmon, Abigail      Follett HS, Follett        18     8
+Ramirez, Susana      Booker HS, Booker          16     10
+Stuart, Joshua       Follett HS, Follett        14     11
+Vela, Skylar         Darrouzett HS, Darrouzett  14     11
+Cruz, Karen          Follett HS, Follett        12     13
+Callaway, Alex       Follett HS, Follett        12     13
+Arroyo, Angel        Booker HS, Booker          10     15
+Baylon, Erick        Miami H S, Miami           10     15
+Twilleger, Maddie    Darrouzett HS, Darrouzett  10     15
+Adornetto, Augustus  Follett HS, Follett        6      18
+Phillips, Haidyn     Booker HS, Booker          6      18
+Lopez, Noel          Miami H S, Miami           6      18
+Wesley, Raymond      Darrouzett HS, Darrouzett  2      21
+Bryan, Olivia        Follett HS, Follett        -2     22
+Zepeda, Saron        Darrouzett HS, Darrouzett  -10    23
+Jennings, Kaitlyn    Fort Elliott HS, Briscoe   -16    24
+
+TOP SCORERS
+------------------------------
+Contestant       School         Results               Points
+Grimes, Jacob    Booker HS      Top Scorer Biology    1
+Padgett, Shawn   Miami H S      Top Scorer Biology    1
+Ebenkamp, Jacob  Miami H S      Top Scorer Biology    1
+Hall, Chasee     Miami H S      Top Scorer Chemistry  3
+Cruz, Karen      Follett HS     Alternate Chemistry   0
+Arroyo, Angel    Booker HS      Top Scorer Physics    3
+Boston, Lance    Booker HS      Alternate Physics     0
+Roberson, Seth   Miami H S      Alternate Physics     0
+Vela, Skylar     Darrouzett HS  Alternate Physics     0
+Redmon, Abigail  Follett HS     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Miami H S, Miami           1     88     1      10      X      Region
+Booker HS, Booker          1     84     2      5       X      Alternate
+Follett HS, Follett        1     44     3
+Darrouzett HS, Darrouzett  1     26     4

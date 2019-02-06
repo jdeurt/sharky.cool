@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Tapia, Christian     San Augustine HS, San Augustine  88     1      15      X      Region
+Russell, Ryan        San Augustine HS, San Augustine  80     2      12      X      Region
+Prado, Santiago      San Augustine HS, San Augustine  60     3      10      X      Region
+Moore, Thomas        Chireno HS, Chireno              42     4      8       X      Alternate
+Nguyen, Jeremy       San Augustine HS, San Augustine  26     5      6       X
+Spencer, Jason       Chireno HS, Chireno              20     6      4       X
+Powell, Clayton      Shelbyville H S, Shelbyville     14     7
+Allen, Kurtrick      Shelbyville H S, Shelbyville     6      8
+Jamison, Hannah      Shelbyville H S, Shelbyville     4      9
+Guerrero, Robert     Woden HS, Woden                  2      10
+Dowdy, Jordan        Chireno HS, Chireno              0      11
+Van Houte, Weston    Joaquin HS, Joaquin              0      11
+Stone, Nacona        Joaquin HS, Joaquin              0      11
+Cooker, Jackson      Joaquin HS, Joaquin              0      11
+Searles, Andrew      Woden HS, Woden                  -4     15
+Hurst, Christian     Woden HS, Woden                  -6     16
+Moreau, Alex         Woden HS, Woden                  -10    17
+Shumway, Johnny Ray  Joaquin HS, Joaquin              -16    18
+Brixey, Emily        Shelbyville H S, Shelbyville     -20    19
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+San Augustine HS, San Augustine  1     408    1      20      X      Region
+Chireno HS, Chireno              1     122    2      16      X      Alternate
+Shelbyville H S, Shelbyville     1     24     3      12      X
+Joaquin HS, Joaquin              1     0      4
+Woden HS, Woden                  1     -8     5
+
+TEAM RESULTS
+------------------------------

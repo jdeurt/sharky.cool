@@ -1,0 +1,20 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School                Score  Place  Points  Medal  Advance
+Sims, Trevor     Lindsay H S, Lindsay  42     1      15      X      Region
+Smith, Kole      Rayburn H S, Ivanhoe  18     2      12      X      Region
+Russell, Forest  Lindsay H S, Lindsay  16     3      10      X      Region
+Medina, Israel   Rayburn H S, Ivanhoe  6      4      8       X      Alternate
+Dieter, Nash     Lindsay H S, Lindsay  4      5      6       X
+Sims, Alex       Lindsay H S, Lindsay  0      6      4       X
+Russel, Allorah  Rayburn H S, Ivanhoe  -2     7
+Ballard, Colten  Rayburn H S, Ivanhoe  -4     8
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Rayburn H S, Ivanhoe  1     142    1      20      X      Region
+Lindsay H S, Lindsay  1     122    2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

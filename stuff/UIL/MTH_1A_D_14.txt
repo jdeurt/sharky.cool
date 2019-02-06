@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Koenning, Parker       Garden City H S, Garden City     68     1      15      X      Region
+MIller, Scott          Garden City H S, Garden City     58     2      12      X      Region
+Tubb, Karli            Garden City H S, Garden City     54     3      10      X      Region
+Braden, Cade           Garden City H S, Garden City     48     4      8       X      Alternate
+Robertson, Katelyn     Blackwell HS, Blackwell          36     5      6       X
+Mead, Makalynn M       Sterling City HS, Sterling City  26     6      4       X
+Savino, Carola         Blackwell HS, Blackwell          24     7
+Bedfoord, Tanner       Bronte HS, Bronte                22     8
+Jordan, Kenzie B       Water Valley HS, Water Valley    20     9
+Moore, Reagan          Bronte HS, Bronte                20     9
+Lane, Jordan           Veribest HS, Veribest            16     11
+Copeland, Dain K       Sterling City HS, Sterling City  14     12
+Hoover, Kendra R       Water Valley HS, Water Valley    14     12
+Beltran, Jose H        Sterling City HS, Sterling City  12     14
+Bradley, Maximus R     Water Valley HS, Water Valley    12     14
+Davis, Victoria        Blackwell HS, Blackwell          10     16
+Calderon, Francisco J  Sterling City HS, Sterling City  10     16
+Arhelger, Elisianna E  Water Valley HS, Water Valley    6      18
+Arthur, Nathan         Bronte HS, Bronte                6      18
+Hernandez, Ana Rubi    Veribest HS, Veribest            4      20
+Meyer, Elizabeth       Blackwell HS, Blackwell          -8     21
+Chantrill, Jaxon       Bronte HS, Bronte                -12    22
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Garden City H S, Garden City     1     180    1      10      X      Region
+Blackwell HS, Blackwell          1     70     2      5       X      Alternate
+Sterling City HS, Sterling City  1     52     3
+Bronte HS, Bronte                1     48     4
+Water Valley HS, Water Valley    1     46     5
+
+TEAM RESULTS
+------------------------------

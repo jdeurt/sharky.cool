@@ -1,0 +1,20 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Willams, Evan       Bosqueville HS, Waco           24     1      15      X      Region
+Alba, Tanner J      Valley Mills HS, Valley Mills  8      2      12      X      Region
+Nunn, Cade          Bosqueville HS, Waco           6      3      10      X      Region
+Powers, Zachary T   Valley Mills HS, Valley Mills  2      4      8       X      Alternate
+Melton, Krystal     Valley Mills HS, Valley Mills  -4     5      6       X
+Gamez, Tony         Valley Mills HS, Valley Mills  -6     6      4       X
+Nickelson, Chelsea  Bosqueville HS, Waco           -16    7
+Krienke, Josh       Bosqueville HS, Waco           -24    8
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Valley Mills HS, Valley Mills  1     51     1      20      X      Region
+Bosqueville HS, Waco           1     14     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------

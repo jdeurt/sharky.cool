@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                    Score  Place  Points  Medal  Advance
+Martinez, David     Adams HS, Dallas          125    1      15      X      Region
+Hernandez, Claudia  Seagoville H S, Dallas    89     2      12      X      Region
+Selene, Rangel      Seagoville H S, Dallas    83     3      10      X      Region
+Solorzano, Jason    North Dallas H S, Dallas  83     4      8       X      Alternate
+Lopez, Samantha     North Dallas H S, Dallas  79     5      6       X
+Aguirre, Katia      Seagoville H S, Dallas    72     6      4       X
+Masih, Davd         Adams HS, Dallas          69     7
+Ramirez, Roberto    North Dallas H S, Dallas  58     8
+Lopez, Christian    Molina H S, Dallas        45     9
+Macias, Alma        North Dallas H S, Dallas  43     10
+Trevino, Esmeralda  Molina H S, Dallas        37     11
+Bautista, Hosea     Molina H S, Dallas        25     12
+Avila, Beatriz      Seagoville H S, Dallas    20     13
+Conde, Mary         Adamson HS, Dallas        16     14
+Delgado, Gisell     Adamson HS, Dallas        12     15
+Hernandez, Allen    Adamson HS, Dallas        6      16
+Lopez, Brenda       Adamson HS, Dallas        1      17
+Soto, Hillary A.    Adams HS, Dallas          -7     18
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Seagoville H S, Dallas    1     244    1      10      X      Region
+North Dallas H S, Dallas  1     220    2      5       X      Alternate
+Adams HS, Dallas          1     187    3
+Molina H S, Dallas        1     107    4
+Adamson HS, Dallas        1     34     5
+
+TEAM RESULTS
+------------------------------

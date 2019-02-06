@@ -1,0 +1,29 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School                                  Score  Place  Points  Medal  Advance
+Mugleston, Nick  Little Cypress-Mauriceville HS, Orange  216    1      15      X      Region
+Singh, Lovejot   Little Cypress-Mauriceville HS, Orange  208    2      12      X      Region
+Martin, Derrick  Little Cypress-Mauriceville HS, Orange  200    3      9       X      Region
+Myles, Dajhuan   Little Cypress-Mauriceville HS, Orange  200    3      9       X      Region
+Uribe, Spencer   Silsbee HS, Silsbee                     36     5      6       X      Alternate
+Carrell, Adam    Silsbee HS, Silsbee                     34     6      2       X
+Smith, Neeleigh  Silsbee HS, Silsbee                     34     6      2       X
+Teng, Mengting   West Orange-Stark HS, Orange            24     8
+Tsan, Jennifer   Orangefield H S, Orangefield            8      9
+Taylor, Madison  Orangefield H S, Orangefield            6      10
+Nguyen, Kathy    Orangefield H S, Orangefield            0      11
+Nugent, Shae     Orangefield H S, Orangefield            0      11
+Brooks, Brandon  West Orange-Stark HS, Orange            0      11
+Shutter, Carley  Silsbee HS, Silsbee                     -4     14
+Barnes, Casen    West Orange-Stark HS, Orange            -6     15
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Little Cypress-Mauriceville HS, Orange  1     1284   1      20      X      Region
+Silsbee HS, Silsbee                     1     449    2      16      X      Alternate
+West Orange-Stark HS, Orange            1     18     3      12      X
+Orangefield H S, Orangefield            1     14     4
+
+TEAM RESULTS
+------------------------------

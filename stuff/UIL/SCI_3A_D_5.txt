@@ -1,0 +1,48 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                      Score  Place  Points  Medal  Advance
+Schowengerdt, Harrison  Clyde H S, Clyde            64     1      15      X      Region
+Strohl, Andrea          Clyde H S, Clyde            62     2      12      X      Region
+Rowe, Kellen            Jim Ned H S, Tuscola        56     3      9       X      Region
+Roach, Sara             Colorado HS, Colorado City  56     3      9       X      Region
+Payne, Hudson           Jim Ned H S, Tuscola        52     5      6       X      Alternate
+Long, Troy              Jim Ned H S, Tuscola        48     6      4       X
+Schowengerdt, Conner    Clyde H S, Clyde            40     7
+Hunt, David             Stanton H S, Stanton        36     8
+Jeter, Cam              Merkel H S, Merkel          32     9
+Anguiano, Melani        Stanton H S, Stanton        30     10
+Clifton, Adam           Colorado HS, Colorado City  28     11
+Barker, Alexis          Merkel H S, Merkel          24     12
+Orgega, Ember           Clyde H S, Clyde            20     13
+Walters, Garin          Merkel H S, Merkel          16     14
+Toliver, Jacob          Merkel H S, Merkel          14     15
+White, Clancy           Colorado HS, Colorado City  12     16
+Douglas, Trinity        Colorado HS, Colorado City  6      17
+Luna, Sara              Clyde H S, Clyde            4      18
+Ponce, Kazy             Merkel H S, Merkel          2      19
+Longoria, Brittany      Merkel H S, Merkel          2      19
+Samaniego, Jade         Coahoma HS, Coahoma         -4     21
+Glenn, Emily            Clyde H S, Clyde            -10    22
+Najera, Cristina        Stanton H S, Stanton        -12    23
+
+TOP SCORERS
+------------------------------
+Contestant              School       Results               Points
+Rowe, Kellen            Jim Ned H S  Top Scorer Biology    3
+Schowengerdt, Harrison  Clyde H S    Alternate Biology     0
+Strohl, Andrea          Clyde H S    Top Scorer Chemistry  3
+Schowengerdt, Harrison  Clyde H S    Alternate Chemistry   0
+Clifton, Adam           Colorado HS  Top Scorer Physics    3
+Barker, Alexis          Merkel H S   Alternate Physics     0
+Toliver, Jacob          Merkel H S   Alternate Physics     0
+Jeter, Cam              Merkel H S   Alternate Physics     0
+Schowengerdt, Conner    Clyde H S    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Clyde H S, Clyde            1     166    1      10      X      Region
+Jim Ned H S, Tuscola        1     156    2      5       X      Alternate
+Colorado HS, Colorado City  1     96     3
+Merkel H S, Merkel          1     72     4
+Stanton H S, Stanton        1     54     5

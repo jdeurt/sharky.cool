@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                           Score  Place  Points  Medal
+Walker, Jon        Bellevue HS, Bellevue            192    1      15      X
+Morris, Karter     Aspermont HS, Aspermont          152    2      12      X
+Miller, Scott      Garden City H S, Garden City     138    3      10      X
+Mize, Melissa      Hartley H S, Hartley             132    4      8       X
+Koenning, Parker   Garden City H S, Garden City     129    5      6       X
+Terry, Trey        Bellevue HS, Bellevue            123    6      4       X
+Maxwell, Reagan    Guthrie HS, Guthrie              110    7
+Soto, Elva         Hartley H S, Hartley             109    8
+Maddin, Rebecca    Bellevue HS, Bellevue            107    9
+Weber, Aidan       Hartley H S, Hartley             106    10
+Perianez, Omar     Hartley H S, Hartley             101    11
+Tubb, Karli        Garden City H S, Garden City     97     12
+Sandoval, Yaretzi  Guthrie HS, Guthrie              88     13
+Cox, Ryan          Knippa H S, Knippa               84     14
+Williams, Michael  Knippa H S, Knippa               72     15
+Braden, Cade       Garden City H S, Garden City     69     16
+Ramirez, Rebekah   Knippa H S, Knippa               59     17
+Mays, TK           Guthrie HS, Guthrie              35     18
+McCauley, Morgan   Guthrie HS, Guthrie              34     19
+Syzdek, Samuel     Apple Springs HS, Apple Springs  26     20
+Dong, Jessica      Knippa H S, Knippa               21     21
+Lawson, Trista     Bellevue HS, Bellevue            19     22
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Bellevue HS, Bellevue         1     422    1      10      X
+Garden City H S, Garden City  1     364    2      5       X      Alternate
+Hartley H S, Hartley          1     347    3
+Guthrie HS, Guthrie           1     233    4
+Knippa H S, Knippa            1     215    5
+
+TEAM RESULTS
+------------------------------

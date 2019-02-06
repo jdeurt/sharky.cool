@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                            Score  Place  Points  Medal  Advance
+O'Berg, Evan        Randolph HS, Universal City       108    1      15      X      Region
+Alex, Rebekkah      Hallettsville H S, Hallettsville  92     2      12      X      Region
+Gibson, Charles     Marion HS, Marion                 80     3      10      X      Region
+Mraz, Cody          Hallettsville H S, Hallettsville  74     4      8       X      Alternate
+Knight, Sierra      Marion HS, Marion                 72     5      6       X
+Powell, Andrew      Hallettsville H S, Hallettsville  70     6      4       X
+Haight, Hunter      Stockdale HS, Stockdale           68     7
+Zeitler, Sarah      Randolph HS, Universal City       58     8
+Williams, McKensey  Marion HS, Marion                 54     9
+Appelt, Weston      Hallettsville H S, Hallettsville  54     9
+Hutchins, Hannah    Schulenburg H S, Schulenburg      54     9
+Moehlman, Amanda    Yoakum HS, Yoakum                 48     12
+Bhakta, Khushi      Hallettsville H S, Hallettsville  46     13
+Villa, Cameron      Yoakum HS, Yoakum                 40     14
+Renner, Luke        Hallettsville H S, Hallettsville  38     15
+Acevedo, Fernando   Nixon Smiley HS, Nixon            32     16
+Pfeil, Jessica      Randolph HS, Universal City       32     16
+Bishop, Travis      Stockdale HS, Stockdale           28     18
+Ochoa, Daniel       Nixon Smiley HS, Nixon            28     18
+Conkel, Kyler       Stockdale HS, Stockdale           22     20
+Adcock, Ricky       Stockdale HS, Stockdale           22     20
+Gonzalez, Jose      Nixon Smiley HS, Nixon            20     22
+Thompson, Sydney    Schulenburg H S, Schulenburg      18     23
+Croft, Nicole       Randolph HS, Universal City       14     24
+Davis, Alena        Randolph HS, Universal City       12     25
+Rivera, Jazmyn      Yoakum HS, Yoakum                 10     26
+Johnson, Hunter     Randolph HS, Universal City       10     26
+Pustka, Briana      Schulenburg H S, Schulenburg      8      28
+Sangster, Logan     Yoakum HS, Yoakum                 6      29
+Guentert, Blair     Schulenburg H S, Schulenburg      6      29
+VanGundy, Jeremy    Nixon Smiley HS, Nixon            -2     31
+Gibson, Matthew     Marion HS, Marion                 -4     32
+Winkler, Shae       Schulenburg H S, Schulenburg      -46    33
+
+TOP SCORERS
+------------------------------
+Contestant        School             Results               Points
+Alex, Rebekkah    Hallettsville H S  Top Scorer Biology    3
+Gibson, Charles   Marion HS          Alternate Biology     0
+Hutchins, Hannah  Schulenburg H S    Top Scorer Chemistry  3
+O'Berg, Evan      Randolph HS        Alternate Chemistry   0
+O'Berg, Evan      Randolph HS        Top Scorer Physics    3
+Mraz, Cody        Hallettsville H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Hallettsville H S, Hallettsville  1     236    1      10      X      Region
+Marion HS, Marion                 1     206    2      5       X      Alternate
+Randolph HS, Universal City       1     198    3
+Stockdale HS, Stockdale           1     118    4
+Yoakum HS, Yoakum                 1     98     5
+Nixon Smiley HS, Nixon            1     80     6
+Schulenburg H S, Schulenburg      1     80     6

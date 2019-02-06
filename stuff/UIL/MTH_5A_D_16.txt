@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                               Score  Place  Points  Medal  Advance
+Liera, Jose               Mount Pleasant H S, Mount Pleasant   320    1      15      X      Region
+Saiboonchan, Pornphiphat  Mount Pleasant H S, Mount Pleasant   276    2      12      X      Region
+Sheard, Hannah            Hallsville H S, Hallsville           258    3      10      X      Region
+Barboza, David            Mount Pleasant H S, Mount Pleasant   256    4      8       X      Alternate
+Lambert, Christian        Hallsville H S, Hallsville           226    5      6       X
+Rhodes, Kalie             Pine Tree HS, Longview               214    6      4       X
+Davis, Callisto           Pine Tree HS, Longview               210    7
+Springer, Zac             Hallsville H S, Hallsville           184    8
+Segovia, Nathon           Mount Pleasant H S, Mount Pleasant   166    9
+Stanley, Riley            Pine Tree HS, Longview               162    10
+Gonzalez, Samuel          Pine Tree HS, Longview               148    11
+Little, Nathan K          Sulphur Springs HS, Sulphur Springs  146    12
+Hickey, Andrew            Hallsville H S, Hallsville           142    13
+Baugh, Peyton             Sulphur Springs HS, Sulphur Springs  82     14
+Thomas, Gillian           Sulphur Springs HS, Sulphur Springs  80     15
+Westlund, Andrew          Sulphur Springs HS, Sulphur Springs  78     16
+Partel, Tanner            Marshall HS, Marshall                6      17
+Villafranco, Bryan        Marshall HS, Marshall                2      18
+Payne, Mckenzie           Marshall HS, Marshall                -8     19
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Mount Pleasant H S, Mount Pleasant   1     852    1      10      X      Region
+Hallsville H S, Hallsville           1     668    2      5       X      Alternate
+Pine Tree HS, Longview               1     586    3
+Sulphur Springs HS, Sulphur Springs  1     308    4
+Marshall HS, Marshall                1     0      5
+
+TEAM RESULTS
+------------------------------

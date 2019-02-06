@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                    Score  Place  Points  Medal  Advance
+Finley, Ty            McGregor H S, McGregor    72     1      15      X      Region
+Davis, Jed            Bruceville-Eddy HS, Eddy  66     2      12      X      Region
+Booker, Lance         Whitney HS, Whitney       60     3      9       X      Region
+Potter, Mathew        Troy H S, Troy            60     3      9       X      Region
+Tolbert, Connor       Bruceville-Eddy HS, Eddy  58     5      6       X      Alternate
+Enders, Elaine        West HS, West             54     6      4       X
+Copeland, Adam        Whitney HS, Whitney       48     7
+Ramos, Miguel         Troy H S, Troy            44     8
+Hernandez, Jasmine    McGregor H S, McGregor    42     9
+Allen, Jared          Bruceville-Eddy HS, Eddy  40     10
+LInebrick, Chris      McGregor H S, McGregor    40     10
+Tyler, Hope           Whitney HS, Whitney       34     12
+Arispe, Steven        Bruceville-Eddy HS, Eddy  32     13
+McGruder, Myles       Groesbeck H S, Groesbeck  32     13
+Withers, Josh         West HS, West             30     15
+Berger, Ember         West HS, West             28     16
+Amundson, Kaitlyn, N  Clifton HS, Clifton       26     17
+Sanchez, Rolando      McGregor H S, McGregor    24     18
+Pitts, Clayton        Troy H S, Troy            24     18
+Li, Ellison           Clifton HS, Clifton       12     20
+Sauer, Fritz          Whitney HS, Whitney       8      21
+Horn, Hayden, D       Clifton HS, Clifton       6      22
+Raines, Clayton, W    Clifton HS, Clifton       2      23
+Zhao, Cinny           Groesbeck H S, Groesbeck  0      24
+Brown, Monica         West HS, West             -6     25
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Bruceville-Eddy HS, Eddy  1     164    1      10      X      Region
+McGregor H S, McGregor    1     154    2      5       X      Alternate
+Whitney HS, Whitney       1     142    3
+Troy H S, Troy            1     128    4
+West HS, West             1     112    5
+Clifton HS, Clifton       1     44     6
+
+TEAM RESULTS
+------------------------------

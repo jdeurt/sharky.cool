@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                 Score  Place  Points  Medal  Advance
+Mock, Jonathan, P   Tatum HS, Tatum        189    1      15      X      Region
+Walters, Shelby     Carthage HS, Carthage  121    2      12      X      Region
+Clark, Joshua       Center HS, Center      112    3      10      X      Region
+Shrestha, Amerison  Center HS, Center      104    4      8       X      Alternate
+Gauger, Hunter      Carthage HS, Carthage  100    5      6       X
+Coultas, Sahara     Carthage HS, Carthage  93     6      4       X
+Mims, Braden, T     Tatum HS, Tatum        84     7
+Navarro, Arena, X   Tatum HS, Tatum        72     8
+Tvrdik, Christian   Carthage HS, Carthage  70     9
+Shuptrine, Stormy   Rusk H S, Rusk         65     10
+Hardy, Alyssa       Rusk H S, Rusk         59     11
+Hillin, Makayla, J  Tatum HS, Tatum        56     12
+Cleaver, Chloey M   Rusk H S, Rusk         31     13
+Medina, Mildred     Center HS, Center      28     14
+Quadri, Hamza       Center HS, Center      12     15
+Hancock, Haley M    Rusk H S, Rusk         -17    16
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Tatum HS, Tatum        1     345    1      10      X      Region
+Carthage HS, Carthage  1     314    2      5       X      Alternate
+Center HS, Center      1     244    3
+Rusk H S, Rusk         1     155    4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                     Score  Place  Points  Medal  Advance
+Rivera, Alejandra    Bowie HS, Austin           98     1      15      X      Region
+Velasquez, Enrique   Del Valle HS, Del Valle    88     2      12      X      Region
+Duncan, Brandon      Bowie HS, Austin           82     3      10      X      Region
+Baltoi, Daniel       Bowie HS, Austin           62     4      8       X      Alternate
+Russo, Sebastian     San Marcos HS, San Marcos  48     5      6       X
+Soenen, Katiana      Anderson HS, Austin        48     6      4       X
+Corona, Cesilia      Del Valle HS, Del Valle    44     7
+Garcia, Maria        Del Valle HS, Del Valle    42     8
+Belavente, Belle     Bowie HS, Austin           42     8
+Nesbitt, Xander      San Marcos HS, San Marcos  38     10
+Underwood, Devyn     San Marcos HS, San Marcos  34     11
+Cardenas, Stephanie  Del Valle HS, Del Valle    30     12
+Tran, PhuongUyen     Del Valle HS, Del Valle    28     13
+Bernier, Nikhil      Anderson HS, Austin        26     14
+Woo, Peter           Anderson HS, Austin        26     14
+Taylor, Guillermo    Manor HS, Manor            26     14
+Massoudian, Kian     Anderson HS, Austin        24     17
+Escalante, Amanda    Del Valle HS, Del Valle    8      18
+
+TOP SCORERS
+------------------------------
+Contestant           School        Results               Points
+Soenen, Katiana      Anderson HS   Top Scorer Biology    3
+Rivera, Alejandra    Bowie HS      Alternate Biology     0
+Rivera, Alejandra    Bowie HS      Top Scorer Chemistry  3
+Massoudian, Kian     Anderson HS   Alternate Chemistry   0
+Velasquez, Enrique   Del Valle HS  Top Scorer Physics    3
+Cardenas, Stephanie  Del Valle HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Bowie HS, Austin           1     242    1      10      X      Region
+Del Valle HS, Del Valle    1     174    2      5       X      Alternate
+San Marcos HS, San Marcos  1     120    3
+Anderson HS, Austin        1     100    4

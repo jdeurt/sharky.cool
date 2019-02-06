@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Smith, Tyrique         Anahuac HS, Anahuac           106    1      15      X      Region
+Stewart, Dalton        East Chambers H S, Winnie     66     2      12      X      Region
+Lambert, Ty            Warren HS, Warren             54     3      10      X      Region
+McClellan, Kyle        Hardin HS, Hardin             52     4      8       X      Alternate
+Blanton, Mathew        Hardin HS, Hardin             50     5      6       X
+Thorton, Lee           East Chambers H S, Winnie     42     6      4       X
+Kapraun, Samuel        Kirbyville H S, Kirbyville    40     7
+Pineda, Allison        Hardin HS, Hardin             40     7
+Montoya, Bilda         Bob Hope School, Port Arthur  36     9
+Bennett, Travis        Hardin HS, Hardin             30     10
+Slankard, Michael      Hardin HS, Hardin             28     11
+Murphy, Jacob          Kountze H S, Kountze          28     11
+Lopez, Leo             East Chambers H S, Winnie     26     13
+Charles, Ariana        East Chambers H S, Winnie     26     13
+Guzman, Eliseo         Kirbyville H S, Kirbyville    24     15
+Huerta, Sandra         Bob Hope School, Port Arthur  22     16
+Freeze, Delanie        Warren HS, Warren             22     16
+Ly, Tracey             Anahuac HS, Anahuac           22     16
+Stanley, Justan        Kountze H S, Kountze          20     19
+Longoria, Vicky        Bob Hope School, Port Arthur  18     20
+Pongsukvechkul, Bheem  Warren HS, Warren             18     20
+Medina, Adrian         Bob Hope School, Port Arthur  16     22
+Benton, Megan          Warren HS, Warren             16     22
+Wright, Taylor         Buna HS, Buna                 16     22
+Sanchez, Citlali       Bob Hope School, Port Arthur  14     25
+Devillier, Lance       East Chambers H S, Winnie     14     25
+Hawkins, Christina     Kountze H S, Kountze          14     25
+Greninger, Avery       Kirbyville H S, Kirbyville    12     28
+Jones, Michaela        Buna HS, Buna                 10     29
+Ellison, Michael       Kirbyville H S, Kirbyville    6      30
+Gibbs, Christian       Bob Hope School, Port Arthur  2      31
+Tupper, Kourtlyn       Kountze H S, Kountze          2      31
+Snider, Sarah          Hardin HS, Hardin             0      33
+Westbrooks, Michael    Buna HS, Buna                 -2     34
+Frizzell, Faith        Warren HS, Warren             -2     34
+Olivarietta, Katiana   Kirbyville H S, Kirbyville    -4     36
+Tiner, Zach            East Chambers H S, Winnie     -6     37
+Whittle, Lillyan       Kirbyville H S, Kirbyville    -14    38
+
+TOP SCORERS
+------------------------------
+Contestant       School             Results               Points
+Smith, Tyrique   Anahuac HS         Top Scorer Biology    3
+Lambert, Ty      Warren HS          Alternate Biology     0
+Smith, Tyrique   Anahuac HS         Top Scorer Chemistry  3
+Stewart, Dalton  East Chambers H S  Alternate Chemistry   0
+Stewart, Dalton  East Chambers H S  Top Scorer Physics    3
+Smith, Tyrique   Anahuac HS         Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Hardin HS, Hardin             1     142    1      10      X      Region
+East Chambers H S, Winnie     1     134    2      5       X      Alternate
+Warren HS, Warren             1     94     3
+Bob Hope School, Port Arthur  1     76     4
+Kirbyville H S, Kirbyville    1     76     4
+Kountze H S, Kountze          1     62     6
+Buna HS, Buna                 1     24     7

@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                     Score  Place  Points  Medal  Advance
+Henry, Haley        Hudson HS, Lufkin          135    1      15      X      Region
+Sanchez, Brendan    Diboll H S, Diboll         133    2      12      X      Region
+Sullivan, Caleb     Jasper H S, Jasper         125    3      10      X      Region
+Pantoja, Ricardo    Jasper H S, Jasper         98     4      8       X      Alternate
+Cassels, Rhett      Hudson HS, Lufkin          94     5      6       X
+Rodriguez, Valeria  Diboll H S, Diboll         92     6      4       X
+Cooper, Hannah      Diboll H S, Diboll         91     7
+Lopez, J            Hudson HS, Lufkin          86     8
+Shurley, Lera       Hudson HS, Lufkin          65     9
+Hopper, Carson      Huntington HS, Huntington  36     10
+Santana, Isaac      Jasper H S, Jasper         29     11
+Martin, Selena      Jasper H S, Jasper         23     12
+Martinez, Alex      Diboll H S, Diboll         22     13
+Groce, Peyton       Huntington HS, Huntington  15     14
+Harper, Zach        Huntington HS, Huntington  -46    15
+Wafer, Caleb        Huntington HS, Huntington  -57    16
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Diboll H S, Diboll         1     316    1      10      X      Region
+Hudson HS, Lufkin          1     315    2      5       X      Alternate
+Jasper H S, Jasper         1     252    3
+Huntington HS, Huntington  1     5      4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                      Score  Place  Points  Medal  Advance
+Obenza, Alex            Cypress Falls H S, Houston  224    1      15      X      Region
+Chada, Govind           Cypress Woods HS, Cypress   218    2      12      X      Region
+Ganti, Anish            Cypress Falls H S, Houston  190    3      10      X      Region
+Taqui, Ariz             Cypress Woods HS, Cypress   188    4      8       X      Alternate
+Saet, Asher             Cypress Woods HS, Cypress   182    5      6       X
+Xu, Aaron               Cypress Falls H S, Houston  168    6      4       X
+Vu, Warren              Cypress Falls H S, Houston  164    7
+Chakraborty, Isha       Cypress Ranch HS, Cypress   162    8
+Sharratt, Dylan         Cypress Creek HS, Houston   132    9
+Bozinov, Vincent        Cypress Woods HS, Cypress   128    10
+Paraizo, Daniel         Langham Creek H S, Houston  118    11
+Lin, Deborah            Cypress Ranch HS, Cypress   102    12
+Kelly, Raymond          Jersey Village HS, Houston  98     13
+Duong, Ashley           Jersey Village HS, Houston  96     14
+Swadi, Alisha           Cypress Woods HS, Cypress   88     15
+Conner, Daniella        Cypress Ranch HS, Cypress   86     16
+Nathani, Raniya         Langham Creek H S, Houston  78     17
+Saksena, Sajiv          Cypress Falls H S, Houston  78     17
+Nathani, Alia           Langham Creek H S, Houston  78     17
+Dhruv, Patel            Cypress Falls H S, Houston  60     20
+Hoang, Quang            Jersey Village HS, Houston  58     21
+Balderas, Lily          Cypress Woods HS, Cypress   52     22
+Le, Erin                Cypress Creek HS, Houston   52     22
+Tran, Duc T             Cypress Ranch HS, Cypress   52     22
+Estrada-Arias, Juliana  Jersey Village HS, Houston  48     25
+Tamayo Jimenez, Paloma  Cypress Creek HS, Houston   42     26
+Ogunmesa, Oluwatise     Cypress Lakes, Katy         42     26
+Palacios, Daniel        Jersey Village HS, Houston  38     28
+Chandra, Raj            Jersey Village HS, Houston  36     29
+Hernandez, Oscar        Cypress Ridge HS, Houston   24     30
+Ho, Cory                Cypress Ridge HS, Houston   24     30
+Nguyen, Brandon         Cypress Creek HS, Houston   20     32
+Allin, Gabrielle        Cypress Lakes, Katy         18     33
+Villareal, Marisa       Langham Creek H S, Houston  4      34
+
+TOP SCORERS
+------------------------------
+Contestant         School             Results               Points
+Ganti, Anish       Cypress Falls H S  Top Scorer Biology    3
+Chakraborty, Isha  Cypress Ranch HS   Alternate Biology     0
+Chada, Govind      Cypress Woods HS   Top Scorer Chemistry  3
+Ganti, Anish       Cypress Falls H S  Alternate Chemistry   0
+Obenza, Alex       Cypress Falls H S  Top Scorer Physics    3
+Chada, Govind      Cypress Woods HS   Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Cypress Woods HS, Cypress   1     588    1      10      X      Region
+Cypress Falls H S, Houston  1     582    2      5       X      Alternate
+Cypress Ranch HS, Cypress   1     350    3
+Langham Creek H S, Houston  1     274    4
+Jersey Village HS, Houston  1     252    5
+Cypress Creek HS, Houston   1     226    6

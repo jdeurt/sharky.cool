@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                     Score  Place  Points  Medal  Advance
+Zhang, Wenting         Brackenridge HS, San Antonio               114    1      15      X      Region
+York, Janet            Young Womens Leadership Acad, San Antonio  62     2      12      X      Region
+Medel, Jewel           Young Womens Leadership Acad, San Antonio  62     3      10      X      Region
+Osorio, Cynthia        Memorial H S, San Antonio                  54     4      8       X      Alternate
+Bravo, Frank           Memorial H S, San Antonio                  40     5      6       X
+Perez, Francisco       Memorial H S, San Antonio                  40     6      4       X
+Arambula, Trinity      Brackenridge HS, San Antonio               30     7
+Huff, Benjamin         Brackenridge HS, San Antonio               28     8
+Ruiz, Emily            Young Womens Leadership Acad, San Antonio  26     9
+Evangelista, Caroline  Young Womens Leadership Acad, San Antonio  26     10
+Cabriales, Jorge       Memorial H S, San Antonio                  24     11
+Moreno, Jade           Memorial H S, San Antonio                  18     12
+Isidoro, Yamilet       Memorial H S, San Antonio                  18     13
+Salazar, Solei         Young Womens Leadership Acad, San Antonio  10     14
+Jacobo, Isabella       Young Womens Leadership Acad, San Antonio  -4     15
+
+TOP SCORERS
+------------------------------
+Contestant       School                        Results               Points
+York, Janet      Young Womens Leadership Acad  Top Scorer Biology    3
+Osorio, Cynthia  Memorial H S                  Alternate Biology     0
+Zhang, Wenting   Brackenridge HS               Top Scorer Chemistry  3
+Medel, Jewel     Young Womens Leadership Acad  Alternate Chemistry   0
+Zhang, Wenting   Brackenridge HS               Top Scorer Physics    3
+Medel, Jewel     Young Womens Leadership Acad  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                     Team  Score  Place  Points  Medal  Advance
+Brackenridge HS, San Antonio               1     172    1      10      X      Region
+Young Womens Leadership Acad, San Antonio  1     150    2      5       X      Alternate
+Memorial H S, San Antonio                  1     134    3

@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Shuey, Anthony       Hirschi H S, Wichita Falls   189    1      15      X      Region
+Kamath, Ila          Hirschi H S, Wichita Falls   182    2      12      X      Region
+Nicolas, Alexis      Hirschi H S, Wichita Falls   182    3      10      X      Region
+Shirazy, Venus       Hirschi H S, Wichita Falls   161    4      8       X      Alternate
+Marshall, Baylee     Graham H S, Graham           102    5      6       X
+Beasley, Brittany    Burkburnett HS, Burkburnett  93     6      2       X
+Curtis, Ethan        Vernon H S, Vernon           93     6      2       X
+Dehnert, Brady       Burkburnett HS, Burkburnett  92     8
+Blaine, Taylor       Graham H S, Graham           77     9
+Thomas, Chaucey      Graham H S, Graham           64     10
+Le, Anna             Iowa Park H S, Iowa Park     56     11
+Foster, Stephen      Iowa Park H S, Iowa Park     55     12
+Frampton, Reagan     Graham H S, Graham           54     13
+Dodge, Madison       Iowa Park H S, Iowa Park     6      14
+McFarland, Martrice  Vernon H S, Vernon           -22    15
+Nesbit, Averi        Burkburnett HS, Burkburnett  -26    16
+Bergt, Kollin        Vernon H S, Vernon           -45    17
+Grandstaff, Barrett  Burkburnett HS, Burkburnett  -68    18
+Ford, Nikeya         Vernon H S, Vernon           -80    19
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Hirschi H S, Wichita Falls   1     553    1      10      X      Region
+Graham H S, Graham           1     243    2      5       X      Alternate
+Burkburnett HS, Burkburnett  1     159    3
+Iowa Park H S, Iowa Park     1     117    4
+Vernon H S, Vernon           1     26     5
+
+TEAM RESULTS
+------------------------------

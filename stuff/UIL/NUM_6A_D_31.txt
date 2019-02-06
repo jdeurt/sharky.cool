@@ -1,0 +1,55 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                             Score  Place  Points  Medal  Advance
+Hernandez, Antony       Edinburg North H S, Edinburg       350    1      15      X      Region
+Cantu, Carlos           Vela HS, Edinburg                  276    2      12      X      Region
+Perez, Diego            Edinburg North H S, Edinburg       255    3      10      X      Region
+Ramos, Ryan             Edinburg North H S, Edinburg       227    4      8       X      Alternate
+Ngyuen, Christian       Vela HS, Edinburg                  195    5      6       X
+Carrillo, Alan          PSJA HS, San Juan                  191    6      2       X
+Garcia, Elias           Vela HS, Edinburg                  191    6      2       X
+Guerrero, Alisha        Vela HS, Edinburg                  168    8
+Donaire, Esteban        Economedes H S, Edinburg           138    9
+Perez, Jared            Edinburg North H S, Edinburg       133    10
+Ramos, Alberto          Jefferson Early College HS, Pharr  122    11
+Roman, Juan             Economedes H S, Edinburg           104    12
+Rodriguez, Juan C.      Edinburg H S, Edinburg             100    13
+Araujo, Ramon           Edinburg H S, Edinburg             91     14
+Garcia, Albert          Economedes H S, Edinburg           86     15
+Leal, Sofia             PSJA Southwest H S, Pharr          85     16
+Trevino, Eduardo        Economedes H S, Edinburg           81     17
+Saenz, Gilbert          PSJA HS, San Juan                  68     18
+Alonso, Juan            Edinburg H S, Edinburg             67     19
+Martinez, Benjamin      Jefferson Early College HS, Pharr  50     20
+Gomez, Roberto          PSJA North HS, Pharr               50     20
+Mora, Yesenia           Edinburg H S, Edinburg             41     22
+Mireles, Christopher    PSJA Memorial HS, Alamo            34     23
+Martinez, Antonio       PSJA Southwest H S, Pharr          34     23
+Espinoza, Miguel        PSJA Memorial HS, Alamo            13     25
+Angeles, Raphael        PSJA North HS, Pharr               8      26
+DeLaCerda, Victoria     PSJA HS, San Juan                  8      26
+Gonzalez, Luis          Jefferson Early College HS, Pharr  0      28
+Juarez, Mariana         PSJA North HS, Pharr               0      28
+Gutierrez, Christopher  PSJA HS, San Juan                  0      28
+Velenzuela, Armando     PSJA Memorial HS, Alamo            0      28
+Garica-Herrera, Jae     PSJA Memorial HS, Alamo            0      28
+Huerta, Hugo            PSJA Southwest H S, Pharr          -1     33
+Amaro, Isabel           Jefferson Early College HS, Pharr  -22    34
+Nino, Bryan             PSJA North HS, Pharr               -58    35
+Saucedo, Osvaldo        PSJA Southwest H S, Pharr          -58    35
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Edinburg North H S, Edinburg       1     832    1      10      X      Region
+Vela HS, Edinburg                  1     662    2      5       X      Alternate
+Economedes H S, Edinburg           1     328    3
+PSJA HS, San Juan                  1     267    4
+Edinburg H S, Edinburg             1     258    5
+Jefferson Early College HS, Pharr  1     172    6
+PSJA Southwest H S, Pharr          1     118    7
+PSJA North HS, Pharr               1     58     8
+PSJA Memorial HS, Alamo            1     47     9
+
+TEAM RESULTS
+------------------------------

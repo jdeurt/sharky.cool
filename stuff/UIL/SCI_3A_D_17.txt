@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                             Score  Place  Points  Medal  Advance
+Rangel, Jaime       Palmer H S, Palmer                 62     1      15      X      Region
+Flowers, Joshua     Grandview H S, Grandview           60     2      12      X      Region
+Pinter, Robert      Maypearl H S, Maypearl             54     3      10      X      Region
+Deloney, Kelton     Palmer H S, Palmer                 52     4      8       X      Alternate
+Moore, Stephen      Grandview H S, Grandview           44     5      6       X
+Bons, Jake          Grandview H S, Grandview           42     6      2       X
+Tolliver, Nicole    Rice HS, Rice                      42     6      2       X
+Gray, Robin         Blooming Grove HS, Blooming Grove  40     8
+Peyton, Graham      Maypearl H S, Maypearl             38     9
+Galvan, Alexis      Grandview H S, Grandview           36     10
+Hayes, Noah         Grandview H S, Grandview           34     11
+Ortega, Miguel      Rice HS, Rice                      34     11
+Young, Tana         Blooming Grove HS, Blooming Grove  32     13
+Kirk, Claire        Blooming Grove HS, Blooming Grove  30     14
+Taylor, James       Mildred H S, Corsicana             30     14
+Adams, David        Mildred H S, Corsicana             28     16
+Jaramillo, Adrian   Palmer H S, Palmer                 26     17
+Perdomo, Britney    Rice HS, Rice                      24     18
+Andrews, Jackson    Rice HS, Rice                      22     19
+Bellhouse, Jared    Grandview H S, Grandview           20     20
+Collier, Jared      Mildred H S, Corsicana             20     20
+Martinez, Jonathan  Palmer H S, Palmer                 16     22
+Solis, Caleb        Mildred H S, Corsicana             16     22
+Marquis, Chloe      Blooming Grove HS, Blooming Grove  14     24
+Bottoms, Kylie      Mildred H S, Corsicana             14     24
+Gibbons, Billy      Maypearl H S, Maypearl             12     26
+Alvarez, Alex       Blooming Grove HS, Blooming Grove  8      27
+Contreras, Lisa     Blooming Grove HS, Blooming Grove  8      27
+Mancera, Anais      Palmer H S, Palmer                 6      29
+Young, Courtney     Mildred H S, Corsicana             2      30
+Canales, Edward     Rice HS, Rice                      -2     31
+Montantes, Bryan    Rice HS, Rice                      -10    32
+
+TOP SCORERS
+------------------------------
+Contestant        School             Results               Points
+Pinter, Robert    Maypearl H S       Top Scorer Biology    3
+Flowers, Joshua   Grandview H S      Alternate Biology     0
+Marquis, Chloe    Blooming Grove HS  Top Scorer Chemistry  3
+Rangel, Jaime     Palmer H S         Alternate Chemistry   0
+Young, Tana       Blooming Grove HS  Alternate Chemistry   0
+Tolliver, Nicole  Rice HS            Alternate Chemistry   0
+Bons, Jake        Grandview H S      Top Scorer Physics    1.50
+Moore, Stephen    Grandview H S      Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Grandview H S, Grandview           1     146    1      10      X      Region
+Palmer H S, Palmer                 1     140    2      5       X      Alternate
+Maypearl H S, Maypearl             1     104    3
+Blooming Grove HS, Blooming Grove  1     102    4
+Rice HS, Rice                      1     100    5
+Mildred H S, Corsicana             1     78     6

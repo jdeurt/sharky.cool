@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Smith, Hanor           Rockwall-Heath HS, Heath      166    1      15      X      Region
+Yeh, Joseph            Rockwall H S, Rockwall        136    2      12      X      Region
+Haling, Jackson        Lee H S, Tyler                132    3      10      X      Region
+Pich, Jacob            Mesquite H S, Mesquite        110    4      8       X      Alternate
+Webb, Spencer          Lee H S, Tyler                108    5      6       X
+Trail, Alexis          Rockwall H S, Rockwall        104    6      4       X
+Vordenbaumen, Timothy  Lee H S, Tyler                102    7
+Bailey, Meagan         Mesquite H S, Mesquite        100    8
+Venugopalan, Kavya     Rockwall H S, Rockwall        98     9
+Wilson, Jacob          Lee H S, Tyler                96     10
+Pawlowski, Felicity    Mesquite H S, Mesquite        90     11
+Oliver, Ethan          Rockwall-Heath HS, Heath      88     12
+Eckstein, Micah        Mesquite H S, Mesquite        82     13
+Layton, Katie          Rockwall-Heath HS, Heath      76     14
+Fay, Bernard           Rockwall-Heath HS, Heath      68     15
+Needum, Alonzo         Horn H S, Mesquite            64     16
+Pickens, Dalton        Horn H S, Mesquite            64     16
+Edegbe, Naomi          Horn H S, Mesquite            60     18
+Gage, Parker           Rockwall H S, Rockwall        48     19
+Mondragon, Angel       Tyler HS, Tyler               34     20
+Holloway, Bryce        Tyler HS, Tyler               34     20
+Campos, Celeste        North Mesquite H S, Mesquite  28     22
+Ventura, Fabio         Longview H S, Longview        28     22
+Johnson, Maddie        Longview H S, Longview        18     24
+Bass-McClellan, Desha  Horn H S, Mesquite            16     25
+Dainels, Emmanuel      Tyler HS, Tyler               12     26
+Ramiez, Eladio         Tyler HS, Tyler               10     27
+Saveedra, Michele      North Mesquite H S, Mesquite  6      28
+Dong, Vic              Longview H S, Longview        0      29
+Sims, Clifton          North Mesquite H S, Mesquite  -4     30
+Sandoval, Lizbeth      North Mesquite H S, Mesquite  -6     31
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Lee H S, Tyler                1     342    1      10      X      Region
+Rockwall H S, Rockwall        1     338    2      5       X      Alternate
+Rockwall-Heath HS, Heath      1     330    3
+Mesquite H S, Mesquite        1     300    4
+Horn H S, Mesquite            1     188    5
+Tyler HS, Tyler               1     80     6
+Longview H S, Longview        1     46     7
+North Mesquite H S, Mesquite  1     30     8
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Hill, Grace         Glen Rose H S, Glen Rose            146    1      15      X      Region
+Lansdowne, Carson   Midlothian Heritage HS, Midlothian  138    2      11      X      Region
+Wisdom, John        Glen Rose H S, Glen Rose            138    2      11      X      Region
+Anderson, Jonathan  Midlothian Heritage HS, Midlothian  94     4      8       X      Alternate
+Fender, Clayton     Godley H S, Godley                  84     5      6       X
+Nabors, Jordan      Glen Rose H S, Glen Rose            78     6      4       X
+Hilton, Jacob       Alvarado HS, Alvarado               74     7
+Bell, Macy          Midlothian Heritage HS, Midlothian  70     8
+Bigelow, Taylor     Godley H S, Godley                  68     9
+Jones, Calvin       Stephenville H S, Stephenville      62     10
+Aston, Kayla        Midlothian Heritage HS, Midlothian  56     11
+Rogers, Danny       Godley H S, Godley                  46     12
+Xhua, Mary          Stephenville H S, Stephenville      36     13
+Lindsey, Sara       Stephenville H S, Stephenville      34     14
+Outen, Erin         Glen Rose H S, Glen Rose            32     15
+Kafusi, Siaosi      Godley H S, Godley                  32     15
+Rose, Colten        Alvarado HS, Alvarado               18     17
+Pokhrel, Subarna    Stephenville H S, Stephenville      14     18
+Alford, Wade        Alvarado HS, Alvarado               8      19
+Hernandez, Renzo    Alvarado HS, Alvarado               2      20
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Glen Rose H S, Glen Rose            1     362    1      10      X      Region
+Midlothian Heritage HS, Midlothian  1     302    2      5       X      Alternate
+Godley H S, Godley                  1     198    3
+Stephenville H S, Stephenville      1     132    4
+Alvarado HS, Alvarado               1     100    5
+
+TEAM RESULTS
+------------------------------

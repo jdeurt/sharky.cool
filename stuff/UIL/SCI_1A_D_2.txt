@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School              Score  Place  Points  Medal  Advance
+Castillo, Juan     Lefors H S, Lefors  24     1      15      X      Region
+Booth, Isaac J     Hedley H S, Hedley  18     2      12      X      Region
+Bailey, Jurnee     McLean H S, McLean  18     3      10      X      Region
+Brooks, Laura      McLean H S, McLean  18     4      8       X      Alternate
+Williams, Blake    Lefors H S, Lefors  16     5      6       X
+Gilbert, Damyane   Lefors H S, Lefors  14     6      4       X
+Moon, Hope         McLean H S, McLean  12     7
+Byron, Autumn      McLean H S, McLean  12     7
+Rinke, Justus R    Hedley H S, Hedley  12     7
+Leal, Trenton J    Hedley H S, Hedley  10     10
+Fry, Todd          Lefors H S, Lefors  6      11
+Bartley, Jared     McLean H S, McLean  6      11
+Williams, Braedon  Groom HS, Groom     0      13
+Ellis, Dylan       McLean H S, McLean  -14    14
+
+TOP SCORERS
+------------------------------
+Contestant        School      Results               Points
+Gilbert, Damyane  Lefors H S  Top Scorer Biology    3
+Brooks, Laura     McLean H S  Alternate Biology     0
+Bailey, Jurnee    McLean H S  Alternate Biology     0
+Castillo, Juan    Lefors H S  Top Scorer Chemistry  3
+Brooks, Laura     McLean H S  Alternate Chemistry   0
+Leal, Trenton J   Hedley H S  Top Scorer Physics    3
+Castillo, Juan    Lefors H S  Alternate Physics     0
+Fry, Todd         Lefors H S  Alternate Physics     0
+Rinke, Justus R   Hedley H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Lefors H S, Lefors  1     54     1      10      X      Region
+McLean H S, McLean  1     48     2      5       X      Alternate
+Hedley H S, Hedley  1     40     3

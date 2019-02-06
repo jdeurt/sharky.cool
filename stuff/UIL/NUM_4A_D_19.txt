@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Sheppard, Trey       Salado HS, Salado              241    1      15      X      Region
+Kyburz, Ryan         Salado HS, Salado              214    2      12      X      Region
+Luckadoo, Hayden     Liberty Hill HS, Liberty Hill  204    3      10      X      Region
+Novotny, Andrew      Salado HS, Salado              199    4      8       X      Alternate
+Bramhall, Nick       Liberty Hill HS, Liberty Hill  164    5      6       X
+Haas, Ryder          Salado HS, Salado              144    6      4       X
+White, Addison       Lampasas HS, Lampasas          116    7
+Buttery, Heath       Llano H S, Llano               112    8
+Sellers, Toby        Taylor HS, Taylor              86     9
+Lloyd, Carson        Liberty Hill HS, Liberty Hill  59     10
+Cook, Harlan         Lampasas HS, Lampasas          56     11
+Karr, Nathan         Liberty Hill HS, Liberty Hill  52     12
+Pickle, Jake         Llano H S, Llano               49     13
+Elizondo, Diego      Taylor HS, Taylor              38     14
+Richardson, Emma     Llano H S, Llano               37     15
+Villanueva, Katrina  Llano H S, Llano               26     16
+Nyberg, Nicole       Taylor HS, Taylor              14     17
+Madden, Robert       Lampasas HS, Lampasas          14     17
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Salado HS, Salado              1     654    1      10      X      Region
+Liberty Hill HS, Liberty Hill  1     427    2      5       X      Alternate
+Llano H S, Llano               1     198    3
+Lampasas HS, Lampasas          1     186    4
+Taylor HS, Taylor              1     138    5
+
+TEAM RESULTS
+------------------------------

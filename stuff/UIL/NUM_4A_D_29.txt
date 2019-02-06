@@ -1,0 +1,26 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                               Score  Place  Points  Medal  Advance
+Owolabi, Gift         Carrizo Springs HS, Carrizo Springs  136    1      15      X      Region
+Naves, Daniel         Pearsall H S, Pearsall               70     2      12      X      Region
+Velasquez, Jazmine    Carrizo Springs HS, Carrizo Springs  55     3      10      X      Region
+Arroniz, Audrey       Carrizo Springs HS, Carrizo Springs  48     4      8       X      Alternate
+Falcon, Amaris        Pearsall H S, Pearsall               16     5      6       X
+Torres, Araceli       Pearsall H S, Pearsall               15     6      4       X
+DuBose, Taylor        Devine H S, Devine                   8      7
+Simpkins, Kyle        Devine H S, Devine                   2      8
+Paredes, Johnny       Lytle H S, Lytle                     -4     9
+Harrell, Sydnie       Devine H S, Devine                   -7     10
+Hernandez, Albertico  Crystal City H S, Crystal City       -9     11
+Mercer, Shiana        Devine H S, Devine                   -28    12
+Salas, Marc           Crystal City H S, Crystal City       -42    13
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Carrizo Springs HS, Carrizo Springs  1     239    1      10      X      Region
+Pearsall H S, Pearsall               1     101    2      5       X      Alternate
+Devine H S, Devine                   1     3      3
+
+TEAM RESULTS
+------------------------------

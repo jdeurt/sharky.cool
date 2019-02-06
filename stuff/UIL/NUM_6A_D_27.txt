@@ -1,0 +1,58 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Loja, Hans          Steele H S, Cibolo                      195    1      15      X      Region
+Estes, Luke         Smithson Valley HS, Spring Branch       182    2      12      X      Region
+Stoutamyer, Ross    Smithson Valley HS, Spring Branch       150    3      10      X      Region
+Rodriguez, Lauren   Clemens HS, Schertz                     112    4      8       X      Alternate
+Templeman, Philip   Canyon HS, New Braunfels                103    5      6       X
+Ling, Brandon       Smithson Valley HS, Spring Branch       98     6      4       X
+Kirchoff, Emma      Canyon HS, New Braunfels                92     7
+Bradbury, Iris      Smithson Valley HS, Spring Branch       82     8
+Forlano, Clancy     New Braunfels H S, New Braunfels        67     9
+Tondre, Jacob       Clemens HS, Schertz                     63     10
+Plepsen, Jasmine    Clemens HS, Schertz                     63     10
+Angeles, Brandon    Steele H S, Cibolo                      59     12
+Alkire, Jeremy      New Braunfels H S, New Braunfels        56     13
+Meyers, Warren      Wagner HS, San Antonio                  52     14
+Li, Jialong         Wagner HS, San Antonio                  50     15
+Rios, Jadan         Judson Early College Academy, Live Oak  49     16
+Emler, Madison      Judson H S, Converse                    48     17
+Frazier, Jackson    Canyon HS, New Braunfels                47     18
+Perez, Anthony      Judson Early College Academy, Live Oak  46     19
+Akula, Neeraj       Canyon HS, New Braunfels                35     20
+Ollaca, Discivitee  Wagner HS, San Antonio                  27     21
+Kyle, Kistner       Memorial ECHS, New Braunfels            22     22
+Holt, Jason         Steele H S, Cibolo                      18     23
+Curtis, Makenna     Judson H S, Converse                    17     24
+Hernandez, Victor   Memorial ECHS, New Braunfels            17     24
+Jackson, Gavin      Judson Early College Academy, Live Oak  14     26
+White, Cameron      Judson H S, Converse                    11     27
+Zayasbazan, Dylan   East Central H S, San Antonio           9      28
+Reid, Jade          Steele H S, Cibolo                      6      29
+Pickett, Joseph     New Braunfels H S, New Braunfels        3      30
+Abundiz, Yanel      Wagner HS, San Antonio                  -1     31
+Bonson, Christian   Judson H S, Converse                    -1     31
+Barber, Matt        New Braunfels H S, New Braunfels        -4     33
+Palmer, James       East Central H S, San Antonio           -6     34
+Ramos, Christian    East Central H S, San Antonio           -7     35
+Smith, Madison      Clemens HS, Schertz                     -13    36
+Crook, Rian         Memorial ECHS, New Braunfels            -225   37
+Trapolsi, Sierra    Judson Early College Academy, Live Oak  -316   38
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Smithson Valley HS, Spring Branch       1     430    1      10      X      Region
+Steele H S, Cibolo                      1     272    2      5       X      Alternate
+Canyon HS, New Braunfels                1     242    3
+Clemens HS, Schertz                     1     238    4
+Wagner HS, San Antonio                  1     129    5
+New Braunfels H S, New Braunfels        1     126    6
+Judson Early College Academy, Live Oak  1     109    7
+Judson H S, Converse                    1     76     8
+East Central H S, San Antonio           1     -4     9
+Memorial ECHS, New Braunfels            1     -186   10
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                   Score  Place  Points  Medal
+Justice, Ben          Borden HS, Gail          154    1      15      X
+Morris, Karter        Aspermont HS, Aspermont  100    2      12      X
+Ramirez, Valentine    Booker HS, Booker        90     3      10      X
+Dong, Jessica         Knippa H S, Knippa       86     4      8       X
+Boston, Lance         Booker HS, Booker        74     5      6       X
+Garner, Keith         Fruitvale HS, Fruitvale  64     6      4       X
+Coston, Stone         Slidell HS, Slidell      64     7
+Martin, Clayton       Aspermont HS, Aspermont  46     8
+Buchanan, Austin      Borden HS, Gail          46     8
+Bhakta, Niraj         Aspermont HS, Aspermont  46     8
+Cole, Mason           Borden HS, Gail          44     11
+Trajkovski, Kristina  Knox City HS, Knox City  42     12
+Parks, Elisabeth      Tioga HS, Tioga          38     13
+Rangel, Obie          Abbott HS, Abbott        24     14
+Davis, Dusty          Slidell HS, Slidell      22     15
+Dominguez, Daniel     Booker HS, Booker        20     16
+Talamantes, Tristyn   Slidell HS, Slidell      20     16
+Johnson, Warren       Slidell HS, Slidell      16     18
+Chavez, Luis          Aspermont HS, Aspermont  14     19
+Lewis, Riley          Borden HS, Gail          14     19
+Ortiz, Laura          Springlake H S, Earth    6      21
+Lutkenhaus, Autumn    Abbott HS, Abbott        6      21
+Nors, Nathan          Abbott HS, Abbott        6      21
+Phillips, Haidyn      Booker HS, Booker        0      24
+Ortiz, Diana          Abbott HS, Abbott        0      24
+Vann, Kaylee          Wells HS, Wells          -2     26
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Borden HS, Gail          1     544    1      20      X
+Aspermont HS, Aspermont  1     372    2      16      X      Alternate
+Booker HS, Booker        1     364    3      12      X
+Slidell HS, Slidell      1     286    4
+Abbott HS, Abbott        1     36     5
+
+TEAM RESULTS
+------------------------------

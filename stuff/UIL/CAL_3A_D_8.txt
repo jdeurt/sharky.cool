@@ -1,0 +1,49 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Lancaster, Matthew  City View HS, Wichita Falls  196    1      15      X      Region
+Johnson, Seth       City View HS, Wichita Falls  149    2      12      X      Region
+Wampler, Braden     City View HS, Wichita Falls  142    3      10      X      Region
+Metcalf, Mason      City View HS, Wichita Falls  135    4      5       X      Alternate
+Karg, Heather       Paradise HS, Paradise        135    4      5       X      Alternate
+Penny, Riley        Paradise HS, Paradise        135    6      4       X
+Allison, Katelyn    Bowie HS, Bowie              121    7
+Holt, Hailey        Paradise HS, Paradise        119    8
+Hill, Madison       Bowie HS, Bowie              112    9
+Crohan, Abigail     Boyd HS, Boyd                107    10
+Turlington, Chloe   Bowie HS, Bowie              107    11
+Perez, Logan        Holliday H S, Holliday       105    12
+Cating, Hope        Holliday H S, Holliday       97     13
+Davis, Katie        Paradise HS, Paradise        91     14
+Beaman, Tyler       Holliday H S, Holliday       87     15
+Otto, Zack          Bowie HS, Bowie              63     16
+Lemon, Destiny      Nocona H S, Nocona           61     17
+Plaster, Leah       Jacksboro H S, Jacksboro     59     18
+Hutchins, Reid      Holliday H S, Holliday       41     19
+Armstrong, Maylan   Jacksboro H S, Jacksboro     34     20
+Hanson, Madison     Henrietta H S, Henrietta     23     21
+Jenkins, Beverly    Boyd HS, Boyd                20     22
+Gwin, Jim           Henrietta H S, Henrietta     19     23
+Diaz, Sergio        Nocona H S, Nocona           17     24
+Essler, Trey        Henrietta H S, Henrietta     8      25
+Hart, Carly         Jacksboro H S, Jacksboro     8      26
+Tisdale, Trinity    Jacksboro H S, Jacksboro     3      27
+Duncan, Garrett     Henrietta H S, Henrietta     0      28
+Watkins, Julia      Boyd HS, Boyd                -3     29
+Garcia, Fatima      Nocona H S, Nocona           -34    30
+Armstrong, Kailey   Nocona H S, Nocona           -75    31
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+City View HS, Wichita Falls  1     487    1      10      X      Region
+Paradise HS, Paradise        1     389    2      5       X      Alternate
+Bowie HS, Bowie              1     340    3
+Holliday H S, Holliday       1     289    4
+Boyd HS, Boyd                1     124    5
+Jacksboro H S, Jacksboro     1     101    6
+Henrietta H S, Henrietta     1     50     7
+Nocona H S, Nocona           1     44     8
+
+TEAM RESULTS
+------------------------------

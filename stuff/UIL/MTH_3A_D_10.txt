@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                          Score  Place  Points  Medal  Advance
+Jang, Joseph          Commerce HS, Commerce           130    1      15      X      Region
+Renshaw, Matthew      Farmersville H S, Farmersville  110    2      12      X      Region
+Nippani, Vineet       Commerce HS, Commerce           104    3      10      X      Region
+Sisk, Mitchell        Farmersville H S, Farmersville  82     4      8       X      Alternate
+Slaughter, Hailey     Whitewright HS, Whitewright     70     5      6       X
+Mata, Jose            Van Alstyne HS, Van Alstyne     68     6      4       X
+Cannon, Cutler        Van Alstyne HS, Van Alstyne     62     7
+Mclean, Macie         Whitewright HS, Whitewright     60     8
+Mott, Anissa          Leonard HS, Leonard             58     9
+Hammond, Cassie       Van Alstyne HS, Van Alstyne     58     9
+Richey, Holly         Whitewright HS, Whitewright     56     11
+Hirons, James         Van Alstyne HS, Van Alstyne     54     12
+Snider, Greg          Howe HS, Howe                   46     13
+McCoy, Hunter         Farmersville H S, Farmersville  44     14
+Stubblefield, Torrey  Howe HS, Howe                   40     15
+Luhn, Jaden           Lone Oak HS, Lone Oak           40     15
+Adkins, Jackson       Howe HS, Howe                   38     17
+Long, Remi            Leonard HS, Leonard             38     17
+Mounga, Lexi          Lone Oak HS, Lone Oak           32     19
+Jackson, Connor       Howe HS, Howe                   32     19
+Burt, Taylor          Whitewright HS, Whitewright     30     21
+Speir, Kinley         Leonard HS, Leonard             24     22
+Moses, Sabrina        Farmersville H S, Farmersville  22     23
+Lovan, Haley          Lone Oak HS, Lone Oak           8      24
+McCallum, Joe         Lone Oak HS, Lone Oak           4      25
+Ashworth, Charley     Leonard HS, Leonard             -2     26
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Farmersville H S, Farmersville  1     236    1      10      X      Region
+Van Alstyne HS, Van Alstyne     1     188    2      5       X      Alternate
+Whitewright HS, Whitewright     1     186    3
+Howe HS, Howe                   1     124    4
+Leonard HS, Leonard             1     120    5
+Lone Oak HS, Lone Oak           1     80     6
+
+TEAM RESULTS
+------------------------------

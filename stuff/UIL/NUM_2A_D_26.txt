@@ -1,0 +1,32 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                  School                     Score  Place  Points  Medal  Advance
+Mallett, Hailey             Iola HS, Iola              56     1      15      X      Region
+Vaughn, Jaggar              Iola HS, Iola              29     2      11      X      Region
+Bouldin, Becky              Normangee HS, Normangee    29     2      11      X      Region
+Barrett, Nathan             Normangee HS, Normangee    19     4      8       X      Alternate
+Conrad, Lewis               Snook HS, Snook            17     5      6       X
+Quinton, Jeremy             Burton HS, Burton          8      6      1.33    X
+Coufal, Kyndal              Burton HS, Burton          8      6      1.33    X
+Light, Madison              Normangee HS, Normangee    8      6      1.33    X
+Vasquez, Nicholas           Somerville HS, Somerville  3      9
+Bradicich, Hannah           Iola HS, Iola              2      10
+Weiss, Cade                 Burton HS, Burton          -1     11
+Webb, Emmy                  Iola HS, Iola              -8     12
+Banda, Anthony              Normangee HS, Normangee    -10    13
+Kovasovic, Gabby            Somerville HS, Somerville  -13    14
+Sprouse, Ashlynn            Somerville HS, Somerville  -18    15
+Barragan, Isaac             Snook HS, Snook            -18    15
+Clayton, Cabrini            Somerville HS, Somerville  -22    17
+Countouriotous, Alexandria  Burton HS, Burton          -75    18
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Iola HS, Iola              1     87     1      10      X      Region
+Normangee HS, Normangee    1     56     2      5       X      Alternate
+Burton HS, Burton          1     15     3
+Somerville HS, Somerville  1     -28    4
+
+TEAM RESULTS
+------------------------------

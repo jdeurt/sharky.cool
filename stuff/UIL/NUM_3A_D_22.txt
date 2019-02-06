@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Young, Baylor        Central HS, Pollok               153    1      15      X      Region
+Doyle, Cody          Central HS, Pollok               55     2      12      X      Region
+McAdams, Robert      Corrigan-Camden H S, Corrigan    53     3      10      X      Region
+Lindemann, Carson    Central Heights HS, Nacogdoches  43     4      8       X      Alternate
+Munoz, Maxsimiliano  Corrigan-Camden H S, Corrigan    26     5      6       X
+Randall, Zachary     Central HS, Pollok               21     6      4       X
+Tanvez, Mohammed     Woodville HS, Woodville          19     7
+Self, Rachel         Central Heights HS, Nacogdoches  12     8
+Cuevas, Alex         Corrigan-Camden H S, Corrigan    5      9
+Hunter, Shamari      Newton H S, Newton               -1     10
+Conarroe, Kaylee     Corrigan-Camden H S, Corrigan    -2     11
+Proctor, Trey        Hemphill H S, Hemphill           -3     12
+Thomas, Tre'Shawn    Woodville HS, Woodville          -3     12
+Castilaw, Emily      Central Heights HS, Nacogdoches  -5     14
+Fountain, Andrew     Newton H S, Newton               -7     15
+Clements, Savanna    Garrison H S, Garrison           -10    16
+Taylor, Kanna        Woodville HS, Woodville          -12    17
+Guerrero, Emmanuel   Central HS, Pollok               -15    18
+Hawver, Gabe         Hemphill H S, Hemphill           -16    19
+Toner, Peyton        Central Heights HS, Nacogdoches  -26    20
+Wilkerson, Malik     Hemphill H S, Hemphill           -36    21
+Mannino, Hannah      Woodville HS, Woodville          -37    22
+Robinson, Alliyah    Newton H S, Newton               -64    23
+Murdock, Sailor      Garrison H S, Garrison           -81    24
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Central HS, Pollok               1     229    1      10      X      Region
+Corrigan-Camden H S, Corrigan    1     84     2      5       X      Alternate
+Central Heights HS, Nacogdoches  1     50     3
+Woodville HS, Woodville          1     4      4
+Hemphill H S, Hemphill           1     -55    5
+Newton H S, Newton               1     -72    6
+
+TEAM RESULTS
+------------------------------

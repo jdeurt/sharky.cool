@@ -1,0 +1,60 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Weber, Aidan       Hartley H S, Hartley       157    1      13.50   X      State
+Mize, Melissa      Hartley H S, Hartley       157    1      13.50   X      State
+Sandoval, Yaretzi  Guthrie HS, Guthrie        129    3      10      X      State
+Perianez, Omar     Hartley H S, Hartley       115    4      8       X      Alternate
+Maxwell, Reagan    Guthrie HS, Guthrie        114    5      5       X
+Hawkins, Brady     Knox City HS, Knox City    114    5      5       X
+Soto, Elva         Hartley H S, Hartley       100    7
+Coulter, Abby      Jayton H S, Jayton         83     8
+Clabaugh, Jabree   Ropes HS, Ropesville       82     9
+Lewis, Carson      Knox City HS, Knox City    82     9
+Senter, Sayer      Ropes HS, Ropesville       79     11
+Wiebe, Jonathan    Wellman-Union HS, Wellman  69     12
+Patterson, Jett    Amherst HS, Amherst        68     13
+Howell, Cade       Ropes HS, Ropesville       68     13
+Lynn, Preston      Knox City HS, Knox City    53     15
+Davis, Jackson     Happy HS, Happy            45     16
+Ledesma, Dustin    Knox City HS, Knox City    41     17
+McCauley, Morgan   Guthrie HS, Guthrie        35     18
+McCarley, Colton   Happy HS, Happy            32     19
+Carlos, Oscar      Whitharral HS, Whitharral  32     19
+Ebenkamp, Jacob    Miami H S, Miami           29     21
+Baylon, Ramon      Miami H S, Miami           29     21
+Mays, TK           Guthrie HS, Guthrie        29     21
+McAlister, Kristi  Nazareth H S, Nazareth     22     24
+Gonzales, Kasidy   Whitharral HS, Whitharral  22     24
+Schilderink, Mike  Nazareth H S, Nazareth     15     26
+Lopez, Bernardo    Lazbuddie HS, Lazbuddie    13     27
+Roberson, Phillip  Miami H S, Miami           12     28
+Middleton, Cy      Happy HS, Happy            11     29
+Baylon, Erick      Miami H S, Miami           10     30
+Cordova, Leilanni  Nazareth H S, Nazareth     7      31
+Albus, Chris       Whitharral HS, Whitharral  6      32
+Gay, Madisen P     Hedley H S, Hedley         4      33
+Johnson, Teagen    Happy HS, Happy            2      34
+Trull, Chloe       Ropes HS, Ropesville       1      35
+Stuart, Joshua     Follett HS, Follett        0      36
+Beatty, Caden      Whitharral HS, Whitharral  0      36
+McAlister, Grady   Nazareth H S, Nazareth     -4     38
+Lambert, Jayden G  Hedley H S, Hedley         -12    39
+Kuehler, Lauren    Groom HS, Groom            -14    40
+Hinton, Kasie N    Hedley H S, Hedley         -14    40
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Hartley H S, Hartley       1     429    1      10      X      State
+Guthrie HS, Guthrie        1     278    2      5       X      Alternate
+Knox City HS, Knox City    1     249    3
+Ropes HS, Ropesville       1     229    4
+Happy HS, Happy            1     88     5
+Miami H S, Miami           1     70     6
+Whitharral HS, Whitharral  1     60     7
+Nazareth H S, Nazareth     1     44     8
+Hedley H S, Hedley         1     -22    9
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,32 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Kenny, Patrick      Central HS, Keller       192    1      15      X      Region
+Gupta, Shray        Keller H S, Keller       162    2      12      X      Region
+Sylvester, Andrew   Timber Creek HS, Keller  156    3      10      X      Region
+Noh, Richard        Central HS, Keller       144    4      8       X      Alternate
+Peavler, Thomas     Keller H S, Keller       140    5      6       X
+Silva, Joao         Keller H S, Keller       136    6      4       X
+Rayudu, Pranav      Keller H S, Keller       134    7
+Franz, Calvin       Fossil Ridge HS, Keller  110    8
+Almeida, Alexander  Fossil Ridge HS, Keller  106    9
+Payne, Ivan         Fossil Ridge HS, Keller  96     10
+Robirds, Lucas      A.T.E.M.S., Abilene      58     11
+DeVos, Alex         A.T.E.M.S., Abilene      56     12
+Singh, Yug          Central HS, Keller       30     13
+Escutia, Rick       Timber Creek HS, Keller  28     14
+Rosales, Cameron    Timber Creek HS, Keller  24     15
+Burress, Seth       A.T.E.M.S., Abilene      -4     16
+Lancaster, Journai  A.T.E.M.S., Abilene      -10    17
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Central HS, Keller       1     826    1      20      X      Region
+Keller H S, Keller       1     668    2      16      X      Alternate
+Timber Creek HS, Keller  1     558    3      12      X
+Fossil Ridge HS, Keller  1     542    4
+A.T.E.M.S., Abilene      1     230    5
+
+TEAM RESULTS
+------------------------------

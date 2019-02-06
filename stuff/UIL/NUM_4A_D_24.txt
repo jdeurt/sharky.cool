@@ -1,0 +1,20 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                               Score  Place  Points  Medal  Advance
+Romero, Emylee         Challenge Early College HS, Houston  -2     1      15      X      Region
+Garcia, Samantha       Wheatley HS, Houston                 -6     2      12      X      Region
+Panhwar, Hajra         Liberty HS, Houston                  -34    3      10      X      Region
+Maldonado, Hector      Liberty HS, Houston                  -49    4      8       X      Alternate
+Gao, Song              Liberty HS, Houston                  -54    5      6       X
+Castorena, Jose        Wheatley HS, Houston                 -64    6      4       X
+Quintanilla, Gabriela  Liberty HS, Houston                  -97    7
+Herrera, Vicente       Wheatley HS, Houston                 -115   8
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Liberty HS, Houston   1     -137   1      10      X      Region
+Wheatley HS, Houston  1     -185   2      5       X      Alternate
+
+TEAM RESULTS
+------------------------------

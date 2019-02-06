@@ -1,0 +1,26 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                  Score  Place  Points  Medal  Advance
+Clark, Kyndall       Cushing HS, Cushing                     72     1      15      X      Region
+Zaiontz, Chandler    Cushing HS, Cushing                     72     2      12      X      Region
+Reeves, Marlin       Cushing HS, Cushing                     60     3      10      X      Region
+Robbins, Ethan  R    Douglass H S, Douglass                  47     4      8       X      Alternate
+Ven, Sovan           New Summerfield H S, New Summerfield    42     5      6       X
+Porras, Juan         New Summerfield H S, New Summerfield    42     6      4       X
+Broumley, Kyelie     Cushing HS, Cushing                     39     7
+Coleman, Malik       Alto HS, Alto                           37     8
+Read, John S         Douglass H S, Douglass                  34     9
+Bernard, Abby        Alto HS, Alto                           17     10
+Alvarez, Alexander   Alto HS, Alto                           -6     11
+Zoyoquila, Catalina  Mount Enterprise H S, Mount Enterprise  -27    12
+Strubel, Brandon L   Douglass H S, Douglass                  -54    13
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Cushing HS, Cushing     1     204    1      10      X      Region
+Alto HS, Alto           1     48     2      5       X      Alternate
+Douglass H S, Douglass  1     27     3
+
+TEAM RESULTS
+------------------------------

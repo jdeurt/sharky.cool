@@ -1,0 +1,45 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Jung, Anna          Klondike HS, Lamesa      90     1      15      X      Region
+Cox, Marshall       Grady HS, Lenorah        54     2      11      X      Region
+Cooper, Price       Klondike HS, Lamesa      54     2      11      X      Region
+Jonas, Gillian      O'Donnell HS, O'Donnell  44     4      8       X      Alternate
+Bushong, Alexi      Klondike HS, Lamesa      42     5      6       X
+Ontiveros, Alijah   Grady HS, Lenorah        42     6      4       X
+Schoberg, Draven    Grady HS, Lenorah        38     7
+Beck, Brianna       Klondike HS, Lamesa      38     7
+DeAnda, Isaiah      Grady HS, Lenorah        34     9
+Wigington, Jayden   Sands HS, Ackerly        34     9
+Rodriquez, Betsy    Grady HS, Lenorah        26     11
+Coleman, Shay       Klondike HS, Lamesa      24     12
+Jimenez, Julie      Grady HS, Lenorah        14     13
+Gillespie, Caleb    Sands HS, Ackerly        14     13
+Barkowsky, Cade     Klondike HS, Lamesa      12     15
+Salinas, Alex       Loop HS, Loop            2      16
+Harms, Peter        Loop HS, Loop            0      17
+Pedroza, Marcos     O'Donnell HS, O'Donnell  0      17
+Arellano, Kyle      Sands HS, Ackerly        0      17
+Perales, Mariah     O'Donnell HS, O'Donnell  -4     20
+Owens, John         Loop HS, Loop            -8     21
+Garces, Elvis       O'Donnell HS, O'Donnell  -8     21
+Pedroza, Sebastian  O'Donnell HS, O'Donnell  -28    23
+
+TOP SCORERS
+------------------------------
+Contestant        School       Results               Points
+Jung, Anna        Klondike HS  Top Scorer Biology    3
+Cooper, Price     Klondike HS  Alternate Biology     0
+Jung, Anna        Klondike HS  Top Scorer Chemistry  3
+DeAnda, Isaiah    Grady HS     Alternate Chemistry   0
+Cox, Marshall     Grady HS     Top Scorer Physics    1.50
+Schoberg, Draven  Grady HS     Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Klondike HS, Lamesa      1     186    1      10      X      Region
+Grady HS, Lenorah        1     134    2      5       X      Alternate
+Sands HS, Ackerly        1     48     3
+O'Donnell HS, O'Donnell  1     40     4
+Loop HS, Loop            1     -6     5

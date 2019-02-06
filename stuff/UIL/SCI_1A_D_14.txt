@@ -1,0 +1,55 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Tubb, Karli            Garden City H S, Garden City     52     1      15      X      Region
+Arhelger, Elisianna E  Water Valley HS, Water Valley    50     2      12      X      Region
+Sims, Carlee J         Water Valley HS, Water Valley    48     3      10      X      Region
+Chapman, Samuel E      Water Valley HS, Water Valley    44     4      8       X      Alternate
+Bradley, Maximus R     Water Valley HS, Water Valley    36     5      6       X
+Hoover, Kendra R       Water Valley HS, Water Valley    34     6      4       X
+Mead, Makalynn M       Sterling City HS, Sterling City  32     7
+Savino, Carola         Blackwell HS, Blackwell          30     8
+Copeland, Dain K       Sterling City HS, Sterling City  30     8
+Marquez, Angel         Veribest HS, Veribest            28     10
+Shipman, Nathaniel     Blackwell HS, Blackwell          26     11
+Burns, Kiara           Robert Lee H S, Robert Lee       24     12
+Moore, Raegen          Bronte HS, Bronte                20     13
+Lane, Jordan           Veribest HS, Veribest            18     14
+Koenning, Parker       Garden City H S, Garden City     16     15
+Williams, Mercedes     Blackwell HS, Blackwell          14     16
+Chantrill, Jaxon       Bronte HS, Bronte                14     16
+Solis, Dillon          Blackwell HS, Blackwell          10     18
+Padilla, Selah R       Water Valley HS, Water Valley    10     18
+Bolin, Joshua          Veribest HS, Veribest            10     18
+Smith, Sydnee          Veribest HS, Veribest            10     18
+Calderon, Francisco J  Sterling City HS, Sterling City  8      22
+Bolin, Zachary         Veribest HS, Veribest            8      22
+Miller, Scott          Garden City H S, Garden City     4      24
+Andrade, Rodrigo       Garden City H S, Garden City     2      25
+Archiga, Miguel R      Sterling City HS, Sterling City  0      26
+Braden, Cade           Garden City H S, Garden City     0      26
+Clark, Hunter          Blackwell HS, Blackwell          -2     28
+Halfmann, Ryan         Garden City H S, Garden City     -2     28
+Beltran, Jose H        Sterling City HS, Sterling City  -6     30
+Davis, Victoria        Blackwell HS, Blackwell          -8     31
+Arthur, Nathan         Bronte HS, Bronte                -22    32
+
+TOP SCORERS
+------------------------------
+Contestant      School           Results               Points
+Tubb, Karli     Garden City H S  Top Scorer Biology    3
+Sims, Carlee J  Water Valley HS  Alternate Biology     0
+Burns, Kiara    Robert Lee H S   Top Scorer Chemistry  3
+Clark, Hunter   Blackwell HS     Alternate Chemistry   0
+Marquez, Angel  Veribest HS      Top Scorer Physics    3
+Savino, Carola  Blackwell HS     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Water Valley HS, Water Valley    1     142    1      10      X      Region
+Garden City H S, Garden City     1     72     2      5       X      Alternate
+Blackwell HS, Blackwell          1     70     3
+Sterling City HS, Sterling City  1     70     3
+Veribest HS, Veribest            1     56     5
+Bronte HS, Bronte                1     12     6

@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                         Score  Place  Points  Medal  Advance
+Garcia, Valerie       San Diego HS, San Diego        78     1      15      X      Region
+Riviera, Xavier       Hebbronville HS, Hebbronville  66     2      12      X      Region
+Vela, Lianna          San Diego HS, San Diego        62     3      10      X      Region
+Gonzalez, Sebastian   San Diego HS, San Diego        58     4      8       X      Alternate
+Wallek, Dakota        George West HS, George West    54     5      6       X
+Alaniz, Melanie       Hebbronville HS, Hebbronville  46     6      4       X
+Goebel, Hondo         George West HS, George West    44     7
+Teneyuca, Dylan       Cotulla HS, Cotulla            42     8
+Sackett, Bobby        Cotulla HS, Cotulla            36     9
+Garcia, Mallory       Cotulla HS, Cotulla            28     10
+Emerson, Elizabeth    George West HS, George West    28     10
+Lazo, Amado           San Diego HS, San Diego        24     12
+Atkinson, Dashae      Hebbronville HS, Hebbronville  20     13
+Trevino, Zachary      Hebbronville HS, Hebbronville  16     14
+Darr, Logan           George West HS, George West    16     14
+Gonzales, Heaven      Cotulla HS, Cotulla            12     16
+Gonzales, Amaris      Dilley HS, Dilley              12     16
+Guiterrez, Malaquias  Dilley HS, Dilley              -4     18
+Garfield, Pilar       Dilley HS, Dilley              -6     19
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+San Diego HS, San Diego        1     198    1      10      X      Region
+Hebbronville HS, Hebbronville  1     132    2      5       X      Alternate
+George West HS, George West    1     126    3
+Cotulla HS, Cotulla            1     106    4
+Dilley HS, Dilley              1     2      5
+
+TEAM RESULTS
+------------------------------

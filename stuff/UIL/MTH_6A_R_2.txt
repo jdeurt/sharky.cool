@@ -1,0 +1,61 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                          Score  Place  Points  Medal  Advance
+Ye, Thomas              Klein HS, Klein                 336    1      15      X      State
+Rege, Raviraj           Science-Eng Magnet Hs, Dallas   330    2      12      X      State
+Lamoreaux, Aaron        Richardson H S, Richardson      320    3      10      X      State
+Chandak, Yash           Science-Eng Magnet Hs, Dallas   306    4      8       X      Alternate
+Diaz, Victor            Science-Eng Magnet Hs, Dallas   302    5      6       X
+Varada, Pranay          Science-Eng Magnet Hs, Dallas   256    6      4       X
+Nguyen, Zachary         Garland H S, Garland            246    7
+Wang, Eric              Westwood HS, Austin             240    8
+Moondra, Anshul         Westwood HS, Austin             236    9
+Ijay, Narang            Westwood HS, Austin             234    10
+Jia, Chris              Klein HS, Klein                 228    11
+Sreenivasan, Adithya    McNeil H S, Austin              222    12
+Pervaiz, Syed           Richardson H S, Richardson      214    13
+Rayman, James           Richardson H S, Richardson      196    14
+Wendling, Jake          Garland H S, Garland            192    15
+Abutalib, Syed          Richardson H S, Richardson      180    16
+Bandi, Rohit            Westwood HS, Austin             176    17
+Thai, Vivian            Garland H S, Garland            158    18
+Calhoun, Michael        Lufkin H S, Lufkin              150    19
+Li, Richard             Klein Oak HS, Spring            142    20
+Smith, Hanor            Rockwall-Heath HS, Heath        136    21
+Todd, Allison           Lufkin H S, Lufkin              136    21
+Haling, Jackson         Lee H S, Tyler                  132    23
+Shao, Edward            College Park HS, The Woodlands  128    24
+Khurshid, Ali           Lufkin H S, Lufkin              114    25
+Yeh, Joseph             Rockwall H S, Rockwall          112    26
+Wilson, Jacob           Lee H S, Tyler                  108    27
+Garcia, Adrian          Lufkin H S, Lufkin              90     28
+Velasquez, Enrique      Bowie HS, Austin                86     29
+Webb, Spencer           Lee H S, Tyler                  80     30
+Hernandez, Robert       Bowie HS, Austin                76     31
+Chan, Angela            Westfield HS, Houston           72     32
+Vordenbaumen, Timothy   Lee H S, Tyler                  68     33
+Soetaert, Robby         Spring HS, Spring               66     34
+Dimaranan, Ryan         Spring HS, Spring               64     35
+Stewart, Jamal          Spring HS, Spring               38     36
+Cash, Justin            Spring HS, Spring               38     36
+Myongsun, ( Karen) Kim  Bowie HS, Austin                0      38
+Myers, Caroline         Bowie HS, Austin                0      38
+Mehta, Pranav           Klein HS, Klein                 0      38
+Nguyen, Long            Klein HS, Klein                 0      38
+Nguyen, Binh            Davis (Aldine ISD) HS, Houston  0      38
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Science-Eng Magnet Hs, Dallas  1     938    1      10      X      State
+Richardson H S, Richardson     1     730    2      5       X      Alternate
+Westwood HS, Austin            1     710    3
+Garland H S, Garland           1     596    4
+Klein HS, Klein                1     564    5
+Lufkin H S, Lufkin             1     400    6
+Lee H S, Tyler                 1     320    7
+Spring HS, Spring              1     168    8
+Bowie HS, Austin               1     162    9
+
+TEAM RESULTS
+------------------------------

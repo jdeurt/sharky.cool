@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Fender, Clayton     Godley H S, Godley                  106    1      15      X      Region
+Anderson, Jonathan  Midlothian Heritage HS, Midlothian  89     2      12      X      Region
+Wisdom, John        Glen Rose H S, Glen Rose            86     3      9       X      Region
+Hilton, Jacob       Alvarado HS, Alvarado               86     3      9       X      Region
+White, Jenna        Glen Rose H S, Glen Rose            67     5      6       X      Alternate
+Ong, Kelvin         Stephenville H S, Stephenville      59     6      4       X
+Hess, Ryan          Stephenville H S, Stephenville      39     7
+Roberson, Ethan     Midlothian Heritage HS, Midlothian  37     8
+Isaaks, Victoria    Midlothian Heritage HS, Midlothian  20     9
+Phillips, Noah      Glen Rose H S, Glen Rose            10     10
+Xhua, Mary          Stephenville H S, Stephenville      8      11
+Fender, Garrett     Godley H S, Godley                  7      12
+Smith, Kayla        Stephenville H S, Stephenville      2      13
+Aston, Kayla        Midlothian Heritage HS, Midlothian  0      14
+Rogers, Danny       Godley H S, Godley                  0      14
+Fullerton, Michael  Alvarado HS, Alvarado               -1     16
+Osborne, Carson     Glen Rose H S, Glen Rose            -4     17
+Hernandez, Renzo    Alvarado HS, Alvarado               -12    18
+Murr, Patrick       Alvarado HS, Alvarado               -24    19
+Hughes, Kulton      Godley H S, Godley                  -32    20
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Glen Rose H S, Glen Rose            1     163    1      10      X      Region
+Midlothian Heritage HS, Midlothian  1     146    2      5       X      Alternate
+Godley H S, Godley                  1     113    3
+Stephenville H S, Stephenville      1     106    4
+Alvarado HS, Alvarado               1     73     5
+
+TEAM RESULTS
+------------------------------

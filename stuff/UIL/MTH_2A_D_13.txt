@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Ramey, Nick         Wolfe City HS, Wolfe City    72     1      15      X      Region
+Nors, Rachel        Trenton HS, Trenton          68     2      12      X      Region
+Sherwin, Jared      Celeste HS, Celeste          58     3      10      X      Region
+Stroup, Jacob       Blue Ridge HS, Blue Ridge    56     4      8       X      Alternate
+Johnson, Coleman    Honey Grove HS, Honey Grove  46     5      6       X
+Gonzales, Gracie    Wolfe City HS, Wolfe City    44     6      4       X
+Jordan, Cori        Celeste HS, Celeste          40     7
+Parrish, Colton     Blue Ridge HS, Blue Ridge    36     8
+Demars, Nathan      Bland HS, Merit              34     9
+Martinez, Fabian    Wolfe City HS, Wolfe City    30     10
+Gray, Tyler         Trenton HS, Trenton          26     11
+Landreth, Soleil    Honey Grove HS, Honey Grove  20     12
+Weger, Parker       Honey Grove HS, Honey Grove  18     13
+Stone, Carly        Trenton HS, Trenton          16     14
+Duncan, Jacob       Blue Ridge HS, Blue Ridge    16     14
+Montgomery, Justin  Wolfe City HS, Wolfe City    12     16
+Staes, Alex         Honey Grove HS, Honey Grove  12     16
+Bates, Matthew      Celeste HS, Celeste          12     16
+Ramirez, Eddie      Blue Ridge HS, Blue Ridge    10     19
+Holloway, Sam       Bland HS, Merit              8      20
+Leroy, Regan        Celeste HS, Celeste          8      20
+Murphy, McKenzie    Trenton HS, Trenton          4      22
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Wolfe City HS, Wolfe City    1     146    1      10      X      Region
+Celeste HS, Celeste          1     110    2      5       X      Alternate
+Trenton HS, Trenton          1     110    3
+Blue Ridge HS, Blue Ridge    1     108    4
+Honey Grove HS, Honey Grove  1     84     5
+
+TEAM RESULTS
+------------------------------

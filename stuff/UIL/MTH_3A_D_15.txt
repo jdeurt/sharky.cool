@@ -1,0 +1,31 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                     Score  Place  Points  Medal  Advance
+Thompson, Jeff        Sabine HS, Gladewater      280    1      15      X      Region
+Taylor, Michael       Sabine HS, Gladewater      270    2      12      X      Region
+Taylor, Scottie       Sabine HS, Gladewater      236    3      10      X      Region
+Horton, Carter        Sabine HS, Gladewater      148    4      8       X      Alternate
+Patton, Matthew       Harmony H S, Big Sandy     74     5      6       X
+Sakai, Haru           Winona HS, Winona          62     6      4       X
+Hudson, Tori          Harmony H S, Big Sandy     58     7
+Ard, Jones            Troup HS, Troup            54     8
+Moore, Annabell       Harmony H S, Big Sandy     40     9
+Sakai, Taiju          Winona HS, Winona          36     10
+Rutherford, Jonathan  Winona HS, Winona          30     11
+Lacy, Tiffany         Troup HS, Troup            24     12
+Wamboldt, Noah        Cumberland Academy, Tyler  22     13
+Arriaga, Daisy        Harmony H S, Big Sandy     20     14
+Barrera, Josie        Winona HS, Winona          18     15
+Calley, Jesse         Troup HS, Troup            4      16
+Vance, Tayler         Troup HS, Troup            -2     17
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Sabine HS, Gladewater   1     786    1      10      X      Region
+Harmony H S, Big Sandy  1     172    2      5       X      Alternate
+Winona HS, Winona       1     128    3
+Troup HS, Troup         1     82     4
+
+TEAM RESULTS
+------------------------------

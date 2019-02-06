@@ -1,0 +1,38 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                       Score  Place  Points  Medal  Advance
+Pasley, Cole      Avery HS, Avery              92     1      15      X      Region
+Hausler, Mayson   Avery HS, Avery              56     2      12      X      Region
+Fowler, Branden   Rivercrest HS, Bogata        48     3      10      X      Region
+Lamon, Emily      Avery HS, Avery              44     4      8       X      Alternate
+McClain, Amber    McLeod H S, McLeod           40     5      6       X
+Townes, Kolby     Rivercrest HS, Bogata        36     6      4       X
+Bridges, Brianna  Avery HS, Avery              32     7
+Hamilton, Dayton  Linden-Kildare H S, Linden   32     7
+LONG, HARLEE      Detroit HS, Detroit          26     9
+Williams, Jayden  Rivercrest HS, Bogata        24     10
+MOIST, HAILEE     Detroit HS, Detroit          22     11
+Jiminez, Joshua   Rivercrest HS, Bogata        20     12
+Stanford, Ally    Linden-Kildare H S, Linden   14     13
+MARQUEZ, MATTHEW  Detroit HS, Detroit          12     14
+TRUJILLO, JOSE    Clarksville HS, Clarksville  10     15
+Hale, Angel       McLeod H S, McLeod           6      16
+Lee, Reagan       Linden-Kildare H S, Linden   6      16
+Allison, Kenneth  McLeod H S, McLeod           4      18
+Hernandez, Chris  Linden-Kildare H S, Linden   4      18
+Davis, Breanna    McLeod H S, McLeod           2      20
+Jones, Jordan     Maud HS, Maud                -6     21
+Bickham, Jared    Maud HS, Maud                -6     21
+BECK, CODY        Detroit HS, Detroit          -12    23
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Avery HS, Avery             1     192    1      10      X      Region
+Rivercrest HS, Bogata       1     108    2      5       X      Alternate
+Detroit HS, Detroit         1     60     3
+Linden-Kildare H S, Linden  1     52     4
+McLeod H S, McLeod          1     50     5
+
+TEAM RESULTS
+------------------------------

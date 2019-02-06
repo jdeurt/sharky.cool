@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                          Score  Place  Points  Medal  Advance
+Hoar, Jonathan      Farmersville H S, Farmersville  156    1      15      X      Region
+Moses, Sabrina      Farmersville H S, Farmersville  149    2      12      X      Region
+Jang, Joseph        Commerce HS, Commerce           143    3      10      X      Region
+Sisk, Mitchell      Farmersville H S, Farmersville  107    4      8       X      Alternate
+Jones, Kyle         Lone Oak HS, Lone Oak           77     5      6       X
+Willeford, Carlie   Van Alstyne HS, Van Alstyne     76     6      4       X
+Burt, Taylor        Whitewright HS, Whitewright     72     7
+Greve, Rachel       Van Alstyne HS, Van Alstyne     65     8
+Bennett, Aaron      Leonard HS, Leonard             64     9
+McCoy, Hunter       Farmersville H S, Farmersville  53     10
+Ware, Claudia       Leonard HS, Leonard             48     11
+Hirons, James       Van Alstyne HS, Van Alstyne     42     12
+Simmons, Sydney     Van Alstyne HS, Van Alstyne     41     13
+Thurmen, Taylor     Howe HS, Howe                   29     14
+Wright, Daylan      Lone Oak HS, Lone Oak           25     15
+Hudson, Abigail     Lone Oak HS, Lone Oak           24     16
+Stricklin, Yesenia  Leonard HS, Leonard             20     17
+Slaughter, Hailey   Whitewright HS, Whitewright     18     18
+Herrera, Nausat     Howe HS, Howe                   15     19
+Bottoms, Kennedy    Whitewright HS, Whitewright     -7     20
+Schur, Blake        Leonard HS, Leonard             -10    21
+McLean, Makenna     Whitewright HS, Whitewright     -26    22
+Roberts, Vaden      Lone Oak HS, Lone Oak           -27    23
+Campbell, Elijah    Howe HS, Howe                   -61    24
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Farmersville H S, Farmersville  1     412    1      10      X      Region
+Van Alstyne HS, Van Alstyne     1     183    2      5       X      Alternate
+Leonard HS, Leonard             1     132    3
+Lone Oak HS, Lone Oak           1     126    4
+Whitewright HS, Whitewright     1     83     5
+Howe HS, Howe                   1     -17    6
+
+TEAM RESULTS
+------------------------------

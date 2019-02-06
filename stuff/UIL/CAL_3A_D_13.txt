@@ -1,0 +1,44 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                          Score  Place  Points  Medal  Advance
+Martinez, Saul        Chapel Hill HS, Mt Pleasant     142    1      13.50   X      Region
+Doke, Allison         Winnsboro HS, Winnsboro         142    1      13.50   X      Region
+Gage, Michael         Mount Vernon H S, Mount Vernon  127    3      10      X      Region
+Martinez, Sarai       Chapel Hill HS, Mt Pleasant     127    4      8       X      Alternate
+Aguinaga, Brittni     Chisum HS, Paris                119    5      6       X
+King, Kristina        Mount Vernon H S, Mount Vernon  114    6      4       X
+Davidson, Iliana      Cooper HS, Cooper               112    7
+Sears, Hadley         Mount Vernon H S, Mount Vernon  103    8
+Nitmo, Annika         Winnsboro HS, Winnsboro         100    9
+Jones, Sierra         Cooper HS, Cooper               98     10
+Mecaskey-Larue, Joes  Prairiland HS, Pattonville      88     11
+Jones, Megan          Cooper HS, Cooper               87     12
+Reed, Shelby          Mount Vernon H S, Mount Vernon  84     13
+Garcia, Janeth        Chapel Hill HS, Mt Pleasant     79     14
+Vilchez, Isaac        Winnsboro HS, Winnsboro         79     14
+McGee, Lane           Prairiland HS, Pattonville      76     16
+Bruson, Ben           Winnsboro HS, Winnsboro         70     17
+Folse, T.J.           Prairiland HS, Pattonville      62     18
+Boyer, Carson         Chisum HS, Paris                57     19
+Fields, Jordan        Chisum HS, Paris                52     20
+Castanon, Jasmine     Chapel Hill HS, Mt Pleasant     45     21
+Morris, Maci          Cooper HS, Cooper               44     22
+Ford, Taylor          Como-Pickton HS, Como           7      23
+Brown, Nolan          Como-Pickton HS, Como           3      24
+Teer, Makayla         Como-Pickton HS, Como           -1     25
+Young, Trevor         Chisum HS, Paris                -88    26
+Painter, Rebecca      Prairiland HS, Pattonville      -138   27
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Chapel Hill HS, Mt Pleasant     1     348    1      10      X      Region
+Mount Vernon H S, Mount Vernon  1     344    2      5       X      Alternate
+Winnsboro HS, Winnsboro         1     321    3
+Cooper HS, Cooper               1     297    4
+Chisum HS, Paris                1     228    5
+Prairiland HS, Pattonville      1     226    6
+Como-Pickton HS, Como           1     9      7
+
+TEAM RESULTS
+------------------------------

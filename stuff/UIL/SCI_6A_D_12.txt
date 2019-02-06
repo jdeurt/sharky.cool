@@ -1,0 +1,52 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Poon, Clark          The Woodlands HS, The Woodlands  262    1      15      X      Region
+Beattie, William     The Woodlands HS, The Woodlands  200    2      12      X      Region
+Roy, Apratim         The Woodlands HS, The Woodlands  198    3      10      X      Region
+Carsten, William     The Woodlands HS, The Woodlands  194    4      7       X      Alternate
+Li, Benjamin         The Woodlands HS, The Woodlands  194    4      7       X      Alternate
+Yu, Xin              Oak Ridge H S, Conroe            180    6      4       X
+Duran, Cesar         Conroe HS, Conroe                160    7
+Mrosko, Kyle         Conroe HS, Conroe                144    8
+Artrip, Alex         Conroe HS, Conroe                134    9
+Gu, Tianyu           The Woodlands HS, The Woodlands  122    10
+Khurshid, Ali        Lufkin H S, Lufkin               116    11
+McSween, Daniel      Montgomery HS, Montgomery        110    12
+Hari, Sapan          Montgomery HS, Montgomery        100    13
+Willis, Aiden        Lufkin H S, Lufkin               100    13
+Helton, Zach         Montgomery HS, Montgomery        98     15
+King, Bryce          Lufkin H S, Lufkin               90     16
+Ngyuen, Melanie      Conroe HS, Conroe                78     17
+Paulette, Holden     Lufkin H S, Lufkin               76     18
+Kelly, Ashynn        Oak Ridge H S, Conroe            76     18
+Chang, Hope          Montgomery HS, Montgomery        64     20
+Khurshid, Omar       Lufkin H S, Lufkin               62     21
+Gaddie, Lucas        Conroe HS, Conroe                58     22
+McDonough, Shawn     Conroe HS, Conroe                56     23
+Khan, Alishbah       Lufkin H S, Lufkin               56     23
+Dreger, Joe          Montgomery HS, Montgomery        48     25
+Dilbeck, Ryan        Oak Ridge H S, Conroe            40     26
+Hammond, Nikki       Montgomery HS, Montgomery        38     27
+Milam, Nicolas       Oak Ridge H S, Conroe            16     28
+Burkhalter, Dallas   Oak Ridge H S, Conroe            -4     29
+Lebkuecher, Trinity  Oak Ridge H S, Conroe            -6     30
+
+TOP SCORERS
+------------------------------
+Contestant        School            Results               Points
+Poon, Clark       The Woodlands HS  Top Scorer Biology    3
+Beattie, William  The Woodlands HS  Alternate Biology     0
+Poon, Clark       The Woodlands HS  Top Scorer Chemistry  3
+Duran, Cesar      Conroe HS         Alternate Chemistry   0
+Poon, Clark       The Woodlands HS  Top Scorer Physics    3
+Li, Benjamin      The Woodlands HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+The Woodlands HS, The Woodlands  1     660    1      10      X      Region
+Conroe HS, Conroe                1     438    2      5       X      Alternate
+Montgomery HS, Montgomery        1     308    3
+Lufkin H S, Lufkin               1     306    4
+Oak Ridge H S, Conroe            1     296    5

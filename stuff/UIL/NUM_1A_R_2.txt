@@ -1,0 +1,67 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                                  Score  Place  Points  Medal  Advance
+Miller, Scott              Garden City H S, Garden City            167    1      15      X      State
+Morris, Karter             Aspermont HS, Aspermont                 159    2      12      X      State
+Koenning, Parker           Garden City H S, Garden City            148    3      10      X      State
+Hennig, William            Paint Rock HS, Paint Rock               95     4      8       X      Alternate
+Tubb, Karli                Garden City H S, Garden City            94     5      6       X
+Miyake, Ayaka              Balmorhea HS, Balmorhea                 88     6      4       X
+Braden, Cade               Garden City H S, Garden City            82     7
+Barton, Mayson             Klondike HS, Lamesa                     73     8
+Weatherman, Kade           Balmorhea HS, Balmorhea                 71     9
+Sims, Cooper               Grady HS, Lenorah                       69     10
+Robison, Dakota            Dawson HS, Welch                        66     11
+Fleenor, Rachel            Dawson HS, Welch                        62     12
+Bien, Jacy                 Cross Plains H S, Cross Plains          57     13
+Shelton, Kamren            Rankin H S, Rankin                      55     14
+Perales Garcia, Alejandra  Rotan HS, Rotan                         55     14
+Martin, Clayton            Aspermont HS, Aspermont                 55     14
+Dahl, Nicky                Big Bend HS, Terlingua                  54     17
+Cura, Carlos               Rankin H S, Rankin                      51     18
+Koenig, Mattie             Aspermont HS, Aspermont                 48     19
+Walker, Larson             Cross Plains H S, Cross Plains          48     19
+Eby, Josh                  Big Bend HS, Terlingua                  42     21
+Black, Markus              Rankin H S, Rankin                      41     22
+Wyatt, Avery               Rankin H S, Rankin                      39     23
+Brown, Linden              Richland Springs H S, Richland Springs  39     23
+Tucker, Ashlyn             Borden HS, Gail                         36     25
+Oldham, Karlie             Aspermont HS, Aspermont                 27     26
+Willborn, Justin           Borden HS, Gail                         23     27
+McKinney, Kolby            Cross Plains H S, Cross Plains          23     27
+Valerio, Isaiah            Balmorhea HS, Balmorhea                 22     29
+Fostel, Karli              Eula H S, Clyde                         22     29
+Raines, Ross               Klondike HS, Lamesa                     20     31
+Dyck, Dustin               Klondike HS, Lamesa                     19     32
+Helms, Jalen               Grandfalls-Royalty H S, Grandfalls      18     33
+Rodriguez, Yasmine         Grandfalls-Royalty H S, Grandfalls      18     33
+Czubinski, Reilly          Dell City H S, Dell City                14     35
+Tissiere, Madison          Comstock H S, Comstock                  14     35
+Crane, Tobi                Lueders-Avoca HS, Avoca                 14     35
+Schultz, Ben               Richland Springs H S, Richland Springs  13     38
+Raines, Katelynn           Trent HS, Trent                         9      39
+Buchanan, Austin           Borden HS, Gail                         5      40
+Burkhart, Jordan           Richland Springs H S, Richland Springs  5      40
+Merrill, Harley            Borden HS, Gail                         2      42
+McWilliams, Cody           Cross Plains H S, Cross Plains          1      43
+Porch, Zayne               Cherokee HS, Cherokee                   0      44
+Iniguez, Angel             Balmorhea HS, Balmorhea                 -1     45
+Pereira, Jade              Dawson HS, Welch                        -4     46
+Beck, Brianna              Klondike HS, Lamesa                     -10    47
+Brown, Zach                Richland Springs H S, Richland Springs  -13    48
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Garden City H S, Garden City            1     409    1      10      X      State
+Aspermont HS, Aspermont                 1     262    2      5       X      Alternate
+Balmorhea HS, Balmorhea                 1     181    3
+Rankin H S, Rankin                      1     147    4
+Cross Plains H S, Cross Plains          1     128    5
+Dawson HS, Welch                        1     124    6
+Klondike HS, Lamesa                     1     112    7
+Borden HS, Gail                         1     64     8
+Richland Springs H S, Richland Springs  1     57     9
+
+TEAM RESULTS
+------------------------------

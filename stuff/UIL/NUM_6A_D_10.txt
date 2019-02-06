@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                                 Score  Place  Points  Medal  Advance
+Chung, Norman            Garland H S, Garland                   364    1      15      X      Region
+Nguyen, Zachary          Garland H S, Garland                   301    2      12      X      Region
+Wendling, Jake           Garland H S, Garland                   281    3      10      X      Region
+Swallow, Grant           Garland H S, Garland                   202    4      8       X      Alternate
+Lamoreaux, Aaron         Richardson H S, Richardson             172    5      6       X
+Mandell, Nathan          Pearce H S, Richardson                 140    6      4       X
+Katz, Zachary            Richardson H S, Richardson             108    7
+Nguyen, Long             North Garland H S, Garland             105    8
+Ashmore, Frank           Jesuit College Preparatory HS, Dallas  91     9
+Nguyen, Phat             North Garland H S, Garland             89     10
+Tran, Kevin              North Garland H S, Garland             85     11
+Hirota, Kazuma           Jesuit College Preparatory HS, Dallas  83     12
+Mekbeb-Gillett, Mathios  Jesuit College Preparatory HS, Dallas  81     13
+Rayman, James            Richardson H S, Richardson             75     14
+Omar, Nikhaz             Pearce H S, Richardson                 74     15
+Johnson, Rachel          Richardson H S, Richardson             73     16
+De Leon, Eduardo         Jesuit College Preparatory HS, Dallas  73     16
+Peng, Wilson             Pearce H S, Richardson                 59     18
+Tran, Helen              North Garland H S, Garland             34     19
+Hosseinpour, Mehrshad    Pearce H S, Richardson                 21     20
+Clayton-Allen, LaCora    South Garland H S, Garland             20     21
+Aguilear, Javier         South Garland H S, Garland             -22    22
+English, Skyler          South Garland H S, Garland             -27    23
+
+TOP SCORERS
+------------------------------
+School                                 Team  Score  Place  Points  Medal  Advance
+Garland H S, Garland                   1     946    1      10      X      Region
+Richardson H S, Richardson             1     355    2      5       X      Alternate
+North Garland H S, Garland             1     279    3
+Pearce H S, Richardson                 1     273    4
+Jesuit College Preparatory HS, Dallas  1     255    5
+South Garland H S, Garland             1     -29    6
+
+TEAM RESULTS
+------------------------------

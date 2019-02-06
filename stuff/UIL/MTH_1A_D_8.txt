@@ -1,0 +1,37 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+Ha, Jake              Chillicothe HS, Chillicothe  66     1      15      X      Region
+Ledesma, Dustin       Knox City HS, Knox City      48     2      11      X      Region
+Lewis, Carson         Knox City HS, Knox City      48     2      11      X      Region
+Bria, Kennon          Northside HS, Vernon         36     4      8       X      Alternate
+Jones, Brooke         Benjamin HS, Benjamin        30     5      6       X
+Foster, Savana        Crowell HS, Crowell          28     6      2       X
+Lynn, Preston         Knox City HS, Knox City      28     6      2       X
+Disbrow, Lyndzie      Chillicothe HS, Chillicothe  26     8
+Key, Alexus           Harrold HS, Harrold          20     9
+Amechi, Lilly         Northside HS, Vernon         18     10
+Matute, Alexis        Harrold HS, Harrold          14     11
+Logsdon, Sean         Knox City HS, Knox City      12     12
+Hooser, Tanner        Chillicothe HS, Chillicothe  6      13
+Barrientez, Caleb     Benjamin HS, Benjamin        6      13
+Flowers, Temi         Benjamin HS, Benjamin        0      15
+McIlroy, Samuel       Northside HS, Vernon         0      15
+Long, Miranda         Northside HS, Vernon         -2     17
+Navarrette, Jonathon  Crowell HS, Crowell          -4     18
+Holbert, Faith        Crowell HS, Crowell          -10    19
+Patterson, Gabby      Harrold HS, Harrold          -16    20
+Sanchez, Jeniffer     Chillicothe HS, Chillicothe  -18    21
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Knox City HS, Knox City      1     124    1      10      X      Region
+Chillicothe HS, Chillicothe  1     98     2      5       X      Alternate
+Northside HS, Vernon         1     54     3
+Benjamin HS, Benjamin        1     36     4
+Harrold HS, Harrold          1     18     5
+Crowell HS, Crowell          1     14     6
+
+TEAM RESULTS
+------------------------------

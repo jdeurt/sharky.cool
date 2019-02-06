@@ -1,0 +1,14 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School              Score  Place  Points  Medal  Advance
+Gutierrez, Gustavo  Gorman H S, Gorman  0      1      13.50   X      Region
+Ramirez, Jessica    Gorman H S, Gorman  0      1      13.50   X      Region
+Hipolito, Moses     Gorman H S, Gorman  -26    3      10      X      Region
+
+TOP SCORERS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Gorman H S, Gorman  1     -26    1      20      X      Region
+
+TEAM RESULTS
+------------------------------

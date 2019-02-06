@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                     Score  Place  Points  Medal  Advance
+Nguyen, Thien      Hudson HS, Lufkin          142    1      15      X      Region
+Croley, Garrett    Hudson HS, Lufkin          128    2      12      X      Region
+Craft, Nolan       Hudson HS, Lufkin          116    3      10      X      Region
+Hillier, Hannah    Hudson HS, Lufkin          114    4      8       X      Alternate
+Pantoja, Ricardo   Jasper H S, Jasper         90     5      6       X
+Chen, Danny        Jasper H S, Jasper         70     6      4       X
+Martin, Selena     Jasper H S, Jasper         34     7
+Schlagel, Kirsten  Shepherd H S, Shepherd     34     7
+Jones, Nathan      Huntington HS, Huntington  26     9
+Perez, Odalis      Huntington HS, Huntington  26     9
+Bonham, Lorenzo    Diboll H S, Diboll         18     11
+Gonzalez, Erika    Jasper H S, Jasper         8      12
+Johnson, Zachery   Shepherd H S, Shepherd     6      13
+Truss, Taylor      Huntington HS, Huntington  4      14
+Carlos, Ty         Shepherd H S, Shepherd     -2     15
+Denman, Adam       Huntington HS, Huntington  -8     16
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Hudson HS, Lufkin          1     386    1      10      X      Region
+Jasper H S, Jasper         1     194    2      5       X      Alternate
+Huntington HS, Huntington  1     56     3
+Shepherd H S, Shepherd     1     38     4
+
+TEAM RESULTS
+------------------------------

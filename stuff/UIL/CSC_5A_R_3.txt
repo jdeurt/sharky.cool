@@ -1,0 +1,62 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                               Score  Place  Points  Medal  Advance
+Johnson, Benjamin     Magnolia HS, Magnolia                208    1      15      X      State
+Russell, Tyler        Lindale H S, Lindale                 204    2      11      X      State
+Matsuda, Reo          College Station HS, College Station  204    2      11      X      State
+Alford, Ryan          Magnolia HS, Magnolia                200    4      7       X      Alternate
+He, Yi                Wisdom H S, Houston                  200    4      7       X      Alternate
+Kolenbrander, Josh    Cedar Park HS, Cedar Park            186    6      2       X
+Sass, Jacob           Magnolia HS, Magnolia                186    6      2       X
+Ford, Terrell         Magnolia HS, Magnolia                184    8
+Yu, Kevin             Elkins H S, Missouri City            184    8
+Mahdavi, Cyrus        Whitehouse HS, Whitehouse            178    10
+Rasmussen, Melissa    A & M Cons HS, College Station       168    11
+Saravanan, Rithvik    Cedar Park HS, Cedar Park            168    11
+Eng, William          Tomball Memorial HS, Tomball         164    13
+Studwell, Alex        Tomball Memorial HS, Tomball         156    14
+Linscott, Wade        Whitehouse HS, Whitehouse            148    15
+Meador, Tyler         Lindale H S, Lindale                 144    16
+Brackin, Thomas       Tomball Memorial HS, Tomball         144    16
+Thomson, Illham       College Station HS, College Station  142    18
+Ingarfield, Will      Cedar Park HS, Cedar Park            142    18
+Song, Ethan           Wisdom H S, Houston                  136    20
+Carbo, Logan          College Station HS, College Station  134    21
+Hood, Ronald          Elkins H S, Missouri City            134    21
+Cox, Caleb            Whitehouse HS, Whitehouse            130    23
+Le, Vince             Cedar Park HS, Cedar Park            126    24
+DeAlmeida, Brandon    Porter HS, Porter                    122    25
+Kota, Shashank        Ball HS, Galveston                   120    26
+Situ, Jet             Elkins H S, Missouri City            116    27
+Zute, Alisha          Elkins H S, Missouri City            110    28
+Le, Michael           Whitehouse HS, Whitehouse            104    29
+Ramirez, Samuel       Tomball Memorial HS, Tomball         102    30
+Duong, Lily           Nederland H S, Nederland             90     31
+Olowomeye, Olumayowa  College Station HS, College Station  90     31
+Knapp, Rachel         Crosby HS, Crosby                    88     33
+Lin Tan, Wei Jiang    Wisdom H S, Houston                  68     34
+Taneja, Muskan        Wisdom H S, Houston                  60     35
+Martin, Blake         Dayton H S, Dayton                   56     36
+Atteberry, Jarrett    Nederland H S, Nederland             56     36
+Guinn, Derek          Dayton H S, Dayton                   46     38
+De La Cruz, Luke      Nederland H S, Nederland             36     39
+Gori, Noah            Barbers Hill HS, Mont Belvieu        32     40
+Dean, Bailey          Dayton H S, Dayton                   12     41
+Heng, Branden         Nederland H S, Nederland             10     42
+Xiong, Kaven          Waller HS, Waller                    0      43
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Magnolia HS, Magnolia                1     1189   1      20      X      State
+Cedar Park HS, Cedar Park            1     966    2      16      X      Alternate
+Tomball Memorial HS, Tomball         1     874    3      12      X
+College Station HS, College Station  1     835    4
+Elkins H S, Missouri City            1     779    5
+Whitehouse HS, Whitehouse            1     746    6
+Wisdom H S, Houston                  1     699    7
+Nederland H S, Nederland             1     302    8
+Dayton H S, Dayton                   1     234    9
+
+TEAM RESULTS
+------------------------------

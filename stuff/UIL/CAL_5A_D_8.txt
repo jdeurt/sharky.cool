@@ -1,0 +1,36 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Santosa, Mardhika    Grapevine H S, Grapevine              204    1      15      X      Region
+Valencic, Luka       Grapevine H S, Grapevine              172    2      12      X      Region
+Santosa, Utari       Grapevine H S, Grapevine              161    3      10      X      Region
+Song, Hyun-Joon      Colleyville-Heritage HS, Colleyville  154    4      8       X      Alternate
+Chu, Vy              Carter-Riverside HS, Fort Worth       135    5      6       X
+Tanna, Vivek         Grapevine H S, Grapevine              122    6      4       X
+Mekush, Keith        Birdville HS, N Richland Hills        107    7
+Upadhyaya, Manthan   Collegiate Academy TCC NE HS, Hurst   105    8
+O'Rear, Patrick      Collegiate Academy TCC NE HS, Hurst   96     9
+Blackburn, Alicia    Birdville HS, N Richland Hills        93     10
+Street, Marlee       Birdville HS, N Richland Hills        93     11
+Ochoa, Carlos        Carter-Riverside HS, Fort Worth       93     12
+Alvarado, Leslie     Collegiate Academy TCC NE HS, Hurst   88     13
+Ajidagba, Faruq      Dunbar H S, Fort Worth                85     14
+Moeller, Lindsey     Collegiate Academy TCC NE HS, Hurst   84     15
+Jones, Dezenay       Dunbar H S, Fort Worth                62     16
+Fadlalla, Ayaat      Birdville HS, N Richland Hills        51     17
+Romero, Christopher  Dunbar H S, Fort Worth                48     18
+Diaz, Orlando        Dunbar H S, Fort Worth                37     19
+Ramirez, Francisco   Carter-Riverside HS, Fort Worth       0      20
+Bhat, Samarth        Colleyville-Heritage HS, Colleyville  0      20
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Grapevine H S, Grapevine             1     537    1      10      X      Region
+Birdville HS, N Richland Hills       1     293    2      5       X      Alternate
+Collegiate Academy TCC NE HS, Hurst  1     289    3
+Carter-Riverside HS, Fort Worth      1     228    4
+Dunbar H S, Fort Worth               1     195    5
+
+TEAM RESULTS
+------------------------------

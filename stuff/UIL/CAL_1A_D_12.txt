@@ -1,0 +1,31 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Merrill, Harley    Borden HS, Gail          147    1      15      X      Region
+Rosas, Tori        Ira H S, Ira             142    2      12      X      Region
+Buchanan, Austin   Borden HS, Gail          91     3      10      X      Region
+Allen, Zane        Borden HS, Gail          77     4      8       X      Alternate
+Heiskell, Jessica  Ira H S, Ira             72     5      6       X
+Peacock, Ethan     Highland H S, Roscoe     65     6      4       X
+Richey, Trace      Borden HS, Gail          63     7
+Eime, Hope         Loraine H S, Loraine     61     8
+Chaney, John Seth  Loraine H S, Loraine     51     9
+Chavez, Alejandro  Westbrook HS, Westbrook  47     10
+White, Brayden     Ira H S, Ira             42     11
+Witte, Kierra      Westbrook HS, Westbrook  29     12
+Lastly, Kendall    Westbrook HS, Westbrook  25     13
+Barrera, Brandon   Highland H S, Roscoe     21     14
+Betts, Alex        Loraine H S, Loraine     20     15
+Gutierrez, Ivy     Westbrook HS, Westbrook  -9     16
+Gladden, Kailey    Ira H S, Ira             -42    17
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Borden HS, Gail          1     315    1      10      X      Region
+Ira H S, Ira             1     256    2      5       X      Alternate
+Loraine H S, Loraine     1     132    3
+Westbrook HS, Westbrook  1     101    4
+
+TEAM RESULTS
+------------------------------

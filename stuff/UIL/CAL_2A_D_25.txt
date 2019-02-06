@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                   Score  Place  Points  Medal  Advance
+Hooker, Kelton    Thrall HS, Thrall        134    1      15      X      Region
+Van Til, Alex     Thrall HS, Thrall        99     2      12      X      Region
+Jackson, Kaylee   Thrall HS, Thrall        91     3      9       X      Region
+Preusse, Corey    Thorndale HS, Thorndale  91     3      9       X      Region
+Vrabel, Ronald    Holland H S, Holland     72     5      6       X      Alternate
+Preusse, Corbin   Thorndale HS, Thorndale  70     6      4       X
+Johle, Zachary    Thrall HS, Thrall        69     7
+Steglich, Clara   Holland H S, Holland     67     8
+Dague, Kolby      Holland H S, Holland     59     9
+Kelm, M           Thorndale HS, Thorndale  47     10
+Watkins, Cameron  Holland H S, Holland     39     11
+Broussard, Jaxon  Milano H S, Milano       35     12
+Marek, Colby      Granger H S, Granger     14     13
+Gilmore, Justice  Milano H S, Milano       0      14
+Storey, Malinda   Milano H S, Milano       -18    15
+Miller, Travis    Granger H S, Granger     -20    16
+Ivicic, Hunter    Granger H S, Granger     -38    17
+Torres, Oscar     Granger H S, Granger     -44    18
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Thrall HS, Thrall        1     324    1      10      X      Region
+Thorndale HS, Thorndale  1     208    2      5       X      Alternate
+Holland H S, Holland     1     198    3
+Milano H S, Milano       1     17     4
+Granger H S, Granger     1     -44    5
+
+TEAM RESULTS
+------------------------------

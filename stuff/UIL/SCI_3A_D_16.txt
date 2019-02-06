@@ -1,0 +1,57 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Dickson, Jeb W       Elysian Fields H S, Elysian Fields  98     1      15      X      Region
+Earl, Reagan C       Elysian Fields H S, Elysian Fields  76     2      12      X      Region
+Thompson, C          New Diana H S, Diana                72     3      10      X      Region
+Landers, Brendon     White Oak HS, White Oak             66     4      8       X      Alternate
+Abrego, Michael      Ore City H S, Ore City              52     5      5       X
+Ellis, Cole E        Elysian Fields H S, Elysian Fields  52     5      5       X
+Gooch, Justice S     Elysian Fields H S, Elysian Fields  48     7
+Throckmorton, Dylan  Ore City H S, Ore City              44     8
+Casey, Zach          Ore City H S, Ore City              42     9
+Webb, Jasmin         White Oak HS, White Oak             42     9
+Harris, Alyssa       Beckville HS, Beckville             40     11
+Searcy, Heather      Beckville HS, Beckville             38     12
+Neel, Valkyrie       Jefferson HS, Jefferson             36     13
+Wood, Nathan         White Oak HS, White Oak             36     13
+Hamilton, Madison    White Oak HS, White Oak             36     13
+Freeman, Andi        Ore City H S, Ore City              34     16
+Moseley, T           New Diana H S, Diana                32     17
+Daily, Sophy         Waskom HS, Waskom                   32     17
+Otwell, Lynnleigh M  Elysian Fields H S, Elysian Fields  30     19
+Langley, James       White Oak HS, White Oak             28     20
+Youngblood, Thomas   Jefferson HS, Jefferson             26     21
+Green, Ralyn         Jefferson HS, Jefferson             24     22
+Narvaez, Betzabeth   Ore City H S, Ore City              22     23
+Molina, C            New Diana H S, Diana                18     24
+Schneider, Sierra    White Oak HS, White Oak             16     25
+Vierra, R            New Diana H S, Diana                14     26
+Narvaez, Kenya       Ore City H S, Ore City              14     26
+Ingram, Piper F      Elysian Fields H S, Elysian Fields  14     26
+Collins, Zeke        Beckville HS, Beckville             12     29
+Burran, Stormy       Beckville HS, Beckville             4      30
+Newton, J            New Diana H S, Diana                2      31
+Mosier, Hunter       Beckville HS, Beckville             2      31
+Ludgate, H           New Diana H S, Diana                -4     33
+Osinski, Dana        Beckville HS, Beckville             -10    34
+
+TOP SCORERS
+------------------------------
+Contestant           School              Results               Points
+Throckmorton, Dylan  Ore City H S        Top Scorer Biology    3
+Hamilton, Madison    White Oak HS        Alternate Biology     0
+Dickson, Jeb W       Elysian Fields H S  Top Scorer Chemistry  3
+Earl, Reagan C       Elysian Fields H S  Alternate Chemistry   0
+Thompson, C          New Diana H S       Top Scorer Physics    3
+Dickson, Jeb W       Elysian Fields H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Elysian Fields H S, Elysian Fields  1     226    1      10      X      Region
+White Oak HS, White Oak             1     144    2      5       X      Alternate
+Ore City H S, Ore City              1     138    3
+New Diana H S, Diana                1     122    4
+Beckville HS, Beckville             1     90     5
+Jefferson HS, Jefferson             1     86     6

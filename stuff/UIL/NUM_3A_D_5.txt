@@ -1,0 +1,31 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                      Score  Place  Points  Medal  Advance
+Chaloupka, Dakota       Jim Ned H S, Tuscola        118    1      15      X      Region
+Graham, Trevor          Clyde H S, Clyde            62     2      12      X      Region
+Beasley, Chassity       Jim Ned H S, Tuscola        49     3      10      X      Region
+McClure, Bethany        Clyde H S, Clyde            44     4      8       X      Alternate
+Page, Nicholas          Jim Ned H S, Tuscola        39     5      6       X
+Upshaw, Bradon          Colorado HS, Colorado City  34     6      4       X
+Baum, Cortland          Jim Ned H S, Tuscola        20     7
+Anguiano, Melani        Stanton H S, Stanton        17     8
+DeLeon, Sebastian       Stanton H S, Stanton        17     8
+Schowengerdt, Harrison  Clyde H S, Clyde            17     8
+Thompson, Zach          Colorado HS, Colorado City  8      11
+O'Kelley, Jaxon         Merkel H S, Merkel          3      12
+Wilkinson, Trevor       Clyde H S, Clyde            -1     13
+Graham, Jacklyn         Stanton H S, Stanton        -2     14
+Stone, Slade            Merkel H S, Merkel          -19    15
+Cruz, Hector            Colorado HS, Colorado City  -26    16
+Read, Destiny           Colorado HS, Colorado City  -52    17
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Jim Ned H S, Tuscola        1     206    1      10      X      Region
+Clyde H S, Clyde            1     123    2      5       X      Alternate
+Stanton H S, Stanton        1     32     3
+Colorado HS, Colorado City  1     16     4
+
+TEAM RESULTS
+------------------------------

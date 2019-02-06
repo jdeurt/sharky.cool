@@ -1,0 +1,30 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Hamner, Austin     Tioga HS, Tioga          163    1      15      X      Region
+Perez, Andrea      Tioga HS, Tioga          149    2      12      X      Region
+Hernandez, Raena   Tioga HS, Tioga          142    3      10      X      Region
+Borman, Anthony    Savoy HS, Savoy          114    4      8       X      Alternate
+Sweet, Connor      Savoy HS, Savoy          107    5      6       X
+Parks, Amanda      Tioga HS, Tioga          98     6      4       X
+Caloway, Makayla   Savoy HS, Savoy          83     7
+Francis, Brittney  Savoy HS, Savoy          79     8
+Blakey, Jordyn     Ector H S, Ector         56     9
+Stevens, Jaden     Dodd City HS, Dodd City  54     10
+Mills, Marissa     Dodd City HS, Dodd City  29     11
+Evans, Riley       Ector H S, Ector         25     12
+Worley, Hannah     Dodd City HS, Dodd City  1      13
+Hamilton, A J      Ector H S, Ector         -2     14
+Mackey, Allie      Ector H S, Ector         -56    15
+McLemore, Justin   Dodd City HS, Dodd City  -65    16
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Tioga HS, Tioga          1     454    1      10      X      Region
+Savoy HS, Savoy          1     304    2      5       X      Alternate
+Dodd City HS, Dodd City  1     84     3
+Ector H S, Ector         1     79     4
+
+TEAM RESULTS
+------------------------------

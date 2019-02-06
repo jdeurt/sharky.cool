@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                      Score  Place  Points  Medal  Advance
+Assef, Josh            Dawson HS, Pearland         191    1      15      X      Region
+Yang, Victor           Dawson HS, Pearland         189    2      12      X      Region
+Fattig, Brendan        Brazoswood HS, Clute        170    3      10      X      Region
+Huang, Harrison        Dawson HS, Pearland         161    4      8       X      Alternate
+Albert, Alex           Dawson HS, Pearland         147    5      6       X
+Dedas, Jason           Brazoswood HS, Clute        135    6      4       X
+Yu, Shaun              Brazoswood HS, Clute        110    7
+Nguyen, Anh            Taylor HS, Houston          105    8
+Sferrazza, Michelle    Brazoswood HS, Clute        98     9
+Pham, Stefan           George Ranch H S, Richmond  80     10
+Huynh, Edison          Kerr HS, Houston            79     11
+Vu, Alex               Taylor HS, Houston          76     12
+Vo, Tien               Kerr HS, Houston            60     13
+Tran, Ngoc             Kerr HS, Houston            56     14
+Gutierrez, Bryan       Hastings H S, Houston       55     15
+Al Hasan, Mohammad     Taylor HS, Houston          55     15
+Agboola, Abdul Bari    Hastings H S, Houston       46     17
+Fenuyi, Oluwaseun      Hastings H S, Houston       30     18
+Pate, Dawson           George Ranch H S, Richmond  0      19
+Pham, Michael          George Ranch H S, Richmond  -3     20
+Dhanji, Hassan         Kerr HS, Houston            -28    21
+Vo, Bao                Hastings H S, Houston       -38    22
+Prushing, Joshua       George Ranch H S, Richmond  -62    23
+Oladunjoye, Marvelous  Taylor HS, Houston          -70    24
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Dawson HS, Pearland         1     541    1      10      X      Region
+Brazoswood HS, Clute        1     415    2      5       X      Alternate
+Taylor HS, Houston          1     236    3
+Kerr HS, Houston            1     195    4
+Hastings H S, Houston       1     131    5
+George Ranch H S, Richmond  1     77     6
+
+TEAM RESULTS
+------------------------------

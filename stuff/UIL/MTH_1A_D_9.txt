@@ -1,0 +1,31 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                            Score  Place  Points  Medal  Advance
+Miyake, Ayaka         Balmorhea HS, Balmorhea           48     1      15      X      Region
+Bell, Caleb           Dell City H S, Dell City          38     2      12      X      Region
+Hicks, Rebekah        Fort Davis H S, Fort Davis        28     3      10      X      Region
+Dahl, Lily            Big Bend HS, Terlingua            16     4      8       X      Alternate
+Morales, Joselyn      Sierra Blanca H S, Sierra Blanca  14     5      6       X
+Czubinski, Reilly     Dell City H S, Dell City          12     6      2       X
+Weatherman, Kade      Balmorhea HS, Balmorhea           12     6      2       X
+Villanueva, Yadriana  Big Bend HS, Terlingua            8      8
+Mendoza, Avery        Balmorhea HS, Balmorhea           4      9
+Devine Ryan, Caelan   Big Bend HS, Terlingua            2      10
+Valerio, Isaiah       Balmorhea HS, Balmorhea           2      10
+Ramirez, Cecilia      Sierra Blanca H S, Sierra Blanca  0      12
+Sanchez, Jaymie       Valentine HS, Valentine           -8     13
+Corral, Alexis        Dell City H S, Dell City          -10    14
+Rodriguez, Fernanda   Big Bend HS, Terlingua            -20    15
+Lara, Zenayda         Fort Davis H S, Fort Davis        -32    16
+Ortega, Jesslynn      Sierra Blanca H S, Sierra Blanca  -56    17
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Balmorhea HS, Balmorhea           1     64     1      10      X      Region
+Dell City H S, Dell City          1     40     2      5       X      Alternate
+Big Bend HS, Terlingua            1     26     3
+Sierra Blanca H S, Sierra Blanca  1     -42    4
+
+TEAM RESULTS
+------------------------------

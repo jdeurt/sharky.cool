@@ -1,0 +1,67 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                  Score  Place  Points  Medal  Advance
+Estes, Luke            Smithson Valley HS, Spring Branch       208    1      15      X      Region
+Chalmers, Willie       Clemens HS, Schertz                     128    2      12      X      Region
+Fang, Jerry            Smithson Valley HS, Spring Branch       118    3      10      X      Region
+Vestal, Skyler         New Braunfels H S, New Braunfels        116    4      8       X      Alternate
+Forlano, Clancy        New Braunfels H S, New Braunfels        102    5      6       X
+Morrison, Garrett      Canyon HS, New Braunfels                84     6      4       X
+Phounsavath, Donald    Smithson Valley HS, Spring Branch       82     7
+Tagoe, Eric            Canyon HS, New Braunfels                78     8
+Ballard, Jasmine       Smithson Valley HS, Spring Branch       78     8
+Kukleryte, Kamile      Steele H S, Cibolo                      74     10
+Aurelio, Austin        Wagner HS, San Antonio                  72     11
+Fernandes, Pearl       Judson Early College Academy, Live Oak  72     11
+Perez, Anthony         Judson Early College Academy, Live Oak  68     13
+Akinropo, Ifeoluwa     Steele H S, Cibolo                      62     14
+Pannkuk, Trent         Smithson Valley HS, Spring Branch       58     15
+Hesse, MacKenzie       Clemens HS, Schertz                     50     16
+Balderrama, Madelaine  New Braunfels H S, New Braunfels        50     16
+Palmer, James          East Central H S, San Antonio           46     18
+Arau, Alan             Wagner HS, San Antonio                  42     19
+Parker, Sadie          East Central H S, San Antonio           42     19
+Martinez, Gaston       Wagner HS, San Antonio                  40     21
+Merritt, Jack          Canyon HS, New Braunfels                36     22
+Marcus, MacKenzie      Clemens HS, Schertz                     34     23
+Pauletti, Audrey       Smithson Valley HS, Spring Branch       34     23
+Diaz, Saleen           Judson Early College Academy, Live Oak  32     25
+Thai, Kayla            Clemens HS, Schertz                     28     26
+Lagrimanta, Maddison   Judson Early College Academy, Live Oak  28     26
+Bowen, Evan            New Braunfels H S, New Braunfels        26     28
+Holland, Kierra        Wagner HS, San Antonio                  26     28
+Delgado, Cody          East Central H S, San Antonio           26     28
+Barborka, Braelynn     East Central H S, San Antonio           24     31
+Valenzuela, Marvin     Wagner HS, San Antonio                  22     32
+Rigby, Xavier          Judson Early College Academy, Live Oak  22     32
+Perez, James           Wagner HS, San Antonio                  18     34
+Ward, Rebecca          New Braunfels H S, New Braunfels        18     34
+Vissepo, Natasha       Clemens HS, Schertz                     14     36
+Padilla, Lauren        East Central H S, San Antonio           12     37
+English, Michael       East Central H S, San Antonio           10     38
+Angeles, Brandon       Steele H S, Cibolo                      8      39
+Ables, Naomi           New Braunfels H S, New Braunfels        8      39
+Shelvin, Shamyra       Clemens HS, Schertz                     -2     41
+
+TOP SCORERS
+------------------------------
+Contestant         School                        Results               Points
+Kukleryte, Kamile  Steele H S                    Top Scorer Biology    3
+Chalmers, Willie   Clemens HS                    Alternate Biology     0
+Estes, Luke        Smithson Valley HS            Top Scorer Chemistry  3
+Forlano, Clancy    New Braunfels H S             Alternate Chemistry   0
+Estes, Luke        Smithson Valley HS            Top Scorer Physics    3
+Diaz, Saleen       Judson Early College Academy  Alternate Physics     0
+Fang, Jerry        Smithson Valley HS            Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Smithson Valley HS, Spring Branch       1     408    1      10      X      Region
+New Braunfels H S, New Braunfels        1     268    2      5       X      Alternate
+Clemens HS, Schertz                     1     212    3
+Canyon HS, New Braunfels                1     198    4
+Judson Early College Academy, Live Oak  1     172    5
+Wagner HS, San Antonio                  1     154    6
+Steele H S, Cibolo                      1     144    7
+East Central H S, San Antonio           1     114    8

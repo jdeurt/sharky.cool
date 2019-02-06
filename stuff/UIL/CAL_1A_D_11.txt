@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Barkowsky, Cade     Klondike HS, Lamesa      111    1      15      X      Region
+Barton, Mayson      Klondike HS, Lamesa      110    2      12      X      Region
+Fleenor, Rachel     Dawson HS, Welch         106    3      10      X      Region
+Brooks, Cassie      Sands HS, Ackerly        79     4      8       X      Alternate
+Jonas, Gillian      O'Donnell HS, O'Donnell  79     5      6       X
+Tyler, Kamryn       Dawson HS, Welch         61     6      4       X
+Pedroza, Sebastian  O'Donnell HS, O'Donnell  60     7
+Dyck, Dustin        Klondike HS, Lamesa      60     7
+Owens, John         Loop HS, Loop            58     9
+Salinas, Dianna     Loop HS, Loop            55     10
+Sims, Cooper        Grady HS, Lenorah        53     11
+Fleenor, Sarah      Dawson HS, Welch         51     12
+Castillo, Sarah     Loop HS, Loop            49     13
+Reed, Tristan       Sands HS, Ackerly        49     13
+Pedroza, Bryannah   O'Donnell HS, O'Donnell  48     15
+Shands, TJ          Grady HS, Lenorah        48     15
+Rodriquez, Jaden    Grady HS, Lenorah        46     17
+Rodriqeuz, Jordan   Grady HS, Lenorah        38     18
+Arellano, Kyle      Sands HS, Ackerly        33     19
+Resendez, Mark      O'Donnell HS, O'Donnell  30     20
+Rempel, Nancy       Sands HS, Ackerly        0      21
+Garza, Aaliyha      Dawson HS, Welch         -55    22
+Owens, Amanda       Loop HS, Loop            -73    23
+Beck, Brianna       Klondike HS, Lamesa      -110   24
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Klondike HS, Lamesa      1     281    1      10      X      Region
+Dawson HS, Welch         1     218    2      5       X      Alternate
+O'Donnell HS, O'Donnell  1     187    3
+Loop HS, Loop            1     162    4
+Sands HS, Ackerly        1     161    5
+Grady HS, Lenorah        1     147    6
+
+TEAM RESULTS
+------------------------------

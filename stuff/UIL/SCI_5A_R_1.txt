@@ -1,0 +1,73 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                    Score  Place  Points  Medal  Advance
+McCarty, Joseph       Lubbock HS, Lubbock                       296    1      15      X      State
+Comiskey, Aidan       Grapevine H S, Grapevine                  234    2      12      X      State
+Watts, Jake           Lubbock HS, Lubbock                       194    3      9       X      State
+Tanna, Vivek          Grapevine H S, Grapevine                  194    3      9       X      State
+Miller, Dawson        Amarillo HS, Amarillo                     186    5      6       X      Alternate
+Valencic, Luka        Grapevine H S, Grapevine                  180    6      4       X
+Ibrahim, Andrew       Lubbock HS, Lubbock                       172    7
+Blackwell, Collin     Randall H S, Amarillo                     156    8
+Kluber, Grant         Grapevine H S, Grapevine                  154    9
+Le, Stephen           Saginaw HS, Saginaw                       150    10
+Denning, Ravyn        Randall H S, Amarillo                     148    11
+Yan, Andrew           Lubbock HS, Lubbock                       148    11
+Donnay, Jeramiah      Texas Acad Biomedical Sci HS, Fort Worth  122    13
+Carrillo, Jose A.     Chapin HS, El Paso                        120    14
+Brue, Jacob           Randall H S, Amarillo                     116    15
+Ruhlman, Jenna        Birdville HS, N Richland Hills            116    15
+Fry, Andrew           Rider H S, Wichita Falls                  114    17
+Miertschin, Logan     Chisholm Trail HS, Fort Worth             114    17
+Schrass, Leah         Rider H S, Wichita Falls                  108    19
+Studer, Caleigh       Rider H S, Wichita Falls                  104    20
+Hinojosa, Odaliz      Arlington Heights HS, Fort Worth          104    20
+Le, Marianne          Saginaw HS, Saginaw                       100    22
+Sheffield, Matthew    Arlington Heights HS, Fort Worth          98     23
+Cole, Owen            Chisholm Trail HS, Fort Worth             92     24
+Tirumala, Sahithi     Amarillo HS, Amarillo                     88     25
+Jimenez, Rosa Isela   Arlington Heights HS, Fort Worth          84     26
+Hofmann, Jonathan     Randall H S, Amarillo                     80     27
+Williams, Justin      Rider H S, Wichita Falls                  78     28
+Ni, Andy              Chisholm Trail HS, Fort Worth             78     28
+Patel, Aman           Arlington Heights HS, Fort Worth          76     30
+Stoeger, Tyler A.     Chapin HS, El Paso                        72     31
+Saucedo, Sergio       Canutillo HS, El Paso                     52     32
+Nieves, Daniel        Canutillo HS, El Paso                     48     33
+Escudero, Jose        Canutillo HS, El Paso                     44     34
+Singewald, Nathaniel  Boswell HS, Fort Worth                    36     35
+Tovar, Carlos         Canutillo HS, El Paso                     20     36
+Hernandez, Jacquie    Chisholm Trail HS, Fort Worth             20     36
+Meza, Cesar Y.        Chapin HS, El Paso                        18     38
+Miertschin, Duncan    Amarillo HS, Amarillo                     14     39
+Gonzalez, Gabriel     Austin HS, El Paso                        12     40
+Avila, Nicole         Chapin HS, El Paso                        8      41
+Olivas, Derek         Austin HS, El Paso                        0      42
+Armendariz, Erik      Northwest Early College HS, Canutillo     0      42
+Weislow, Isaac        Northwest Early College HS, Canutillo     0      42
+Acosta, Aaron         Trimble Technical HS, Fort Worth          0      42
+Harwell, Tripp        Amarillo HS, Amarillo                     0      42
+Hall, Harrison        Texas Acad Biomedical Sci HS, Fort Worth  0      42
+
+TOP SCORERS
+------------------------------
+Contestant       School         Results               Points
+McCarty, Joseph  Lubbock HS     Top Scorer Biology    3
+Denning, Ravyn   Randall H S    Alternate Biology     0
+Watts, Jake      Lubbock HS     Top Scorer Chemistry  3
+Tanna, Vivek     Grapevine H S  Alternate Chemistry   0
+McCarty, Joseph  Lubbock HS     Top Scorer Physics    3
+Valencic, Luka   Grapevine H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Lubbock HS, Lubbock               1     662    1      10      X      State
+Grapevine H S, Grapevine          1     608    2      5       X      Alternate
+Randall H S, Amarillo             1     420    3
+Rider H S, Wichita Falls          1     326    4
+Amarillo HS, Amarillo             1     288    5
+Arlington Heights HS, Fort Worth  1     286    6
+Chisholm Trail HS, Fort Worth     1     284    7
+Chapin HS, El Paso                1     210    8
+Canutillo HS, El Paso             1     144    9

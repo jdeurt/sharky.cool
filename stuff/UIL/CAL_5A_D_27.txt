@@ -1,0 +1,50 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Liu, Alexander      Calhoun HS, Port Lavaca     133    1      15      X      Region
+Wang, Meggie        Foster H S, Richmond        122    2      12      X      Region
+Chudoba, Joshua     Terry HS, Rosenberg         94     3      10      X      Region
+Rodriguez, Arianna  Terry HS, Rosenberg         90     4      8       X      Alternate
+Chen, Jason         Calhoun HS, Port Lavaca     82     5      6       X
+Dai, Quanjie        Calhoun HS, Port Lavaca     77     6      4       X
+Cook, Joseph        Foster H S, Richmond        74     7
+Liu, Anthony        Calhoun HS, Port Lavaca     70     8
+Michalski, Dylan    Fulshear HS, Fulshear       69     9
+Yerena, Leonardo    Terry HS, Rosenberg         64     10
+Nguyen, Khiem       Victoria East HS, Victoria  63     11
+Gomez, Alejandra    Terry HS, Rosenberg         63     11
+Cawthon, Abby       Fulshear HS, Fulshear       61     13
+Nguyen, Anthony     Lamar Cons H S, Rosenberg   56     14
+Perkins, Carson     Foster H S, Richmond        46     15
+Duran, Sadie        Victoria East HS, Victoria  43     16
+Koussa, George      Lamar Cons H S, Rosenberg   36     17
+Lempa, Ethan        Victoria West HS, Victoria  32     18
+Voss, Darby         Victoria East HS, Victoria  26     19
+Avear, Logan        Angleton HS, Angleton       21     20
+Reyes, Adriana      Victoria West HS, Victoria  13     21
+Barnett, Javonta    Victoria West HS, Victoria  4      22
+Butler, Joshua      Angleton HS, Angleton       0      23
+Francois, Kierra    Angleton HS, Angleton       0      23
+Suchyta, Miranda    Lamar Cons H S, Rosenberg   0      23
+Oduche, Hera        Lamar Cons H S, Rosenberg   0      23
+Nguyen, Michael     Foster H S, Richmond        0      23
+Dai, Quanjie        Calhoun HS, Port Lavaca     0      23
+Trapp, Morgan       Fulshear HS, Fulshear       -5     29
+Cuttera, Erica      Fulshear HS, Fulshear       -18    30
+Lowery, Emily       Victoria West HS, Victoria  -37    31
+Emaiguel, Therese   Victoria East HS, Victoria  -38    32
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Calhoun HS, Port Lavaca     1     292    1      10      X      Region
+Terry HS, Rosenberg         1     248    2      5       X      Alternate
+Foster H S, Richmond        1     242    3
+Victoria East HS, Victoria  1     132    4
+Fulshear HS, Fulshear       1     125    5
+Lamar Cons H S, Rosenberg   1     92     6
+Victoria West HS, Victoria  1     49     7
+Angleton HS, Angleton       1     21     8
+
+TEAM RESULTS
+------------------------------

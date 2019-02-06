@@ -1,0 +1,59 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Perez, Andrea          Tioga HS, Tioga                  177    1      15      X      State
+Driskill, Jordan       Fruitvale HS, Fruitvale          163    2      12      X      State
+Nix, Krysta            Fruitvale HS, Fruitvale          154    3      10      X      State
+White, Rose            Fruitvale HS, Fruitvale          150    4      8       X      Alternate
+Hamner, Austin         Tioga HS, Tioga                  149    5      6       X
+Walker, Jon            Bellevue HS, Bellevue            148    6      4       X
+Caloway, Makayla       Savoy HS, Savoy                  142    7
+Payne, Gracie          Newcastle H S, Newcastle         140    8
+Borman, Anthony        Savoy HS, Savoy                  135    9
+Rongel, Abigail        Fruitvale HS, Fruitvale          135    9
+Francis, Brittney      Savoy HS, Savoy                  135    9
+Castillo, Maria        Lometa H S, Lometa               128    12
+Hernandez, Raena       Tioga HS, Tioga                  128    12
+Sweet, Connor          Savoy HS, Savoy                  128    12
+Barfield, Cassidy      Gordon H S, Gordon               127    15
+Thompson, Sage         Lometa H S, Lometa               121    16
+Bozeman, Gage          Newcastle H S, Newcastle         119    17
+Parks, Amanda          Tioga HS, Tioga                  114    18
+Steger, Jenna          Priddy HS, Priddy                113    19
+Terry, Trey            Bellevue HS, Bellevue            113    19
+Shields, Kelsey        Newcastle H S, Newcastle         112    21
+Hines, Holly           Lometa H S, Lometa               102    22
+Wyatt, Ashley          Gordon H S, Gordon               95     23
+Hernandez, Andres      Gordon H S, Gordon               93     24
+Martinez, Nicole       Newcastle H S, Newcastle         86     25
+Fite, Harrison C       Sulphur Bluff HS, Sulphur Bluff  83     26
+Obermier, Caleb        Bellevue HS, Bellevue            82     27
+Zuniga, Cate           Slidell HS, Slidell              79     28
+Johnson, Blake         Gordon H S, Gordon               77     29
+Sandoval, Tyson        Gorman H S, Gorman               69     30
+Reyes, Hanna A         Sulphur Bluff HS, Sulphur Bluff  69     30
+Earp, Grant            Miller Grove H S, Cumby          66     32
+Fletcher, Garett       Iredell H S, Iredell             62     33
+Prado, Jose            Lometa H S, Lometa               55     34
+Potter, Savanna        Iredell H S, Iredell             50     35
+Trail, Kaylee          Bellevue HS, Bellevue            49     36
+Weatheread, Caitlin N  Sulphur Bluff HS, Sulphur Bluff  37     37
+Wellborn, Micah        Iredell H S, Iredell             36     38
+Fowler, Colton         Iredell H S, Iredell             30     39
+Tubb, Hunter S         Sulphur Bluff HS, Sulphur Bluff  -1     41
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Fruitvale HS, Fruitvale          1     467    1      10      X      State
+Tioga HS, Tioga                  1     454    2      5       X      Alternate
+Savoy HS, Savoy                  1     412    3
+Newcastle H S, Newcastle         1     371    4
+Lometa H S, Lometa               1     351    5
+Bellevue HS, Bellevue            1     343    6
+Gordon H S, Gordon               1     315    7
+Sulphur Bluff HS, Sulphur Bluff  1     189    8
+Iredell H S, Iredell             1     148    9
+
+TEAM RESULTS
+------------------------------

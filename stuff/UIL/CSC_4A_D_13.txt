@@ -1,0 +1,33 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                       Score  Place  Points  Medal  Advance
+Du Preez, Daniel   Van HS, Van                  224    1      15      X      Region
+Swanson, Robert    Van HS, Van                  194    2      12      X      Region
+Swanson, Timothy   Van HS, Van                  132    3      10      X      Region
+Petitt, Thomas     Wills Point HS, Wills Point  52     4      8       X      Alternate
+Clark, Conner      Mabank HS, Mabank            50     5      6       X
+Bell, Kathryn      Wills Point HS, Wills Point  44     6      4       X
+Serenko, Joey      Van HS, Van                  32     7
+Shorten, Trevor    Wills Point HS, Wills Point  24     8
+McMahon, Teresa    Mabank HS, Mabank            20     9
+Lincoln, Carisma   Wills Point HS, Wills Point  12     10
+Hipsher, Drayson   Canton HS, Canton            8      11
+Oliver, Mackenzie  Canton HS, Canton            4.1    12
+Ray, Garrett       Mabank HS, Mabank            4      13
+McGowan, Breanna   Canton HS, Canton            0.1    14
+Tidwell, Leyton    Canton HS, Canton            0.1    14
+Harris, TJ         Brownsboro HS, Brownsboro    0      16
+Vargas, Thomas     Brownsboro HS, Brownsboro    -10    17
+Thomas, Jace       Brownsboro HS, Brownsboro    -20    18
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Van HS, Van                  1     1205   1      20      X      Region
+Mabank HS, Mabank            1     369    2      16      X      Alternate
+Wills Point HS, Wills Point  1     240    3      12      X
+Canton HS, Canton            1     72.2   4
+Brownsboro HS, Brownsboro    1     30     5
+
+TEAM RESULTS
+------------------------------

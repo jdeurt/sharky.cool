@@ -1,0 +1,60 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                     Score  Place  Points  Medal  Advance
+Spinks, Layton       Eldorado HS, Eldorado      102    1      15      X      Region
+TORRALBA, MANUEL     Ozona H S, Ozona           64     2      12      X      Region
+Hernandez, Mario     Eldorado HS, Eldorado      56     3      10      X      Region
+WHEAT, ZACHARY       Winters HS, Winters        52     4      8       X      Alternate
+Colten, McAllister   Christoval HS, Christoval  50     5      6       X
+Albin, Austin        Eldorado HS, Eldorado      48     6      4       X
+Ceasar, Jaeden       Forsan HS, Forsan          46     7
+Carter, Hunter       Forsan HS, Forsan          40     8
+Whitmore, Nathaniel  Forsan HS, Forsan          38     9
+L'ABBE, BRANDON      Winters HS, Winters        38     9
+Olivares, Anthony    Eldorado HS, Eldorado      34     11
+Wright, JB           Forsan HS, Forsan          34     11
+Tillman, Wes         Irion Co HS, Mertzon       30     13
+ELLIOTT, CHANTZ      Ozona H S, Ozona           28     14
+Griffin, Jack        Eldorado HS, Eldorado      26     15
+Marty, Jade          Christoval HS, Christoval  26     15
+Self, Patrick        Eldorado HS, Eldorado      24     17
+Yanez, Razyl         Forsan HS, Forsan          24     17
+ALVARADO, DOMYNIC    Winters HS, Winters        24     17
+Dutchover, David     Irion Co HS, Mertzon       24     17
+Williams, Coleton    Miles HS, Miles            20     21
+Hamlin, Aeryn        Forsan HS, Forsan          20     21
+JACOB, MEGAN         Winters HS, Winters        16     23
+Scott, Spencer       Irion Co HS, Mertzon       16     23
+TORRALBA, HUMBERTO   Ozona H S, Ozona           14     25
+Clevenger, Colton    Christoval HS, Christoval  12     26
+Brooks, Camie        Christoval HS, Christoval  8      27
+Estevis, DJ          Miles HS, Miles            8      27
+KNAACK, JOSH         Ozona H S, Ozona           8      27
+GARCIA, JOEY         Winters HS, Winters        8      27
+Webb, Tyler          Ozona H S, Ozona           6      31
+CANO, CITLALI        Ozona H S, Ozona           4      32
+McGuire, Aaron       Miles HS, Miles            2      33
+GERHART, MACEY       Winters HS, Winters        2      33
+Gryder, Brad         Irion Co HS, Mertzon       -4     35
+Nanny, Jenna         Christoval HS, Christoval  -24    36
+
+TOP SCORERS
+------------------------------
+Contestant        School       Results               Points
+Spinks, Layton    Eldorado HS  Top Scorer Biology    3
+Scott, Spencer    Irion Co HS  Alternate Biology     0
+Spinks, Layton    Eldorado HS  Top Scorer Chemistry  3
+Albin, Austin     Eldorado HS  Alternate Chemistry   0
+Griffin, Jack     Eldorado HS  Top Scorer Physics    3
+Dutchover, David  Irion Co HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Eldorado HS, Eldorado      1     206    1      10      X      Region
+Forsan HS, Forsan          1     124    2      5       X      Alternate
+Winters HS, Winters        1     114    3
+Ozona H S, Ozona           1     106    4
+Christoval HS, Christoval  1     88     5
+Irion Co HS, Mertzon       1     70     6
+Miles HS, Miles            1     30     7

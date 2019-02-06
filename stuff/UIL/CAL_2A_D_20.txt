@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Townsend, Eastman      Latexo H S, Latexo           149    1      15      X      Region
+Leifeste, Craig        Groveton H S, Groveton       142    2      12      X      Region
+Catoe, Riley           Latexo H S, Latexo           128    3      10      X      Region
+Chavez, Javier         Groveton H S, Groveton       114    4      8       X      Alternate
+Stahl, Kelby           Groveton H S, Groveton       114    5      6       X
+Brooks, Rebecca        Groveton H S, Groveton       98     6      4       X
+Laubach, Hannah        Lovelady HS, Lovelady        97     7
+Castleberry, Halleigh  Latexo H S, Latexo           91     8
+Williams, Evelyn       Centerville HS, Centerville  85     9
+Tullos, Ethan          Lovelady HS, Lovelady        83     10
+Morgan, Taylor         Centerville HS, Centerville  79     11
+Patton, Hunter         Lovelady HS, Lovelady        64     12
+Smoldas, Tanner        Centerville HS, Centerville  63     13
+Craven, Sydnee         Latexo H S, Latexo           62     14
+Miller, Jared          Centerville HS, Centerville  54     15
+Brennan, Andrew W      Big Sandy HS, Dallardsville  50     16
+Thompson, Jaiden B     Big Sandy HS, Dallardsville  50     16
+Battise, Taleah S      Big Sandy HS, Dallardsville  31     18
+Hancock, Macy S        Big Sandy HS, Dallardsville  24     19
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Groveton H S, Groveton       1     370    1      10      X      Region
+Latexo H S, Latexo           1     368    2      5       X      Alternate
+Lovelady HS, Lovelady        1     244    3
+Centerville HS, Centerville  1     227    4
+Big Sandy HS, Dallardsville  1     131    5
+
+TEAM RESULTS
+------------------------------

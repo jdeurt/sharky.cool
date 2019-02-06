@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                       Score  Place  Points  Medal  Advance
+Smith, Reagan     Honey Grove HS, Honey Grove  114    1      15      X      Region
+Nelson, Aaron     Honey Grove HS, Honey Grove  107    2      12      X      Region
+Nors, Rachel      Trenton HS, Trenton          106    3      10      X      Region
+Stroup, Jacob     Blue Ridge HS, Blue Ridge    102    4      8       X      Alternate
+Caffee, Jake      Honey Grove HS, Honey Grove  90     5      6       X
+Murphy, McKenzie  Trenton HS, Trenton          84     6      4       X
+Parrish, Colton   Blue Ridge HS, Blue Ridge    70     7
+Blount, Ashley    Bland HS, Merit              55     8
+Hopkins, Rachel   Blue Ridge HS, Blue Ridge    55     8
+Arguello, Tomas   Wolfe City HS, Wolfe City    55     8
+Jordan, Cori      Celeste HS, Celeste          53     11
+Martinez, Fabian  Wolfe City HS, Wolfe City    50     12
+Stone, Carly      Trenton HS, Trenton          38     13
+Davis, Alaina     Trenton HS, Trenton          37     14
+Duncan, Jacob     Blue Ridge HS, Blue Ridge    24     15
+Clifton, Brady    Wolfe City HS, Wolfe City    8      16
+Butler, Aaron     Celeste HS, Celeste          0      17
+Holt, Summer      Celeste HS, Celeste          0      17
+Juarez, Marisela  Wolfe City HS, Wolfe City    -21    19
+Brown, Chance     Celeste HS, Celeste          -27    20
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Honey Grove HS, Honey Grove  1     311    1      10      X      Region
+Trenton HS, Trenton          1     228    2      5       X      Alternate
+Blue Ridge HS, Blue Ridge    1     227    3
+Wolfe City HS, Wolfe City    1     113    4
+Celeste HS, Celeste          1     53     5
+
+TEAM RESULTS
+------------------------------

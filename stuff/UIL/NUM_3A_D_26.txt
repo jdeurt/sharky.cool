@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Zaiontz, Kyle        Poth HS, Poth                  106    1      15      X      Region
+Tranbarger, Preston  BASIS Shavano HS, San Antonio  99     2      12      X      Region
+Kim, Jieon           BASIS Shavano HS, San Antonio  94     3      10      X      Region
+Dylla, Dane          Poth HS, Poth                  93     4      8       X      Alternate
+Wang, Darius         BASIS Shavano HS, San Antonio  63     5      6       X
+Gibson, Jared        Cole HS, San Antonio           54     6      4       X
+West, Connor         Poth HS, Poth                  46     7
+Choucair, Marc       BASIS Shavano HS, San Antonio  38     8
+Voelkel, Taylor      Karnes City H S, Karnes City   29     9
+Ducote, Madeleine    Jourdanton HS, Jourdanton      29     9
+Leza, Kara           Cole HS, San Antonio           27     11
+Hale, Joshua         Karnes City H S, Karnes City   17     12
+Puckett, Jesse       Jourdanton HS, Jourdanton      17     12
+Martin, Brad         Natalia H S, Natalia           12     14
+White, Amya          Cole HS, San Antonio           9      15
+Al Haddad, Faysal    Jourdanton HS, Jourdanton      5      16
+Manzanal, Maryfaith  Karnes City H S, Karnes City   -1     17
+Rankin, Hunter       Jourdanton HS, Jourdanton      -1     17
+Zager, Jeanne        Poth HS, Poth                  -4     19
+Castro, Jeremiah     Natalia H S, Natalia           -10    20
+Estrada, Michael     Karnes City H S, Karnes City   -22    21
+Kinney, Hannah       Cole HS, San Antonio           -33    22
+Felker, Anton        Natalia H S, Natalia           -40    23
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+BASIS Shavano HS, San Antonio  1     256    1      10      X      Region
+Poth HS, Poth                  1     245    2      5       X      Alternate
+Cole HS, San Antonio           1     90     3
+Jourdanton HS, Jourdanton      1     51     4
+Karnes City H S, Karnes City   1     45     5
+Natalia H S, Natalia           1     -38    6
+
+TEAM RESULTS
+------------------------------

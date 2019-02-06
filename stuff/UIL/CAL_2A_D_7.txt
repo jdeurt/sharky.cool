@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                     Score  Place  Points  Medal  Advance
+ELLIOTT, CHANTZ     Ozona H S, Ozona           203    1      15      X      Region
+TORRALBA, MANUEL    Ozona H S, Ozona           189    2      11      X      Region
+KNAACK, JOSH        Ozona H S, Ozona           189    2      11      X      Region
+RODRIGUEZ, DENISE   Ozona H S, Ozona           189    4      8       X      Alternate
+Lindsey, Christine  Eldorado HS, Eldorado      149    5      6       X
+Torbik, Jacki       Forsan HS, Forsan          135    6      4       X
+Kalina, Marial      Miles HS, Miles            128    7
+Gryder, Brad        Irion Co HS, Mertzon       126    8
+McNutt, Macy        Irion Co HS, Mertzon       121    9
+Gomez, Valdomero    Irion Co HS, Mertzon       100    10
+Book, Taylen        Miles HS, Miles            93     11
+Hightower, Katelyn  Irion Co HS, Mertzon       92     12
+Cline, Haley        Forsan HS, Forsan          77     13
+Ayala, Calleigh     Forsan HS, Forsan          63     14
+Martinez, Jadyn     Eldorado HS, Eldorado      57     15
+COSTA, ISABELLA     Winters HS, Winters        52     16
+Treadwell, Jamie    Christoval HS, Christoval  49     17
+Hernandez, Norma    Eldorado HS, Eldorado      47     18
+Tarbet, Sara        Forsan HS, Forsan          47     18
+Estevis, DJ         Miles HS, Miles            44     20
+Moore, Scarlett     Christoval HS, Christoval  20     21
+Lozano, Jacqui      Eldorado HS, Eldorado      19     22
+HUNTER, CECILLE     Winters HS, Winters        9      23
+FUENTES, KAITLYN    Winters HS, Winters        -17    24
+MOSTAD, MARA        Winters HS, Winters        -49    25
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Ozona H S, Ozona       1     581    1      10      X      Region
+Irion Co HS, Mertzon   1     347    2      5       X      Alternate
+Forsan HS, Forsan      1     275    3
+Miles HS, Miles        1     265    4
+Eldorado HS, Eldorado  1     253    5
+Winters HS, Winters    1     44     6
+
+TEAM RESULTS
+------------------------------

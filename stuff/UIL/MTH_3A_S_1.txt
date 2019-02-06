@@ -1,0 +1,42 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                             Score  Place  Points  Medal
+Thompson, Jeff         Sabine HS, Gladewater              256    1      15      X
+Taylor, Michael        Sabine HS, Gladewater              254    2      12      X
+Taylor, Scottie        Sabine HS, Gladewater              230    3      10      X
+Ackley, Jared          Whitesboro HS, Whitesboro          210    4      8       X
+Gautier, Scott         Whitesboro HS, Whitesboro          204    5      6       X
+Young, Baylor          Central HS, Pollok                 188    6      4       X
+Horton, Carter         Sabine HS, Gladewater              174    7
+Lancaster, Matthew     City View HS, Wichita Falls        168    8
+Burke, Patrick         Falfurrias H S, Falfurrias         168    8
+Senne, Ethan           Jim Ned H S, Tuscola               166    10
+Bordas, Torda          BASIS Shavano HS, San Antonio      162    11
+Sherwin, Skyler M      New Waverly H S, New Waverly       154    12
+Drake, Rachel E        New Waverly H S, New Waverly       150    13
+Li, Wenhan             IDEA Quest College Prep, Edinburg  140    14
+Olivo, Bryan           IDEA College Prep, Pharr           138    15
+Hoebelheinrich, Jacob  Jim Ned H S, Tuscola               136    16
+Estrada, Maria         IDEA College Prep, Pharr           136    16
+Queen, Josh            Academy HS, Little River           132    18
+Chaloupka, Dakota      Jim Ned H S, Tuscola               114    19
+Cruzanaya, Zoe N       New Waverly H S, New Waverly       112    20
+Waggoner, Logan        Paradise HS, Paradise              108    21
+Murnan, Jaron          Whitesboro HS, Whitesboro          98     22
+Paz, Jose              IDEA College Prep, Pharr           94     23
+Davenport, Jonah       Whitesboro HS, Whitesboro          86     24
+Page, Nicholas         Jim Ned H S, Tuscola               78     25
+Vasquez, Axel          IDEA College Prep, Pharr           56     26
+Slowtalker, Marques    New Waverly H S, New Waverly       54     27
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Sabine HS, Gladewater         1     740    1      10      X
+Whitesboro HS, Whitesboro     1     512    2      5       X      Alternate
+Jim Ned H S, Tuscola          1     416    3
+New Waverly H S, New Waverly  1     416    4
+IDEA College Prep, Pharr      1     368    5
+
+TEAM RESULTS
+------------------------------

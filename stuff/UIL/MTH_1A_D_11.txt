@@ -1,0 +1,31 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Barton, Mayson      Klondike HS, Lamesa      128    1      15      X      Region
+Jung, Anna          Klondike HS, Lamesa      76     2      12      X      Region
+Wigington, Noah     Sands HS, Ackerly        62     3      10      X      Region
+Beck, Brianna       Klondike HS, Lamesa      60     4      8       X      Alternate
+Sims, Cooper        Grady HS, Lenorah        54     5      6       X
+Pedroza, Sebastian  O'Donnell HS, O'Donnell  40     6      4       X
+Cox, Marshall       Grady HS, Lenorah        32     7
+Ontiveros, Alijah   Grady HS, Lenorah        32     7
+Pedroza, Marcos     O'Donnell HS, O'Donnell  28     9
+Schoberg, Draven    Grady HS, Lenorah        22     10
+French, Layne       Sands HS, Ackerly        20     11
+Dyck, Dustin        Klondike HS, Lamesa      16     12
+Salinas, Dianna     Loop HS, Loop            8      13
+Garces, Elvis       O'Donnell HS, O'Donnell  8      13
+Pedroza, Bryannah   O'Donnell HS, O'Donnell  8      13
+Owens, John         Loop HS, Loop            2      16
+Owens, Amanda       Loop HS, Loop            2      16
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Klondike HS, Lamesa      1     264    1      10      X      Region
+Grady HS, Lenorah        1     118    2      5       X      Alternate
+O'Donnell HS, O'Donnell  1     76     3
+Loop HS, Loop            1     12     4
+
+TEAM RESULTS
+------------------------------

@@ -1,0 +1,35 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Ademaj, Ideal       Athens HS, Athens              268    1      15      X      Region
+Rodriguez, Aryn     Athens HS, Athens              198    2      12      X      Region
+Pedroza, Alejandra  Athens HS, Athens              124    3      10      X      Region
+Phillips, Zackary   Fairfield H S, Fairfield       121    4      8       X      Alternate
+Alexander, Noah     Palestine H S, Palestine       107    5      6       X
+Lindsey, Dylan      Athens HS, Athens              103    6      4       X
+Alvarez, Alyson     Palestine H S, Palestine       100    7
+Nguyen, Tyler       Palestine H S, Palestine       61     8
+Gibson, Jordan      Fairfield H S, Fairfield       61     8
+Walia, Robby        Fairfield H S, Fairfield       56     10
+Patel, Suhani       Fairfield H S, Fairfield       30     11
+Pouncy, Noel        Palestine H S, Palestine       26     12
+Wright, Jailil      Mexia HS, Mexia                6      13
+Rosas, Guillermo    Madisonville HS, Madisonville  0      14
+Johnson, Arron      Mexia HS, Mexia                -1     15
+Valenzuela, Iris    Mexia HS, Mexia                -2     16
+Rodriquez, Kady     Madisonville HS, Madisonville  -2     16
+Silva, Saira        Madisonville HS, Madisonville  -28    18
+Dilyn, Busby        Mexia HS, Mexia                -28    18
+Hernandez, Lidia    Madisonville HS, Madisonville  -43    20
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Athens HS, Athens              1     590    1      10      X      Region
+Palestine H S, Palestine       1     268    2      5       X      Alternate
+Fairfield H S, Fairfield       1     238    3
+Mexia HS, Mexia                1     3      4
+Madisonville HS, Madisonville  1     -30    5
+
+TEAM RESULTS
+------------------------------

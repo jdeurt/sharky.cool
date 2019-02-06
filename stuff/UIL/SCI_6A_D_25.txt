@@ -1,0 +1,51 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Lai, Pierce         Vandegrift H S, Austin       270    1      15      X      Region
+Xu, Lucy            Vandegrift H S, Austin       226    2      12      X      Region
+Lai, Victor         Vandegrift H S, Austin       210    3      10      X      Region
+Walker, Olympia     Westlake HS, Austin          196    4      8       X      Alternate
+Roy, Soham          Westlake HS, Austin          190    5      6       X
+Li, Caroline        Vandegrift H S, Austin       176    6      2       X
+Tang, Andrew        Vandegrift H S, Austin       176    6      2       X
+Burke, Joel         Vista Ridge H S, Cedar Park  166    8
+Ashley, Amanda Mae  Hays HS, Buda                142    9
+Santoso, Matthew    Westlake HS, Austin          132    10
+Barksdale, Levi     Hays HS, Buda                132    10
+Pham, Vivi          Westlake HS, Austin          124    12
+Sherry, Danielle    Leander H S, Leander         122    13
+Pittman, Emily      Westlake HS, Austin          116    14
+Quinn, Ryan         Westlake HS, Austin          114    15
+Kellner, Oscar      Leander H S, Leander         106    16
+Deitrich, Stephan   Lake Travis H S, Austin      104    17
+Blevins, Zeke       Vista Ridge H S, Cedar Park  100    18
+Yoon, Chanwoo       Vista Ridge H S, Cedar Park  94     19
+Kellner, Joaquin    Leander H S, Leander         80     20
+Donovan, Julia      Lake Travis H S, Austin      80     20
+Campos, Jonathan    Hays HS, Buda                60     22
+Van Daele, Ellen    Lake Travis H S, Austin      60     22
+Donovan, Ryan       Lake Travis H S, Austin      34     24
+Yoon, Soobin        Vista Ridge H S, Cedar Park  28     25
+Olowoyeye, Josh     Vista Ridge H S, Cedar Park  18     26
+Munoz, Mark         Vista Ridge H S, Cedar Park  8      27
+Nelson, Malakai     Lehman High School, Kyle     2      28
+
+TOP SCORERS
+------------------------------
+Contestant          School          Results               Points
+Lai, Pierce         Vandegrift H S  Top Scorer Biology    3
+Ashley, Amanda Mae  Hays HS         Alternate Biology     0
+Xu, Lucy            Vandegrift H S  Top Scorer Chemistry  3
+Walker, Olympia     Westlake HS     Alternate Chemistry   0
+Lai, Pierce         Vandegrift H S  Top Scorer Physics    3
+Lai, Victor         Vandegrift H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Vandegrift H S, Austin       1     706    1      10      X      Region
+Westlake HS, Austin          1     518    2      5       X      Alternate
+Vista Ridge H S, Cedar Park  1     360    3
+Hays HS, Buda                1     334    4
+Leander H S, Leander         1     308    5
+Lake Travis H S, Austin      1     244    6

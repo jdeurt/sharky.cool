@@ -1,0 +1,71 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Dehnert, Brady      Burkburnett HS, Burkburnett         176    1      15      X      State
+Kearney, Josh       Wylie HS, Abilene                   170    2      12      X      State
+Lansdowne, Carson   Midlothian Heritage HS, Midlothian  144    3      10      X      State
+Nelson, Lars        Borger HS, Borger                   136    4      8       X      Alternate
+Keeton, Timothy     Burkburnett HS, Burkburnett         134    5      6       X
+Amonett, Payton     Wylie HS, Abilene                   128    6      2       X
+Acosta, Jay         Kennedale H S, Kennedale            128    6      2       X
+Roberts, Tyler      Wylie HS, Abilene                   102    8
+Merket, Connor      Wylie HS, Abilene                   98     9
+Gibbs, Taryn        Stephenville H S, Stephenville      94     10
+Lucas, Carter       Midlothian Heritage HS, Midlothian  94     10
+Bell, Macy          Midlothian Heritage HS, Midlothian  82     12
+Heitman, Dustin     Midlothian Heritage HS, Midlothian  78     13
+Carangan, Janlloyd  Kennedale H S, Kennedale            76     14
+Lumbreras, Victor   Stephenville H S, Stephenville      74     15
+Fidaleo, Jane       Levelland H S, Levelland            66     16
+Beaty, Lauren       Stephenville H S, Stephenville      66     16
+Rios, Mariana       Stephenville H S, Stephenville      66     16
+Riddle, CJ          Levelland H S, Levelland            64     19
+Ham, Olivia         Kennedale H S, Kennedale            56     20
+Badger, William     Kennedale H S, Kennedale            48     21
+Davis, Katherine    Borger HS, Borger                   44     22
+Bell, Christian     Greenwood H S, Midland              44     22
+Buckner, Dustin     Andrews HS, Andrews                 38     24
+Wright, Lindsey     Dalhart HS, Dalhart                 34     25
+White, Joel         Levelland H S, Levelland            32     26
+Nelson, Tucker      Brownfield HS, Brownfield           26     27
+Stallings, Leyla    Andrews HS, Andrews                 24     28
+Saenz, Emery        Fabens H S, Fabens                  18     29
+Marquez, Ramon      Kennedale H S, Kennedale            18     29
+Hamid, Rohoman      Borger HS, Borger                   14     31
+Bustos, Marisol     Levelland H S, Levelland            12     32
+Trejo, Ernesto      Fabens H S, Fabens                  12     32
+Chavez, Maite       Fabens H S, Fabens                  12     32
+Nunez, Alan         Fabens H S, Fabens                  2      35
+Sowell, Jermany     Andrews HS, Andrews                 2      35
+Moran, Jacob T.     Bushland HS, Bushland               0      37
+Scott, Korbin       Andrews HS, Andrews                 0      37
+Beasley, Brittany   Burkburnett HS, Burkburnett         0      37
+Alpers, Michael     Burkburnett HS, Burkburnett         0      37
+Nicolas, Alexis     Hirschi H S, Wichita Falls          0      37
+Bailey, Pearson     Borger HS, Borger                   -2     42
+Myra, Hernandez     Clint H S, Clint                    -6     43
+Bradford, Kenton    Dalhart HS, Dalhart                 -10    44
+Alarcon, Aaron      Clint H S, Clint                    -32    45
+
+TOP SCORERS
+------------------------------
+Contestant       School          Results               Points
+Amonett, Payton  Wylie HS        Top Scorer Biology    3
+Kearney, Josh    Wylie HS        Alternate Biology     0
+Dehnert, Brady   Burkburnett HS  Top Scorer Chemistry  3
+Keeton, Timothy  Burkburnett HS  Alternate Chemistry   0
+Nelson, Lars     Borger HS       Top Scorer Physics    3
+Dehnert, Brady   Burkburnett HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Wylie HS, Abilene                   1     400    1      10      X      State
+Midlothian Heritage HS, Midlothian  1     320    2      5       X      Alternate
+Burkburnett HS, Burkburnett         1     310    3
+Kennedale H S, Kennedale            1     260    4
+Stephenville H S, Stephenville      1     234    5
+Borger HS, Borger                   1     194    6
+Levelland H S, Levelland            1     162    7
+Andrews HS, Andrews                 1     64     8
+Fabens H S, Fabens                  1     42     9

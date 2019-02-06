@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                  Score  Place  Points  Medal  Advance
+Zhang, Phyllis     Lubbock HS, Lubbock                     339    1      15      X      Region
+Nath, Tanuja       Lubbock HS, Lubbock                     284    2      12      X      Region
+Mittal, Yash       Lubbock HS, Lubbock                     260    3      10      X      Region
+Yan, Jin           Lubbock HS, Lubbock                     236    4      8       X      Alternate
+Nash, Branson      Cooper HS, Lubbock                      101    5      6       X
+Pfeiffer, Luke     Coronado HS, Lubbock                    87     6      4       X
+Toelle, Kendall    Talkington Sch Young Wmn Ldrs, Lubbock  77     7
+Daniel, Maygen     Cooper HS, Lubbock                      62     8
+Kantar, Jad        Cooper HS, Lubbock                      61     9
+Watson, Nick       Monterey HS, Lubbock                    47     10
+Hernandez, Dakota  Coronado HS, Lubbock                    44     11
+Rahman, Ryan       Monterey HS, Lubbock                    33     12
+Lindsay, Jonah     Monterey HS, Lubbock                    29     13
+Mata, Alex         Coronado HS, Lubbock                    23     14
+Beltran, Lhord     Cooper HS, Abilene                      23     14
+Nokes, Harley      Talkington Sch Young Wmn Ldrs, Lubbock  20     16
+Lusk, Riley        Monterey HS, Lubbock                    17     17
+Wanjiru, Sharon    Talkington Sch Young Wmn Ldrs, Lubbock  8      18
+Wittie, Faith      Cooper HS, Lubbock                      3      19
+Lock, Isaac        Cooper HS, Abilene                      0      20
+Mendoza, Franciso  Lake View H S, San Angelo               0      20
+Hart, Ellie        Talkington Sch Young Wmn Ldrs, Lubbock  -2     22
+Wood, David        Lake View H S, San Angelo               -11    23
+Cluck, Brady       Cooper HS, Abilene                      -22    24
+Dawson, Tarik      Cooper HS, Abilene                      -48    25
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Lubbock HS, Lubbock                     1     883    1      10      X      Region
+Cooper HS, Lubbock                      1     224    2      5       X      Alternate
+Coronado HS, Lubbock                    1     154    3
+Monterey HS, Lubbock                    1     109    4
+Talkington Sch Young Wmn Ldrs, Lubbock  1     105    5
+Cooper HS, Abilene                      1     1      6
+
+TEAM RESULTS
+------------------------------

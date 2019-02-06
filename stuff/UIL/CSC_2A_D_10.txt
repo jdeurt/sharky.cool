@@ -1,0 +1,34 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                        Score  Place  Points  Medal  Advance
+Teague, Travis     De Leon HS, De Leon           94     1      15      X      Region
+Scott, Jano        De Leon HS, De Leon           66     2      12      X      Region
+Villeda, Ramiro    Hico H S, Hico                38     3      10      X      Region
+Brister, Mackenze  Hico H S, Hico                34     4      8       X      Alternate
+Perry, Megan       Santo H S, Santo              18     5      6       X
+Thurman, Allie     Santo H S, Santo              16     6      4       X
+Amador, Jennifer   Hico H S, Hico                12     7
+Scott, Stellina    De Leon HS, De Leon           10     8
+White, Brody       De Leon HS, De Leon           8      9
+Williams, Sarah    Goldthwaite H S, Goldthwaite  6      10
+George, Steve      Santo H S, Santo              6      10
+Bostick, Kevin     Goldthwaite H S, Goldthwaite  2      12
+Cruz, Christina    Hico H S, Hico                -4     13
+Neri, Yesenia      Meridian H S, Meridian        -8     14
+Taylor, Blaine     Meridian H S, Meridian        -8     14
+Head, Savannah     Goldthwaite H S, Goldthwaite  -10    16
+Nunez, Xavier      Meridian H S, Meridian        -14    17
+Dirkse, Riley      Meridian H S, Meridian        -14    17
+Copeland, Levi     Santo H S, Santo              -20    19
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+De Leon HS, De Leon           1     410    1      20      X      Region
+Hico H S, Hico                1     324    2      16      X      Alternate
+Santo H S, Santo              1     160    3      12      X
+Goldthwaite H S, Goldthwaite  1     -2     4
+Meridian H S, Meridian        1     -30    5
+
+TEAM RESULTS
+------------------------------

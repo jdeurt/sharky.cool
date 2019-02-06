@@ -1,0 +1,39 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                   Score  Place  Points  Medal  Advance
+Fernandez, Samantha    Canyon HS, Canyon        170    1      15      X      Region
+Hill, Madison          Canyon HS, Canyon        156    2      12      X      Region
+Harwell, Tripp         Amarillo HS, Amarillo    154    3      10      X      Region
+Wilhelm, Holly         Dumas H S, Dumas         128    4      8       X      Alternate
+Howard, Morgan         Canyon HS, Canyon        121    5      6       X
+Sauer, Ashli           Dumas H S, Dumas         114    6      4       X
+Gonzalez, Jorge        Plainview HS, Plainview  114    7
+Sewell, Julian         Canyon HS, Canyon        114    8
+Liu, Hunter            Amarillo HS, Amarillo    107    9
+Doan, Trang            Palo Duro H S, Amarillo  104    10
+Boelter, Brooke        Dumas H S, Dumas         98     11
+Zoziyamba, Mbananayo   Palo Duro H S, Amarillo  74     12
+Yalamanchili, Pranav   Amarillo HS, Amarillo    72     13
+Ginter, Kristyn        Dumas H S, Dumas         71     14
+Mitchell, Katelyn      Palo Duro H S, Amarillo  65     15
+Franklin, Emily        Plainview HS, Plainview  65     15
+Kongdara, Anousaa      Caprock HS, Amarillo     63     17
+Miller, Dawson         Amarillo HS, Amarillo    62     18
+Kongdara, Somprathana  Caprock HS, Amarillo     56     19
+Franklin, Timothy      Plainview HS, Plainview  51     20
+Valdez, Stephanie      Plainview HS, Plainview  51     20
+Wilkinson, Victoria    Palo Duro H S, Amarillo  45     22
+Gonzales, Marcos       Caprock HS, Amarillo     -22    23
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Canyon HS, Canyon        1     447    1      10      X      Region
+Dumas H S, Dumas         1     340    2      5       X      Alternate
+Amarillo HS, Amarillo    1     333    3
+Palo Duro H S, Amarillo  1     243    4
+Plainview HS, Plainview  1     230    5
+Caprock HS, Amarillo     1     97     6
+
+TEAM RESULTS
+------------------------------

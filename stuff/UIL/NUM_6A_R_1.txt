@@ -1,0 +1,61 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Lee, Andrew          Central HS, Keller       364    1      15      X      State
+Khurana, Avi         Central HS, Keller       331    2      12      X      State
+Sampson, Riki        Frenship H S, Wolfforth  287    3      10      X      State
+Nguyen, Andrew       Mansfield HS, Mansfield  282    4      8       X      Alternate
+Cherian, Abraham     Allen HS, Allen          262    5      6       X
+Yun, Sunjong         Hebron HS, Carrollton    259    6      4       X
+Lin, Dachey          Plano West Sr HS, Plano  232    7
+Dai, Jingyi          Hebron HS, Carrollton    223    8
+Kim, Nathan          Allen HS, Allen          223    8
+Villa, Eli           Americas HS, El Paso     214    10
+Yun, Chanjong        Hebron HS, Carrollton    207    11
+Nguyen, Khoi         Martin HS, Arlington     201    12
+Gupta, Shray         Keller H S, Keller       196    13
+Wang, Brian          Plano West Sr HS, Plano  178    14
+Troung, Jackie       Martin HS, Arlington     155    15
+Le, Luc              Central HS, Keller       143    16
+Nguyen, Huy          Allen HS, Allen          135    17
+Williams, Jacob      Martin HS, Arlington     123    18
+Mittal, Abhay        Martin HS, Arlington     123    18
+Alappat, Joe         Allen HS, Allen          120    20
+Tomaylla Eme, Jorge  MacArthur HS, Irving     113    21
+Hamdan, Hamzeh       Coronado HS, El Paso     112    22
+Wilson, Robert       Coronado HS, El Paso     90     23
+Barragan, Alexis     MacArthur HS, Irving     87     24
+Diaz, Thomas         Tascosa HS, Amarillo     85     25
+Arjun, Aditya        Plano West Sr HS, Plano  85     25
+Moon, Haeun          Midway H S, Woodway      75     27
+Seo, Hannah          Frenship H S, Wolfforth  67     28
+Guha, Aishi          MacArthur HS, Irving     66     29
+Guo, Richard         Plano West Sr HS, Plano  66     29
+Venegas, Felix       Coronado HS, El Paso     65     31
+TA, ALAN             Nimitz HS, Irving        64     32
+Hernandez, Ethan     MacArthur HS, Irving     64     32
+Barnett, Amy         Coronado HS, El Paso     62     34
+Kuang, Hanxing       Midway H S, Woodway      60     35
+Doan, Justin         Central HS, Keller       55     36
+Win, Lawrence        Belton HS, Belton        22     37
+Park, David          Midway H S, Woodway      14     38
+Gonzales, Julian     Frenship H S, Wolfforth  7      39
+Ramos, Timothy       Frenship H S, Wolfforth  5      40
+Majors, Andrew       Midway H S, Woodway      2      41
+Yuan, Tian           Hebron HS, Carrollton    -8     42
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Central HS, Keller       1     838    1      10      X      State
+Hebron HS, Carrollton    1     689    2      5       X      Alternate
+Allen HS, Allen          1     620    3
+Plano West Sr HS, Plano  1     495    4
+Martin HS, Arlington     1     479    5
+Frenship H S, Wolfforth  1     361    6
+Coronado HS, El Paso     1     267    7
+MacArthur HS, Irving     1     266    8
+Midway H S, Woodway      1     149    9
+
+TEAM RESULTS
+------------------------------

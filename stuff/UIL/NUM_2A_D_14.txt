@@ -1,0 +1,27 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                              Score  Place  Points  Medal  Advance
+Munns, Connor      Martin's Mill HS, Martin's Mill     43     1      15      X      Region
+Hatley, Jessica    North Hopkins H S, Sulphur Springs  28     2      12      X      Region
+Rogers, Landrey    Martin's Mill HS, Martin's Mill     26     3      10      X      Region
+Looney, Quinn      Campbell HS, Campbell               16     4      8       X      Alternate
+Homan, Cody        Martin's Mill HS, Martin's Mill     4      5      5       X
+Hurley, Colin      Campbell HS, Campbell               4      5      5       X
+Groves, Jacob      Cumby H S, Cumby                    2      7
+Ross, Aaron        Campbell HS, Campbell               -2     8
+Martinez, Natalie  Cumby H S, Cumby                    -6     9
+McLarry, Ethan     Cumby H S, Cumby                    -7     10
+Reed, Ryan         North Hopkins H S, Sulphur Springs  -27    11
+Perez, Mario       North Hopkins H S, Sulphur Springs  -40    12
+Toland, Maddison   Campbell HS, Campbell               -61    13
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Martin's Mill HS, Martin's Mill     1     73     1      10      X      Region
+Campbell HS, Campbell               1     18     2      5       X      Alternate
+Cumby H S, Cumby                    1     -11    3
+North Hopkins H S, Sulphur Springs  1     -39    4
+
+TEAM RESULTS
+------------------------------

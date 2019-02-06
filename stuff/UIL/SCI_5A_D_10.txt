@@ -1,0 +1,52 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                            Score  Place  Points  Medal  Advance
+Kasody, Chris          Lake Ridge HS, Mansfield          234    1      15      X      Region
+Keener, Rachel         Midlothian H S, Midlothian        230    2      12      X      Region
+Vo, Nick               Lake Ridge HS, Mansfield          204    3      10      X      Region
+Jacsik, Seth           Lake Ridge HS, Mansfield          152    4      8       X      Alternate
+Athens, Caleb          Lake Ridge HS, Mansfield          118    5      6       X
+Paul, Nathan           Lake Ridge HS, Mansfield          102    6      4       X
+Chuong, Ashley         Lake Ridge HS, Mansfield          96     7
+Kotlarich, Zachariah   Frontier HS, Mansfield            80     8
+Garcia, Jonathan       Midlothian H S, Midlothian        74     9
+Salazar, David         Midlothian H S, Midlothian        68     10
+Price, Jamison         Midlothian H S, Midlothian        66     11
+Yang, Yangu (Tiffany)  Summit H S, Arlington             58     12
+Gonzalez, Felipe       Waxahachie HS, Waxahachie         58     12
+Muwaquet, Nour         Waxahachie HS, Waxahachie         54     14
+Brown, Caroline        Legacy HS, Mansfield              46     15
+Boone, Aviery          Red Oak HS, Red Oak               42     16
+Davis, Andrew          Red Oak HS, Red Oak               42     16
+Ye, Ming               Waxahachie HS, Waxahachie         32     18
+Castronovo, Joseph     Legacy HS, Mansfield              24     19
+Medina, Alexis         Lancaster H S, Lancaster          22     20
+Al-Fadil, Fatima       Summit H S, Arlington             20     21
+Flores, Joe            Red Oak HS, Red Oak               18     22
+Zhou, Tianyi           Waxahachie Global HS, Waxahachie  18     22
+Gonzalez, Alfonso      Waxahachie HS, Waxahachie         16     24
+Tillman, Luke          Red Oak HS, Red Oak               10     25
+Lara, Rene             Red Oak HS, Red Oak               10     25
+Miles, Kamarie         Lancaster H S, Lancaster          4      27
+Solis, Clarissa        Red Oak HS, Red Oak               -4     28
+Pirzada, Shahla        Lancaster H S, Lancaster          -14    29
+Thomas, Isaiah         Lancaster H S, Lancaster          -32    30
+
+TOP SCORERS
+------------------------------
+Contestant      School          Results               Points
+Keener, Rachel  Midlothian H S  Top Scorer Biology    3
+Chuong, Ashley  Lake Ridge HS   Alternate Biology     0
+Keener, Rachel  Midlothian H S  Top Scorer Chemistry  3
+Kasody, Chris   Lake Ridge HS   Alternate Chemistry   0
+Kasody, Chris   Lake Ridge HS   Top Scorer Physics    1.50
+Vo, Nick        Lake Ridge HS   Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Lake Ridge HS, Mansfield    1     590    1      10      X      Region
+Midlothian H S, Midlothian  1     372    2      5       X      Alternate
+Waxahachie HS, Waxahachie   1     144    3
+Red Oak HS, Red Oak         1     102    4
+Lancaster H S, Lancaster    1     12     5

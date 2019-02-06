@@ -1,0 +1,54 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                                Score  Place  Points  Medal  Advance
+Colunga, Francisco         Early College HS, Laredo              182    1      15      X      Region
+Lee, Bryan                 Sharyland Pioneer HS, Mission         182    2      12      X      Region
+Ohba, Yuka                 Sharyland HS, Mission                 175    3      10      X      Region
+Gonzalez, Damian           Veterans Memorial H S, Mission        175    4      8       X      Alternate
+Chavez, Luis               Veterans Memorial H S, Mission        170    5      6       X
+Chan, Victoria             Sharyland HS, Mission                 156    6      4       X
+Iglesias, Michael          Veterans Memorial H S, Mission        147    7
+De la Rosa, Gabriel        Sharyland Pioneer HS, Mission         142    8
+Flores, Lucia              Early College HS, Laredo              140    9
+Lam, Kelly                 Veterans Memorial H S, Mission        140    10
+Rivera, Tatiana            Nixon HS, Laredo                      135    11
+Mendoza, Mariela           Sharyland Pioneer HS, Mission         129    12
+Cerda, Amanda              Cigarroa HS, Laredo                   121    13
+Quinlan, Joseph            Sharyland HS, Mission                 118    14
+Garza, Itznel              Rio Grande City H S, Rio Grande City  116    15
+Castillo, Zujey            Cigarroa HS, Laredo                   114    16
+Cruz, Cesar                Early College HS, Laredo              114    17
+Barrera, Alexandra         Rio Grande City H S, Rio Grande City  109    18
+Gaytan, Joshua             Sharyland Pioneer HS, Mission         105    19
+Jacobo, Anaeliz            Early College HS, Laredo              100    20
+Ramirez, Gared             Sharyland HS, Mission                 100    20
+Fuentes, Juan              Martin HS, Laredo                     100    20
+Rodriguez, Pedro           Martin HS, Laredo                     98     23
+Aguilar, Jolene            Rio Grande City H S, Rio Grande City  84     24
+Cruz, Carlos               Martin HS, Laredo                     77     25
+Gomez, Dante               Cigarroa HS, Laredo                   67     26
+Garcia, David              Valley View HS, Pharr                 66     27
+Gonzalez, Antonio          Valley View HS, Pharr                 63     28
+Villanueva, Silverio       Cigarroa HS, Laredo                   50     29
+Fernandez, Emmanuel        Valley View HS, Pharr                 49     30
+Andrews, Johnathan         Nixon HS, Laredo                      34     31
+Rincon, Noe                Valley View HS, Pharr                 24     32
+Martinez, Adrian           Rio Grande City H S, Rio Grande City  23     33
+Santibanez Aren, Jennifer  Martin HS, Laredo                     16     34
+York, Rian                 Roma HS, Roma                         0      35
+Mejia, Ismael              Roma HS, Roma                         -1     36
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Veterans Memorial H S, Mission        1     492    1      10      X      Region
+Sharyland Pioneer HS, Mission         1     453    2      5       X      Alternate
+Sharyland HS, Mission                 1     449    3
+Early College HS, Laredo              1     436    4
+Rio Grande City H S, Rio Grande City  1     309    5
+Cigarroa HS, Laredo                   1     302    6
+Martin HS, Laredo                     1     275    7
+Valley View HS, Pharr                 1     178    8
+
+TEAM RESULTS
+------------------------------

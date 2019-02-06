@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                               Score  Place  Points  Medal  Advance
+Kuhn, Noah               Mineral Wells H S, Mineral Wells     172    1      15      X      Region
+Tieu, Khang              Castleberry HS, Fort Worth           124    2      12      X      Region
+Garcia, Manuel           Mineral Wells H S, Mineral Wells     108    3      10      X      Region
+Gilbreath, Kate          Mineral Wells H S, Mineral Wells     106    4      8       X      Alternate
+Isensee, Brandon         Kennedale H S, Kennedale             102    5      6       X
+McWhorter, Sharadin      Benbrook HS, Benbrook                88     6      4       X
+Snider, Taylor           Benbrook HS, Benbrook                86     7
+Carangan, Janlloyd       Kennedale H S, Kennedale             84     8
+Ham, Olivia              Kennedale H S, Kennedale             72     9
+Nail, Alex               Mineral Wells H S, Mineral Wells     58     10
+Hunnell, Julia           Benbrook HS, Benbrook                56     11
+Rix, Tristan             Springtown HS, Springtown            50     12
+Aravalo, Alejandra       Benbrook HS, Benbrook                44     13
+Herrera, Alexa           Diamond Hill-Jarvis H S, Fort Worth  42     14
+Devlin, McKenna          Springtown HS, Springtown            38     15
+Martinez, Kobe           Lake Worth HS, Lake Worth            36     16
+Brumback, Christian      Springtown HS, Springtown            32     17
+Jaimes-Demecio, Leticia  Diamond Hill-Jarvis H S, Fort Worth  26     18
+Lacasse, Devontae        Castleberry HS, Fort Worth           24     19
+Fry, Holden              Springtown HS, Springtown            24     19
+Franco Perez, Estrella   Diamond Hill-Jarvis H S, Fort Worth  22     21
+Sardina, Adriana         Diamond Hill-Jarvis H S, Fort Worth  20     22
+Monjaras, Mario          Castleberry HS, Fort Worth           8      23
+Acosta, Jay              Kennedale H S, Kennedale             0      24
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Mineral Wells H S, Mineral Wells     1     386    1      10      X      Region
+Kennedale H S, Kennedale             1     258    2      5       X      Alternate
+Benbrook HS, Benbrook                1     230    3
+Castleberry HS, Fort Worth           1     156    4
+Springtown HS, Springtown            1     120    5
+Diamond Hill-Jarvis H S, Fort Worth  1     90     6
+
+TEAM RESULTS
+------------------------------

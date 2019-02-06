@@ -1,0 +1,41 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Ogle, Bryce          Normangee HS, Normangee  64     1      15      X      Region
+Hulzing, Phillip     Normangee HS, Normangee  46     2      12      X      Region
+Webb, Emmy           Iola HS, Iola            42     3      10      X      Region
+Smith, Ella          Iola HS, Iola            40     4      8       X      Alternate
+Martin, Anna         Normangee HS, Normangee  36     5      6       X
+Barrett, Nathan      Normangee HS, Normangee  34     6      4       X
+Nevill, Taylor       Iola HS, Iola            32     7
+Mathis, Taylor       Burton HS, Burton        22     8
+Tubbs, Caleb         Iola HS, Iola            20     9
+DeCavitch, Lukas     Burton HS, Burton        20     9
+Merkel, Sam          Normangee HS, Normangee  18     11
+Villarreal, Jessica  Burton HS, Burton        16     12
+Kitchens, Blake      Iola HS, Iola            14     13
+Holmes, Aleigha      Iola HS, Iola            12     14
+Jackson, Bryce       Burton HS, Burton        12     14
+Rector, Becky        Normangee HS, Normangee  8      16
+Conrad, Lewis        Snook HS, Snook          8      16
+Smith, Charles       Burton HS, Burton        4      18
+Sequeria, Collin     Burton HS, Burton        4      18
+
+TOP SCORERS
+------------------------------
+Contestant        School        Results               Points
+Ogle, Bryce       Normangee HS  Top Scorer Biology    3
+Nevill, Taylor    Iola HS       Alternate Biology     0
+Smith, Ella       Iola HS       Alternate Biology     0
+Webb, Emmy        Iola HS       Top Scorer Chemistry  3
+Tubbs, Caleb      Iola HS       Alternate Chemistry   0
+Jackson, Bryce    Burton HS     Alternate Chemistry   0
+Ogle, Bryce       Normangee HS  Top Scorer Physics    3
+Hulzing, Phillip  Normangee HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Normangee HS, Normangee  1     146    1      10      X      Region
+Iola HS, Iola            1     114    2      5       X      Alternate
+Burton HS, Burton        1     58     3

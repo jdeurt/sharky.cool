@@ -1,0 +1,40 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                    Score  Place  Points  Medal  Advance
+Tan, Andrew            West Brook HS, Beaumont   160    1      15      X      Region
+Hoang, David           Pasadena H S, Pasadena    112    2      12      X      Region
+Rivera, Carlos         Pasadena H S, Pasadena    106    3      10      X      Region
+Kent, Len              West Brook HS, Beaumont   94     4      8       X      Alternate
+Frugia, Sophia         West Brook HS, Beaumont   76     5      6       X
+Mendoza, Jesus         Rayburn H S, Pasadena     72     6      4       X
+Castillo, Sergio       Rayburn H S, Pasadena     64     7
+Compton, Lauren        Memorial H S, Pasadena    60     8
+Gonzalez, Ramiro       Pasadena H S, Pasadena    60     8
+Juarez, Kevin          Memorial H S, Pasadena    58     10
+Palacios, Joseph       Rayburn H S, Pasadena     48     11
+Salazar, Willie        Memorial H S, Pasadena    44     12
+Chavez, Andrea         Pasadena H S, Pasadena    42     13
+Flores, Gracie         Pasadena H S, Pasadena    36     14
+Singletary, Christian  Pasadena H S, Pasadena    34     15
+Esquivel, Anderson     Memorial H S, Pasadena    32     16
+Mathews, Michael       La Porte H S, La Porte    28     17
+Shaffer, Anna          West Brook HS, Beaumont   16     18
+cASTELLANOS, jULIAN    Deer Park H S, Deer Park  2      19
+
+TOP SCORERS
+------------------------------
+Contestant      School         Results               Points
+Tan, Andrew     West Brook HS  Top Scorer Biology    3
+Frugia, Sophia  West Brook HS  Alternate Biology     0
+Tan, Andrew     West Brook HS  Top Scorer Chemistry  3
+Kent, Len       West Brook HS  Alternate Chemistry   0
+Frugia, Sophia  West Brook HS  Top Scorer Physics    3
+Hoang, David    Pasadena H S   Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+West Brook HS, Beaumont  1     330    1      10      X      Region
+Pasadena H S, Pasadena   1     278    2      5       X      Alternate
+Rayburn H S, Pasadena    1     184    3
+Memorial H S, Pasadena   1     162    4

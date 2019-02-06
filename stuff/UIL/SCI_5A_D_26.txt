@@ -1,0 +1,65 @@
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Aelvoet, Travis       Medina Valley H S, Castroville          264    1      15      X      Region
+Montez, Michael       Champion HS, Boerne                     222    2      12      X      Region
+Li, Zhengjun          Tivy HS, Kerrville                      206    3      10      X      Region
+Bolton, Trevor        Champion HS, Boerne                     192    4      8       X      Alternate
+Sanders, James        Champion HS, Boerne                     176    5      6       X
+Swanner, Cade         Tivy HS, Kerrville                      164    6      4       X
+Deas, Will            Champion HS, Boerne                     160    7
+Green, Zach           Tivy HS, Kerrville                      126    8
+Pinedo, Juan          Tivy HS, Kerrville                      124    9
+Godinez, Carlos       Alamo Heights HS, San Antonio           114    10
+Real, Gerard          Tivy HS, Kerrville                      112    11
+Redmond, Rebekah      Alamo Heights HS, San Antonio           106    12
+Estrada, Tony         Champion HS, Boerne                     98     13
+Danner, Grant         Alamo Heights HS, San Antonio           92     14
+Gomez Moreno, Jose    Marble Falls HS, Marble Falls           88     15
+Tamayo, Trey          Lockhart H S, Lockhart                  84     16
+Goodson, Anna         Alamo Heights HS, San Antonio           82     17
+Al-Omari, Mohammad    Champion HS, Boerne                     80     18
+Garza, Robert S       Medina Valley H S, Castroville          80     18
+Sawyer, Tucker        Dripping Springs H S, Dripping Springs  64     20
+Burns, AJ             Seguin H S, Seguin                      56     21
+McDowall, Andy        Seguin H S, Seguin                      56     21
+Isaack, Sarah         Marble Falls HS, Marble Falls           52     23
+Doan, Thao            Alamo Heights HS, San Antonio           52     23
+Kallingal, Kai        Alamo Heights HS, San Antonio           50     25
+Shovelton, Ethan      Harlan HS, San Antonio                  48     26
+Zogaib, Megan         Dripping Springs H S, Dripping Springs  44     27
+Clayton, Nikhil       Dripping Springs H S, Dripping Springs  44     27
+Erlon, Kristen        Dripping Springs H S, Dripping Springs  40     29
+Arguelles, Cecilia A  Medina Valley H S, Castroville          40     29
+White, Cameron        Seguin H S, Seguin                      36     31
+Aguilar, Colby        Marble Falls HS, Marble Falls           34     32
+Messinger, Daniel     Lockhart H S, Lockhart                  32     33
+Secor, Cade           Tivy HS, Kerrville                      32     33
+Bryer, Joshua         Marble Falls HS, Marble Falls           24     35
+Gutierrez, Rene       Harlan HS, San Antonio                  24     35
+Mayfield, Miranda E   Medina Valley H S, Castroville          20     37
+Gustafson, Ben        Seguin H S, Seguin                      14     38
+Herrington, Anna      Marble Falls HS, Marble Falls           10     39
+Lewis, Anthony        Medina Valley H S, Castroville          10     39
+Miller, Franklin      Marble Falls HS, Marble Falls           6      41
+
+TOP SCORERS
+------------------------------
+Contestant        School             Results               Points
+Aelvoet, Travis   Medina Valley H S  Top Scorer Biology    3
+Redmond, Rebekah  Alamo Heights HS   Alternate Biology     0
+Aelvoet, Travis   Medina Valley H S  Top Scorer Chemistry  3
+Montez, Michael   Champion HS        Alternate Chemistry   0
+Sanders, James    Champion HS        Top Scorer Physics    3
+Aelvoet, Travis   Medina Valley H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Champion HS, Boerne                     1     590    1      10      X      Region
+Tivy HS, Kerrville                      1     496    2      5       X      Alternate
+Medina Valley H S, Castroville          1     384    3
+Alamo Heights HS, San Antonio           1     312    4
+Marble Falls HS, Marble Falls           1     174    5
+Dripping Springs H S, Dripping Springs  1     152    6
+Seguin H S, Seguin                      1     148    7
