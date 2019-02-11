@@ -4,6 +4,8 @@ const toTable = require("text-table");
 const path = require("path");
 const fs = require("fs");
 
+//TODO: Turn this into a usable API.
+
 module.exports = async (req, res) => {
     const BASE_URL = "http://utdirect.utexas.edu/uil/vlcp_pub_arch.WBX";
     const EVENTS = [
