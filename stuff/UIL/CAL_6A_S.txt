@@ -1,0 +1,42 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                         Score  Place  Points  Medal
+Gomez, Roberto        PSJA North HS, Pharr           308    1      15      X
+Pua, Edwin            Eagle Pass H S, Eagle Pass     306    2      12      X
+King, Brendan         Marcus HS, Flower Mound        299    3      10      X
+Tamez, Karla          Vela HS, Edinburg              287.1  4      7       X
+Narvaez, Rosendo      PSJA North HS, Pharr           287.1  4      7       X
+Mai, Cecilia          North Shore H S, Houston       273.1  6      4       X
+Diaz, Victor          Science-Eng Magnet Hs, Dallas  273.1  7
+Rege, Raviraj         Science-Eng Magnet Hs, Dallas  271    8
+Chan, Michelle        North Shore H S, Houston       266.1  9
+Moralez, Kevyn        Vela HS, Edinburg              266.1  10
+Bridges, Kristine     Vela HS, Edinburg              259.1  11
+Sampson, Francis      North Shore H S, Houston       259.1  12
+Chandak, Yash         Science-Eng Magnet Hs, Dallas  257.1  13
+Cao, William          Flower Mound HS, Flower Mound  250    14
+McElrath, Natalie     Vela HS, Edinburg              245    15
+Karanam, Akash        Clements HS, Sugar Land        231    16
+Hirsch, Jason         Marcus HS, Flower Mound        210.0  17
+Nguyen, Annette       Marcus HS, Flower Mound        210.0  18
+Juarez, Mariana       PSJA North HS, Pharr           210.0  18
+Honl, Nathan          PSJA North HS, Pharr           196    20
+Villanueva, Adrianne  North Shore H S, Houston       189    21
+Bashyam, Chaitanya    Marcus HS, Flower Mound        173    22
+Pham, Valentina       Science-Eng Magnet Hs, Dallas  131    23
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Vela HS, Edinburg              1     812.3  1      10      X
+PSJA North HS, Pharr           1     805.2  2      5       X      Alternate
+Science-Eng Magnet Hs, Dallas  1     801.2  3
+North Shore H S, Houston       1     798.3  4
+Marcus HS, Flower Mound        1     719.1  5
+
+TEAM RESULTS
+------------------------------
+
+

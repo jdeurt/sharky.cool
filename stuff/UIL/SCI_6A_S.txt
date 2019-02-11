@@ -1,0 +1,54 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                         Score  Place  Points  Medal
+Liu, Andrew        Dulles H S, Sugar Land         290    1      15      X
+Rajesh, Sameer     Clements HS, Sugar Land        286    2      12      X
+Ashary, Rafay      Clements HS, Sugar Land        276    3      10      X
+Jung, Sung         Pearce H S, Richardson         272    4      8       X
+Hall-Brown, Max    Klein HS, Klein                266    5      6       X
+King, Brendan      Marcus HS, Flower Mound        230    6      4       X
+Parsan, Nithin     Clements HS, Sugar Land        218    7
+Mohan, Shree       Dulles H S, Sugar Land         212    8
+Ye, Thomas         Klein HS, Klein                208    9
+Limarta, Ian       Alexander HS, Laredo           194    10
+Holla, Satya       Science Academy, Mercedes      194    10
+Moynihan, Lucas    Reagan HS, San Antonio         194    10
+Nguyen, Andrew     Mansfield HS, Mansfield        188    13
+Passement, Raul    Reagan HS, San Antonio         170    14
+Ji, Michael        Klein HS, Klein                168    15
+Misra, Satwik      Dulles H S, Sugar Land         164    16
+Dandamudi, Kushal  Dulles H S, Sugar Land         158    17
+Xu, Lucy           Vandegrift H S, Austin         150    18
+Kodali, Anaya      Marcus HS, Flower Mound        144    19
+Garner, Michael    Marcus HS, Flower Mound        140    20
+Overman, Luke      Martin HS, Arlington           128    21
+Suresh, Shreyas    Klein HS, Klein                122    22
+Cao, Daniel        Brandeis HS, San Antonio       122    22
+Zhu, Charles       Reagan HS, San Antonio         114    24
+Valorz, David      Reagan HS, San Antonio         104    25
+Gunampalli, Tarun  Flower Mound HS, Flower Mound  90     26
+Charania, Ayra     Marcus HS, Flower Mound        82     27
+Karanam, Akash     Clements HS, Sugar Land        78     28
+
+TOP SCORERS
+------------------------------
+Contestant      School          Results               Points
+Liu, Andrew     Dulles H S      Top Scorer Biology    3
+Ashary, Rafay   Clements HS     Alternate Biology     0
+Rajesh, Sameer  Clements HS     Top Scorer Chemistry  1
+Ashary, Rafay   Clements HS     Top Scorer Chemistry  1
+Xu, Lucy        Vandegrift H S  Top Scorer Chemistry  1
+King, Brendan   Marcus HS       Top Scorer Physics    1.50
+Overman, Luke   Martin HS       Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Clements HS, Sugar Land  1     780    1      10      X
+Dulles H S, Sugar Land   1     666    2      5       X      Alternate
+Klein HS, Klein          1     642    3
+Marcus HS, Flower Mound  1     514    4
+Reagan HS, San Antonio   1     478    5
+

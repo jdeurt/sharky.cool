@@ -1,0 +1,246 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                     Score  Place  Points  Medal  Advance
+Senter, Sayer         Ropes HS, Ropesville       196    1      15      X      State
+Clabaugh, Jabree      Ropes HS, Ropesville       175    2      12      X      State
+White, Jaxon          Patton Springs H S, Afton  170    3      10      X      State
+Rice, Kensley         Whiteface HS, Whiteface    168    4      8       X      Alternate
+Soto, Elva            Hartley H S, Hartley       161    5      6       X
+Deavours, Kaylah      Whiteface HS, Whiteface    161    6      4       X
+Cleavinger, Clay      Whiteface HS, Whiteface    154    7
+White, Madison        Patton Springs H S, Afton  149    8
+Miller, Kylie         Darrouzett HS, Darrouzett  142    9
+Perianez, Omar        Hartley H S, Hartley       142    9
+Perianez, Arturo      Hartley H S, Hartley       142    9
+Hawkins, Savannah     Benjamin HS, Benjamin      142    9
+Hennig, Brett         Kelton HS, Wheeler         140    13
+Medlock, Payton       Ropes HS, Ropesville       140    13
+Jones, Brooke         Benjamin HS, Benjamin      140    13
+Blacksher, Cheyenne   Kelton HS, Wheeler         135    16
+Nalle, Jenna          Ropes HS, Ropesville       135    16
+Perryman, Autumn      Patton Springs H S, Afton  135    16
+Sandoval, Yaretzi     Guthrie HS, Guthrie        133    19
+Smulders, Jordan      Hartley H S, Hartley       121    20
+Flowers, Temi         Benjamin HS, Benjamin      121    20
+Kimbro, Kaleb         Kelton HS, Wheeler         112    22
+Sena, Jacob           Booker HS, Booker          105    23
+Gerber, Blakely       Nazareth H S, Nazareth     105    23
+Casarez, Elizabeth    Whiteface HS, Whiteface    105    23
+Hathaway, Kade        Kelton HS, Wheeler         100    26
+Chandler, Regan       Patton Springs H S, Afton  100    26
+Fulkerson, Katherine  Nazareth H S, Nazareth     91     28
+Nieves, Lexis         Nazareth H S, Nazareth     86     29
+Hall, Jo              Darrouzett HS, Darrouzett  79     30
+Huseman, Grace        Nazareth H S, Nazareth     79     30
+Ochoa, Ramon          Darrouzett HS, Darrouzett  69     32
+McCauley, Morgan      Guthrie HS, Guthrie        63     33
+Jones, Abigail        Guthrie HS, Guthrie        63     33
+Mays, TK              Guthrie HS, Guthrie        63     33
+Salazar, Lluvia       Darrouzett HS, Darrouzett  62     36
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Ropes HS, Ropesville       1     511    1      10      X      State
+Whiteface HS, Whiteface    1     483    2      5       X      Alternate
+Patton Springs H S, Afton  1     454    3
+Hartley H S, Hartley       1     445    4
+Benjamin HS, Benjamin      1     403    5
+Kelton HS, Wheeler         1     387    6
+Darrouzett HS, Darrouzett  1     290    7
+Nazareth H S, Nazareth     1     282    8
+Guthrie HS, Guthrie        1     259    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Guthrie, Marin      Santa Anna HS, Santa Anna               203    1      15      X      State
+Wyatt, Avery        Rankin H S, Rankin                      189    2      12      X      State
+Miller, Scott       Garden City H S, Garden City            177    3      10      X      State
+Koenning, Parker    Garden City H S, Garden City            170    4      8       X      Alternate
+Andrade, Rodrigo    Garden City H S, Garden City            163    5      6       X
+Lara, Mateo         Santa Anna HS, Santa Anna               161    6      4       X
+Tubb, Karli         Garden City H S, Garden City            149    7
+Merrill, Harley     Borden HS, Gail                         140    8
+Sanchez, Israel     Buena Vista HS, Imperial                135    9
+Chavez, Esther      Aspermont HS, Aspermont                 134    10
+Pace, K'Lee         Rankin H S, Rankin                      133    11
+Calfa, Angie        Santa Anna HS, Santa Anna               133    11
+Barton, Mayson      Klondike HS, Lamesa                     128    13
+Clark, Maddie       Rankin H S, Rankin                      119    14
+Barkowsky, Cade     Klondike HS, Lamesa                     114    15
+Rosas, Tori         Ira H S, Ira                            114    15
+Dyck, Dustin        Klondike HS, Lamesa                     113    17
+Bond, Raegan        Cherokee HS, Cherokee                   112    18
+English, Gracie     Aspermont HS, Aspermont                 108    19
+Mendoza, Avery      Balmorhea HS, Balmorhea                 107    20
+Fleenor, Rachel     Dawson HS, Welch                        107    20
+Aguirre, Caleb      Balmorhea HS, Balmorhea                 100    22
+Allen, Zane         Borden HS, Gail                         99     23
+Buchanan, Austin    Borden HS, Gail                         98     24
+Brown, Linden       Richland Springs H S, Richland Springs  97     25
+Navarrete, Chantal  Balmorhea HS, Balmorhea                 93     26
+Sarabia, Joseph     Buena Vista HS, Imperial                93     26
+Calamaco, Zoe       Aspermont HS, Aspermont                 87     28
+Burkhart, Jordan    Richland Springs H S, Richland Springs  87     28
+Bright, Landan      Rankin H S, Rankin                      77     30
+Gossett, Jacey      Richland Springs H S, Richland Springs  77     30
+Perry, Jayton       Santa Anna HS, Santa Anna               76     32
+Richey, Trace       Borden HS, Gail                         72     33
+Schultz, Ben        Richland Springs H S, Richland Springs  71     34
+Lopez, Jesslynn     Balmorhea HS, Balmorhea                 65     35
+Beck, Brianna       Klondike HS, Lamesa                     64     36
+Fraser, Gracie      Aspermont HS, Aspermont                 58     37
+Evans, Carsyn       Buena Vista HS, Imperial                36     38
+Eby, Josh           Big Bend HS, Terlingua                  0      39
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Garden City H S, Garden City            1     510    1      10      X      State
+Santa Anna HS, Santa Anna               1     497    2      5       X      Alternate
+Rankin H S, Rankin                      1     441    3
+Klondike HS, Lamesa                     1     355    4
+Borden HS, Gail                         1     337    5
+Aspermont HS, Aspermont                 1     329    6
+Balmorhea HS, Balmorhea                 1     300    7
+Buena Vista HS, Imperial                1     264    8
+Richland Springs H S, Richland Springs  1     261    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Perez, Andrea          Tioga HS, Tioga                  177    1      15      X      State
+Driskill, Jordan       Fruitvale HS, Fruitvale          163    2      12      X      State
+Nix, Krysta            Fruitvale HS, Fruitvale          154    3      10      X      State
+White, Rose            Fruitvale HS, Fruitvale          150    4      8       X      Alternate
+Hamner, Austin         Tioga HS, Tioga                  149    5      6       X
+Walker, Jon            Bellevue HS, Bellevue            148    6      4       X
+Caloway, Makayla       Savoy HS, Savoy                  142    7
+Payne, Gracie          Newcastle H S, Newcastle         140    8
+Borman, Anthony        Savoy HS, Savoy                  135    9
+Rongel, Abigail        Fruitvale HS, Fruitvale          135    9
+Francis, Brittney      Savoy HS, Savoy                  135    9
+Castillo, Maria        Lometa H S, Lometa               128    12
+Hernandez, Raena       Tioga HS, Tioga                  128    12
+Sweet, Connor          Savoy HS, Savoy                  128    12
+Barfield, Cassidy      Gordon H S, Gordon               127    15
+Thompson, Sage         Lometa H S, Lometa               121    16
+Bozeman, Gage          Newcastle H S, Newcastle         119    17
+Parks, Amanda          Tioga HS, Tioga                  114    18
+Steger, Jenna          Priddy HS, Priddy                113    19
+Terry, Trey            Bellevue HS, Bellevue            113    19
+Shields, Kelsey        Newcastle H S, Newcastle         112    21
+Hines, Holly           Lometa H S, Lometa               102    22
+Wyatt, Ashley          Gordon H S, Gordon               95     23
+Hernandez, Andres      Gordon H S, Gordon               93     24
+Martinez, Nicole       Newcastle H S, Newcastle         86     25
+Fite, Harrison C       Sulphur Bluff HS, Sulphur Bluff  83     26
+Obermier, Caleb        Bellevue HS, Bellevue            82     27
+Zuniga, Cate           Slidell HS, Slidell              79     28
+Johnson, Blake         Gordon H S, Gordon               77     29
+Sandoval, Tyson        Gorman H S, Gorman               69     30
+Reyes, Hanna A         Sulphur Bluff HS, Sulphur Bluff  69     30
+Earp, Grant            Miller Grove H S, Cumby          66     32
+Fletcher, Garett       Iredell H S, Iredell             62     33
+Prado, Jose            Lometa H S, Lometa               55     34
+Potter, Savanna        Iredell H S, Iredell             50     35
+Trail, Kaylee          Bellevue HS, Bellevue            49     36
+Weatheread, Caitlin N  Sulphur Bluff HS, Sulphur Bluff  37     37
+Wellborn, Micah        Iredell H S, Iredell             36     38
+Fowler, Colton         Iredell H S, Iredell             30     39
+Tubb, Hunter S         Sulphur Bluff HS, Sulphur Bluff  -1     41
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Fruitvale HS, Fruitvale          1     467    1      10      X      State
+Tioga HS, Tioga                  1     454    2      5       X      Alternate
+Savoy HS, Savoy                  1     412    3
+Newcastle H S, Newcastle         1     371    4
+Lometa H S, Lometa               1     351    5
+Bellevue HS, Bellevue            1     343    6
+Gordon H S, Gordon               1     315    7
+Sulphur Bluff HS, Sulphur Bluff  1     189    8
+Iredell H S, Iredell             1     148    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                           Score  Place  Points  Medal  Advance
+Manzano, Mercedes         Moulton HS, Moulton              149    1      15      X      State
+Reading, Tressa           Knippa H S, Knippa               140    2      12      X      State
+Kalisek, Hannah           Moulton HS, Moulton              135    3      10      X      State
+Mitchon, Mandi            Moulton HS, Moulton              128    4      8       X      Alternate
+Helms, Paige              Bynum HS, Bynum                  126    5      6       X
+Meisetschleager, Tristan  Moulton HS, Moulton              121    6      4       X
+Lutkenhaus, Autumn        Abbott HS, Abbott                121    7
+Brewer, Ragan             Wells HS, Wells                  121    7
+Ramirez, Rebekah          Knippa H S, Knippa               114    9
+Sulak, Natalie            Abbott HS, Abbott                107    10
+Ravara, Maria             McMullen County HS, Tilden       107    10
+Rogers, Trey              Apple Springs HS, Apple Springs  105    12
+Selby, Amanda             McMullen County HS, Tilden       105    12
+Dean, Claire              Knippa H S, Knippa               98     14
+Measels, Kaylie           McMullen County HS, Tilden       95     15
+Guidry, Baja              High Island H S, High Island     92     16
+Mynarcik, Dakota          Bynum HS, Bynum                  91     17
+Alejandro, Luke           Knippa H S, Knippa               91     17
+Aycock, JayVan            Apple Springs HS, Apple Springs  88     19
+Ewing, Levi               Oglesby H S, Oglesby             83     20
+Machuca, Alexis           Goodrich H S, Goodrich           83     20
+Schultz, Brayden          Oglesby H S, Oglesby             81     22
+Catching, Mackenzie       High Island H S, High Island     78     23
+Lomax, Chase              Slocum H S, Elkhart              76     24
+Baird, Cody               Apple Springs HS, Apple Springs  72     25
+Pustejovsky, Chris        Abbott HS, Abbott                70     26
+Ferguson, Kassidie        Bynum HS, Bynum                  70     26
+Evans, August             High Island H S, High Island     67     28
+Mendez, Miriam            Slocum H S, Elkhart              63     29
+Syzdek, Sam               Apple Springs HS, Apple Springs  63     29
+Serrata, Makinna          McMullen County HS, Tilden       59     31
+Cox, Sadey                Abbott HS, Abbott                58     32
+Langston, Caden           Slocum H S, Elkhart              55     33
+Tovar, Aaliyah            Bynum HS, Bynum                  43     34
+Hall, Kyle                High Island H S, High Island     41     35
+Herrings, McKinnah        Oglesby H S, Oglesby             36     36
+O'Briant, Hannah          Evant H S, Evant                 34     37
+Nuan, Savna               Slocum H S, Elkhart              10     38
+Frizzell, Jordan          Milford H S, Milford             -13    39
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Moulton HS, Moulton              1     412    1      10      X      State
+Knippa H S, Knippa               1     352    2      5       X      Alternate
+McMullen County HS, Tilden       1     307    3
+Abbott HS, Abbott                1     298    4
+Bynum HS, Bynum                  1     287    5
+Apple Springs HS, Apple Springs  1     265    6
+High Island H S, High Island     1     237    7
+Oglesby H S, Oglesby             1     200    8
+Slocum H S, Elkhart              1     194    9
+
+TEAM RESULTS
+------------------------------
+
+

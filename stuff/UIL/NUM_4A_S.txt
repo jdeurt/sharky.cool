@@ -1,0 +1,42 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                                  Score  Place  Points  Medal
+Mohar, Nicholas         Argyle HS, Argyle                       382    1      15      X
+Nicolas, Alexis         Hirschi H S, Wichita Falls              330    2      12      X
+Reddy, Krishna          Hirschi H S, Wichita Falls              277    3      10      X
+Ross, Ryan              Argyle HS, Argyle                       272    4      8       X
+Haider, Sameer          Wylie HS, Abilene                       260    5      6       X
+Zhang, Andrew           Wylie HS, Abilene                       250    6      4       X
+Sokolnicki, Ian         Wylie HS, Abilene                       245    7
+Zhang, Anthony          Wylie HS, Abilene                       234    8
+Sheppard, Trey          Salado HS, Salado                       231    9
+Ademaj, Ideal           Athens HS, Athens                       211    10
+Gahlawat, Kunal         Argyle HS, Argyle                       206    11
+Tanjavur, Rohan         Hirschi H S, Wichita Falls              204    12
+Hoke, Tanner            Boerne HS, Boerne                       195    13
+Cranford, Preston       Wimberley HS, Wimberley                 193    14
+Peng, Xirui             Boerne HS, Boerne                       187    15
+Malireddy, Sankirthana  Hirschi H S, Wichita Falls              176    16
+Gandhi, Shivani         Argyle HS, Argyle                       175    17
+Kyburz, Ryan            Salado HS, Salado                       161    18
+Barr, Chandler          Little Cypress-Mauriceville HS, Orange  157    19
+Taylor, Zane            Boerne HS, Boerne                       125    20
+Novotny, Andrew         Salado HS, Salado                       113    21
+Haas, Ryder             Salado HS, Salado                       79     22
+Ruiz, Cadence           Boerne HS, Boerne                       78     23
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Argyle HS, Argyle           1     860    1      10      X
+Hirschi H S, Wichita Falls  1     811    2      5       X      Alternate
+Wylie HS, Abilene           1     755    3
+Boerne HS, Boerne           1     507    4
+Salado HS, Salado           1     505    5
+
+TEAM RESULTS
+------------------------------
+
+

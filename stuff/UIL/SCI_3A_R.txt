@@ -1,0 +1,319 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                        Score  Place  Points  Medal  Advance
+Morphew, Derian         Tolar HS, Tolar               98     1      15      X      State
+Bonnell, Jack           Tolar HS, Tolar               64     2      12      X      State
+Kelso, Graham           Wall HS, Wall                 60     3      10      X      State
+McKinney, Tabitha       Cisco HS, Cisco               60     4      8       X      Alternate
+Fleming, Zach           Wall HS, Wall                 56     5      6       X
+Nowell, Jerrod          Tolar HS, Tolar               52     6      4       X
+Sneed, Damyon           Cisco HS, Cisco               52     7
+Cook, Darby             Canadian HS, Canadian         52     8
+Chapman, Cole           Wall HS, Wall                 48     9
+Lopez, Omar             Littlefield H S, Littlefield  48     10
+Hailey, Abby            Bangs HS, Bangs               42     11
+McKay, James            Shallowater HS, Shallowater   42     12
+Sanders, Leif           Comanche HS, Comanche         22     12
+Wommack, Taylor         Tolar HS, Tolar               36     13
+Weise, Lara             Wall HS, Wall                 32     14
+Millican, Lanam         Dimmitt H S, Dimmitt          28     15
+Hood, Melody            Canadian HS, Canadian         28     16
+Aldape, Megan           Paradise HS, Paradise         26     17
+Baldridge, Colton       Shallowater HS, Shallowater   26     18
+Box, Brea               Holliday H S, Holliday        22     19
+Creech, Gwen            Cisco HS, Cisco               20     21
+Strohl, Andrea          Clyde H S, Clyde              20     22
+Sawyer, Tess            Canadian HS, Canadian         20     23
+Wood, Konner            Holliday H S, Holliday        18     24
+Cagle, Shelby           Bangs HS, Bangs               16     25
+Rowe, Kellen            Jim Ned H S, Tuscola          16     26
+Hernandez, Edward       Crane HS, Crane               16     27
+Barclay, William        Bangs HS, Bangs               14     28
+Schowengerdt, Harrison  Clyde H S, Clyde              14     29
+Miller, Aubrey          Holliday H S, Holliday        12     30
+Holbert, Holice         Henrietta H S, Henrietta      12     31
+Paschall, Jonathan      Paradise HS, Paradise         12     32
+Castleberry, Jordan     Bangs HS, Bangs               10     33
+Jackson, Sawyer         Shallowater HS, Shallowater   10     34
+Valles, Jayme           Alpine HS, Alpine             8      35
+Elliot, Kallie          Brady HS, Brady               6      36
+Redman, Peyton          Shallowater HS, Shallowater   6      37
+Marnell, Mason          Tulia H S, Tulia              6      38
+Orgega, Ember           Clyde H S, Clyde              4      39
+Esquivel, Andrew        Crane HS, Crane               4      40
+Menasco, Skyla          City View HS, Wichita Falls   2      41
+Clopton, Matt           Cisco HS, Cisco               2      42
+Miller, Allie           Holliday H S, Holliday        2      43
+Nguyne, Hung            Kermit H S, Kermit            0      44
+Cope, Jody              Wall HS, Wall                 0      44
+Roach, Sara             Colorado HS, Colorado City    0      44
+Clifton, Adam           Colorado HS, Colorado City    0      44
+Belk, Jace              Canadian HS, Canadian         -2     48
+Priest, Jenna           Crane HS, Crane               -2     48
+Baird, Reese            Sonora HS, Sonora             -4     50
+Schowengerdt, Conner    Clyde H S, Clyde              -8     51
+Rivas, Shelby           Crane HS, Crane               -12    52
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+McKinney, Tabitha  Cisco HS         Top Scorer Biology    3
+Sneed, Damyon      Cisco HS         Alternate Biology     0
+Morphew, Derian    Tolar HS         Top Scorer Chemistry  3
+Cook, Darby        Canadian HS      Alternate Chemistry   0
+Lopez, Omar        Littlefield H S  Top Scorer Physics    3
+Bonnell, Jack      Tolar HS         Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Tolar HS, Tolar              1     214    1      10      X      State
+Wall HS, Wall                1     164    2      5       X      Alternate
+Cisco HS, Cisco              1     132    3
+Canadian HS, Canadian        1     100    4
+Shallowater HS, Shallowater  1     78     5
+Bangs HS, Bangs              1     72     6
+Holliday H S, Holliday       1     52     7
+Clyde H S, Clyde             1     38     8
+Crane HS, Crane              1     18     9
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                    Score  Place  Points  Medal  Advance
+McAnalley, Shawn   Euless Harmony Science Academy, Euless    148    1      15      X      State
+Hurst, Becca       Chisum HS, Paris                          142    2      12      X      State
+Gautier, Scott     Whitesboro HS, Whitesboro                 134    3      10      X      State
+Garcia, Emilio     Harmony School of Innovation, Fort Worth  128    4      8       X      Alternate
+Collins, Sam       Chisum HS, Paris                          126    5      6       X
+Meeks, Dakota      Whitesboro HS, Whitesboro                 108    6      4       X
+Langat, Arnold     Euless Harmony Science Academy, Euless    104    7
+Avendano, Brian    Gunter HS, Gunter                         98     8
+Ackley, Jared      Whitesboro HS, Whitesboro                 82     9
+Renshaw, Matthew   Farmersville H S, Farmersville            80     10
+Roots, Laura       Harmony School of Innovation, Fort Worth  74     11
+Terrazas, Jordan   Euless Harmony Science Academy, Euless    72     12
+Peck, Joe          Pewitt HS, Omaha                          72     12
+Herron, Hannah     Pewitt HS, Omaha                          70     14
+Hill, Nate         Ponder HS, Ponder                         66     15
+Dickson, Jeb W     Elysian Fields H S, Elysian Fields        64     16
+Fields, Jordan     Chisum HS, Paris                          62     17
+Earl, Reagan C     Elysian Fields H S, Elysian Fields        62     17
+Rogers, Brianna    Chisum HS, Paris                          60     19
+Ellis, Cole E      Elysian Fields H S, Elysian Fields        58     20
+Roberts, Aaron     Chisum HS, Paris                          56     21
+Nguyen, Bailey     Harmony School of Innovation, Fort Worth  54     22
+Stuckey, Elise     Whitesboro HS, Whitesboro                 50     23
+Brannon, Billy     Quitman HS, Quitman                       46     24
+Stafford, Skylar   Sabine HS, Gladewater                     44     25
+Hammond, Cassie    Van Alstyne HS, Van Alstyne               42     26
+Greve, Rachel      Van Alstyne HS, Van Alstyne               40     27
+Williams, Trevor   Sabine HS, Gladewater                     38     28
+Mayhugh, Derek     Grand Saline H S, Grand Saline            34     29
+Wright, Cypress    Hughes Springs HS, Hughes Springs         34     29
+Reddock, Madison   Pewitt HS, Omaha                          32     31
+Wilson, Ian        Sabine HS, Gladewater                     28     32
+Mata, Jose         Van Alstyne HS, Van Alstyne               24     33
+Fisher, Piper      Grand Saline H S, Grand Saline            24     33
+McKenzie, Halyn    Sabine HS, Gladewater                     24     33
+Hughes, Solace     Harmony School of Innovation, Fort Worth  18     36
+Cannon, Cutler     Van Alstyne HS, Van Alstyne               12     37
+Wallace, Bradley   Pewitt HS, Omaha                          10     38
+Hartman, Grace     Edgewood HS, Edgewood                     10     38
+Hamilton, Madison  White Oak HS, White Oak                   6      40
+Huynh, Andy        Uplift Summit Int Prep HS, Arlington      0      41
+Sanchez, Liz       Grand Saline H S, Grand Saline            0      41
+Hamilton, Madison  Ore City H S, Ore City                    0      41
+Cannon, Morgan     Grand Saline H S, Grand Saline            -2     44
+Vargas, Daniel     Mount Vernon H S, Mount Vernon            -2     44
+Gooch, Justice S   Elysian Fields H S, Elysian Fields        -8     46
+Thompson, C        New Diana H S, Diana                      -20    47
+Agee, Marissa      Howe HS, Howe                             -48    48
+
+TOP SCORERS
+------------------------------
+Contestant        School                          Results               Points
+Meeks, Dakota     Whitesboro HS                   Top Scorer Biology    3
+Hurst, Becca      Chisum HS                       Alternate Biology     0
+Gautier, Scott    Whitesboro HS                   Top Scorer Chemistry  3
+McAnalley, Shawn  Euless Harmony Science Academy  Alternate Chemistry   0
+Hill, Nate        Ponder HS                       Top Scorer Physics    3
+Renshaw, Matthew  Farmersville H S                Alternate Physics     0
+Garcia, Emilio    Harmony School of Innovation    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Chisum HS, Paris                          1     330    1      10      X      State
+Whitesboro HS, Whitesboro                 1     324    2      5       X      Alternate
+Euless Harmony Science Academy, Euless    1     324    3
+Harmony School of Innovation, Fort Worth  1     256    4
+Elysian Fields H S, Elysian Fields        1     184    5
+Pewitt HS, Omaha                          1     174    6
+Sabine HS, Gladewater                     1     110    7
+Van Alstyne HS, Van Alstyne               1     106    8
+Grand Saline H S, Grand Saline            1     58     9
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                             Score  Place  Points  Medal  Advance
+Hope, Tyler          Whitney HS, Whitney                232    1      15      X      State
+Flowers, Joshua      Grandview H S, Grandview           94     2      12      X      State
+Solis, Jaden         Whitney HS, Whitney                92     3      10      X      State
+Richardson, Brandon  Central Heights HS, Nacogdoches    82     4      8       X      Alternate
+Booker, Lance        Whitney HS, Whitney                80     5      6       X
+Montgomery, Madi     Whitney HS, Whitney                72     6      4       X
+Bates, Tyler         Franklin H S, Franklin             62     7
+Duewall, Matt        Franklin H S, Franklin             54     8
+Dent, Jacob          Danbury H S, Danbury               54     8
+Jolley, Jacob        Central Heights HS, Nacogdoches    44     10
+Bennett, Travis      Hardin HS, Hardin                  44     10
+Smith, Tyrique       Anahuac HS, Anahuac                42     12
+Patranella, Morgan   Franklin H S, Franklin             40     13
+Terrell, Jacob       Elkhart H S, Elkhart               32     14
+Solomon, JC          Danbury H S, Danbury               32     14
+Bons, Jake           Grandview H S, Grandview           30     16
+Tang, Lauren         Westwood HS, Palestine             30     16
+Neuman, Brady        Onalaska, Onalaska                 30     16
+Lee, Cole            East Bernard H S, East Bernard     30     16
+Franks, Eric         Elkhart H S, Elkhart               28     20
+Pineda, Allison      Hardin HS, Hardin                  26     21
+Martin, Chris        Danbury H S, Danbury               26     21
+Rider, Colton        Elkhart H S, Elkhart               24     23
+Roberts, Hunter      Onalaska, Onalaska                 22     24
+Hoffman, Seth        Elkhart H S, Elkhart               20     25
+Mauldin, Paton       Trinity HS, Trinity                20     25
+Gibson, Henry        Central Heights HS, Nacogdoches    20     25
+Marquis, Chloe       Blooming Grove HS, Blooming Grove  20     25
+Moore, Stephen       Grandview H S, Grandview           18     29
+Jessup, Jordan       Onalaska, Onalaska                 18     29
+Pinter, Robert       Maypearl H S, Maypearl             16     31
+Blanton, Mathew      Hardin HS, Hardin                  16     31
+King, Hallie         West HS, West                      16     31
+Arriola, Janie       Central HS, Pollok                 14     34
+Lambert, Ty          Warren HS, Warren                  14     34
+Donnell, Peyton      West HS, West                      14     34
+Watson, Alyson       Central HS, Pollok                 12     37
+Ressler, Katherine   Brazos HS, Wallis                  12     37
+Dominy, Brandon      Lexington H S, Lexington           10     39
+Galvan, Alexis       Grandview H S, Grandview           8      40
+Phillips, Joaquin    Danbury H S, Danbury               8      40
+Pyle, Matthew        Franklin H S, Franklin             4      42
+Turnage, Brandon     Central Heights HS, Nacogdoches    4      42
+Mayo, Colten         Brazos HS, Wallis                  2      44
+Podsednik, Jersey    West HS, West                      2      44
+Duncan, Meredith     Onalaska, Onalaska                 0      46
+Rangel, Jaime        Palmer H S, Palmer                 -2     47
+Bosse, Justin        East Bernard H S, East Bernard     -2     47
+Stewart, Dalton      East Chambers H S, Winnie          -6     49
+Williamson, Carmen   Hempstead H S, Hempstead           -8     50
+McClellan, Kyle      Hardin HS, Hardin                  -14    51
+Whitlatch, Sara      West HS, West                      -16    52
+Beck, Trinity        Malakoff HS, Malakoff              -22    53
+Herring, Cole        Franklin H S, Franklin             -24    54
+Ricks, Ian           Malakoff HS, Malakoff              -50    55
+
+TOP SCORERS
+------------------------------
+Contestant       School         Results               Points
+Hope, Tyler      Whitney HS     Top Scorer Biology    3
+Solis, Jaden     Whitney HS     Alternate Biology     0
+Hope, Tyler      Whitney HS     Top Scorer Chemistry  3
+Booker, Lance    Whitney HS     Alternate Chemistry   0
+Hope, Tyler      Whitney HS     Top Scorer Physics    3
+Flowers, Joshua  Grandview H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Whitney HS, Whitney              1     404    1      10      X      State
+Franklin H S, Franklin           1     156    2      5       X      Alternate
+Central Heights HS, Nacogdoches  1     146    3
+Grandview H S, Grandview         1     142    4
+Danbury H S, Danbury             1     112    5
+Hardin HS, Hardin                1     86     6
+Elkhart H S, Elkhart             1     84     7
+Onalaska, Onalaska               1     70     8
+West HS, West                    1     32     9
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                  Score  Place  Points  Medal  Advance
+Perera, Anton        BASIS Shavano HS, San Antonio           170    1      15      X      State
+Bordas, Torda        BASIS Shavano HS, San Antonio           98     2      12      X      State
+Choucair, Marc       BASIS Shavano HS, San Antonio           88     3      10      X      State
+Hesita, Caleb        BASIS Shavano HS, San Antonio           86     4      8       X      Alternate
+Hayden, Jaron        Industrial H S, Vanderbilt              82     5      6       X
+Collier, J.D.        Ingram Tom Moore HS, Ingram             76     6      4       X
+Haque, Arnob         London HS, Corpus Christi               74     7
+Powell, Andrew       Hallettsville H S, Hallettsville        72     8
+Sun, Matthew         London HS, Corpus Christi               66     9
+Carrasco, Kiara, K   Blanco HS, Blanco                       56     10
+Struck, David, R     Blanco HS, Blanco                       50     11
+Gibson, Charles      Marion HS, Marion                       50     11
+Vu, Lan Anh          Palacios H S, Palacios                  44     13
+Hensch, Alton        Skidmore-Tynan HS, Skidmore             44     13
+Allard, Connor       Skidmore-Tynan HS, Skidmore             42     15
+Townsley, Crista, A  Blanco HS, Blanco                       40     16
+Nguyen, Tyson        Palacios H S, Palacios                  40     16
+Gonzalez, Elisa      Cotulla HS, Cotulla                     40     16
+Miranda, Aurora, A   Blanco HS, Blanco                       38     19
+Appelt, Weston       Hallettsville H S, Hallettsville        36     20
+Chen, Po-Kwang       Santa Gertrudis Academy HS, Kingsville  30     21
+Teneyuca, Dylan      Cotulla HS, Cotulla                     28     22
+Aguirre, Israel      IDEA College Prep, Edinburg             26     23
+Garza, Shana         IDEA Quest College Prep, Edinburg       26     23
+Nemah, Adrian        Florence H S, Florence                  24     25
+Sanchez, Leopoldo    IDEA College Prep, McAllen              24     25
+Billo, Brynna        Goliad H S, Goliad                      20     27
+Alonzo, Mikaila      Vanguard Academy Rembrandt HS, Pharr    20     27
+O'Berg, Evan         Randolph HS, Universal City             18     29
+Cantu, Bryan         Vanguard Academy Rembrandt HS, Pharr    14     30
+Massengill, Ryan     Skidmore-Tynan HS, Skidmore             12     31
+Munson, Stephanie    Skidmore-Tynan HS, Skidmore             12     31
+Mraz, Cody           Hallettsville H S, Hallettsville        10     33
+Shelton, Joshua      London HS, Corpus Christi               10     33
+White, Rachel        Palacios H S, Palacios                  8      35
+Sackett, Bobby       Cotulla HS, Cotulla                     8      35
+Carrillo, Salvador   Palacios H S, Palacios                  6      37
+Perez, Mistica       Dilley HS, Dilley                       6      37
+Soto, Sergio         Santa Gertrudis Academy HS, Kingsville  6      37
+Reeves, Curtis       London HS, Corpus Christi               6      37
+Alex, Rebekkah       Hallettsville H S, Hallettsville        4      41
+Farias, Jaime        Mathis HS, Mathis                       4      41
+Serna, Noah          Vanguard Academy Rembrandt HS, Pharr    4      41
+Cosper, Michael      Goliad H S, Goliad                      0      44
+Garza, Alejandro     Vanguard Academy Rembrandt HS, Pharr    -2     45
+Mejia, Arianna       Vanguard Academy Rembrandt HS, Pharr    -2     45
+Hutchins, Hannah     Schulenburg H S, Schulenburg            -4     47
+Bhakta, Rutu         Dilley HS, Dilley                       -68    48
+
+TOP SCORERS
+------------------------------
+Contestant       School            Results               Points
+Perera, Anton    BASIS Shavano HS  Top Scorer Biology    3
+Gibson, Charles  Marion HS         Alternate Biology     0
+Perera, Anton    BASIS Shavano HS  Top Scorer Chemistry  3
+Haque, Arnob     London HS         Alternate Chemistry   0
+Bordas, Torda    BASIS Shavano HS  Top Scorer Physics    3
+Hayden, Jaron    Industrial H S    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+BASIS Shavano HS, San Antonio         1     356    1      10      X      State
+London HS, Corpus Christi             1     150    2      5       X      Alternate
+Blanco HS, Blanco                     1     146    3
+Hallettsville H S, Hallettsville      1     118    4
+Skidmore-Tynan HS, Skidmore           1     98     5
+Palacios H S, Palacios                1     92     6
+Cotulla HS, Cotulla                   1     76     7
+Vanguard Academy Rembrandt HS, Pharr  1     38     8
+

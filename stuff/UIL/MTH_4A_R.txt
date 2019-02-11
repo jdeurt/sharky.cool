@@ -1,0 +1,262 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Nicolas, Alexis     Hirschi H S, Wichita Falls          300    1      11      X      State
+Reddy, Krishna      Hirschi H S, Wichita Falls          300    1      11      X      State
+Zhang, Andrew       Wylie HS, Abilene                   300    3      10      X      State
+Zhang, Anthony      Wylie HS, Abilene                   298    4      8       X      Alternate
+Haider, Sameer      Wylie HS, Abilene                   280    5      6       X
+Tanjavur, Rohan     Hirschi H S, Wichita Falls          230    6      4       X
+Kearney, Josh       Wylie HS, Abilene                   216    7
+Shuey, Anthony      Hirschi H S, Wichita Falls          204    8
+Kuhn, Noah          Mineral Wells H S, Mineral Wells    200    9
+Buckner, Dustin     Andrews HS, Andrews                 198    10
+Nelson, Lars        Borger HS, Borger                   174    11
+Robertson, Lucas    Borger HS, Borger                   150    12
+Hill, Grace         Glen Rose H S, Glen Rose            142    13
+Trotter, Matthew    Andrews HS, Andrews                 140    14
+Dodson, Kailey      Andrews HS, Andrews                 136    15
+Stallings, Leyla    Andrews HS, Andrews                 126    16
+Williams, Caitlin   Denver City H S, Denver City        124    17
+Gilbreath, Kate     Mineral Wells H S, Mineral Wells    124    17
+Lucas, Carter       Midlothian Heritage HS, Midlothian  116    19
+Castro, Bryan       Perryton H S, Perryton              108    20
+Garcia, Avery       Denver City H S, Denver City        104    21
+Anderson, Jonathan  Midlothian Heritage HS, Midlothian  100    22
+Morales, Abby       Denver City H S, Denver City        96     23
+Wisdom, John        Glen Rose H S, Glen Rose            92     24
+Tieu, Khang         Castleberry HS, Fort Worth          88     25
+Townsend, Cole      Perryton H S, Perryton              82     26
+Carmona, Aylin      Denver City H S, Denver City        78     27
+Banuelos, Cristian  Clint H S, Clint                    78     27
+Mandujano, Valerie  Clint H S, Clint                    74     29
+Garcia, Manuel      Mineral Wells H S, Mineral Wells    70     30
+Nabors, Jordan      Glen Rose H S, Glen Rose            68     31
+Bell, Macy          Midlothian Heritage HS, Midlothian  60     32
+Hamid, Rohoman      Borger HS, Borger                   58     33
+Alders, Kyle        Borger HS, Borger                   56     34
+Nail, Alex          Mineral Wells H S, Mineral Wells    52     35
+Lansdowne, Carson   Midlothian Heritage HS, Midlothian  50     36
+Mendoza, Cesar      Fabens H S, Fabens                  48     37
+Ruiz, Jorge         Fabens H S, Fabens                  46     38
+Outen, Erin         Glen Rose H S, Glen Rose            44     39
+Trejo, Ernesto      Fabens H S, Fabens                  38     40
+Saenz, Emery        Fabens H S, Fabens                  24     41
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Wylie HS, Abilene                   1     878    1      10      X      State
+Hirschi H S, Wichita Falls          1     830    2      5       X      Alternate
+Andrews HS, Andrews                 1     474    3
+Mineral Wells H S, Mineral Wells    1     394    4
+Borger HS, Borger                   1     382    5
+Denver City H S, Denver City        1     324    6
+Glen Rose H S, Glen Rose            1     302    7
+Midlothian Heritage HS, Midlothian  1     276    8
+Fabens H S, Fabens                  1     132    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Mohar, Nicholas      Argyle HS, Argyle                   320    1      15      X      State
+Gahlawat, Kunal      Argyle HS, Argyle                   266    2      12      X      State
+Darnell, Matthew     Argyle HS, Argyle                   260    3      10      X      State
+Ma, Austin           Lebanon Trail HS, Frisco            250    4      8       X      Alternate
+Mock, Jonathan P     Tatum HS, Tatum                     236    5      6       X
+White, Conner        Bullard HS, Bullard                 230    6      4       X
+Nagabhirava, Rohan   Lebanon Trail HS, Frisco            222    7
+Hennes, Andrew       Argyle HS, Argyle                   194    8
+Medley, Ethan        Bullard HS, Bullard                 194    8
+Gupta, Shivam        Lebanon Trail HS, Frisco            160    10
+Nicks, Riley         Canton HS, Canton                   152    11
+Farmer, Jacan        Aubrey HS, Aubrey                   148    12
+Long, Ronald         Princeton HS, Princeton             138    13
+Keith, Spencer       Kaufman H S, Kaufman                126    14
+Barfoot, Zee         Atlanta HS, Atlanta                 120    15
+Khalilullah, Taha    Lebanon Trail HS, Frisco            118    16
+Dowell, Eleanor      Uplift North Hills Prep HS, Irving  116    17
+Rahrnan, sameen      Uplift North Hills Prep HS, Irving  110    18
+Ruiz, Eduardo        Kaufman H S, Kaufman                106    19
+Gipson, Cameron      Gilmer H S, Gilmer                  106    19
+Snyder, Samuel       Celina HS, Celina                   104    21
+Armstrong, Heather   North Lamar H S, Paris              100    22
+Du Preez, Daniel     Van HS, Van                         98     23
+Swanson, Robert      Van HS, Van                         98     23
+Zdrojeski, Kaitlyn   Celina HS, Celina                   94     25
+Suarez, Luis         Brownsboro HS, Brownsboro           92     26
+Cox, Josh            Kaufman H S, Kaufman                90     27
+Keller, Jacqueline   Celina HS, Celina                   90     27
+Ramesin, manasa      Uplift North Hills Prep HS, Irving  84     29
+Clark, Joshua        Center HS, Center                   82     30
+Rodriguez, Hannah    Princeton HS, Princeton             80     31
+Tousignant, Brandon  Kaufman H S, Kaufman                78     32
+Swanson, Timothy     Van HS, Van                         72     33
+McCoy, Megan         Bullard HS, Bullard                 72     33
+Clark, Lainey        Celina HS, Celina                   70     35
+Walters, Shelby      Carthage HS, Carthage               62     36
+Brems, Meghan        Bullard HS, Bullard                 56     37
+Chambers, Landon     Community HS, Nevada                54     38
+Carney, Cameron      Atlanta HS, Atlanta                 50     39
+Nash, Jacob          Atlanta HS, Atlanta                 50     39
+Simmons, Alyssa      Atlanta HS, Atlanta                 46     41
+Rainwater, Julian M  Tatum HS, Tatum                     38     42
+Geremonte, Eleanor   Van HS, Van                         32     43
+ganguly, samridhi    Uplift North Hills Prep HS, Irving  22     44
+Navarro, Natalya J   Tatum HS, Tatum                     10     45
+Fagan, Timothy       Tatum HS, Tatum                     0      46
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Argyle HS, Argyle                   1     846    1      10      X      State
+Lebanon Trail HS, Frisco            1     632    2      5       X      Alternate
+Bullard HS, Bullard                 1     496    3
+Kaufman H S, Kaufman                1     322    4
+Uplift North Hills Prep HS, Irving  1     310    5
+Celina HS, Celina                   1     288    6
+Tatum HS, Tatum                     1     284    7
+Van HS, Van                         1     268    8
+Atlanta HS, Atlanta                 1     220    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Moore, Jacob          Athens HS, Athens                       342    1      15      X      State
+Manning, Kayla        Salado HS, Salado                       304    2      12      X      State
+Barr, Chandler        Little Cypress-Mauriceville HS, Orange  302    3      10      X      State
+Luckadoo, Hayden      Liberty Hill HS, Liberty Hill           300    4      8       X      Alternate
+Sunshine, Ben         Salado HS, Salado                       230    5      6       X
+Jenkins, Cameron      China Spring HS, China Spring           224    6      4       X
+Stone, Ben            Hardin-Jefferson H S, Sour Lake         220    7
+Harbour, Will         Liberty Hill HS, Liberty Hill           216    8
+Sheppard, Trey        Salado HS, Salado                       214    9
+Rodriguez, Aryn       Athens HS, Athens                       204    10
+Singh, Lovejot        Little Cypress-Mauriceville HS, Orange  200    11
+Myles, Dajhuan        Little Cypress-Mauriceville HS, Orange  186    12
+Ideal, Ademaj         Athens HS, Athens                       178    13
+Nguyen, Thien         Hudson HS, Lufkin                       168    14
+Mugleston, Nick       Little Cypress-Mauriceville HS, Orange  166    15
+Won, Elizabeth        Salado HS, Salado                       156    16
+Hillier, Hannah       Hudson HS, Lufkin                       156    16
+Craft, Nolan          Hudson HS, Lufkin                       152    18
+Curl, Brandon         Bridge City HS, Bridge City             146    19
+Hudson, Dalton        Liberty Hill HS, Liberty Hill           134    20
+Cadieux, Michael      China Spring HS, China Spring           130    21
+Fulton, Alder         Lorena H S, Lorena                      124    22
+Recek, Jessica        La Grange H S, La Grange                120    23
+Leon, Yuvia           Athens HS, Athens                       116    24
+Ramsingh, Shantika    Liberty Hill HS, Liberty Hill           112    25
+Croley, Garrett       Hudson HS, Lufkin                       106    26
+Saunders, Emily       La Grange H S, La Grange                102    27
+Matak, Landon         Hardin-Jefferson H S, Sour Lake         102    27
+McCain, Chasity       Hardin-Jefferson H S, Sour Lake         96     29
+Anderson, Hunter      Tarkington HS, Cleveland                92     30
+Goebel, Ashton        Hardin-Jefferson H S, Sour Lake         92     30
+Holden, Ashleigh      La Grange H S, La Grange                82     32
+Ejner, Ami            La Grange H S, La Grange                80     33
+Valdez, Julian        China Spring HS, China Spring           64     34
+Anz, Hunter           China Spring HS, China Spring           60     35
+Alberts, Jacob        Challenge Early College HS, Houston     56     36
+Benitiz, Brian        Challenge Early College HS, Houston     34     37
+Randall, Rashard      Yates HS, Houston                       32     38
+Dos Santos, Milagros  Challenge Early College HS, Houston     22     39
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Salado HS, Salado                       1     748    1      10      X      State
+Athens HS, Athens                       1     724    2      5       X      Alternate
+Little Cypress-Mauriceville HS, Orange  1     688    3
+Liberty Hill HS, Liberty Hill           1     650    4
+Hudson HS, Lufkin                       1     476    5
+China Spring HS, China Spring           1     418    6
+Hardin-Jefferson H S, Sour Lake         1     418    6
+La Grange H S, La Grange                1     304    8
+Challenge Early College HS, Houston     1     112    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                               Score  Place  Points  Medal  Advance
+Cranford, Preston       Wimberley HS, Wimberley              302    1      15      X      State
+Hoke, Tanner            Boerne HS, Boerne                    286    2      12      X      State
+Peng, Xirui             Boerne HS, Boerne                    234    3      10      X      State
+Mahlmann, Sarah         Bellville HS, Bellville              192    4      8       X      Alternate
+McLemore, Ben           Wimberley HS, Wimberley              184    5      6       X
+Sprinkle, Jesse R       Rockport-Fulton H S, Rockport        174    6      4       X
+Owolabi, Gift           Carrizo Springs HS, Carrizo Springs  174    7
+Porter, Nick            La Feria H S, La Feria               172    8
+Taylor, Zane            Boerne HS, Boerne                    148    9
+Price, Joshua           Wimberley HS, Wimberley              140    10
+Lozano, Josue           Hidalgo H S, Hidalgo                 136    11
+Luongo, Isabella        Bellville HS, Bellville              130    12
+Hendrix, John           Bellville HS, Bellville              122    13
+Correa, Alexy           Hidalgo H S, Hidalgo                 118    14
+Schoener, James         Needville HS, Needville              116    15
+Davila, Zoleda          King HS, Kingsville                  110    16
+Naves, Daniel           Pearsall H S, Pearsall               104    17
+Latz, Drew              Wimberley HS, Wimberley              102    18
+Shelton, Benjamin       Jones HS, Beeville                   100    19
+Paget, Clayton          Bellville HS, Bellville              98     20
+Thumann, Bryce          Needville HS, Needville              98     20
+Bennett, Jordan         La Feria H S, La Feria               94     22
+Teague, William         Bay City HS, Bay City                88     23
+Arambula, Jacob         Carrizo Springs HS, Carrizo Springs  84     24
+Singleton, Sarah Grace  El Campo H S, El Campo               72     25
+Velasquez, Jazmine      Carrizo Springs HS, Carrizo Springs  72     25
+Schodek, Josef          Needville HS, Needville              72     25
+Albon, Garrett          Boerne HS, Boerne                    64     28
+Ochoa, Diego            La Feria H S, La Feria               64     28
+Jimenez, Erik           Somerset HS, Somerset                62     30
+Fraga, Roberto          La Feria H S, La Feria               62     30
+Shah, Vishwa            Bay City HS, Bay City                54     32
+Petty, Caylor           Ingleside H S, Ingleside             54     32
+Cabanay, Dandee         Bay City HS, Bay City                54     32
+O'Connell, Tabitha      Somerset HS, Somerset                52     35
+Spears, Abigail C       Rockport-Fulton H S, Rockport        52     35
+Fernandez, America      Somerset HS, Somerset                46     37
+Smith, Adam             Bay City HS, Bay City                44     38
+Escobedo, Alena         Somerset HS, Somerset                34     39
+Perez, Christian        Carrizo Springs HS, Carrizo Springs  32     40
+Giese, Amber            Needville HS, Needville              32     40
+Anderson, Mitchell      Rockport-Fulton H S, Rockport        28     42
+Martinez, Zorayda       Pleasanton HS, Pleasanton            0      43
+Hernandez, Jo Ann       King HS, Kingsville                  0      43
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Boerne HS, Boerne                    1     668    1      10      X      State
+Wimberley HS, Wimberley              1     626    2      5       X      Alternate
+Bellville HS, Bellville              1     444    3
+Carrizo Springs HS, Carrizo Springs  1     330    4
+La Feria H S, La Feria               1     330    4
+Needville HS, Needville              1     286    6
+Rockport-Fulton H S, Rockport        1     254    7
+Bay City HS, Bay City                1     196    8
+Somerset HS, Somerset                1     160    9
+
+TEAM RESULTS
+------------------------------
+
+

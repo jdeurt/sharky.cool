@@ -1,0 +1,314 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+King, Brendan         Marcus HS, Flower Mound                 302    1      15      X      State
+Overman, Luke         Martin HS, Arlington                    214    2      12      X      State
+Garner, Michael       Marcus HS, Flower Mound                 212    3      10      X      State
+Lin, Dachey           Plano West Sr HS, Plano                 208    4      8       X      Alternate
+Nguyen, Andrew        Mansfield HS, Mansfield                 206    5      6       X
+Hsieh, Teddy          Plano West Sr HS, Plano                 204    6      4       X
+Ryu, Andy             Paschal H S, Fort Worth                 202    7
+Luu, Matthew          Martin HS, Arlington                    200    8
+Guo, Richard          Plano West Sr HS, Plano                 200    8
+Shelburne, Katherine  Belton HS, Belton                       192    10
+Kodali, Anaya         Marcus HS, Flower Mound                 190    11
+Ward, Mitchell        Carroll HS, Southlake                   184    12
+Fuentes, Francisco    Central HS, San Angelo                  176    13
+Swinney, Brandon      Martin HS, Arlington                    174    14
+Reitman, Joseph       Paschal H S, Fort Worth                 172    15
+Shrestha, Nischal     Haltom HS, Haltom City                  168    16
+Pham, Thu             Paschal H S, Fort Worth                 164    17
+Bhattarai, Gunjan     Plano West Sr HS, Plano                 162    18
+Walker, Pete          Keller H S, Keller                      144    19
+Xu, Peiyuan           Carroll HS, Southlake                   138    20
+Kottegoda, Seniru     Keller H S, Keller                      136    21
+Win, Lawrence         Belton HS, Belton                       134    22
+Guha, Aishi           MacArthur HS, Irving                    130    23
+Gunampalli, Tarun     Flower Mound HS, Flower Mound           126    24
+Charania, Ayra        Marcus HS, Flower Mound                 122    25
+Nguyen, Thai          McKinney Boyd HS, McKinney              120    26
+Crenshaw, Sheridan    Coronado HS, El Paso                    114    27
+Creery, Lucas         Tascosa HS, Amarillo                    112    28
+Davis, Thomas         Central HS, San Angelo                  108    29
+Mays, Parker          Martin HS, Arlington                    106    30
+Budreckis, Sarunas    Eastwood H S, El Paso                   100    31
+Campbell, Cade        Central HS, San Angelo                  98     32
+VanderHeiden, Nikita  Midway H S, Woodway                     98     32
+Stevens, Jansen       Frenship H S, Wolfforth                 96     34
+Miao, Daniel          Flower Mound HS, Flower Mound           94     35
+Chavez, Carlos        Americas HS, El Paso                    92     36
+Caballero, Antonio    Coronado HS, El Paso                    90     37
+Khan, Ammar           Central HS, Keller                      90     37
+Moses, Mark           Paschal H S, Fort Worth                 88     39
+Arango, Juan          Duncanville HS, Duncanville             88     39
+Woo, Si-Yoon          Belton HS, Belton                       88     39
+Kuang, Hanxing        Midway H S, Woodway                     80     42
+Barnett, Amy          Coronado HS, El Paso                    74     43
+Rayudu, Pranav        Keller H S, Keller                      70     44
+Loiselle, Loren       Belton HS, Belton                       70     44
+Devarasetty, Aniketh  Keller H S, Keller                      62     46
+Herrera, Melchor      Franklin H S, El Paso                   54     47
+Rico, Ariel           Duncanville HS, Duncanville             52     48
+Deanda, Jonathan      Central HS, San Angelo                  50     49
+IMARHIA, FRANCES      South Grand Prairie H S, Grand Prairie  28     50
+Ismail, Hannah        Duncanville HS, Duncanville             28     50
+Misra, Amogh          Coronado HS, El Paso                    24     52
+Giddens, Jacob        Irving HS, Irving                       12     53
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+King, Brendan      Marcus HS        Top Scorer Biology    3
+Chavez, Carlos     Americas HS      Alternate Biology     0
+Nguyen, Andrew     Mansfield HS     Top Scorer Chemistry  1.50
+Gunampalli, Tarun  Flower Mound HS  Top Scorer Chemistry  1.50
+King, Brendan      Marcus HS        Top Scorer Physics    3
+Overman, Luke      Martin HS        Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Marcus HS, Flower Mound      1     704    1      10      X      State
+Plano West Sr HS, Plano      1     612    2      5       X      Alternate
+Martin HS, Arlington         1     588    3
+Paschal H S, Fort Worth      1     538    4
+Belton HS, Belton            1     414    5
+Central HS, San Angelo       1     382    6
+Keller H S, Keller           1     350    7
+Coronado HS, El Paso         1     278    8
+Duncanville HS, Duncanville  1     168    9
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                                 Score  Place  Points  Medal  Advance
+Jung, Sung                 Pearce H S, Richardson                 320    1      15      X      State
+Hall-Brown, Max            Klein HS, Klein                        310    2      12      X      State
+Ye, Thomas                 Klein HS, Klein                        222    3      10      X      State
+Ton, Vinh T.               McNeil H S, Austin                     220    4      8       X      Alternate
+Parulekar, Aditya          Westwood HS, Austin                    186    5      6       X
+El-Kishky, Omar            Lee H S, Tyler                         184    6      4       X
+Poon, Clark                The Woodlands HS, The Woodlands        182    7
+Li, Benjamin               The Woodlands HS, The Woodlands        178    8
+Tran, Joshua               Klein Oak HS, Spring                   174    9
+Beattie, William           The Woodlands HS, The Woodlands        172    10
+Mayavaram, Amritavarshini  McNeil H S, Austin                     172    10
+Suresh, Shreyas            Klein HS, Klein                        166    12
+Diaz, Victor               Science-Eng Magnet Hs, Dallas          154    13
+Thomas, Sasha              Science-Eng Magnet Hs, Dallas          154    13
+Rege, Raviraj              Science-Eng Magnet Hs, Dallas          152    15
+Kasten, James              Pearce H S, Richardson                 152    15
+Sreenivasan, Adithya N.    McNeil H S, Austin                     150    17
+Roshan, Tara               Lee H S, Tyler                         146    18
+Zhang, Hongyi              Pearce H S, Richardson                 144    19
+Malone, Frank              Klein Oak HS, Spring                   144    19
+Roy, Apratim               The Woodlands HS, The Woodlands        134    21
+Olson, Cody                Lee H S, Tyler                         132    22
+Pavlovic, Damyan           Klein Oak HS, Spring                   132    22
+Abutalib, Syed             Richardson H S, Richardson             130    24
+Shah, Hriman               Klein Oak HS, Spring                   126    25
+Lamoreaux, Aaron           Richardson H S, Richardson             122    26
+Kamat, Anisha              Science-Eng Magnet Hs, Dallas          116    27
+Pineda, Eddy               School of Educ & Social Svcs, Dallas   116    27
+Omar, Nikhaz               Pearce H S, Richardson                 114    29
+Ogunfunmi, Tomisin         Science-Eng Magnet Hs, Dallas          100    30
+Amudhan, Apoorva           McNeil H S, Austin                     98     31
+Fang, Janssen Y.           McNeil H S, Austin                     90     32
+Jarrett, Michael           Rockwall-Heath HS, Heath               88     33
+Vu, Khanh                  Westfield HS, Houston                  48     34
+Rivera, Alejandra          Bowie HS, Austin                       36     35
+Hysell, Madison            Lee H S, Tyler                         34     36
+Chan, Angela               Westfield HS, Houston                  32     37
+Baltoi, Daniel             Bowie HS, Austin                       28     38
+Look Fong, Brandon A       Spring Early College Acad HS, Houston  28     38
+Duncan, Brandon            Bowie HS, Austin                       22     40
+Lam, Kenneth               Westfield HS, Houston                  20     41
+Ekeruche, Esu Joy          Westfield HS, Houston                  20     41
+Chou, Cody                 Spring Early College Acad HS, Houston  12     43
+Carsten, William           The Woodlands HS, The Woodlands        0      44
+Soenen, Katiana            Anderson HS, Austin                    0      44
+Belavente, Belle           Bowie HS, Austin                       0      44
+Cardenas, Stephanie        Del Valle HS, Del Valle                0      44
+Guo, Yannie                Klein HS, Klein                        0      44
+
+TOP SCORERS
+------------------------------
+Contestant       School      Results               Points
+Hall-Brown, Max  Klein HS    Top Scorer Biology    3
+Jung, Sung       Pearce H S  Alternate Biology     0
+Jung, Sung       Pearce H S  Top Scorer Chemistry  1.50
+Suresh, Shreyas  Klein HS    Top Scorer Chemistry  1.50
+Jung, Sung       Pearce H S  Top Scorer Physics    3
+Hall-Brown, Max  Klein HS    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Klein HS, Klein                  1     698    1      10      X      State
+Pearce H S, Richardson           1     616    2      5       X      Alternate
+McNeil H S, Austin               1     542    3
+The Woodlands HS, The Woodlands  1     532    4
+Lee H S, Tyler                   1     462    5
+Science-Eng Magnet Hs, Dallas    1     460    6
+Klein Oak HS, Spring             1     450    7
+Westfield HS, Houston            1     100    8
+Bowie HS, Austin                 1     86     9
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                         Score  Place  Points  Medal  Advance
+Rajesh, Sameer           Clements HS, Sugar Land        300    1      15      X      State
+Liu, Andrew              Dulles H S, Sugar Land         296    2      12      X      State
+Parsan, Nithin           Clements HS, Sugar Land        262    3      10      X      State
+Ashary, Rafay            Clements HS, Sugar Land        256    4      8       X      Alternate
+Mohan, Shree             Dulles H S, Sugar Land         236    5      6       X
+Misra, Satwik            Dulles H S, Sugar Land         202    6      2       X
+Wells, Jordan            Atascocita HS, Humble          202    6      2       X
+Jennings, Nate           Atascocita HS, Humble          200    8
+Falco, Julian            Friendswood H S, Friendswood   176    9
+Lu, Evan                 Clear Lake HS, Houston         176    9
+Chada, Govind            Cypress Woods HS, Cypress      164    11
+Li, Edward               Clear Lake HS, Houston         164    11
+Cui, Peter               Seven Lakes H S, Katy          162    13
+Zahid, Ethan             Dulles H S, Sugar Land         162    13
+Paidisetty, Praneet      Seven Lakes H S, Katy          146    15
+Russel, Brandon          Kingwood H S, Humble           140    16
+Yao, Kevin               Tompkins HS, Katy              138    17
+Zhou, Dean               Clear Lake HS, Houston         138    17
+Dedas, Jason             Brazoswood HS, Clute           134    19
+Karanam, Akash           Clements HS, Sugar Land        132    20
+Unulmis, Bora            Kingwood H S, Humble           132    20
+Krishnakumar, Siddharth  Dawson HS, Pearland            132    20
+Saet, Asher              Cypress Woods HS, Cypress      130    23
+Rogers, Will             Tompkins HS, Katy              120    24
+Obenza, Alex             Cypress Falls H S, Houston     114    25
+Hartung, Marshall        Kingwood H S, Humble           114    25
+Menon, Rahul             Carnegie Vanguard HS, Houston  112    27
+Smith, Kaitlin           Kingwood H S, Humble           100    28
+Srinivasan, Shruthi      Dawson HS, Pearland            98.3   29
+Tiu, Ekin                Carnegie Vanguard HS, Houston  98     30
+Profilet, Ryan           Tompkins HS, Katy              98     30
+Rivera, Carlos           Pasadena H S, Pasadena         98     30
+Wu, Jeffery              Dawson HS, Pearland            98     30
+Liang, Kathy             Dawson HS, Pearland            90     34
+Taqui, Ariz              Cypress Woods HS, Cypress      88     35
+Bozinov, Vincent         Cypress Woods HS, Cypress      82     36
+Niaz, Zainab             Carnegie Vanguard HS, Houston  80     37
+Liu, Sam                 Carnegie Vanguard HS, Houston  74     38
+Devulapalli, Sri         Carnegie Vanguard HS, Houston  70     39
+Ganti, Anish             Cypress Falls H S, Houston     68     40
+Hoang, David             Pasadena H S, Pasadena         68     40
+Tillis, Kieren           Kingwood H S, Humble           60     42
+Bates, Tim               Kingwood H S, Humble           52     43
+Frugia, Sophia           West Brook HS, Beaumont        44     44
+Sudhakar, Abinavraj      Tompkins HS, Katy              40     45
+Adnan, Zainab            West Brook HS, Beaumont        16     46
+
+TOP SCORERS
+------------------------------
+Contestant      School       Results               Points
+Parsan, Nithin  Clements HS  Top Scorer Biology    3
+Mohan, Shree    Dulles H S   Alternate Biology     0
+Liu, Andrew     Dulles H S   Top Scorer Chemistry  3
+Ashary, Rafay   Clements HS  Alternate Chemistry   0
+Liu, Andrew     Dulles H S   Top Scorer Physics    3
+Rajesh, Sameer  Clements HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Clements HS, Sugar Land        1     818    1      10      X      State
+Dulles H S, Sugar Land         1     734    2      5       X      Alternate
+Clear Lake HS, Houston         1     478    3
+Kingwood H S, Humble           1     386    4
+Cypress Woods HS, Cypress      1     382    5
+Tompkins HS, Katy              1     356    6
+Dawson HS, Pearland            1     328.3  7
+Carnegie Vanguard HS, Houston  1     290    8
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                  Score  Place  Points  Medal  Advance
+Limarta, Ian           Alexander HS, Laredo                    234    1      15      X      State
+Holla, Satya           Science Academy, Mercedes               214    2      12      X      State
+Passement, Raul        Reagan HS, San Antonio                  196    3      10      X      State
+Xu, Lucy               Vandegrift H S, Austin                  184    4      7       X      Alternate
+Moynihan, Lucas        Reagan HS, San Antonio                  184    4      7       X      Alternate
+Hernandez, Antony      Edinburg North H S, Edinburg            176    6      4       X
+Valorz, David          Reagan HS, San Antonio                  172    7
+Lai, Pierce            Vandegrift H S, Austin                  166    8
+Zhu, Charles           Reagan HS, San Antonio                  160    9
+Tang, Andrew           Vandegrift H S, Austin                  156    10
+Su, Matthew            Brandeis HS, San Antonio                152    11
+Cua, Miles             Science Academy, Mercedes               150    12
+Walker, Olympia        Westlake HS, Austin                     146    13
+Pham, Vivi             Westlake HS, Austin                     146    13
+Cao, Daniel            Brandeis HS, San Antonio                142    15
+Estrada, Robert        Vela HS, Edinburg                       136    16
+Estes, Luke            Smithson Valley HS, Spring Branch       134    17
+Lai, Victor            Vandegrift H S, Austin                  126    18
+Li, Caroline           Vandegrift H S, Austin                  126    18
+Roy, Soham             Westlake HS, Austin                     124    20
+Forlano, Clancy        New Braunfels H S, New Braunfels        110    21
+Zhou, Jingsi           Brandeis HS, San Antonio                108    22
+Cazares, Erik          Edinburg North H S, Edinburg            104    23
+Santoso, Matthew       Westlake HS, Austin                     98     24
+Qiao, Jack             Science Academy, Mercedes               96     25
+Gonzalez, Jaime        United South HS, Laredo                 94     26
+Sandlin, Jonathan      Los Fresnos H S, Los Fresnos            94     26
+Lopez, Jasmin          Economedes H S, Edinburg                92     28
+Gomez, Jose Luis       Memorial H S, McAllen                   90     29
+Jha, Kunaal            Science Academy, Mercedes               88     30
+Garcia, Derek          Salinas STEM Early College HS, La Joya  82     31
+Martinez, Joriam       Los Fresnos H S, Los Fresnos            80     32
+Gaytan, Jonathan       Edinburg North H S, Edinburg            78     33
+Perez, Diego           Edinburg North H S, Edinburg            78     33
+Siegel, Harry          Mission Collegiate HS, Mission          74     35
+Garzonie, Garrett      McAllen HS, McAllen                     72     36
+Chalmers, Willie       Clemens HS, Schertz                     70     37
+Vestal, Skyler         New Braunfels H S, New Braunfels        68     38
+Zimmerman, Paden       United HS, Laredo                       66     39
+Patel, Dhyan           Alexander HS, Laredo                    64     40
+Pineda, Emilio         United South HS, Laredo                 52     41
+Banda, Alejandro       Salinas STEM Early College HS, La Joya  48     42
+King, Patricia         Alexander HS, Laredo                    30     43
+Balderrama, Madelaine  New Braunfels H S, New Braunfels        22     44
+Kukleryte, Kamile      Steele H S, Cibolo                      20     45
+Ortiz, Elias           Salinas STEM Early College HS, La Joya  16     46
+Escareno, Carlos       Salinas STEM Early College HS, La Joya  8      47
+Ortiz, Cristobal       Achieve Early HS, McAllen               8      47
+Gomez, Jorge           Alexander HS, Laredo                    2      49
+Leal, Sofia            PSJA Southwest H S, Pharr               0      50
+
+TOP SCORERS
+------------------------------
+Contestant         School              Results               Points
+Cao, Daniel        Brandeis HS         Top Scorer Biology    3
+Zhou, Jingsi       Brandeis HS         Alternate Biology     0
+Zimmerman, Paden   United HS           Alternate Biology     0
+Xu, Lucy           Vandegrift H S      Top Scorer Chemistry  3
+Limarta, Ian       Alexander HS        Alternate Chemistry   0
+Hernandez, Antony  Edinburg North H S  Alternate Chemistry   0
+Limarta, Ian       Alexander HS        Top Scorer Physics    3
+Cua, Miles         Science Academy     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Reagan HS, San Antonio                  1     552    1      10      X      State
+Vandegrift H S, Austin                  1     506    2      5       X      Alternate
+Science Academy, Mercedes               1     460    3
+Westlake HS, Austin                     1     416    4
+Brandeis HS, San Antonio                1     402    5
+Edinburg North H S, Edinburg            1     358    6
+Alexander HS, Laredo                    1     328    7
+New Braunfels H S, New Braunfels        1     200    8
+Salinas STEM Early College HS, La Joya  1     146    9
+

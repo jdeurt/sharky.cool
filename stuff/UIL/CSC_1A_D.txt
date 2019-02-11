@@ -1,0 +1,494 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                     Score  Place  Points  Medal  Advance
+Boston, Lance        Booker HS, Booker          78     1      15      X      Region
+Huntress, Jacob      Darrouzett HS, Darrouzett  44     2      12      X      Region
+Dominguez, Daniel    Booker HS, Booker          24     3      10      X      Region
+Ramirez, Valentine   Booker HS, Booker          18     4      8       X      Alternate
+Phillips, Haidyn     Booker HS, Booker          6      5      6       X
+Wesley, Raymond      Darrouzett HS, Darrouzett  4      6      4       X
+Aguilar, Luz         Follett HS, Follett        0      7
+Cooper, Jared        Darrouzett HS, Darrouzett  0      7
+Adornetto, Isaac     Follett HS, Follett        0      7
+Adornetto, Augustus  Follett HS, Follett        -2     10
+Ashmore, Devin       Darrouzett HS, Darrouzett  -12    11
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Booker HS, Booker          1     300    1      20      X      Region
+Darrouzett HS, Darrouzett  1     48     2      16      X      Alternate
+Follett HS, Follett        1     -2     3      12      X
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School              Score  Place  Points  Medal  Advance
+Rinke, Justus R   Hedley H S, Hedley  14     1      15      X      Region
+Bhakta, Kabir     Kelton HS, Wheeler  2      2      12      X      Region
+Monroe, Collin T  Hedley H S, Hedley  -4     3      10      X      Region
+Mestas, Zarek L   Hedley H S, Hedley  -14    4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Hedley H S, Hedley  1     -4     1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant      School           Score  Place  Points  Medal  Advance
+Moore, Kai      Happy HS, Happy  -2     1      15      X      Region
+Davis, Jackson  Happy HS, Happy  -14    2      12      X      Region
+
+TOP SCORERS
+------------------------------
+
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                  Score  Place  Points  Medal  Advance
+Bradfute, Shelton     Springlake H S, Earth   28     1      15      X      Region
+Fulkerson, Katherine  Nazareth H S, Nazareth  26     2      12      X      Region
+Nelson, Tristan       Nazareth H S, Nazareth  18     3      10      X      Region
+Jones, Karlee         Springlake H S, Earth   14     4      8       X      Alternate
+Schilderink, Mike     Nazareth H S, Nazareth  8      5      6       X
+Ortiz, Laura          Springlake H S, Earth   6      6      4       X
+Schulte, Tye          Nazareth H S, Nazareth  4      7
+Medina, Jonathan      Springlake H S, Earth   -14    8
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Springlake H S, Earth   1     168    1      20      X      Region
+Nazareth H S, Nazareth  1     52     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 5)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Ivins, Brandon       Whiteface HS, Whiteface  50     1      15      X      Region
+Sanchez, Frankie     Whiteface HS, Whiteface  2      2      12      X      Region
+Rivas, Daniel        Whiteface HS, Whiteface  2      3      10      X      Region
+Crawford, Christina  Whiteface HS, Whiteface  -16    4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Whiteface HS, Whiteface  1     109    1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 6)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                 Score  Place  Points  Medal  Advance
+Almenadarez, Jaysan  Meadow HS, Meadow      28     1      15      X      Region
+Hunt, Zoey           Meadow HS, Meadow      20     2      11      X      Region
+Castillo, Aliyah     Meadow HS, Meadow      20     2      11      X      Region
+Bryan, Ceara         Meadow HS, Meadow      14     4      8       X      Alternate
+Smithson, Whit       New Home HS, New Home  6      5      6       X
+Pando, Elena         New Home HS, New Home  2      6      4       X
+Smith, Cayman        New Home HS, New Home  0      7
+Bolton, Hunter       New Home HS, New Home  -10    8
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Meadow HS, Meadow      1     128    1      20      X      Region
+New Home HS, New Home  1     8      2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 7)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School               Score  Place  Points  Medal  Advance
+Gibson, PL            Guthrie HS, Guthrie  18     1      15      X      Region
+Sandoval, Yaretzi     Guthrie HS, Guthrie  8      2      12      X      Region
+Maxwell, Reagan       Guthrie HS, Guthrie  6      3      9       X      Region
+Scogin, Tye           Jayton H S, Jayton   6      3      9       X      Region
+Adams, Keaton         Spur HS, Spur        2      5      6       X      Alternate
+LeCroy, Lexi K.       Paducah HS, Paducah  0      6      2       X
+Frawner, Mickalea A.  Paducah HS, Paducah  0      6      2       X
+Griswold, Clay        Jayton H S, Jayton   -2     8
+Awe, Kaden            Jayton H S, Jayton   -2     8
+Smith, Pecos          Jayton H S, Jayton   -2     8
+Medford, Danielle R.  Paducah HS, Paducah  -2     8
+Solis, Ivan           Spur HS, Spur        -2     8
+Brendle, Kaleb        Guthrie HS, Guthrie  -4     13
+Rieger, Jaden         Spur HS, Spur        -4     13
+
+TOP SCORERS
+------------------------------
+School               Team  Score  Place  Points  Medal  Advance
+Guthrie HS, Guthrie  1     92     1      20      X      Region
+Spur HS, Spur        1     51     2      16      X      Alternate
+Jayton H S, Jayton   1     2      3      12      X
+Paducah HS, Paducah  1     -2     4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 8)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+McKnight, Benjamin    Crowell HS, Crowell          10     1      15      X      Region
+Trajkovski, Kristina  Knox City HS, Knox City      8      2      11      X      Region
+Hooser, Tanner        Chillicothe HS, Chillicothe  8      2      11      X      Region
+Logsdon, Sean         Knox City HS, Knox City      6      4      6       X      Alternate
+Flores, Adrian        Chillicothe HS, Chillicothe  6      4      6       X      Alternate
+Perez, Cynthia        Chillicothe HS, Chillicothe  6      4      6       X      Alternate
+Hacker, Shawn         Knox City HS, Knox City      0      7
+Sanchez, Isaiah       Chillicothe HS, Chillicothe  0      7
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Knox City HS, Knox City  1     134    1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 9)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                            Score  Place  Points  Medal  Advance
+Farrer, Brucks        Fort Davis H S, Fort Davis        20     1      15      X      Region
+Devine Ryan, Caelan   Big Bend HS, Terlingua            12     2      12      X      Region
+Naegele, Abby         Fort Davis H S, Fort Davis        8      3      10      X      Region
+Ponce, Efren          Fort Davis H S, Fort Davis        6      4      8       X      Alternate
+Ramos, Marco Antonio  Balmorhea HS, Balmorhea           4      5      5       X
+Jurado, Isaiah        Balmorhea HS, Balmorhea           4      5      5       X
+Kruger, Justin        Balmorhea HS, Balmorhea           -4     7
+Miles, Jeremy         Fort Davis H S, Fort Davis        -4     7
+Mendoza, Jaquiline    Dell City H S, Dell City          -12    9
+Saxton, Hanna         Sierra Blanca H S, Sierra Blanca  -12    9
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Fort Davis H S, Fort Davis  1     90     1      20      X      Region
+Balmorhea HS, Balmorhea     1     52     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 10)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                              Score  Place  Points  Medal  Advance
+Crook, Ariana              Grandfalls-Royalty H S, Grandfalls  4      1      15      X      Region
+Hawkins, Seven             Rankin H S, Rankin                  2      2      12      X      Region
+Truesdell, Hunter          Sanderson H S, Sanderson            0      3      9       X      Region
+GALINDO, LISANDRA          Rankin H S, Rankin                  0      3      9       X      Region
+Johnson, Dustin            Sanderson H S, Sanderson            -2     5      6       X      Alternate
+Villela-Navarre, Kimberly  Sanderson H S, Sanderson            -4     6      4       X
+Caldwell, Seth             Rankin H S, Rankin                  -6     7
+Abila, Keegan              Grandfalls-Royalty H S, Grandfalls  -8     8
+Cadena, Jerry Lee          Grandfalls-Royalty H S, Grandfalls  -8     8
+Rubio, Analise             Sanderson H S, Sanderson            -16    10
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Grandfalls-Royalty H S, Grandfalls  1     31     1      20      X      Region
+Sanderson H S, Sanderson            1     -6     2      16      X      Alternate
+Rankin H S, Rankin                  1     -4     3      12      X
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 11)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                   Score  Place  Points  Medal  Advance
+Scott, Kelsee     Loop HS, Loop            12     1      15      X      Region
+Salinas, Dianna   Loop HS, Loop            10     2      12      X      Region
+Fraire, Mariah    Loop HS, Loop            0      3      10      X      Region
+Rodriguez, Jochi  O'Donnell HS, O'Donnell  -2     4      8       X      Alternate
+Furlow, William   Dawson HS, Welch         -4     5      6       X
+Taubert, Kolton   Loop HS, Loop            -8     6      4       X
+
+TOP SCORERS
+------------------------------
+School         Team  Score  Place  Points  Medal  Advance
+Loop HS, Loop  1     82     1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 12)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School           Score  Place  Points  Medal  Advance
+Justice, Ben      Borden HS, Gail  240    1      15      X      Region
+Cole, Mason       Borden HS, Gail  60     2      12      X      Region
+Buchanan, Austin  Borden HS, Gail  32     3      10      X      Region
+Fonville, Ben     Ira H S, Ira     2      4      8       X      Alternate
+Cooley, Paxton    Ira H S, Ira     -2     5      6       X
+Jamison, Molly    Ira H S, Ira     -4     6      4       X
+Lewis, Riley      Borden HS, Gail  -6     7
+
+TOP SCORERS
+------------------------------
+School           Team  Score  Place  Points  Medal  Advance
+Borden HS, Gail  1     812    1      20      X      Region
+Ira H S, Ira     1     -4     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 13)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School                   Score  Place  Points  Medal  Advance
+Morris, Karter   Aspermont HS, Aspermont  128    1      15      X      Region
+Martin, Clayton  Aspermont HS, Aspermont  118    2      12      X      Region
+Chavez, Luis     Aspermont HS, Aspermont  52     3      10      X      Region
+Bhakta, Niraj    Aspermont HS, Aspermont  18     4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Aspermont HS, Aspermont  1     718    1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 14)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Saldivar, Sabra     Veribest HS, Veribest          14     1      15      X      Region
+Brinkman, Sam       Blackwell HS, Blackwell        2      2      9       X      Region
+Gott, Grant         Blackwell HS, Blackwell        2      2      9       X      Region
+Solis, Madison      Blackwell HS, Blackwell        2      2      9       X      Region
+Williams, Mercedes  Blackwell HS, Blackwell        2      2      9       X      Region
+Lemons, Mason R     Water Valley HS, Water Valley  -14    6      4       X      Alternate
+Chapman, Billy L    Water Valley HS, Water Valley  -20    7
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Blackwell HS, Blackwell  1     61     1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 15)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                          Score  Place  Points  Medal  Advance
+Sublett, Weston    May HS, May                     10     1      15      X      Region
+Flenniken, Connor  May HS, May                     8      2      12      X      Region
+McMillan, James    Cross Plains H S, Cross Plains  4      3      10      X      Region
+Brennan, L         Rising Star HS, Rising Star     4      4      8       X      Alternate
+Medford, M         Rising Star HS, Rising Star     2      5      6       X
+Pruitt, Dylan      May HS, May                     0      6      4       X
+Patterson, R       Rising Star HS, Rising Star     -2     7
+Willett, H         Rising Star HS, Rising Star     -10    8
+Calvagna, Eddy     Cross Plains H S, Cross Plains  -10    8
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+May HS, May                  1     18     1      20      X      Region
+Rising Star HS, Rising Star  1     4      2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 16)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                  Score  Place  Points  Medal  Advance
+Barron, Christian  Rochelle HS, Rochelle                   10     1      15      X      Region
+Burkhart, Jordan   Richland Springs H S, Richland Springs  4      2      11      X      Region
+Brown, Linden      Richland Springs H S, Richland Springs  4      2      11      X      Region
+Brown, Zach        Richland Springs H S, Richland Springs  -2     4      8       X      Alternate
+Schultz, Ben       Richland Springs H S, Richland Springs  -6     5      6       X
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Richland Springs H S, Richland Springs  1     6      1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 17)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant       School                Score  Place  Points  Medal  Advance
+Polk, Austin     Graford H S, Graford  12     1      15      X      Region
+Phillips, David  Graford H S, Graford  10     2      12      X      Region
+Phillips, Brett  Graford H S, Graford  2      3      10      X      Region
+Davis, Colton    Graford H S, Graford  0      4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School                Team  Score  Place  Points  Medal  Advance
+Graford H S, Graford  1     24     1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 18)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School              Score  Place  Points  Medal  Advance
+Gutierrez, Gustavo  Gorman H S, Gorman  0      1      13.50   X      Region
+Ramirez, Jessica    Gorman H S, Gorman  0      1      13.50   X      Region
+Hipolito, Moses     Gorman H S, Gorman  -26    3      10      X      Region
+
+TOP SCORERS
+------------------------------
+School              Team  Score  Place  Points  Medal  Advance
+Gorman H S, Gorman  1     -26    1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 19)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School               Score  Place  Points  Medal  Advance
+Castillo, Adrian     Gustine HS, Gustine  10     1      15      X      Region
+Murillo, Karina      Gustine HS, Gustine  4      2      12      X      Region
+Terry, Brandon       Zephyr HS, Zephyr    -8     3      10      X      Region
+Lopez, Mark          Blanket HS, Blanket  -10    4      8       X      Alternate
+Mills, Shawn         Blanket HS, Blanket  -10    5      6       X
+Ramirez, Claudia     Gustine HS, Gustine  -10    6      4       X
+Holbach, Malachi     Gustine HS, Gustine  -18    7
+Simpson, Walter      Zephyr HS, Zephyr    -20    8
+Terpening, Thomas    Zephyr HS, Zephyr    -28    9
+Reedy, Shon-Patrick  Zephyr HS, Zephyr    -40    10
+
+TOP SCORERS
+------------------------------
+School               Team  Score  Place  Points  Medal  Advance
+Gustine HS, Gustine  1     -10    1      20      X      Region
+Zephyr HS, Zephyr    1     -152   2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 20)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                Score  Place  Points  Medal  Advance
+Burkett, Camdyne  Blum HS, Blum         2      1      15      X      Region
+Matlock, Chris    Blum HS, Blum         0      2      12      X      Region
+Barnes, Cierra    Blum HS, Blum         -2     3      10      X      Region
+Rochelle, Tyler   Kopperl H S, Kopperl  -6     4      8       X      Alternate
+Allen, Brendan    Blum HS, Blum         -12    5      6       X
+
+TOP SCORERS
+------------------------------
+School         Team  Score  Place  Points  Medal  Advance
+Blum HS, Blum  1     0      1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 21)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                 Score  Place  Points  Medal  Advance
+Johnson, Warren      Slidell HS, Slidell    108    1      15      X      Region
+Coston, Stone        Slidell HS, Slidell    104    2      12      X      Region
+Davis, Dusty         Slidell HS, Slidell    78     3      10      X      Region
+Talamantes, Tristyn  Slidell HS, Slidell    40     4      8       X      Alternate
+Stiteler, Grant      Saint Jo HS, Saint Jo  26     5      6       X
+Ogden, Kyle          Saint Jo HS, Saint Jo  -12    6      4       X
+Pledger, Wesley      Saint Jo HS, Saint Jo  -20    7
+Sanchez, Monica      Saint Jo HS, Saint Jo  -20    7
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Slidell HS, Slidell    1     690    1      20      X      Region
+Saint Jo HS, Saint Jo  1     -6     2      16      X      Alternate
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 22)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School           Score  Place  Points  Medal  Advance
+Parks, Elisabeth  Tioga HS, Tioga  122    1      15      X      Region
+Polley, Owenn     Tioga HS, Tioga  10     2      12      X      Region
+Simes, Abbie      Tioga HS, Tioga  8      3      10      X      Region
+Staples, Ethan    Tioga HS, Tioga  -6     4      8       X      Alternate
+
+TOP SCORERS
+------------------------------
+School           Team  Score  Place  Points  Medal  Advance
+Tioga HS, Tioga  1     140    1      20      X      Region
+
+TEAM RESULTS
+------------------------------
+
+

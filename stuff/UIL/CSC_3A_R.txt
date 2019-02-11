@@ -1,0 +1,248 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                 Score  Place  Points  Medal  Advance
+Chapman, Cole           Wall HS, Wall          208    1      15      X      State
+Moeller, Emily          Wall HS, Wall          194    2      12      X      State
+Chapman, Quinton        Wall HS, Wall          168    3      10      X      State
+Hudson, Chris           Wall HS, Wall          150    4      8       X      Alternate
+Cordell, Kaden          Sonora HS, Sonora      148    5      6       X
+Quinn, Katie            Idalou H S, Idalou     132    6      4       X
+Deray, Rayven           Coleman HS, Coleman    124    7
+Moon, Landon            Brock HS, Brock        114    8
+Locke, Preston          Millsap H S, Millsap   112    9
+Caddell, Dylan          Idalou H S, Idalou     104    10
+Ezzell, Preston         Early H S, Early       96     11
+Otto, Zack              Bowie HS, Bowie        92     12
+VanAllen, Sarah         Bowie HS, Bowie        90     13
+Urbanczyk, Pruitt       Alpine HS, Alpine      84     14
+Arndt, Riley            Alpine HS, Alpine      66     15
+Driscoll, Phillip       Clyde H S, Clyde       62     16
+Clapp, Ethan            Brock HS, Brock        60     17
+Masingale, Katelyn      Bowie HS, Bowie        58     18
+Shannon, Evan           Sonora HS, Sonora      54     19
+Hood, Melody            Canadian HS, Canadian  52     20
+Cook, Quinn             Canadian HS, Canadian  48     21
+Hall, Zane              Brock HS, Brock        46     22
+Moreno, Alex            Canadian HS, Canadian  38     23
+Esparza, Geovanny       Canadian HS, Canadian  38     23
+Emery, Evan             Idalou H S, Idalou     34     25
+Amador, Joey            Coleman HS, Coleman    30     26
+Hall, Summer            Sonora HS, Sonora      26     27
+Fields, Matthew         Alpine HS, Alpine      24     28
+Edwards, Seth           Sonora HS, Sonora      20     29
+Wims, Fallon            Idalou H S, Idalou     14     30
+Murrell, Brittany       Alpine HS, Alpine      14     30
+Schowengerdt, Harrison  Clyde H S, Clyde       14     30
+O'Grady, Colin          Brock HS, Brock        12     33
+Lawhon, Chris           Coleman HS, Coleman    6      34
+Marnell, Mason          Tulia H S, Tulia       0      35
+Johnson, Leif           Jim Ned H S, Tuscola   0      35
+Bowers, Aaron           Clyde H S, Clyde       -4     37
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Wall HS, Wall          1     985    1      20      X      State
+Brock HS, Brock        1     520    2      16      X      Alternate
+Idalou H S, Idalou     1     495    3      12      X
+Sonora HS, Sonora      1     458    4
+Bowie HS, Bowie        1     420    5
+Coleman HS, Coleman    1     340    6
+Clyde H S, Clyde       1     252    7
+Alpine HS, Alpine      1     234    8
+Canadian HS, Canadian  1     198    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                    Score  Place  Points  Medal  Advance
+Shipp, Zachary       Chapel Hill HS, Mt Pleasant               216    1      15      X      State
+Hill, Nate           Ponder HS, Ponder                         184    2      12      X      State
+Harrell, Ben         Harmony School of Innovation, Fort Worth  178    3      10      X      State
+Roots, Laura         Harmony School of Innovation, Fort Worth  148    4      8       X      Alternate
+McAnalley, Shawn     Euless Harmony Science Academy, Euless    140    5      6       X
+Perry, Riley         Chapel Hill HS, Mt Pleasant               136    6      4       X
+Mistry, Divya        Chapel Hill HS, Mt Pleasant               130    7
+Fruth, Brenden       Ponder HS, Ponder                         128    8
+Jones, Kyle          Lone Oak HS, Lone Oak                     126    9
+Hill, Josh           Harmony School of Innovation, Fort Worth  116    10
+Glenn, Chaise        Ponder HS, Ponder                         104    11
+Gage, Michael        Mount Vernon H S, Mount Vernon            104    11
+VanderWal, Tim       Ponder HS, Ponder                         100    13
+Walsh, Brennen       Lone Oak HS, Lone Oak                     86     14
+Blalock, Justin      Quitman HS, Quitman                       86     14
+Swiger, Benjamin     Chapel Hill HS, Mt Pleasant               77     16
+Wright, Cypress      Hughes Springs HS, Hughes Springs         72     17
+Petrilli, Lucio      Harmony School of Innovation, Fort Worth  68     18
+Derryberry, Abigail  Lone Oak HS, Lone Oak                     62     19
+Sears, Hadley        Mount Vernon H S, Mount Vernon            60     20
+Angel, Daniel        Commerce HS, Commerce                     54     21
+Minter, Ben          Mount Vernon H S, Mount Vernon            54     21
+Wu, Sonny B.         Daingerfield H S, Daingerfield            50     23
+Walls, Ty            Lone Oak HS, Lone Oak                     42     24
+Minter, Erick        Mount Vernon H S, Mount Vernon            42     24
+Cowan, Frazier       New Boston H S, New Boston                40     26
+Barker, Jed          Edgewood HS, Edgewood                     28     27
+Anzalone, Dylan      Ore City H S, Ore City                    26     28
+Stout, Danny         Eustace H S, Eustace                      14     29
+Belk, Robby          Sabine HS, Gladewater                     14     29
+Paredes, Amber       Ore City H S, Ore City                    14     29
+Schaefer, Wyatt      Hughes Springs HS, Hughes Springs         12     32
+Edwards, Caden       Hughes Springs HS, Hughes Springs         12     32
+Horton, Carter       Sabine HS, Gladewater                     6      34
+Whitcomb, Adison     Edgewood HS, Edgewood                     4      35
+Simmons, Remington   Edgewood HS, Edgewood                     4      35
+Narvaez, Betzabeth   Ore City H S, Ore City                    2      37
+Pierce, Chance       Edgewood HS, Edgewood                     -2     38
+Skaggs, Dillon       Ore City H S, Ore City                    -4     39
+Griffin, Seth        Sabine HS, Gladewater                     -6     40
+Renauld, Indie       Mineola H S, Mineola                      -14    41
+Scarangella, Josh    Sabine HS, Gladewater                     -28    42
+
+TOP SCORERS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Chapel Hill HS, Mt Pleasant               1     842    1      20      X      State
+Ponder HS, Ponder                         1     771    2      16      X      Alternate
+Harmony School of Innovation, Fort Worth  1     742    3      12      X
+Lone Oak HS, Lone Oak                     1     559    4
+Mount Vernon H S, Mount Vernon            1     333    5
+Hughes Springs HS, Hughes Springs         1     156    6
+Edgewood HS, Edgewood                     1     86     7
+Sabine HS, Gladewater                     1     69     8
+Ore City H S, Ore City                    1     42     9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                        Score  Place  Points  Medal  Advance
+Terrell, Jacob      Elkhart H S, Elkhart          142    1      15      X      State
+Bambeck, Trina      Elkhart H S, Elkhart          118    2      12      X      State
+Franks, Eric        Elkhart H S, Elkhart          110    3      10      X      State
+Hayes, Noah         Grandview H S, Grandview      102    4      8       X      Alternate
+Young, Baylor       Central HS, Pollok            102    5      6       X
+Farnie, Caleb       Buna HS, Buna                 92     6      4       X
+Andrews, William    Elkhart H S, Elkhart          72     7
+Camacho, Jorge      McGregor H S, McGregor        62     8
+Pellerin, Cade      Buna HS, Buna                 60     9
+Tatom, Caleb        Buna HS, Buna                 56     10
+Bowen, Logan        Lexington H S, Lexington      40     11
+Bailey, Koby        Lexington H S, Lexington      38     12
+Calhoun, Cypress M  New Waverly H S, New Waverly  32     13
+Chilton, Joey       Grandview H S, Grandview      30     14
+Russell, Alex       Grandview H S, Grandview      22     15
+Brown, Dawson       McGregor H S, McGregor        22     16
+McGaughey, Michael  Central HS, Pollok            20     17
+Ranniger, Jared     Hemphill H S, Hemphill        18     18
+Smith, Parker       Danbury H S, Danbury          14     19
+Choat, Tristian     McGregor H S, McGregor        14     20
+Sanders, Wesley     Lexington H S, Lexington      12     21
+Lucario, Jordyn L   New Waverly H S, New Waverly  10     22
+Ham, Bryce          Danbury H S, Danbury          4      23
+Floyd, Selia        Newton H S, Newton            4      24
+Roberts, Hunter     Onalaska, Onalaska            2      25
+Irvin, Garrett      Danbury H S, Danbury          2      26
+Pedroza, Jairo      Brazos HS, Wallis             0      27
+Harris, Travis      Buna HS, Buna                 -2     28
+Mills, Marcus S     New Waverly H S, New Waverly  -2     29
+Bradshaw, Kolby     Lexington H S, Lexington      -4     30
+Foster, Colton      Danbury H S, Danbury          -6     31
+Skillern, Lauren A  New Waverly H S, New Waverly  -14    32
+Licea, Marissa      McGregor H S, McGregor        -16    33
+Wright, Christi     Central HS, Pollok            -24    34
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Elkhart H S, Elkhart          1     590    1      20      X      State
+Lexington H S, Lexington      1     390    2      16      X      Alternate
+Buna HS, Buna                 1     383    3      12      X
+McGregor H S, McGregor        1     338    4
+Grandview H S, Grandview      1     329    5
+Central HS, Pollok            1     208    6
+New Waverly H S, New Waverly  1     100    7
+Danbury H S, Danbury          1     80     8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                             Score  Place  Points  Medal  Advance
+Pena, Joe                Palacios H S, Palacios             122    1      15      X      State
+Perera, Anton            BASIS Shavano HS, San Antonio      118    2      12      X      State
+Struck, David, R         Blanco HS, Blanco                  116    3      10      X      State
+Stuhrenberg, Clayton     Palacios H S, Palacios             110    4      8       X      Alternate
+O'Berg, Evan             Randolph HS, Universal City        100    5      6       X
+Castanon, Daniel         Palacios H S, Palacios             96     6      4       X
+Adlawan, Bren            Randolph HS, Universal City        94     7
+Drum, Cadence, E         Blanco HS, Blanco                  90     8
+Walsh, Andrew            Natalia H S, Natalia               78     9
+Bellamy, Trevor          Goliad H S, Goliad                 72     10
+Huerta, RJ               Cole HS, San Antonio               68     11
+Engel, Jackson           Palacios H S, Palacios             68     11
+Cantu, Ramiro            IDEA College Prep, McAllen         68     11
+Tippets, Andrew          Lago Vista HS, Lago Vista          64     14
+Guzman-Morales, Brandon  Cole HS, San Antonio               64     14
+Harrison, Ryan           Randolph HS, Universal City        64     14
+Grim, Jasmine            Cole HS, San Antonio               56     17
+Suniura, Gabriel         Lago Vista HS, Lago Vista          52     18
+Cruz, Victor             Goliad H S, Goliad                 52     18
+Tranbarger, Preston      BASIS Shavano HS, San Antonio      46     20
+Powell, Andrew           Hallettsville H S, Hallettsville   46     20
+Olvera, Kevin            IDEA Quest College Prep, Edinburg  38     22
+McNorton, Russell        London HS, Corpus Christi          36     23
+Johnson, Hunter          Randolph HS, Universal City        32     24
+Shuck, Parker            Cole HS, San Antonio               30     25
+Bravo, Gerardo           IDEA College Prep, McAllen         30     25
+Nieto Becerril, Saul     Lago Vista HS, Lago Vista          26     27
+Schoener, Cecilia        Goliad H S, Goliad                 26     27
+Barnett, Mitchell, W     Blanco HS, Blanco                  24     29
+Leos, Kassandra          Skidmore-Tynan HS, Skidmore        18     30
+Ochoa, Donovan           Skidmore-Tynan HS, Skidmore        18     30
+Lazo, Amado              San Diego HS, San Diego            16     32
+Beard, Brendan           London HS, Corpus Christi          10     33
+Ramirez, Mark            London HS, Corpus Christi          10     33
+Stubblefield, Taylor     London HS, Corpus Christi          6      35
+Robles, Laura            IDEA College Prep, McAllen         4      36
+Bernal, Lorenzo          Cotulla HS, Cotulla                0      37
+Blakeslee, Seth, M       Blanco HS, Blanco                  0      37
+Salinas, Tyler           Skidmore-Tynan HS, Skidmore        -4     39
+Perez, Josue             Cotulla HS, Cotulla                -4     39
+Vargas, Fernanda         IDEA College Prep, McAllen         -4     39
+Garcia, Valerie          San Diego HS, San Diego            -8     42
+Kiniskey, Marc Anthony   Cotulla HS, Cotulla                -8     42
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Palacios H S, Palacios       1     668    1      20      X      State
+Randolph HS, Universal City  1     553    2      16      X      Alternate
+Blanco HS, Blanco            1     455    3      12      X
+Lago Vista HS, Lago Vista    1     262    4
+Cole HS, San Antonio         1     248    5
+IDEA College Prep, McAllen   1     217    6
+Goliad H S, Goliad           1     150    7
+London HS, Corpus Christi    1     106    8
+Skidmore-Tynan HS, Skidmore  1     32     9
+Cotulla HS, Cotulla          1     -12    10
+
+TEAM RESULTS
+------------------------------
+
+

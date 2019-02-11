@@ -1,0 +1,262 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                       Score  Place  Points  Medal  Advance
+Chaloupka, Dakota      Jim Ned H S, Tuscola         252    1      15      X      State
+Tighe, Kristin         Brock HS, Brock              224    2      12      X      State
+Hamilton, Luke         Brock HS, Brock              224    3      10      X      State
+Eshelman, Keely        Jim Ned H S, Tuscola         217    4      8       X      Alternate
+Beasley, Chassity      Jim Ned H S, Tuscola         217    5      3.33    X
+Bussell, Sarah         Brock HS, Brock              217    5      3.33    X
+Lancaster, Matthew     City View HS, Wichita Falls  217    5      3.33    X
+Mann, Mary             Brock HS, Brock              217    8
+Stogsdill, Emily       Jim Ned H S, Tuscola         196    9
+Tarigan, Matthew       Early H S, Early             182    10
+Wampler, Braden        City View HS, Wichita Falls  156    11
+Metcalf, Mason         City View HS, Wichita Falls  156    11
+Karg, Heather          Paradise HS, Paradise        149    13
+Peters, Wyatt          River Road HS, Amarillo      140    14
+Stewart, Noah          Coleman HS, Coleman          140    14
+Nguyen, Hung           Kermit H S, Kermit           135    16
+Hood, Melody           Canadian HS, Canadian        133    17
+Venzor, Lizeth         Muleshoe H S, Muleshoe       133    17
+Canales, Jaral-Sophia  Bangs HS, Bangs              133    17
+Hunter, Bo             Early H S, Early             129    20
+Dockray, Tayler        Canadian HS, Canadian        128    21
+DeGuia, Rose           Alpine HS, Alpine            128    21
+Light, Dawson          Bangs HS, Bangs              126    23
+Melendez, Joely        Muleshoe H S, Muleshoe       121    24
+Fink, Kaitlyn          Shallowater HS, Shallowater  114    25
+Aviles, Anghy          Muleshoe H S, Muleshoe       112    26
+Campos, Adrian         Grape Creek HS, San Angelo   112    26
+Alexander, Abby        Wall HS, Wall                112    26
+Edgin, Ben             Bangs HS, Bangs              112    26
+Martinez, Dora         City View HS, Wichita Falls  107    30
+Rice, Brandon          Alpine HS, Alpine            100    31
+Urbanczyk, Pruitt      Alpine HS, Alpine            99     32
+Herrera, Alexa         Muleshoe H S, Muleshoe       98     33
+Duderstadt, Lura       Wall HS, Wall                98     33
+Gully, Hannah          Wall HS, Wall                93     35
+Williams, Gage         Alpine HS, Alpine            91     36
+Rodriguez, Ethan       Wall HS, Wall                83     37
+Poling, Abigail        Bangs HS, Bangs              65     38
+Ortega, Alondra        Canadian HS, Canadian        63     39
+Cook, Darby            Canadian HS, Canadian        56     40
+McConn, Ty             Early H S, Early             51     41
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Jim Ned H S, Tuscola         1     686    1      10      X      State
+Brock HS, Brock              1     665    2      5       X      Alternate
+City View HS, Wichita Falls  1     529    3
+Bangs HS, Bangs              1     371    4
+Muleshoe H S, Muleshoe       1     366    5
+Early H S, Early             1     362    6
+Alpine HS, Alpine            1     327    7
+Canadian HS, Canadian        1     324    8
+Wall HS, Wall                1     303    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                             Score  Place  Points  Medal  Advance
+Taylor, Scottie      Sabine HS, Gladewater              301    1      15      X      State
+Arterberry, Reese    Ponder HS, Ponder                  273    2      12      X      State
+Ackley, Jared        Whitesboro HS, Whitesboro          273    3      10      X      State
+Taylor, Michael      Sabine HS, Gladewater              266    4      8       X      Alternate
+Lewis, Jaylen        Sabine HS, Gladewater              245    5      6       X
+Davidson, Asia       Sabine HS, Gladewater              224    6      4       X
+Wright, Cypress      Hughes Springs HS, Hughes Springs  224    7
+Gilmore, Zachary T   Daingerfield H S, Daingerfield     224    8
+Hutcherson, Sam      Ponder HS, Ponder                  191    9
+Jang, Joseph         Commerce HS, Commerce              190    10
+Gonzalez, Victor M.  Daingerfield H S, Daingerfield     189    11
+Proffer, Harmony     Callisburg HS, Gainesville         182    12
+Beasley, Natalie L.  Daingerfield H S, Daingerfield     182    12
+VanderWal, Tim       Ponder HS, Ponder                  177    14
+Stewart, Calli       Hughes Springs HS, Hughes Springs  175    15
+Pena, Victoria       Ore City H S, Ore City             175    15
+Laney, Jansen M.     Daingerfield H S, Daingerfield     168    17
+Sisk, Mitchell       Farmersville H S, Farmersville     161    18
+Howard, Dallas       Ponder HS, Ponder                  156    19
+Hoar, Jonathan       Farmersville H S, Farmersville     156    19
+Gage, Michael        Mount Vernon H S, Mount Vernon     153    21
+Byrd, Tanner         Hughes Springs HS, Hughes Springs  147    22
+Darby, Hailey        Grand Saline H S, Grand Saline     142    23
+Narvaez, Kenya       Ore City H S, Ore City             142    23
+Freeman, Andi        Ore City H S, Ore City             141    25
+Moses, Sabrina       Farmersville H S, Farmersville     135    26
+Upadhyay, Ekta       Sunnyvale HS, Sunnyvale            135    26
+Doke, Allison        Winnsboro HS, Winnsboro            135    26
+Pendarvis, Hannah    Ore City H S, Ore City             135    26
+Martinez, Saul       Chapel Hill HS, Mt Pleasant        128    30
+Gigi, Jiben          Sunnyvale HS, Sunnyvale            126    31
+Priddy, Cameron      Hughes Springs HS, Hughes Springs  119    32
+McCoy, Hunter        Farmersville H S, Farmersville     114    33
+Rivers, Danae        Edgewood HS, Edgewood              107    34
+Carnes, Shayne       Grand Saline H S, Grand Saline     99     35
+Valdez, Brisa        Life School Oak Cliff, Dallas      93     36
+Baker, Talani        Sunnyvale HS, Sunnyvale            93     36
+Johnson, Joyce       Sunnyvale HS, Sunnyvale            91     38
+Keith, Kayla         Mineola H S, Mineola               91     38
+Garcia, David        Grand Saline H S, Grand Saline     91     38
+Martinez, Sarai      Chapel Hill HS, Mt Pleasant        85     41
+Foster, Gavin        Grand Saline H S, Grand Saline     84     42
+Castanon, Jasmine    Chapel Hill HS, Mt Pleasant        82     43
+Garcia, Janeth       Chapel Hill HS, Mt Pleasant        78     44
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Sabine HS, Gladewater              1     812    1      10      X      State
+Ponder HS, Ponder                  1     641    2      5       X      Alternate
+Daingerfield H S, Daingerfield     1     595    3
+Hughes Springs HS, Hughes Springs  1     546    4
+Ore City H S, Ore City             1     458    5
+Farmersville H S, Farmersville     1     452    6
+Sunnyvale HS, Sunnyvale            1     354    7
+Grand Saline H S, Grand Saline     1     332    8
+Chapel Hill HS, Mt Pleasant        1     295    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                         Score  Place  Points  Medal  Advance
+Cruzanaya, Zoe N      New Waverly H S, New Waverly   194    1      15      X      State
+Burzynski, Brianna S  New Waverly H S, New Waverly   189    2      12      X      State
+Edney, Cade S         New Waverly H S, New Waverly   175    3      10      X      State
+Dominguez, Sonia      Buffalo HS, Buffalo            154    4      8       X      Alternate
+Chodrick, Troy G      New Waverly H S, New Waverly   149    5      6       X
+Williams, Camden      Academy HS, Little River       135    6      4       X
+Barnett, Cassie       Elkhart H S, Elkhart           135    7
+Andel, Courtney       Rogers H S, Rogers             135    7
+Daniel, Bekah         East Chambers H S, Winnie      135    7
+Moreno Tavera, Ruby   Brazos HS, Wallis              135    7
+Culver, Austin        Bruceville-Eddy HS, Eddy       133    11
+Marek, Kolton         Brazos HS, Wallis              133    11
+Furman, Brianna       Grandview H S, Grandview       128    13
+Meyers, Cheyenne      Bruceville-Eddy HS, Eddy       128    13
+Young, Baylor         Central HS, Pollok             128    13
+Farnie, Caleb         Buna HS, Buna                  128    13
+Kemmer, Cassie        East Chambers H S, Winnie      128    13
+Jetelina, Kennedy     Brazos HS, Wallis              126    18
+So, Hanna             Grandview H S, Grandview       121    19
+Terrell, Jacob        Elkhart H S, Elkhart           121    19
+Ashby, Landon         Academy HS, Little River       121    19
+Smith, Calvin         Academy HS, Little River       121    19
+Long, Lance           East Chambers H S, Winnie      121    19
+McAdams, Robert       Corrigan-Camden H S, Corrigan  120    24
+Burch, Hope           Bruceville-Eddy HS, Eddy       119    25
+Graybill, Erica       Bruceville-Eddy HS, Eddy       114    26
+Bench, Katie          Grandview H S, Grandview       107    27
+Bradley, Brian        Elkhart H S, Elkhart           107    27
+Walker, Shelby        Corrigan-Camden H S, Corrigan  107    27
+Kovar, Savanah        Brazos HS, Wallis              99     30
+Chervenka, Jessica    Rogers H S, Rogers             96     31
+Tatom, Caleb          Buna HS, Buna                  90     32
+Roden, Addie          Grandview H S, Grandview       86     33
+Melendez, Maria       Rogers H S, Rogers             68     34
+Sparkman, Tucker      Elkhart H S, Elkhart           65     35
+Kahla, Bailey         East Chambers H S, Winnie      55     36
+Kostroun, Caleb       Rogers H S, Rogers             51     37
+Thompson, David       Corrigan-Camden H S, Corrigan  46     38
+Casper, Cole          Corrigan-Camden H S, Corrigan  45     39
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+New Waverly H S, New Waverly   1     558    1      10      X      State
+Brazos HS, Wallis              1     394    2      5       X      Alternate
+East Chambers H S, Winnie      1     384    3
+Bruceville-Eddy HS, Eddy       1     380    4
+Academy HS, Little River       1     377    5
+Elkhart H S, Elkhart           1     363    6
+Grandview H S, Grandview       1     356    7
+Rogers H S, Rogers             1     299    8
+Corrigan-Camden H S, Corrigan  1     273    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                              Score  Place  Points  Medal  Advance
+Requenez, Mateo       Falfurrias H S, Falfurrias          185    1      15      X      State
+Burke, Patrick        Falfurrias H S, Falfurrias          160    2      12      X      State
+Cosper, Michael       Goliad H S, Goliad                  156    3      10      X      State
+Sutanto, Antony       London HS, Corpus Christi           154    4      8       X      Alternate
+Tranbarger, Preston   BASIS Shavano HS, San Antonio       153    5      6       X
+Taulbee, Caleb        Industrial H S, Vanderbilt          142    6      1.33    X
+Vela, Maddison        Falfurrias H S, Falfurrias          142    6      1.33    X
+Venegas, Fernando     Monte Alto High School, Monte Alto  142    6      1.33    X
+Ramirez, Alexa        Cotulla HS, Cotulla                 130    9
+DeLuna, Damaris       Goliad H S, Goliad                  128    10
+Paz, Jose             IDEA College Prep, Pharr            128    10
+Saldana, Emeteria     Lyford H S, Lyford                  121    12
+Lara, Jacqueline      Falfurrias H S, Falfurrias          115    13
+Nguyen, Priscilla     Palacios H S, Palacios              112    14
+Hamouda, Husam        London HS, Corpus Christi           112    14
+Estrada, Maria        IDEA College Prep, Pharr            112    14
+Pustka, Briana        Schulenburg H S, Schulenburg        110    17
+Vasquez, Axel         IDEA College Prep, Pharr            110    17
+Knight, Sierra        Marion HS, Marion                   107    19
+Ramos, Adrian         Industrial H S, Vanderbilt          107    19
+Snoga, Camryn         Poth HS, Poth                       106    21
+Richendollar, Hannah  London HS, Corpus Christi           105    22
+Cruz, Victor          Goliad H S, Goliad                  103    23
+Burke, Schuyler       Lago Vista HS, Lago Vista           102    24
+Wang, Darius          BASIS Shavano HS, San Antonio       102    24
+Friudenberg, Alyssa   London HS, Corpus Christi           101    26
+Miranda, Aurora, A    Blanco HS, Blanco                   99     27
+Otto, Alyssa          Schulenburg H S, Schulenburg        95     28
+Kelley, Jonah         Lago Vista HS, Lago Vista           93     29
+Olivo, Bryan          IDEA College Prep, Pharr            92     30
+Teegardin, Matthew    Florence H S, Florence              91     31
+Silcox, Rece          Schulenburg H S, Schulenburg        91     31
+Otto, Erica           Schulenburg H S, Schulenburg        90     33
+Darilek, Seth         Industrial H S, Vanderbilt          90     33
+D'Lorm, Raoult        Lago Vista HS, Lago Vista           86     35
+Estrada, Marilysa     Skidmore-Tynan HS, Skidmore         86     35
+Choucair, Marc        BASIS Shavano HS, San Antonio       84     37
+Pharris, Garrett      Lago Vista HS, Lago Vista           83     38
+Gibson, Charles       Marion HS, Marion                   79     39
+Tullos, Alexandra     Hallettsville H S, Hallettsville    78     40
+Livas, Bella          Goliad H S, Goliad                  76     41
+Hesita, Caleb         BASIS Shavano HS, San Antonio       75     42
+Duvall, Corwyn        George West HS, George West         75     42
+Pierce, Devon         Industrial H S, Vanderbilt          69     44
+Emerson, Elizabeth    George West HS, George West         58     45
+Terry, Taylor         George West HS, George West         25     46
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Falfurrias H S, Falfurrias     1     487    1      10      X      State
+Goliad H S, Goliad             1     387    2      5       X      Alternate
+London HS, Corpus Christi      1     371    3
+IDEA College Prep, Pharr       1     350    4
+BASIS Shavano HS, San Antonio  1     339    5
+Industrial H S, Vanderbilt     1     339    5
+Schulenburg H S, Schulenburg   1     296    7
+Lago Vista HS, Lago Vista      1     281    8
+George West HS, George West    1     158    9
+
+TEAM RESULTS
+------------------------------
+
+

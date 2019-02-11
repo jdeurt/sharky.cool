@@ -1,0 +1,260 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                   Score  Place  Points  Medal  Advance
+Evans, Julia          Sundown H S, Sundown     246    1      15      X      State
+Webb, Brittan         Sundown H S, Sundown     216    2      12      X      State
+Terry, Abbigail       Sundown H S, Sundown     212    3      10      X      State
+Beadles, Jacob        Sundown H S, Sundown     204    4      8       X      Alternate
+TORRALBA, MANUEL      Ozona H S, Ozona         200    5      6       X
+Carrillo, Joshua      Abernathy HS, Abernathy  196    6      4       X
+TORRALBA, HUMBERTO    Ozona H S, Ozona         194    7
+Thomas, Tanner        Haskell H S, Haskell     172    8
+Gryder, Brad          Irion Co HS, Mertzon     138    9
+ELLIOTT, CHANTZ       Ozona H S, Ozona         134    10
+Dareing, Andrew       Irion Co HS, Mertzon     122    11
+Harper, Aaron         Sudan HS, Sudan          118    12
+Harding, Dakota       New Deal H S, New Deal   110    13
+CANO, CITLALI         Ozona H S, Ozona         104    14
+Monds, Philip         Clarendon HS, Clarendon  100    15
+Macias, Adrian        Abernathy HS, Abernathy  98     16
+Maurer, Colbi         Iraan H S, Iraan         98     16
+Dutchover, David      Irion Co HS, Mertzon     92     18
+Chapa, Braydn         Abernathy HS, Abernathy  88     19
+Yosten, Madison       Vega HS, Vega            78     20
+Means, Conlan         Wheeler HS, Wheeler      76     21
+Dictson, Eli          Sudan HS, Sudan          74     22
+Gist, RB              Vega HS, Vega            72     23
+Cortez, Aaron         Abernathy HS, Abernathy  72     23
+Williams, Dalin       West Texas HS, Stinnett  70     25
+Scott, Spencer        Irion Co HS, Mertzon     70     25
+Maurer, Clint         Iraan H S, Iraan         66     27
+Martinez, Ariel       Haskell H S, Haskell     64     28
+Drenth, Harm          Clarendon HS, Clarendon  62     29
+Lancaster, Nathan     Vega HS, Vega            60     30
+Hadaway, Hollyn       Haskell H S, Haskell     56     31
+Smith, Trent          Clarendon HS, Clarendon  52     32
+Rogel, Priscilla      Iraan H S, Iraan         52     32
+Walker, Macy          Vega HS, Vega            50     34
+Melendez, Beatriz     Sudan HS, Sudan          50     34
+Hernandez, Maykala S  Lockney H S, Lockney     40     36
+Kelp, Keegan          Gruver HS, Gruver        34     37
+Howell, Tucker        Sudan HS, Sudan          26     38
+Ortiz, Elena          Iraan H S, Iraan         26     38
+Weatherton, Kira      Clarendon HS, Clarendon  24     40
+Isbell, Hagen         Haskell H S, Haskell     22     41
+Stevenson, Colby      Hamlin HS, Hamlin        0      42
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Sundown H S, Sundown     1     674    1      10      X      State
+Ozona H S, Ozona         1     528    2      5       X      Alternate
+Abernathy HS, Abernathy  1     382    3
+Irion Co HS, Mertzon     1     352    4
+Haskell H S, Haskell     1     292    5
+Sudan HS, Sudan          1     242    6
+Iraan H S, Iraan         1     216    7
+Clarendon HS, Clarendon  1     214    8
+Vega HS, Vega            1     210    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                           Score  Place  Points  Medal  Advance
+Craigie, Brandon          Lindsay H S, Lindsay             254    1      15      X      State
+Endres, Colby J           Muenster HS, Muenster            228    2      12      X      State
+Worth, Cameron            Lindsay H S, Lindsay             198    3      10      X      State
+Munns, Connor             Martin's Mill HS, Martin's Mill  196    4      8       X      Alternate
+Sprague, Dalton           Poolville HS, Poolville          168    5      6       X
+Meece, Luke               Lindsay H S, Lindsay             150    6      4       X
+Ermis, Aaron              Seymour HS, Seymour              122    7
+Habert, Emma              Seymour HS, Seymour              116    8
+Fuhrmann, Justin          Lindsay H S, Lindsay             102    9
+DeJong, Paige             Hamilton H S, Hamilton           98     10
+Walterscheid, Sterling G  Muenster HS, Muenster            92     11
+Homan, Cody               Martin's Mill HS, Martin's Mill  92     11
+Estraca, Gavin            Seymour HS, Seymour              88     13
+Thomas, Wyatt             Poolville HS, Poolville          88     13
+Nors, Rachel              Trenton HS, Trenton              86     15
+Menefee, Hakeem           Big Sandy H S, Big Sandy         84     16
+Schroeder, Coby           Windthorst HS, Windthorst        80     17
+Kelly, Sarah              Poolville HS, Poolville          80     17
+Wilhelm, Jacob            Archer City HS, Archer City      72     19
+Lamon, Emily              Avery HS, Avery                  72     19
+Pasley, Cole              Avery HS, Avery                  70     21
+Morrow, Eve               Martin's Mill HS, Martin's Mill  60     22
+Minter, Carson            Big Sandy H S, Big Sandy         58     23
+Herrin, Thaddeus          Goldthwaite H S, Goldthwaite     56     24
+Eddington, Alyssa         Hawkins HS, Hawkins              56     24
+Dirkse, Zac               Meridian H S, Meridian           52     26
+Ramey, Nick               Wolfe City HS, Wolfe City        48     27
+Stoffels, Andrew C        Muenster HS, Muenster            46     28
+Kuhn, Bryce               Big Sandy H S, Big Sandy         42     29
+Stroebel, Channing        Seymour HS, Seymour              38     30
+Holmes, Emily             Big Sandy H S, Big Sandy         38     30
+Dulaney, Katy             Meridian H S, Meridian           36     32
+Montgomery, Justin        Wolfe City HS, Wolfe City        36     32
+Rogers, Landrey           Martin's Mill HS, Martin's Mill  36     32
+Nunez, Xavier             Meridian H S, Meridian           34     35
+Gonzales, Gracie          Wolfe City HS, Wolfe City        34     35
+Sherwin, Jared            Celeste HS, Celeste              30     37
+Hausler, Mayson           Avery HS, Avery                  28     38
+Neri, Yesenia             Meridian H S, Meridian           26     39
+Walterscheid, Dean T      Muenster HS, Muenster            14     40
+Martinez, Fabian          Wolfe City HS, Wolfe City        12     41
+Bridges, Brianna          Avery HS, Avery                  10     42
+Fowler, Branden           Rivercrest HS, Bogata            0      43
+Woods, Gunner             Poolville HS, Poolville          0      43
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Lindsay H S, Lindsay             1     602    1      10      X      State
+Muenster HS, Muenster            1     366    2      5       X      Alternate
+Martin's Mill HS, Martin's Mill  1     348    3
+Poolville HS, Poolville          1     336    4
+Seymour HS, Seymour              1     326    5
+Big Sandy H S, Big Sandy         1     184    6
+Avery HS, Avery                  1     170    7
+Meridian H S, Meridian           1     122    8
+Wolfe City HS, Wolfe City        1     118    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                           Score  Place  Points  Medal  Advance
+Townsend, Eastman     Latexo H S, Latexo               288    1      15      X      State
+Craven, Camryn        Latexo H S, Latexo               256    2      12      X      State
+Catoe, Riley          Latexo H S, Latexo               230    3      10      X      State
+Bustamante, Laura     Latexo H S, Latexo               208    4      8       X      Alternate
+Alexander, Evan       Meyer HS, Waco                   150    5      6       X
+Chaiyabud, Pear       San Augustine HS, San Augustine  124    6      4       X
+Patterson, Nathan     Douglass H S, Douglass           116    7
+Russell, Ryan         San Augustine HS, San Augustine  108    8
+Blood, Kirk           Sabine Pass HS, Sabine Pass      108    8
+Bruno, Alex           Crawford H S, Crawford           106    10
+Espinoza, Adrian      Sabine Pass HS, Sabine Pass      98     11
+Weatherman, Jonathan  Crawford H S, Crawford           96     12
+Hassell, James        Colmesneil HS, Colmesneil        84     13
+Hall, Alyssa          Cross Roads HS, Malakoff         76     14
+Harmon, David         Colmesneil HS, Colmesneil        74     15
+Younger, Katie-Lynne  Itasca H S, Itasca               66     16
+Timmons, Connor       Timpson HS, Timpson              66     16
+Magana, Jorge         Sabine Pass HS, Sabine Pass      64     18
+Mabry, Julius         Colmesneil HS, Colmesneil        62     19
+Browning, Mason       Crawford H S, Crawford           56     20
+Cormier, R.J.         Hubbard HS, Hubbard              56     20
+Church, Zachary       Itasca H S, Itasca               56     20
+Moore, Matthew        Cross Roads HS, Malakoff         52     23
+Ray, Rhoni            Cushing HS, Cushing              52     23
+Wang, Kexin           San Augustine HS, San Augustine  50     25
+Ocon, Jose            San Augustine HS, San Augustine  48     26
+Antis, Peyton A       Bremond HS, Bremond              44     27
+Willis, Drake         Cushing HS, Cushing              44     27
+Plemons, Colby        Crawford H S, Crawford           42     29
+Greeson, Ethan        Itasca H S, Itasca               40     30
+Turner, Preston       Cross Roads HS, Malakoff         36     31
+Grubbs, Riannon       Kerens H S, Kerens               34     32
+Thao, Angelina        Itasca H S, Itasca               34     32
+Couch, Thomas         Hubbard HS, Hubbard              28     34
+Lee, Tori             Cushing HS, Cushing              26     35
+Galvan, Adrian        Sabine Pass HS, Sabine Pass      24     36
+Blackman, Landon      Hubbard HS, Hubbard              22     37
+Belt, Morgan          Colmesneil HS, Colmesneil        16     38
+Wilson, Jeremiah      Cushing HS, Cushing              10     39
+Richardson, Jayce     Hubbard HS, Hubbard              4      40
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Latexo H S, Latexo               1     774    1      10      X      State
+San Augustine HS, San Augustine  1     282    2      5       X      Alternate
+Sabine Pass HS, Sabine Pass      1     270    3
+Crawford H S, Crawford           1     258    4
+Colmesneil HS, Colmesneil        1     220    5
+Cross Roads HS, Malakoff         1     164    6
+Itasca H S, Itasca               1     162    7
+Cushing HS, Cushing              1     122    8
+Hubbard HS, Hubbard              1     106    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Wooten, Nick        Harper H S, Harper             206    1      15      X      State
+Kile, Kristen       Three Rivers HS, Three Rivers  112    2      12      X      State
+Brown, Benjamin     Port Aransas HS, Port Aransas  96     3      9       X      State
+Cruces, Carolina    Three Rivers HS, Three Rivers  96     3      9       X      State
+Pascznk, Juliea     Harper H S, Harper             92     5      5       X      Alternate
+Overton, Alexandra  Shiner HS, Shiner              92     5      5       X      Alternate
+Lambert, Josh       San Saba HS, San Saba          90     7
+Saint, Read         San Saba HS, San Saba          90     7
+Hebert, Benjamin    Port Aransas HS, Port Aransas  84     9
+Mallett, Hailey     Iola HS, Iola                  82     10
+Bruce, Gordon A     Brackett HS, Brackettville     82     10
+Moon, William C.    Stacey H S, San Antonio        80     12
+Britton, Dakota     Brackett HS, Brackettville     80     12
+Bradicich, Hannah   Iola HS, Iola                  78     14
+Dague, Kolby        Holland H S, Holland           76     15
+Moya, Josh          Three Rivers HS, Three Rivers  76     15
+Weins, Joshua       Holland H S, Holland           70     17
+Nevlud, Lane        Shiner HS, Shiner              68     18
+Steglich, Erin      Holland H S, Holland           66     19
+Bouldin, Becky      Normangee HS, Normangee        60     20
+Nevill, Taylor      Iola HS, Iola                  58     21
+Wenske, Taylor      Shiner HS, Shiner              58     21
+Poling, Kyge        Thrall HS, Thrall              56     23
+Lowrance, Shawna    Harper H S, Harper             56     23
+Shimek, Jared       Shiner HS, Shiner              54     25
+Barello, Jordan     Port Aransas HS, Port Aransas  54     25
+Rodriguez, Sammy    Brackett HS, Brackettville     50     27
+Rendon, Drew        Holland H S, Holland           48     28
+Havens, Autumn      Woodsboro HS, Woodsboro        46     29
+Meado, Abigail      San Saba HS, San Saba          44     30
+Graham, Catherine   Three Rivers HS, Three Rivers  42     31
+Garcia, Marco A.    La Villa HS, La Villa          42     31
+Barrett, Nathan     Normangee HS, Normangee        38     33
+Siordia, Maria A.   La Villa HS, La Villa          34     34
+Love, Ryan          Port Aransas HS, Port Aransas  26     35
+Rodriguez, Quentin  Brackett HS, Brackettville     22     36
+Salazar, Victoria   La Villa HS, La Villa          22     36
+Stevens, Briana     Harper H S, Harper             20     38
+Hinojosa, Mathew    La Villa HS, La Villa          16     39
+Herrera, Sakima     San Saba HS, San Saba          16     39
+Gaiepy, Levi        Iola HS, Iola                  6      41
+Flores, Allen       San Isidro HS, San Isidro      -14    42
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Harper H S, Harper             1     354    1      10      X      State
+Three Rivers HS, Three Rivers  1     284    2      5       X      Alternate
+Port Aransas HS, Port Aransas  1     234    3
+San Saba HS, San Saba          1     224    4
+Iola HS, Iola                  1     218    5
+Shiner HS, Shiner              1     218    5
+Holland H S, Holland           1     212    7
+Brackett HS, Brackettville     1     212    7
+La Villa HS, La Villa          1     98     9
+
+TEAM RESULTS
+------------------------------
+
+

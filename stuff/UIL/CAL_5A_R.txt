@@ -1,0 +1,250 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Zhang, Phyllis       Lubbock HS, Lubbock                   294    1      15      X      State
+Carrillo, Gabriel    Canutillo HS, El Paso                 287    2      12      X      State
+Corona, Ricardo      Canutillo HS, El Paso                 285    3      10      X      State
+Lara, Brian          Canutillo HS, El Paso                 273    4      8       X      Alternate
+McCarty, Joseph      Lubbock HS, Lubbock                   244    5      6       X
+Carmona, Christian   Chapin HS, El Paso                    224    6      2       X
+Tovar, Carlos        Canutillo HS, El Paso                 224    6      2       X
+Santosa, Mardhika    Grapevine H S, Grapevine              217    8
+Watts, Jake          Lubbock HS, Lubbock                   211    9
+Cole, Annie          Azle HS, Azle                         211    9
+Montes, Daniela      Del Valle HS, El Paso                 210    11
+Olivas, Derek        Austin HS, El Paso                    209    12
+Moriel, Cesar        Del Valle HS, El Paso                 196    13
+Wilhelm, Holly       Dumas H S, Dumas                      191    14
+Marquez, Diana       Del Valle HS, El Paso                 189    15
+Yeh, Shao-Min        Lubbock HS, Lubbock                   184    16
+Conner, Jenna        Azle HS, Azle                         177    17
+Villagrana, Sandra   Young Women's Leadership, Fort Worth  177    17
+Torres, Abigail      Chapin HS, El Paso                    175    19
+Valencic, Luka       Grapevine H S, Grapevine              166    20
+Hill, Madison        Canyon HS, Canyon                     161    21
+Garcia, Robert       Del Valle HS, El Paso                 161    21
+Carlston, Nathan     Rider H S, Wichita Falls              158    23
+Santosa, Utari       Grapevine H S, Grapevine              158    23
+Sewell, Julian       Canyon HS, Canyon                     149    25
+Wilson, Sarah        Azle HS, Azle                         149    25
+Le, Kyle V.          Chapin HS, El Paso                    147    27
+Howard, Morgan       Canyon HS, Canyon                     147    27
+Fisher, Colton       Sherman H S, Sherman                  142    29
+Tanna, Vivek         Grapevine H S, Grapevine              139    30
+Hossain, Abdullah    Sherman H S, Sherman                  134    31
+Fernandez, Samantha  Canyon HS, Canyon                     133    32
+Baez, Hector         North Side HS, Fort Worth             120    33
+Dorris, Maddi        Sherman H S, Sherman                  114    34
+Lopez, Carolina      North Side HS, Fort Worth             114    34
+Mascorro, Janet      North Side HS, Fort Worth             96     36
+Alvarez, Yonathan    Chapin HS, El Paso                    93     37
+Arguello, Natalie    North Side HS, Fort Worth             92     38
+McGinn, Sarah        Sherman H S, Sherman                  74     39
+Schroeder, Griffin   Azle HS, Azle                         62     40
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Canutillo HS, El Paso      1     845    1      10      X      State
+Lubbock HS, Lubbock        1     749    2      5       X      Alternate
+Del Valle HS, El Paso      1     595    3
+Chapin HS, El Paso         1     546    4
+Grapevine H S, Grapevine   1     541    5
+Azle HS, Azle              1     537    6
+Canyon HS, Canyon          1     457    7
+Sherman H S, Sherman       1     390    8
+North Side HS, Fort Worth  1     330    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                              Score  Place  Points  Medal  Advance
+Davenport, John           Prosper HS, Prosper                 245    1      15      X      State
+Luo, Richard              Highland Park H S, Dallas           238    2      12      X      State
+Liera, Jose               Mount Pleasant H S, Mount Pleasant  238    3      10      X      State
+Windon, Alexander         Prosper HS, Prosper                 231    4      8       X      Alternate
+Hickey, Andrew            Hallsville H S, Hallsville          231    5      6       X
+Shirvaikar, Vinit         Liberty HS, Frisco                  231    6      4       X
+Nandekar, Parth           Highland Park H S, Dallas           229    7
+Barboza, David            Mount Pleasant H S, Mount Pleasant  228    8
+Sheard, Hannah            Hallsville H S, Hallsville          224    9
+Saiboonchan, Pornphiphat  Mount Pleasant H S, Mount Pleasant  222    10
+Sangineni, Pradyun        Liberty HS, Frisco                  210    11
+Keith, Austin             Prosper HS, Prosper                 210    11
+Mohler, Abby              Hallsville H S, Hallsville          205    13
+Garner, Austin            Prosper HS, Prosper                 203    14
+Li, Amy                   Highland Park H S, Dallas           203    14
+Mohler, Andrew            Hallsville H S, Hallsville          198    16
+Nandagopal, Govind        Liberty HS, Frisco                  196    17
+Liu, Andy                 Liberty HS, Frisco                  189    18
+Shahid, Sanum             Mount Pleasant H S, Mount Pleasant  189    18
+Lee, Tyler                Timberview HS, Arlington            165    20
+Moncrief, Chase           Lake Ridge HS, Mansfield            149    21
+Bathan, Ben               Lake Ridge HS, Mansfield            147    22
+Wang, Stacy               Highland Park H S, Dallas           146    23
+Cano, Yuliana             Everman H S, Everman                142    24
+Kavanaugh, Zachary        Everman H S, Everman                136    25
+Cano, Gerardo             Everman H S, Everman                135    26
+Chuong, Ashley            Lake Ridge HS, Mansfield            135    26
+Martinez, David           Adams HS, Dallas                    126    28
+Robbins, Brant            Joshua HS, Joshua                   100    29
+Dusek, Collin             Hillcrest HS, Dallas                95     30
+Nguyen, Michelle          Lake Ridge HS, Mansfield            93     31
+Pazzi, Scarlett           Hillcrest HS, Dallas                83     32
+Hernandez, Claudia        Seagoville H S, Dallas              77     33
+Huang, Kaishen            Everman H S, Everman                64     34
+Selene, Rangel            Seagoville H S, Dallas              58     35
+Romero, Kimberly          Hillcrest HS, Dallas                49     36
+Negatu, Elias             Hillcrest HS, Dallas                47     37
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Mount Pleasant H S, Mount Pleasant  1     688    1      10      X      State
+Prosper HS, Prosper                 1     686    2      5       X      Alternate
+Highland Park H S, Dallas           1     670    3
+Hallsville H S, Hallsville          1     660    4
+Liberty HS, Frisco                  1     637    5
+Lake Ridge HS, Mansfield            1     431    6
+Everman H S, Everman                1     413    7
+Hillcrest HS, Dallas                1     227    8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                               Score  Place  Points  Medal  Advance
+Song, Ethan         Wisdom H S, Houston                  273    1      15      X      State
+Guerrero, Mauricio  Wisdom H S, Houston                  238    2      12      X      State
+Ni, Aaron           Wisdom H S, Houston                  231    3      10      X      State
+Yu, Fu-Yao          Elkins H S, Missouri City            224    4      8       X      Alternate
+Aimihoue, Bai       Wisdom H S, Houston                  222    5      6       X
+Alford, Ryan        Magnolia HS, Magnolia                211    6      4       X
+Romero, Claudio     Ennis H S, Ennis                     210    7
+Matous, Nathan      Ennis H S, Ennis                     196    8
+Kim, Joon           College Station HS, College Station  196    8
+Studwell, Alex      Tomball Memorial HS, Tomball         195    10
+Mahone, Katie       Ennis H S, Ennis                     189    11
+Hu, Amelia "Amy"    College Station HS, College Station  189    11
+Singh, Ashish       Elkins H S, Missouri City            189    11
+Li, Selena          A & M Cons HS, College Station       186    14
+Malhotra, Radha     Tomball Memorial HS, Tomball         186    14
+McGinnis, Hannah    Whitehouse HS, Whitehouse            177    16
+Rasmussen, Melissa  A & M Cons HS, College Station       174    17
+Hood, Ronald        Elkins H S, Missouri City            169    18
+Triana, LizBeth     Ennis H S, Ennis                     168    19
+Kolenbrander, Josh  Cedar Park HS, Cedar Park            167    20
+Zhang, Alan         Tomball Memorial HS, Tomball         163    21
+Saravanan, Rithvik  Cedar Park HS, Cedar Park            161    22
+Yan, Bryan          College Station HS, College Station  156    23
+Kim, Phillip        College Station HS, College Station  154    24
+Yang, Melissa       A & M Cons HS, College Station       149    25
+Whitehead, Justin   Lumberton HS, Lumberton              148    26
+Thomsen, Zachery    Hutto H S, Hutto                     147    27
+Bote, Gerardo       Barbers Hill HS, Mont Belvieu        143    28
+Phung, Noreen       Lumberton HS, Lumberton              142    29
+Wang, Bill          A & M Cons HS, College Station       139    30
+Hannah, Alexander   Lumberton HS, Lumberton              128    31
+Si, Jack            Cedar Park HS, Cedar Park            117    32
+Gonzalez, Brayant   Dayton H S, Dayton                   114    33
+Ngo, Nathan         Shadow Creek HS, Pearland            112    34
+Burce, Joanna       Nederland H S, Nederland             107    35
+Contreras, Kayla    Lee H S, Baytown                     104    36
+Eng, William        Tomball Memorial HS, Tomball         102    37
+Garcia, Luis        Lee H S, Baytown                     98     38
+Mendoza, Carlos     Lee H S, Baytown                     93     39
+Nguyen, Luke        Lumberton HS, Lumberton              93     39
+Lee, Kate           Cedar Park HS, Cedar Park            87     41
+Garcia, Nayeli      Lee H S, Baytown                     0      42
+Levesque, Keilan    Texas City HS, Texas City            0      42
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Wisdom H S, Houston                  1     742    1      10      X      State
+Ennis H S, Ennis                     1     595    2      5       X      Alternate
+Elkins H S, Missouri City            1     582    3
+Tomball Memorial HS, Tomball         1     544    4
+College Station HS, College Station  1     541    5
+A & M Cons HS, College Station       1     509    6
+Cedar Park HS, Cedar Park            1     445    7
+Lumberton HS, Lumberton              1     418    8
+Lee H S, Baytown                     1     295    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                           Score  Place  Points  Medal  Advance
+Lee, Bryan            Sharyland Pioneer HS, Mission    231.1  1      13.50   X      State
+Garza, Joel           Edcouch-Elsa H S, Edcouch        231.1  1      13.50   X      State
+Real, Gerard          Tivy HS, Kerrville               217    3      10      X      State
+Biediger, Holden      Gregory-Portland H S, Portland   210    4      8       X      Alternate
+Liu, Joanna           Flour Bluff H S, Corpus Christi  203    5      6       X
+Gonzalez, Damian      Veterans Memorial H S, Mission   198.1  6      4       X
+Black, Nathan         Flour Bluff H S, Corpus Christi  198    7
+Ohba, Yuka            Sharyland HS, Mission            198    7
+Iglesias, Michael     Veterans Memorial H S, Mission   197    9
+Watson, Kirk          Tivy HS, Kerrville               196    10
+Watson, Cullen        Tivy HS, Kerrville               196    10
+Tinajero, Alicia      Edcouch-Elsa H S, Edcouch        196    10
+Chavez, Luis          Veterans Memorial H S, Mission   177    13
+Mendoza, Mariela      Sharyland Pioneer HS, Mission    177    13
+Li, Zhengjun          Tivy HS, Kerrville               175    15
+Garza, Neida          Edcouch-Elsa H S, Edcouch        175    15
+Moreno, Ernesto       Edcouch-Elsa H S, Edcouch        175    15
+Rodriguez, Chloe      Flour Bluff H S, Corpus Christi  170    18
+Lam, Kelly            Veterans Memorial H S, Mission   163    19
+Colunga, Francisco    Early College HS, Laredo         161    20
+De la Rosa, Gabriel   Sharyland Pioneer HS, Mission    156    21
+Kemp, Elizabeth       Flour Bluff H S, Corpus Christi  150    22
+Liu, Alexander        Calhoun HS, Port Lavaca          147    23
+ROSAS, ALEXYA         Winn HS, Eagle Pass              136    24
+ONTIVEROS, DANIEL     Winn HS, Eagle Pass              121    25
+Gaytan, Joshua        Sharyland Pioneer HS, Mission    121    25
+Zermeno, Janette      Memorial H S, San Antonio        120    27
+Williams, David       Austin HS, Austin                119    28
+CASTILLON, ALEXANDRA  Winn HS, Eagle Pass              119    28
+Wang, Meggie          Foster H S, Richmond             116    30
+McGahagin, Alex       Austin HS, Austin                107    31
+Chen, Jason           Calhoun HS, Port Lavaca          93     32
+Rojas, Jennifer       Memorial H S, San Antonio        86     33
+Dai, Quanjie          Calhoun HS, Port Lavaca          84     34
+Moreno, Jade          Memorial H S, San Antonio        79     35
+Seeds, Shea           Austin HS, Austin                75     36
+Chudoba, Joshua       Terry HS, Rosenberg              62     37
+Chen, Vincent         Calhoun HS, Port Lavaca          42     38
+Isidoro, Yamilet      Memorial H S, San Antonio        37     39
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Tivy HS, Kerrville               1     609    1      10      X      State
+Edcouch-Elsa H S, Edcouch        1     602.1  2      5       X      Alternate
+Veterans Memorial H S, Mission   1     572.1  3
+Flour Bluff H S, Corpus Christi  1     571    4
+Sharyland Pioneer HS, Mission    1     564.1  5
+Winn HS, Eagle Pass              1     376    6
+Calhoun HS, Port Lavaca          1     324    7
+Austin HS, Austin                1     301    8
+Memorial H S, San Antonio        1     285    9
+
+TEAM RESULTS
+------------------------------
+
+

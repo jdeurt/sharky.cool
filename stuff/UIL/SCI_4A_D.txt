@@ -1,0 +1,1656 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                  Score  Place  Points  Medal  Advance
+Nelson, Lars        Borger HS, Borger       178    1      15      X      Region
+Moran, Jacob T.     Bushland HS, Bushland   70     2      10      X      Region
+Hamid, Rohoman      Borger HS, Borger       70     2      10      X      Region
+Wright, Lindsey     Dalhart HS, Dalhart     70     2      10      X      Region
+Moreno, Bryan       Perryton H S, Perryton  66     5      6       X      Alternate
+Bradford, Kenton    Dalhart HS, Dalhart     64     6      4       X
+Garcia, Caitlyn     Dalhart HS, Dalhart     64     7
+Sarem, Natasha R.   Bushland HS, Bushland   62     8
+Sprinkle, Carter    Pampa HS, Pampa         52     9
+Quist, Ryan         Perryton H S, Perryton  44     10
+Herron, Lynn        Pampa HS, Pampa         42     11
+Bailey, Pearson     Borger HS, Borger       38     12
+Garcia, Danira      Dalhart HS, Dalhart     38     12
+Renteria, Max       Pampa HS, Pampa         36     14
+Marquez, Jackie     Perryton H S, Perryton  34     15
+Davis, Katherine    Borger HS, Borger       34     15
+Borunda, Fabian     Perryton H S, Perryton  32     17
+Townsend, Cole      Perryton H S, Perryton  32     17
+Moran, Scott P.     Bushland HS, Bushland   28     19
+Garland, Ronnie     Pampa HS, Pampa         26     20
+Hansen, Mads        Perryton H S, Perryton  24     21
+Gaines, Madison     Dalhart HS, Dalhart     24     21
+Cochran, Justin L.  Bushland HS, Bushland   18     23
+Garcia, Lynnette    Dalhart HS, Dalhart     16     24
+Miranda, Jose       Pampa HS, Pampa         10     25
+Miller, Hunter J.   Bushland HS, Bushland   8      26
+Cuevas, Brittany    Pampa HS, Pampa         6      27
+
+TOP SCORERS
+------------------------------
+Contestant         School       Results               Points
+Bradford, Kenton   Dalhart HS   Top Scorer Biology    3
+Moran, Jacob T.    Bushland HS  Alternate Biology     0
+Nelson, Lars       Borger HS    Top Scorer Chemistry  3
+Wright, Lindsey    Dalhart HS   Alternate Chemistry   0
+Nelson, Lars       Borger HS    Top Scorer Physics    3
+Sarem, Natasha R.  Bushland HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Borger HS, Borger       1     286    1      10      X      Region
+Dalhart HS, Dalhart     1     198    2      5       X      Alternate
+Bushland HS, Bushland   1     160    3
+Perryton H S, Perryton  1     144    4
+Pampa HS, Pampa         1     130    5
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                        Score  Place  Points  Medal  Advance
+Riddle, CJ           Levelland H S, Levelland      106    1      15      X      Region
+Fidaleo, Jane        Levelland H S, Levelland      76     2      12      X      Region
+Bustos, Marisol      Levelland H S, Levelland      70     3      10      X      Region
+White, Joel          Levelland H S, Levelland      70     4      8       X      Alternate
+Ayala, Jesus         Seminole H S, Seminole        64     5      6       X
+Garcia, Avery        Denver City H S, Denver City  58     6      4       X
+Edens, Grady         Levelland H S, Levelland      52     7
+Mills, Josh          Denver City H S, Denver City  50     8
+Williams, Caitlin    Denver City H S, Denver City  50     8
+Olveda, Jose         Brownfield HS, Brownfield     50     8
+Nelson, Tucker       Brownfield HS, Brownfield     40     11
+Torres, Livian       Lamesa HS, Lamesa             32     12
+Powell, Emma         Brownfield HS, Brownfield     30     13
+Laramore, Carter     Seminole H S, Seminole        30     13
+Blanco, Daven        Denver City H S, Denver City  24     15
+Swanger, John        Levelland H S, Levelland      24     15
+Cavarrubio, Jordan   Estacado HS, Lubbock          22     17
+Whitfield, Keianna   Estacado HS, Lubbock          22     17
+Fehr, Zachary        Seminole H S, Seminole        20     19
+Smith, Caden         Brownfield HS, Brownfield     20     19
+Huffman, Kiera       Lamesa HS, Lamesa             18     21
+Walton, Kaylan       Estacado HS, Lubbock          18     21
+Martinez, Stephen    Brownfield HS, Brownfield     16     23
+Longoria, Taryn      Brownfield HS, Brownfield     14     24
+Huffman, Elaina      Lamesa HS, Lamesa             12     25
+Carmona, Aylin       Denver City H S, Denver City  12     25
+Baca, Susano         Estacado HS, Lubbock          10     27
+Moore, Melissa       Seminole H S, Seminole        10     27
+Soto, Tony           Lamesa HS, Lamesa             8      29
+Morales, Abby        Denver City H S, Denver City  8      29
+Easterwood, Whitney  Seminole H S, Seminole        6      31
+Harrison, Kaitlin    Seminole H S, Seminole        6      31
+Moore, Rodney        Estacado HS, Lubbock          4      33
+Plaza, Bianca        Lamesa HS, Lamesa             2      34
+Ortiz, Kennedy       Lamesa HS, Lamesa             -2     35
+
+TOP SCORERS
+------------------------------
+Contestant        School         Results               Points
+Bustos, Marisol   Levelland H S  Top Scorer Biology    3
+Riddle, CJ        Levelland H S  Alternate Biology     0
+Riddle, CJ        Levelland H S  Top Scorer Chemistry  3
+Fidaleo, Jane     Levelland H S  Alternate Chemistry   0
+Laramore, Carter  Seminole H S   Top Scorer Physics    3
+Nelson, Tucker    Brownfield HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Levelland H S, Levelland      1     252    1      10      X      Region
+Denver City H S, Denver City  1     158    2      5       X      Alternate
+Brownfield HS, Brownfield     1     120    3
+Seminole H S, Seminole        1     114    4
+Estacado HS, Lubbock          1     62     5
+Lamesa HS, Lamesa             1     62     5
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Myra, Hernandez     Clint H S, Clint            48     1      15      X      Region
+Trejo, Ernesto      Fabens H S, Fabens          46     2      12      X      Region
+Nunez, Alan         Fabens H S, Fabens          42     3      10      X      Region
+Saenz, Emery        Fabens H S, Fabens          40     4      8       X      Alternate
+Alarcon, Aaron      Clint H S, Clint            38     5      6       X
+Floy, Hilary        Mountain View H S, El Paso  34     6      4       X
+Rodriguez, Jesus    Mountain View H S, El Paso  32     7
+Garcia, Obed        Mountain View H S, El Paso  28     8
+Banuelos, Cristian  Clint H S, Clint            26     9
+Chavez, Maite       Fabens H S, Fabens          24     10
+Rocha, Evelyn       Clint H S, Clint            22     11
+Gutierrez, Abram    Mountain View H S, El Paso  20     12
+Chacon, Julissa     Fabens H S, Fabens          16     13
+Munoz, Delilah      Fabens H S, Fabens          10     14
+Cortez, Yared       Clint H S, Clint            10     14
+Gutierrez, Amanda   Mountain View H S, El Paso  0      16
+Carrillo, Jason     Mountain View H S, El Paso  -2     17
+Lasyone, Nathan     Clint H S, Clint            -10    18
+
+TOP SCORERS
+------------------------------
+Contestant          School             Results               Points
+Alarcon, Aaron      Clint H S          Top Scorer Biology    3
+Saenz, Emery        Fabens H S         Alternate Biology     0
+Floy, Hilary        Mountain View H S  Alternate Biology     0
+Myra, Hernandez     Clint H S          Top Scorer Chemistry  3
+Banuelos, Cristian  Clint H S          Alternate Chemistry   0
+Trejo, Ernesto      Fabens H S         Top Scorer Physics    3
+Rodriguez, Jesus    Mountain View H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Fabens H S, Fabens          1     128    1      10      X      Region
+Clint H S, Clint            1     112    2      5       X      Alternate
+Mountain View H S, El Paso  1     94     3
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                            Score  Place  Points  Medal  Advance
+Buckner, Dustin      Andrews HS, Andrews               116    1      15      X      Region
+Barton, Jordan       Andrews HS, Andrews               94     2      12      X      Region
+Bell, Christian      Greenwood H S, Midland            72     3      10      X      Region
+Silvestre, Paloma    Fort Stockton H S, Fort Stockton  60     4      8       X      Alternate
+Sandoval, Ethan      Pecos H S, Pecos                  56     5      6       X
+Scott, Korbin        Andrews HS, Andrews               54     6      2       X
+Reyes, Ricardo       Greenwood H S, Midland            54     6      2       X
+Valenzuela, Jaylene  Greenwood H S, Midland            46     8
+Rodriguez, Rebecca   Fort Stockton H S, Fort Stockton  44     9
+Rodriguez, Adam      Pecos H S, Pecos                  44     9
+Savage, Ty           Fort Stockton H S, Fort Stockton  40     11
+Bernal, Raquelle     Fort Stockton H S, Fort Stockton  36     12
+Stallings, Leyla     Andrews HS, Andrews               36     12
+Stallings, Prudence  Andrews HS, Andrews               30     14
+Estorga, J'lynn      Pecos H S, Pecos                  24     15
+Jasso, Ashlee        Fort Stockton H S, Fort Stockton  22     16
+Fawcett, Brynli      Greenwood H S, Midland            20     17
+Salas, Miguel        Fort Stockton H S, Fort Stockton  14     18
+Cook, Carsten        Greenwood H S, Midland            14     18
+Ledesma, Daisey      Greenwood H S, Midland            10     20
+Tran, Jason          Monahans H S, Monahans            10     20
+Hickman, Jakob       Monahans H S, Monahans            6      22
+Wilson, Randall      Pecos H S, Pecos                  0      23
+Jackson, Jaityn      Andrews HS, Andrews               -2     24
+Porras, Javier       Monahans H S, Monahans            -2     24
+
+TOP SCORERS
+------------------------------
+Contestant           School             Results               Points
+Barton, Jordan       Andrews HS         Top Scorer Biology    3
+Buckner, Dustin      Andrews HS         Alternate Biology     0
+Buckner, Dustin      Andrews HS         Top Scorer Chemistry  3
+Barton, Jordan       Andrews HS         Alternate Chemistry   0
+Valenzuela, Jaylene  Greenwood H S      Alternate Chemistry   0
+Bell, Christian      Greenwood H S      Top Scorer Physics    3
+Silvestre, Paloma    Fort Stockton H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Andrews HS, Andrews               1     264    1      10      X      Region
+Greenwood H S, Midland            1     172    2      5       X      Alternate
+Fort Stockton H S, Fort Stockton  1     144    3
+Pecos H S, Pecos                  1     124    4
+Monahans H S, Monahans            1     14     5
+
+(region num: 5)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Kearney, Josh      Wylie HS, Abilene           248    1      15      X      Region
+Merket, Connor     Wylie HS, Abilene           138    2      12      X      Region
+Roberts, Tyler     Wylie HS, Abilene           130    3      10      X      Region
+Amonett, Payton    Wylie HS, Abilene           122    4      8       X      Alternate
+Witemyer, Wyatt    Wylie HS, Abilene           116    5      6       X
+Kearney, Hope      Wylie HS, Abilene           114    6      4       X
+Hicks, Trent       Sweetwater H S, Sweetwater  104    7
+Lopez, Tyler       Big Spring HS, Big Spring   70     8
+Collette, Ransom   Big Spring HS, Big Spring   60     9
+Le, Jeremy         Sweetwater H S, Sweetwater  52     10
+Chavez, Christian  Snyder H S, Snyder          50     11
+Phillips, Jordan   Snyder H S, Snyder          46     12
+Jenkins, Hayley    Big Spring HS, Big Spring   44     13
+Blount, Daniel     Big Spring HS, Big Spring   44     13
+Cortez, Ethan      Sweetwater H S, Sweetwater  44     13
+Flores, Skylar     Snyder H S, Snyder          38     16
+Chance, Kaitlyn    Sweetwater H S, Sweetwater  34     17
+Martini, Kellee    Snyder H S, Snyder          32     18
+Guynes, Collin     Snyder H S, Snyder          32     18
+Collette, Rowan    Big Spring HS, Big Spring   28     20
+McClain, Eli       Snyder H S, Snyder          26     21
+Coppedge, Jacob    Sweetwater H S, Sweetwater  26     21
+Melendez, Andrea   Big Spring HS, Big Spring   4      23
+Haider, Sameer     Wylie HS, Abilene           0      24
+Zhang, Andrew      Wylie HS, Abilene           0      24
+
+TOP SCORERS
+------------------------------
+Contestant       School    Results               Points
+Kearney, Josh    Wylie HS  Top Scorer Biology    3
+Merket, Connor   Wylie HS  Alternate Biology     0
+Kearney, Josh    Wylie HS  Top Scorer Chemistry  3
+Witemyer, Wyatt  Wylie HS  Alternate Chemistry   0
+Kearney, Josh    Wylie HS  Top Scorer Physics    3
+Roberts, Tyler   Wylie HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Wylie HS, Abilene           1     516    1      10      X      Region
+Sweetwater H S, Sweetwater  1     200    2      5       X      Alternate
+Big Spring HS, Big Spring   1     174    3
+Snyder H S, Snyder          1     134    4
+
+(region num: 6)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Dehnert, Brady       Burkburnett HS, Burkburnett  184    1      15      X      Region
+Beasley, Brittany    Burkburnett HS, Burkburnett  158    2      12      X      Region
+Keeton, Timothy      Burkburnett HS, Burkburnett  132    3      10      X      Region
+Wang, Jacob          Hirschi H S, Wichita Falls   122    4      8       X      Alternate
+Goodman-Blue, Evan   Hirschi H S, Wichita Falls   116    5      6       X
+Alpers, Michael      Burkburnett HS, Burkburnett  102    6      4       X
+Agyepong, Kweku      Hirschi H S, Wichita Falls   98     7
+Carlson, Kiersten    Burkburnett HS, Burkburnett  92     8
+Nicolas, Alexis      Hirschi H S, Wichita Falls   90     9
+Jones, Joel          Graham H S, Graham           78     10
+Nzeh-Biko, Gordian   Hirschi H S, Wichita Falls   74     11
+Le, Anna             Iowa Park H S, Iowa Park     66     12
+Patel, Bhavin        Hirschi H S, Wichita Falls   64     13
+Ramirez, Jorge       Graham H S, Graham           62     14
+Hay, Micaelah        Graham H S, Graham           54     15
+Hernandez, Joe       Graham H S, Graham           42     16
+Allen, Michael       Vernon H S, Vernon           40     17
+Daniel, Caleb        Burkburnett HS, Burkburnett  30     18
+Green, Korbyn        Iowa Park H S, Iowa Park     26     19
+Castleberry, Truman  Vernon H S, Vernon           24     20
+Smith, Hailey        Iowa Park H S, Iowa Park     20     21
+Horn, Brek           Vernon H S, Vernon           20     21
+Choate, Lainey       Graham H S, Graham           16     23
+Bhakta, Rahal        Vernon H S, Vernon           12     24
+Olvera, Alicia       Graham H S, Graham           12     24
+Gilbert, Kenzie      Iowa Park H S, Iowa Park     6      26
+
+TOP SCORERS
+------------------------------
+Contestant          School          Results               Points
+Nicolas, Alexis     Hirschi H S     Top Scorer Biology    3
+Dehnert, Brady      Burkburnett HS  Alternate Biology     0
+Keeton, Timothy     Burkburnett HS  Top Scorer Chemistry  3
+Dehnert, Brady      Burkburnett HS  Alternate Chemistry   0
+Dehnert, Brady      Burkburnett HS  Top Scorer Physics    3
+Beasley, Brittany   Burkburnett HS  Alternate Physics     0
+Goodman-Blue, Evan  Hirschi H S     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Burkburnett HS, Burkburnett  1     474    1      10      X      Region
+Hirschi H S, Wichita Falls   1     336    2      5       X      Alternate
+Graham H S, Graham           1     194    3
+Iowa Park H S, Iowa Park     1     112    4
+Vernon H S, Vernon           1     84     5
+
+(region num: 7)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                               Score  Place  Points  Medal  Advance
+Acosta, Jay              Kennedale H S, Kennedale             198    1      15      X      Region
+Carangan, Janlloyd       Kennedale H S, Kennedale             112    2      12      X      Region
+Ham, Olivia              Kennedale H S, Kennedale             102    3      10      X      Region
+Lacasse, Devontae        Castleberry HS, Fort Worth           80     4      8       X      Alternate
+Gilbreath, Kate          Mineral Wells H S, Mineral Wells     78     5      6       X
+Marquez, Ramon           Kennedale H S, Kennedale             74     6      4       X
+Young, Allison           Kennedale H S, Kennedale             70     7
+Kuhn, Noah               Mineral Wells H S, Mineral Wells     66     8
+Shipp, Shelby            Mineral Wells H S, Mineral Wells     62     9
+Badger, William          Kennedale H S, Kennedale             60     10
+Zerby, Isaac             Springtown HS, Springtown            52     11
+Franco Perez, Estrella   Diamond Hill-Jarvis H S, Fort Worth  38     12
+Price, Ben               Benbrook HS, Benbrook                38     12
+Tieu, Khang              Castleberry HS, Fort Worth           36     14
+Cerda, Migdalia          Diamond Hill-Jarvis H S, Fort Worth  34     15
+Tyree, Megan             Springtown HS, Springtown            34     15
+Malmberg, Scotty         Springtown HS, Springtown            34     15
+Malmberg, Jane           Springtown HS, Springtown            32     18
+Fry, Holden              Springtown HS, Springtown            28     19
+Walls, Matthew           Benbrook HS, Benbrook                28     19
+Williams, Declan         Mineral Wells H S, Mineral Wells     26     21
+Delgado, Jesus           Diamond Hill-Jarvis H S, Fort Worth  24     22
+O'Bannon, Colby          Mineral Wells H S, Mineral Wells     24     22
+Martinez, Kobe           Lake Worth HS, Lake Worth            24     22
+Martin, Monte            Benbrook HS, Benbrook                22     25
+Northrup, Timothy Kaleb  Springtown HS, Springtown            14     26
+Jaimes-Demecio, Leticia  Diamond Hill-Jarvis H S, Fort Worth  8      27
+Davis, Lacoda            Mineral Wells H S, Mineral Wells     0      28
+Ramirez, Jesus           Lake Worth HS, Lake Worth            -14    29
+
+TOP SCORERS
+------------------------------
+Contestant          School             Results               Points
+Badger, William     Kennedale H S      Top Scorer Biology    3
+Ham, Olivia         Kennedale H S      Alternate Biology     0
+Acosta, Jay         Kennedale H S      Top Scorer Chemistry  3
+Carangan, Janlloyd  Kennedale H S      Alternate Chemistry   0
+Acosta, Jay         Kennedale H S      Top Scorer Physics    3
+Kuhn, Noah          Mineral Wells H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Kennedale H S, Kennedale             1     412    1      10      X      Region
+Mineral Wells H S, Mineral Wells     1     206    2      5       X      Alternate
+Springtown HS, Springtown            1     120    3
+Diamond Hill-Jarvis H S, Fort Worth  1     96     4
+Benbrook HS, Benbrook                1     88     5
+
+(region num: 8)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Lansdowne, Carson   Midlothian Heritage HS, Midlothian  198    1      15      X      Region
+Gibbs, Taryn        Stephenville H S, Stephenville      150    2      12      X      Region
+Beaty, Lauren       Stephenville H S, Stephenville      138    3      10      X      Region
+Rios, Mariana       Stephenville H S, Stephenville      136    4      8       X      Alternate
+Lumbreras, Victor   Stephenville H S, Stephenville      132    5      6       X
+Heitman, Dustin     Midlothian Heritage HS, Midlothian  122    6      2       X
+Wisdom, John        Glen Rose H S, Glen Rose            122    6      2       X
+Bell, Macy          Midlothian Heritage HS, Midlothian  122    8
+Lucas, Carter       Midlothian Heritage HS, Midlothian  110    9
+Dowell, Leah        Stephenville H S, Stephenville      110    9
+Phillips, Noah      Glen Rose H S, Glen Rose            98     11
+Boivert, Jared      Midlothian Heritage HS, Midlothian  96     12
+Mendoza, Andrea     Glen Rose H S, Glen Rose            94     13
+Deckard, Mitchell   Stephenville H S, Stephenville      86     14
+Hawkins, Harrison   Glen Rose H S, Glen Rose            74     15
+Joudeh, Sami        Midlothian Heritage HS, Midlothian  50     16
+Miller, Orrin       Glen Rose H S, Glen Rose            50     16
+Cotton, Anaya       Alvarado HS, Alvarado               40     18
+Beha, Jordan        Godley H S, Godley                  36     19
+Alford, Wade        Alvarado HS, Alvarado               36     19
+Roberts, Bryce      Venus HS, Venus                     34     21
+Duarte, Amey        Venus HS, Venus                     32     22
+Ogletree, Laura     Glen Rose H S, Glen Rose            30     23
+Shoemaker, Gabe     Godley H S, Godley                  30     23
+Marable, Travis     Godley H S, Godley                  24     25
+Franklin, Eli       Godley H S, Godley                  24     25
+Petty, Veronica     Alvarado HS, Alvarado               22     27
+Fullerton, Micheal  Alvarado HS, Alvarado               22     27
+Woolheater, Collin  Venus HS, Venus                     18     29
+Aguilera, Antonio   Venus HS, Venus                     8      30
+Duarte, Emelee      Venus HS, Venus                     6      31
+Hoffman, Sarah      Venus HS, Venus                     6      31
+Fender, Clayton     Godley H S, Godley                  0      33
+
+TOP SCORERS
+------------------------------
+Contestant         School                  Results               Points
+Heitman, Dustin    Midlothian Heritage HS  Top Scorer Biology    3
+Bell, Macy         Midlothian Heritage HS  Alternate Biology     0
+Lansdowne, Carson  Midlothian Heritage HS  Top Scorer Chemistry  3
+Wisdom, John       Glen Rose H S           Alternate Chemistry   0
+Lansdowne, Carson  Midlothian Heritage HS  Top Scorer Physics    3
+Rios, Mariana      Stephenville H S        Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Midlothian Heritage HS, Midlothian  1     442    1      10      X      Region
+Stephenville H S, Stephenville      1     424    2      5       X      Alternate
+Glen Rose H S, Glen Rose            1     314    3
+Alvarado HS, Alvarado               1     98     4
+Godley H S, Godley                  1     90     5
+Venus HS, Venus                     1     84     6
+
+(region num: 9)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                        Score  Place  Points  Medal  Advance
+Hennes, Andrew        Argyle HS, Argyle             340    1      15      X      Region
+Mohar, Nicholas       Argyle HS, Argyle             256    2      12      X      Region
+Darnell, Matthew      Argyle HS, Argyle             138    3      10      X      Region
+Wang, Ben             Lebanon Trail HS, Frisco      134    4      8       X      Alternate
+Bau, Eric             Lebanon Trail HS, Frisco      126    5      6       X
+Gilbert, Michael      Argyle HS, Argyle             124    6      4       X
+Barton, Cole          Bridgeport HS, Bridgeport     122    7
+Zhu, Oliver           Lebanon Trail HS, Frisco      116    8
+Gandhi, Sonali        Argyle HS, Argyle             114    9
+Robertson, John       Argyle HS, Argyle             106    10
+Sinnathomby, Avery    Lebanon Trail HS, Frisco      94     11
+Mok, Ryan             Lebanon Trail HS, Frisco      94     11
+Wimmer, Abby          Krum H S, Krum                74     13
+Bishop, Nicholas      Decatur HS, Decatur           74     13
+Lane, Kaitlyn         Decatur HS, Decatur           64     15
+Chancellor, Dalton    Gainesville H S, Gainesville  62     16
+Khalilullah, Taha     Lebanon Trail HS, Frisco      60     17
+Eaton, Noah           Sanger H S, Sanger            56     18
+Brown, Hannah         Krum H S, Krum                50     19
+Chang, Kelli          Krum H S, Krum                44     20
+Culpepper, Elizabeth  Decatur HS, Decatur           44     20
+Jones, Parker         Gainesville H S, Gainesville  42     22
+Silva, Leevi          Krum H S, Krum                40     23
+Bradford, Andy        Decatur HS, Decatur           38     24
+Tan, Matthew          Gainesville H S, Gainesville  36     25
+Hunt, Austin          Sanger H S, Sanger            34     26
+Farrell, Kelli        Sanger H S, Sanger            34     26
+Kirksey, Autumn       Sanger H S, Sanger            32     28
+Aldape, Janelle       Decatur HS, Decatur           30     29
+Phillips, Nathanael   Bridgeport HS, Bridgeport     28     30
+Long, Jacob           Gainesville H S, Gainesville  24     31
+Pierson, Kira         Krum H S, Krum                22     32
+Moreno, Ivette        Gainesville H S, Gainesville  22     32
+Garcia, Luis          Gainesville H S, Gainesville  18     34
+Vila, Fabian          Krum H S, Krum                14     35
+Stotts, Andrew        Bridgeport HS, Bridgeport     6      36
+
+TOP SCORERS
+------------------------------
+Contestant       School     Results               Points
+Hennes, Andrew   Argyle HS  Top Scorer Biology    3
+Mohar, Nicholas  Argyle HS  Alternate Biology     0
+Hennes, Andrew   Argyle HS  Top Scorer Chemistry  3
+Mohar, Nicholas  Argyle HS  Alternate Chemistry   0
+Hennes, Andrew   Argyle HS  Top Scorer Physics    3
+Mohar, Nicholas  Argyle HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Argyle HS, Argyle             1     734    1      10      X      Region
+Lebanon Trail HS, Frisco      1     376    2      5       X      Alternate
+Decatur HS, Decatur           1     182    3
+Krum H S, Krum                1     168    4
+Bridgeport HS, Bridgeport     1     156    5
+Gainesville H S, Gainesville  1     140    6
+Sanger H S, Sanger            1     124    7
+
+(region num: 10)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                              Score  Place  Points  Medal  Advance
+Dowell, Eleanor    Uplift North Hills Prep HS, Irving  112    1      15      X      Region
+Lanka, Maanasa     Ranchview H S, Irving               44     2      11      X      Region
+Mayfield, Imani    Ranchview H S, Irving               44     2      11      X      Region
+layth, rowan       Uplift North Hills Prep HS, Irving  32     4      8       X      Alternate
+Walker, Katie      Ranchview H S, Irving               20     5      6       X
+Patel, Aryan       Ranchview H S, Irving               6      6      4       X
+Shaikh, Hamza      Ranchview H S, Irving               0      7
+Loxaya, Esmeralda  Carter HS, Dallas                   -24    8
+
+TOP SCORERS
+------------------------------
+Contestant       School                      Results               Points
+Lanka, Maanasa   Ranchview H S               Top Scorer Biology    3
+Mayfield, Imani  Ranchview H S               Alternate Biology     0
+Dowell, Eleanor  Uplift North Hills Prep HS  Top Scorer Chemistry  3
+layth, rowan     Uplift North Hills Prep HS  Alternate Chemistry   0
+Dowell, Eleanor  Uplift North Hills Prep HS  Top Scorer Physics    3
+Walker, Katie    Ranchview H S               Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Ranchview H S, Irving  1     108    1      10      X      Region
+
+(region num: 11)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                   Score  Place  Points  Medal  Advance
+Dow, Will           Aubrey HS, Aubrey        158    1      15      X      Region
+Lewis, Jeffrey S    Anna HS, Anna            96     2      12      X      Region
+Hatcher, Peyton     Celina HS, Celina        88     3      10      X      Region
+Morrow, Branden     Celina HS, Celina        82     4      6       X      Alternate
+Self, Daniel        Princeton HS, Princeton  82     4      6       X      Alternate
+Bretz, Noah         Princeton HS, Princeton  82     4      6       X      Alternate
+Vana, Kaitlyn       Celina HS, Celina        78     7
+Wingert, Sheldon    Aubrey HS, Aubrey        76     8
+Vasquez, Jocelyn    Celina HS, Celina        64     9
+Snyder, Samuel      Celina HS, Celina        60     10
+Rollwage, Kirsten   Aubrey HS, Aubrey        36     11
+Jasso, Noel         Princeton HS, Princeton  34     12
+Neumann, Spencer    Aubrey HS, Aubrey        34     12
+Gallimore, Jacob    Melissa H S, Melissa     34     12
+Freeman, Taylor     Aubrey HS, Aubrey        28     15
+Chang, Aaron        Celina HS, Celina        26     16
+Vega, Issac         Melissa H S, Melissa     26     16
+Berkeland, Justin   Melissa H S, Melissa     26     16
+Melcher, Brittany   Melissa H S, Melissa     26     16
+Branson, Ella       Melissa H S, Melissa     24     20
+Shumway, Trevor     Aubrey HS, Aubrey        22     21
+Belranger, Katy     Melissa H S, Melissa     20     22
+Williams, Madison   Bonham HS, Bonham        16     23
+Thompson, Jacob G   Anna HS, Anna            8      24
+Shellman, Noah      Bonham HS, Bonham        6      25
+Walker, Kylie       Bonham HS, Bonham        0      26
+Deveaux, Payton     Bonham HS, Bonham        0      26
+Singleton, Tristan  Bonham HS, Bonham        -12    28
+Chavez, Cristian    Bonham HS, Bonham        -12    28
+
+TOP SCORERS
+------------------------------
+Contestant        School        Results               Points
+Dow, Will         Aubrey HS     Top Scorer Biology    3
+Lewis, Jeffrey S  Anna HS       Alternate Biology     0
+Dow, Will         Aubrey HS     Top Scorer Chemistry  3
+Bretz, Noah       Princeton HS  Alternate Chemistry   0
+Dow, Will         Aubrey HS     Top Scorer Physics    3
+Lewis, Jeffrey S  Anna HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Aubrey HS, Aubrey        1     270    1      10      X      Region
+Celina HS, Celina        1     248    2      5       X      Alternate
+Princeton HS, Princeton  1     198    3
+Melissa H S, Melissa     1     86     4
+Bonham HS, Bonham        1     22     5
+
+(region num: 12)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                       Score  Place  Points  Medal  Advance
+Chambers, Landon        Community HS, Nevada         98     1      15      X      Region
+Ruiz, Eduardo           Kaufman H S, Kaufman         82     2      12      X      Region
+Keith, Spencer          Kaufman H S, Kaufman         72     3      10      X      Region
+Spitzer, Lillian        Crandall H S, Crandall       72     4      8       X      Alternate
+Zimmerman, Mitchell     Ferris H S, Ferris           68     5      6       X
+Hernandez, Jonathan     Caddo Mills HS, Caddo Mills  54     6      4       X
+McHargue, Kylie M       Caddo Mills HS, Caddo Mills  54     7
+Cuzdy, Reina            Caddo Mills HS, Caddo Mills  50     8
+Wright, Hannah          Caddo Mills HS, Caddo Mills  50     8
+Cox, Josh               Kaufman H S, Kaufman         48     10
+Diaz, Paige             Terrell HS, Terrell          46     11
+Williamson, Jeb         Kaufman H S, Kaufman         46     11
+Castagna, Athena        Community HS, Nevada         44     13
+Martinez, Marco         Kaufman H S, Kaufman         44     13
+Black, Kaelyn           Crandall H S, Crandall       42     15
+Foy-Hill, Lauren        Crandall H S, Crandall       40     16
+Parrish, Hunter W       Caddo Mills HS, Caddo Mills  36     17
+Dunlap, Jordan          Crandall H S, Crandall       36     17
+Parker, Nathan          Ferris H S, Ferris           32     19
+Prestridge, Aubri       Terrell HS, Terrell          30     20
+Buchanan, Nicholas      Community HS, Nevada         28     21
+Perez, Nick             Ferris H S, Ferris           26     22
+Gray, Justin            Crandall H S, Crandall       22     23
+Thibodeaux, Peyton      Community HS, Nevada         20     24
+Sanchez, Alexa          Terrell HS, Terrell          14     25
+Vera, Leo               Terrell HS, Terrell          8      26
+Wofford, Connor         Community HS, Nevada         6      27
+Delgado, Oscar          Ferris H S, Ferris           6      27
+Arvizu, Karime          Ferris H S, Ferris           6      27
+MILLER, MARK            Caddo Mills HS, Caddo Mills  2      30
+Obamehinti, David       Community HS, Nevada         0      31
+Hernandez, Christopher  Ferris H S, Ferris           -2     32
+Olvera, Edwin           Kaufman H S, Kaufman         -2     32
+
+TOP SCORERS
+------------------------------
+Contestant           School          Results               Points
+Chambers, Landon     Community HS    Top Scorer Biology    3
+Ruiz, Eduardo        Kaufman H S     Alternate Biology     0
+Chambers, Landon     Community HS    Top Scorer Chemistry  3
+Zimmerman, Mitchell  Ferris H S      Alternate Chemistry   0
+Zimmerman, Mitchell  Ferris H S      Top Scorer Physics    3
+Parrish, Hunter W    Caddo Mills HS  Alternate Physics     0
+Cuzdy, Reina         Caddo Mills HS  Alternate Physics     0
+Ruiz, Eduardo        Kaufman H S     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Kaufman H S, Kaufman         1     202    1      10      X      Region
+Community HS, Nevada         1     170    2      5       X      Alternate
+Caddo Mills HS, Caddo Mills  1     158    3
+Crandall H S, Crandall       1     154    4
+Ferris H S, Ferris           1     126    5
+Terrell HS, Terrell          1     90     6
+
+(region num: 13)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                       Score  Place  Points  Medal  Advance
+Coffey, Chloe             Mabank HS, Mabank            104    1      15      X      Region
+Suarez, Luis              Brownsboro HS, Brownsboro    86     2      12      X      Region
+Swanson, Timothy          Van HS, Van                  72     3      10      X      Region
+Sandlin, Colin            Mabank HS, Mabank            64     4      8       X      Alternate
+Cotton, Hunter            Brownsboro HS, Brownsboro    62     5      6       X
+Nowlin-Martinez, Savanna  Canton HS, Canton            54     6      4       X
+Opitz, Madison            Canton HS, Canton            52     7
+Partin, Edmund            Canton HS, Canton            46     8
+Hipsher, Drayson          Canton HS, Canton            46     8
+Elliott, Sarah            Canton HS, Canton            46     8
+Abdullah, Kaleb           Rains H S, Emory             46     8
+Barrentine, Ethan         Brownsboro HS, Brownsboro    40     12
+Schunatz, Jacoby          Mabank HS, Mabank            32     13
+Lozano, Angel             Wills Point HS, Wills Point  32     13
+Koontz, Elijah            Van HS, Van                  32     13
+Jarrett, Jesse            Rains H S, Emory             32     13
+Armstrong, Hunter         Rains H S, Emory             30     17
+Hannawald, Aiden          Wills Point HS, Wills Point  26     18
+White, Alex               Rains H S, Emory             24     19
+Halsted, Lyric            Wills Point HS, Wills Point  24     19
+Stewart, Ashton           Van HS, Van                  18     21
+Nicks, Riley              Canton HS, Canton            16     22
+Olvera Rojo, Roberto      Brownsboro HS, Brownsboro    14     23
+Elliott, Hayden           Mabank HS, Mabank            12     24
+Norton, Naomi             Mabank HS, Mabank            12     24
+Benitez, Emily            Wills Point HS, Wills Point  12     24
+Ashby, Kasey              Wills Point HS, Wills Point  12     24
+Kong, Leeanne             Mabank HS, Mabank            10     28
+Bryant, Alice             Wills Point HS, Wills Point  10     28
+Starr, Lanee              Brownsboro HS, Brownsboro    8      30
+Gwenesynn, Mitchell       Van HS, Van                  6      31
+Arent-Schocler, Dacia     Van HS, Van                  4      32
+
+TOP SCORERS
+------------------------------
+Contestant        School         Results               Points
+Suarez, Luis      Brownsboro HS  Top Scorer Biology    3
+Cotton, Hunter    Brownsboro HS  Alternate Biology     0
+Coffey, Chloe     Mabank HS      Top Scorer Chemistry  3
+Sandlin, Colin    Mabank HS      Alternate Chemistry   0
+Swanson, Timothy  Van HS         Top Scorer Physics    1.50
+Abdullah, Kaleb   Rains H S      Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Mabank HS, Mabank            1     200    1      10      X      Region
+Brownsboro HS, Brownsboro    1     188    2      5       X      Alternate
+Canton HS, Canton            1     152    3
+Van HS, Van                  1     122    4
+Rains H S, Emory             1     108    5
+Wills Point HS, Wills Point  1     82     6
+
+(region num: 14)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Belk, Hunter           Atlanta HS, Atlanta           76     1      15      X      Region
+Saldino, Joseph        Pleasant Grove HS, Texarkana  74     2      12      X      Region
+Standifer, Allyssa     Paris HS, Paris               68     3      10      X      Region
+Armstrong, Heather     North Lamar H S, Paris        56     4      8       X      Alternate
+Curvino, Donato        North Lamar H S, Paris        54     5      6       X
+Rowe, Jared            Pittsburg H S, Pittsburg      52     6      4       X
+Solomon, Aaron         Atlanta HS, Atlanta           52     7
+Bain, Graham           Paris HS, Paris               50     8
+Bennett, Kamryn        Atlanta HS, Atlanta           50     8
+Morris, Colin          Atlanta HS, Atlanta           46     10
+Sander, Savanna        Paris HS, Paris               44     11
+Leigh, Britini         Paris HS, Paris               42     12
+Schwinn, Rachel        Liberty-Eylau H S, Texarkana  40     13
+Nguyen, Daniel         Pittsburg H S, Pittsburg      38     14
+De La Garza, Zachary   Paris HS, Paris               36     15
+Gutierrez, Gabriel     Pittsburg H S, Pittsburg      34     16
+Davis, Emily           North Lamar H S, Paris        32     17
+Bramblett, Kenzie-Lou  Pittsburg H S, Pittsburg      32     17
+Blouin, Amanda         Paris HS, Paris               30     19
+McDonald, Paige        Liberty-Eylau H S, Texarkana  28     20
+Adams, Kaleb           Pleasant Grove HS, Texarkana  28     20
+Gil, Kashlyn           Liberty-Eylau H S, Texarkana  26     22
+Samples, Connor        Atlanta HS, Atlanta           24     23
+Davault, Tyler         Atlanta HS, Atlanta           22     24
+Alexander, Antony      Liberty-Eylau H S, Texarkana  20     25
+Holland, Lauren        Pleasant Grove HS, Texarkana  20     25
+Kirby, Kris            North Lamar H S, Paris        18     27
+Plank, Brendan         Pleasant Grove HS, Texarkana  16     28
+Sefcik, Felicity       North Lamar H S, Paris        10     29
+Adams, Clorissa        Liberty-Eylau H S, Texarkana  10     29
+Whisenhunt, Chloe      North Lamar H S, Paris        8      31
+Simington, Laken       Liberty-Eylau H S, Texarkana  -4     32
+
+TOP SCORERS
+------------------------------
+Contestant          School             Results               Points
+Saldino, Joseph     Pleasant Grove HS  Top Scorer Biology    3
+Belk, Hunter        Atlanta HS         Alternate Biology     0
+Armstrong, Heather  North Lamar H S    Top Scorer Chemistry  3
+Plank, Brendan      Pleasant Grove HS  Alternate Chemistry   0
+Curvino, Donato     North Lamar H S    Top Scorer Physics    3
+Standifer, Allyssa  Paris HS           Alternate Physics     0
+Schwinn, Rachel     Liberty-Eylau H S  Alternate Physics     0
+Bennett, Kamryn     Atlanta HS         Alternate Physics     0
+Armstrong, Heather  North Lamar H S    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Atlanta HS, Atlanta           1     178    1      10      X      Region
+Paris HS, Paris               1     162    2      5       X      Alternate
+North Lamar H S, Paris        1     142    3
+Pittsburg H S, Pittsburg      1     124    4
+Pleasant Grove HS, Texarkana  1     122    5
+Liberty-Eylau H S, Texarkana  1     94     6
+
+(region num: 15)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Hopping, Timothy   Gilmer H S, Gilmer          98     1      15      X      Region
+Patterson, Ezra    Chapel Hill HS, Tyler       80     2      12      X      Region
+Hoskins, Nicholas  Kilgore H S, Kilgore        78     3      10      X      Region
+Gipson, Cameron    Gilmer H S, Gilmer          70     4      8       X      Alternate
+Kuczkowski, Katy   Bullard HS, Bullard         68     5      5       X
+Flores, Eduardo    Spring Hill H S, Longview   68     5      5       X
+White, Conner      Bullard HS, Bullard         66     7
+Medley, Ethan      Bullard HS, Bullard         62     8
+Brownlee, Colton   Spring Hill H S, Longview   60     9
+Snell, Madison     Spring Hill H S, Longview   60     9
+Vadasz, Nick       Spring Hill H S, Longview   58     11
+McFatridge, David  Spring Hill H S, Longview   58     11
+Carter, Jared      Chapel Hill HS, Tyler       56     13
+McCoy, Megan       Bullard HS, Bullard         56     13
+Villarreal, Jesus  Chapel Hill HS, Tyler       52     15
+Bilnoski, Seth     Spring Hill H S, Longview   50     16
+Albright, Emma     Gilmer H S, Gilmer          46     17
+Sexton, Victoria   Gladewater H S, Gladewater  36     18
+Butts, Jordan      Kilgore H S, Kilgore        36     18
+Nichols, Josh      Gladewater H S, Gladewater  28     20
+Sanchez, Armando   Chapel Hill HS, Tyler       26     21
+Luna, Jonathan     Chapel Hill HS, Tyler       20     22
+McEvoy, Deanna     Gladewater H S, Gladewater  16     23
+Turner, Ben        Gladewater H S, Gladewater  16     23
+Ritchie, Hannah    Chapel Hill HS, Tyler       -12    25
+Hollins, Quavion   Kilgore H S, Kilgore        -44    26
+
+TOP SCORERS
+------------------------------
+Contestant         School           Results               Points
+Hoskins, Nicholas  Kilgore H S      Top Scorer Biology    3
+Flores, Eduardo    Spring Hill H S  Alternate Biology     0
+Vadasz, Nick       Spring Hill H S  Top Scorer Chemistry  3
+Hopping, Timothy   Gilmer H S       Alternate Chemistry   0
+White, Conner      Bullard HS       Top Scorer Physics    3
+Hopping, Timothy   Gilmer H S       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Gilmer H S, Gilmer          1     214    1      10      X      Region
+Bullard HS, Bullard         1     196    2      5       X      Alternate
+Chapel Hill HS, Tyler       1     188    3
+Spring Hill H S, Longview   1     188    3
+Gladewater H S, Gladewater  1     80     5
+Kilgore H S, Kilgore        1     70     6
+
+(region num: 16)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                 Score  Place  Points  Medal  Advance
+Mock, Jonathan P     Tatum HS, Tatum        88     1      15      X      Region
+Seabourn, Chase C    Rusk H S, Rusk         80     2      12      X      Region
+Brady, Tyler         Carthage HS, Carthage  78     3      10      X      Region
+Tvrdik, Christian    Carthage HS, Carthage  76     4      8       X      Alternate
+Shires, Scarlett     Center HS, Center      72     5      6       X
+Wofford, John C      Rusk H S, Rusk         72     6      4       X
+Glaze, Ryan J        Rusk H S, Rusk         66     7
+Shires, Ella         Center HS, Center      52     8
+Jones, Peyton        Carthage HS, Carthage  50     9
+Gibson, Cecily       Center HS, Center      48     10
+Chaffin, Sean L      Rusk H S, Rusk         46     11
+Plumlee, Dakota      Carthage HS, Carthage  42     12
+Lawson, Hannah       Center HS, Center      36     13
+Coultas, Sahara      Carthage HS, Carthage  32     14
+Day, Seth W          Rusk H S, Rusk         28     15
+Morris, Colton L     Rusk H S, Rusk         28     15
+William, Baylor D    Tatum HS, Tatum        26     17
+Nail, Nolan A        Tatum HS, Tatum        16     18
+Rainwater, Julian M  Tatum HS, Tatum        14     19
+Clark, Joshua        Center HS, Center      14     20
+Spann, Claire        Center HS, Center      10     21
+Chpak, Jerald J      Tatum HS, Tatum        -8     22
+
+TOP SCORERS
+------------------------------
+Contestant         School       Results               Points
+Seabourn, Chase C  Rusk H S     Top Scorer Biology    3
+Glaze, Ryan J      Rusk H S     Alternate Biology     0
+Mock, Jonathan P   Tatum HS     Top Scorer Chemistry  3
+Tvrdik, Christian  Carthage HS  Alternate Chemistry   0
+Shires, Scarlett   Center HS    Top Scorer Physics    3
+Brady, Tyler       Carthage HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Rusk H S, Rusk         1     218    1      10      X      Region
+Carthage HS, Carthage  1     204    2      5       X      Alternate
+Center HS, Center      1     172    3
+Tatum HS, Tatum        1     130    4
+
+(region num: 17)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                         Score  Place  Points  Medal  Advance
+Isham, Hunter           Lorena H S, Lorena             74     1      15      X      Region
+Bryan, David            Gatesville H S, Gatesville     66     2      12      X      Region
+Valdez, Julian          China Spring HS, China Spring  62     3      10      X      Region
+Moore, Jacey            Lorena H S, Lorena             58     4      8       X      Alternate
+Bennett, Collin         Lorena H S, Lorena             58     5      6       X
+Cheek, Brianna          Hillsboro H S, Hillsboro       58     6      4       X
+Fisher, Luke            Robinson H S, Robinson         58     7
+Lewis, Christian        Robinson H S, Robinson         56     8
+Countryman, Layne       Gatesville H S, Gatesville     50     9
+Seybert, Nick           La Vega H S, Waco              50     9
+Webb, Sam               China Spring HS, China Spring  50     9
+Garcia, Larry           La Vega H S, Waco              46     12
+Lozano-Vigil, Elisa     La Vega H S, Waco              46     12
+Rodriguez, Jennifer     Hillsboro H S, Hillsboro       44     14
+Gerik, Kelsie           Robinson H S, Robinson         42     15
+Patel, Bhakti           Hillsboro H S, Hillsboro       40     16
+Rainer, Daisy           Connally HS, Waco              38     17
+Vasiu, Virgil           Connally HS, Waco              36     18
+Kuykendall, Shannon     Lorena H S, Lorena             34     19
+Gonzalez, Guillermo     Connally HS, Waco              34     19
+Hernandez, Natalie      La Vega H S, Waco              32     21
+Zawadzki, Sara          Lorena H S, Lorena             30     22
+Montez, Paloma          Hillsboro H S, Hillsboro       30     22
+Khan, Haider            China Spring HS, China Spring  24     24
+Rokas, Sydney           China Spring HS, China Spring  24     24
+Bontke, Jade            Hillsboro H S, Hillsboro       22     26
+Montgomery, Robbie      Hillsboro H S, Hillsboro       20     27
+Trice, Garrett          Robinson H S, Robinson         18     28
+Anz, Hunter             China Spring HS, China Spring  18     28
+Griego, Michael         Gatesville H S, Gatesville     16     30
+Daniels, Alexis         Gatesville H S, Gatesville     14     31
+Rake, Madeline          Gatesville H S, Gatesville     14     31
+Pilgrim, Nathan         Robinson H S, Robinson         12     33
+Levingston, JaRon       La Vega H S, Waco              10     34
+Hand, Bryan             China Spring HS, China Spring  10     34
+Hernandez, Norelys      La Vega H S, Waco              4      36
+Rhymes, Mandy           Gatesville H S, Gatesville     0      37
+Espinoza-Tanori, Emily  Connally HS, Waco              -2     38
+
+TOP SCORERS
+------------------------------
+Contestant        School           Results               Points
+Isham, Hunter     Lorena H S       Top Scorer Biology    3
+Moore, Jacey      Lorena H S       Alternate Biology     0
+Valdez, Julian    China Spring HS  Top Scorer Chemistry  3
+Bryan, David      Gatesville H S   Alternate Chemistry   0
+Fisher, Luke      Robinson H S     Alternate Chemistry   0
+Lewis, Christian  Robinson H S     Top Scorer Physics    3
+Seybert, Nick     La Vega H S      Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Lorena H S, Lorena             1     190    1      10      X      Region
+Robinson H S, Robinson         1     156    2      5       X      Alternate
+Hillsboro H S, Hillsboro       1     142    3
+La Vega H S, Waco              1     142    3
+China Spring HS, China Spring  1     136    5
+Gatesville H S, Gatesville     1     132    6
+Connally HS, Waco              1     108    7
+
+(region num: 18)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                         Score  Place  Points  Medal  Advance
+Garcia-Castillo, Jesus  Palestine H S, Palestine       108    1      15      X      Region
+Kiser, Alexis           Palestine H S, Palestine       94     2      12      X      Region
+Alvarez, Alyson         Palestine H S, Palestine       88     3      10      X      Region
+Coker, Serena           Palestine H S, Palestine       72     4      8       X      Alternate
+Mabry, Kolton           Fairfield H S, Fairfield       68     5      6       X
+Pedroza, Alejandra      Athens HS, Athens              58     6      4       X
+West, Tierra            Fairfield H S, Fairfield       56     7
+Dominguez, Nicolas      Palestine H S, Palestine       54     8
+Henderson, Garridan     Fairfield H S, Fairfield       46     9
+Van, Noah               Fairfield H S, Fairfield       46     9
+Rodriguez, Aryn         Athens HS, Athens              44     11
+Risinger, Jacob         Madisonville HS, Madisonville  40     12
+Carrizales, Abisai      Mexia HS, Mexia                34     13
+Le, Eric                Mexia HS, Mexia                34     13
+Allen, Max              Madisonville HS, Madisonville  32     15
+Nicolson, Ian           Palestine H S, Palestine       30     16
+Jackson, Conner         Fairfield H S, Fairfield       28     17
+Garcia, Gabriela        Madisonville HS, Madisonville  28     17
+Sarabia, David          Mexia HS, Mexia                20     19
+Rosales, Michelle       Fairfield H S, Fairfield       20     19
+Johnson, Kelcee         Athens HS, Athens              18     21
+Georg, Blake            Madisonville HS, Madisonville  16     22
+Miranda, Kellye         Athens HS, Athens              16     22
+Stewart, Aubrianne      Athens HS, Athens              8      24
+Fields, Destiny         Mexia HS, Mexia                4      25
+Ibarra, Areli           Madisonville HS, Madisonville  4      25
+Lejeune, Phillip        Mexia HS, Mexia                0      27
+
+TOP SCORERS
+------------------------------
+Contestant              School           Results               Points
+Coker, Serena           Palestine H S    Top Scorer Biology    3
+Garcia-Castillo, Jesus  Palestine H S    Alternate Biology     0
+Garcia-Castillo, Jesus  Palestine H S    Top Scorer Chemistry  3
+West, Tierra            Fairfield H S    Alternate Chemistry   0
+Risinger, Jacob         Madisonville HS  Top Scorer Physics    3
+Pedroza, Alejandra      Athens HS        Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Palestine H S, Palestine       1     290    1      10      X      Region
+Fairfield H S, Fairfield       1     170    2      5       X      Alternate
+Athens HS, Athens              1     120    3
+Madisonville HS, Madisonville  1     100    4
+Mexia HS, Mexia                1     88     5
+
+(region num: 19)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Brand, Alec          Liberty Hill HS, Liberty Hill  194    1      15      X      Region
+Luckadoo, Hayden     Liberty Hill HS, Liberty Hill  194    2      12      X      Region
+Buttery, Heath       Llano H S, Llano               150    3      10      X      Region
+Durant, Paige        Llano H S, Llano               144    4      8       X      Alternate
+Dumas, Andrew        Liberty Hill HS, Liberty Hill  142    5      6       X
+Coleman, Kennedy     Liberty Hill HS, Liberty Hill  114    6      4       X
+Gillis, Cassidy      Lampasas HS, Lampasas          108    7
+Neary, David         Lampasas HS, Lampasas          96     8
+Cook, Harlan         Lampasas HS, Lampasas          96     8
+White, Addison       Lampasas HS, Lampasas          76     10
+Madden, Robert       Lampasas HS, Lampasas          66     11
+Oas, Erik            Salado HS, Salado              60     12
+Lawson, Nora         Lampasas HS, Lampasas          60     12
+Johnson, Justin      Taylor HS, Taylor              56     14
+Perry, Kenneth       Llano H S, Llano               56     14
+Huddleston, Luke     Liberty Hill HS, Liberty Hill  50     16
+Aleman, Leroy        Taylor HS, Taylor              50     16
+McBryde, Natalie     Salado HS, Salado              38     18
+Kopit, Gabe          Taylor HS, Taylor              36     19
+Montony, Edgar       Llano H S, Llano               36     19
+Landers, Sutton      Liberty Hill HS, Liberty Hill  32     21
+Foster, Logan        Salado HS, Salado              30     22
+Luke, Rachel         Salado HS, Salado              30     22
+Maywald, Devon       Llano H S, Llano               18     24
+Gronewald, Haley     Llano H S, Llano               16     25
+Martinez, Francisco  Taylor HS, Taylor              8      26
+
+TOP SCORERS
+------------------------------
+Contestant        School           Results               Points
+Dumas, Andrew     Liberty Hill HS  Top Scorer Biology    3
+Buttery, Heath    Llano H S        Alternate Biology     0
+Brand, Alec       Liberty Hill HS  Top Scorer Chemistry  3
+Luckadoo, Hayden  Liberty Hill HS  Alternate Chemistry   0
+Luckadoo, Hayden  Liberty Hill HS  Top Scorer Physics    3
+Brand, Alec       Liberty Hill HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Liberty Hill HS, Liberty Hill  1     530    1      10      X      Region
+Llano H S, Llano               1     350    2      5       X      Alternate
+Lampasas HS, Lampasas          1     300    3
+Taylor HS, Taylor              1     142    4
+Salado HS, Salado              1     128    5
+
+(region num: 20)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                    Score  Place  Points  Medal  Advance
+Givan, Daxton             La Grange H S, La Grange  80     1      15      X      Region
+Aymond, Weston            La Grange H S, La Grange  64     2      12      X      Region
+Little, Kaitlyn           La Grange H S, La Grange  60     3      10      X      Region
+Perry, Logan              Giddings H S, Giddings    54     4      8       X      Alternate
+Rohan, Dillon             La Grange H S, La Grange  54     5      6       X
+Melendez Rivera, Ricardo  Giddings H S, Giddings    40     6      4       X
+Spacek, Kaitlyn           Caldwell HS, Caldwell     38     7
+Brade, Emiry              Giddings H S, Giddings    38     7
+Herbrich, Gus             La Grange H S, La Grange  36     9
+Kruemcke, Rebecca         Giddings H S, Giddings    36     9
+Casarez, Marco            Caldwell HS, Caldwell     20     11
+Davis, Riley              Caldwell HS, Caldwell     20     11
+Fisher, Morgan            Caldwell HS, Caldwell     14     13
+Rodriguez, Rolando        Giddings H S, Giddings    14     13
+Denson, Bethany           Caldwell HS, Caldwell     10     15
+Peralta, Erik             Navasota HS, Navasota     10     15
+Henson, Heath             La Grange H S, La Grange  10     15
+Telg, Andrew              Caldwell HS, Caldwell     -6     18
+
+TOP SCORERS
+------------------------------
+Contestant       School         Results               Points
+Givan, Daxton    La Grange H S  Top Scorer Biology    3
+Rohan, Dillon    La Grange H S  Alternate Biology     0
+Perry, Logan     Giddings H S   Top Scorer Chemistry  3
+Aymond, Weston   La Grange H S  Alternate Chemistry   0
+Aymond, Weston   La Grange H S  Top Scorer Physics    1.50
+Little, Kaitlyn  La Grange H S  Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+La Grange H S, La Grange  1     204    1      10      X      Region
+Giddings H S, Giddings    1     132    2      5       X      Alternate
+Caldwell HS, Caldwell     1     78     3
+
+(region num: 21)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                     Score  Place  Points  Medal  Advance
+Benitez, Sebastian  Hudson HS, Lufkin          156    1      15      X      Region
+Monroe, Will        Jasper H S, Jasper         146    2      12      X      Region
+Craft, Nolan        Hudson HS, Lufkin          126    3      10      X      Region
+Croley, Garrett     Hudson HS, Lufkin          110    4      8       X      Alternate
+Jordan, Landrie     Jasper H S, Jasper         104    5      6       X
+Pantoja, Ricardo    Jasper H S, Jasper         96     6      4       X
+Lutgen, Lasse       Jasper H S, Jasper         64     7
+Dearing, Tristan    Huntington HS, Huntington  62     8
+Biscamp, Lisa       Jasper H S, Jasper         44     9
+Mayes, Taylor       Huntington HS, Huntington  40     10
+Maddox, Michaela    Diboll H S, Diboll         36     11
+Sullivan, Caleb     Jasper H S, Jasper         34     12
+Rodriguez, Valeria  Diboll H S, Diboll         34     12
+Morrison, Hannah    Diboll H S, Diboll         32     14
+Beverly, Jesse      Shepherd H S, Shepherd     24     15
+Carlos, Ty          Shepherd H S, Shepherd     22     16
+Reynolds, Weston    Huntington HS, Huntington  20     17
+Johnson, Zachery    Shepherd H S, Shepherd     18     18
+Handley, Sarah      Hudson HS, Lufkin          18     18
+Gartman, Madison    Huntington HS, Huntington  14     20
+Salazar, Natalie    Diboll H S, Diboll         4      21
+Thompson, Dalton    Huntington HS, Huntington  0      22
+Patel, Khrishana    Diboll H S, Diboll         -2     23
+
+TOP SCORERS
+------------------------------
+Contestant          School         Results               Points
+Benitez, Sebastian  Hudson HS      Top Scorer Biology    3
+Dearing, Tristan    Huntington HS  Alternate Biology     0
+Benitez, Sebastian  Hudson HS      Top Scorer Chemistry  3
+Monroe, Will        Jasper H S     Alternate Chemistry   0
+Monroe, Will        Jasper H S     Top Scorer Physics    3
+Craft, Nolan        Hudson HS      Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Hudson HS, Lufkin          1     392    1      10      X      Region
+Jasper H S, Jasper         1     346    2      5       X      Alternate
+Huntington HS, Huntington  1     122    3
+Diboll H S, Diboll         1     102    4
+Shepherd H S, Shepherd     1     64     5
+
+(region num: 22)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Barr, Chandler      Little Cypress-Mauriceville HS, Orange  174    1      15      X      Region
+Ayers, Iyan         Hamshire-Fannett H S, Hamshire          126    2      12      X      Region
+Curl, Brandon       Bridge City HS, Bridge City             116    3      10      X      Region
+Palang, Tyler       Hamshire-Fannett H S, Hamshire          86     4      8       X      Alternate
+Johns, Spencer      Little Cypress-Mauriceville HS, Orange  82     5      6       X
+Brooks, Cameron     Bridge City HS, Bridge City             80     6      4       X
+Robinette, Ryan     Hamshire-Fannett H S, Hamshire          78     7
+Tran, Michael       Bridge City HS, Bridge City             70     8
+Flowers, Joshua     Silsbee HS, Silsbee                     66     9
+Watson, Luke        Hamshire-Fannett H S, Hamshire          58     10
+Bonnette, Kalan     Little Cypress-Mauriceville HS, Orange  52     11
+Downs, Liam         Orangefield H S, Orangefield            52     11
+Taylor, Zachary     Orangefield H S, Orangefield            52     11
+Cunningham, Jacob   Bridge City HS, Bridge City             52     11
+Read, Alexia        Silsbee HS, Silsbee                     32     15
+Chapman, Jacob      Orangefield H S, Orangefield            32     15
+Miller, Tyler       Little Cypress-Mauriceville HS, Orange  28     17
+Russell, Lucas      Little Cypress-Mauriceville HS, Orange  28     17
+Twing, Catherine    Hamshire-Fannett H S, Hamshire          26     19
+Weller, Maci        Hamshire-Fannett H S, Hamshire          22     20
+Doan, Victoria      Bridge City HS, Bridge City             20     21
+Shutter, Carley     Silsbee HS, Silsbee                     18     22
+Scott, Kathryn      Orangefield H S, Orangefield            16     23
+Johnson, Davonte    West Orange-Stark HS, Orange            12     24
+Nugent, Shae        Orangefield H S, Orangefield            10     25
+Sargeant, David     West Orange-Stark HS, Orange            8      26
+Brando, Shane       West Orange-Stark HS, Orange            2      27
+Dischler, Zachary   Orangefield H S, Orangefield            0      28
+Bourgeois, Brandon  Silsbee HS, Silsbee                     -2     29
+
+TOP SCORERS
+------------------------------
+Contestant      School                          Results               Points
+Barr, Chandler  Little Cypress-Mauriceville HS  Top Scorer Biology    3
+Johns, Spencer  Little Cypress-Mauriceville HS  Alternate Biology     0
+Barr, Chandler  Little Cypress-Mauriceville HS  Top Scorer Chemistry  3
+Ayers, Iyan     Hamshire-Fannett H S            Alternate Chemistry   0
+Curl, Brandon   Bridge City HS                  Top Scorer Physics    3
+Ayers, Iyan     Hamshire-Fannett H S            Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Little Cypress-Mauriceville HS, Orange  1     308    1      10      X      Region
+Hamshire-Fannett H S, Hamshire          1     290    2      5       X      Alternate
+Bridge City HS, Bridge City             1     266    3
+Orangefield H S, Orangefield            1     136    4
+Silsbee HS, Silsbee                     1     116    5
+West Orange-Stark HS, Orange            1     22     6
+
+(region num: 23)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                           Score  Place  Points  Medal  Advance
+Stone, Ben          Hardin-Jefferson H S, Sour Lake  256    1      15      X      Region
+Goebel, Ashton      Hardin-Jefferson H S, Sour Lake  112    2      12      X      Region
+Hayman, Charlie     Hardin-Jefferson H S, Sour Lake  92     3      10      X      Region
+Alley, Abagail      Hargrave HS, Huffman             88     4      8       X      Alternate
+Worley, Dustin      Hargrave HS, Huffman             86     5      6       X
+Carroll, Taylor     Hargrave HS, Huffman             84     6      4       X
+Donatto, TaNia      Liberty HS, Liberty              78     7
+Hare, Micah         Tarkington HS, Cleveland         76     8
+Kent, Jaxson        Hargrave HS, Huffman             74     9
+Layne, Noah         Hargrave HS, Huffman             68     10
+Hardman, Connor     Liberty HS, Liberty              62     11
+Stone, Gwen         Hardin-Jefferson H S, Sour Lake  54     12
+Jensen, Hannah      Hardin-Jefferson H S, Sour Lake  54     12
+Matak, Landon       Hardin-Jefferson H S, Sour Lake  46     14
+Thompson, Owen      Cleveland HS, Cleveland          44     15
+Andrikitis, Hunter  Hargrave HS, Huffman             38     16
+Carter, Zandria     Liberty HS, Liberty              34     17
+Barnes, Tarik       Cleveland HS, Cleveland          20     18
+Janczak, Wyatt      Tarkington HS, Cleveland         14     19
+Pacheco, Francisco  Liberty HS, Liberty              2      20
+Parsons, Joshua     Tarkington HS, Cleveland         0      21
+Dalwadi, Pavan      Cleveland HS, Cleveland          -6     22
+
+TOP SCORERS
+------------------------------
+Contestant      School                Results               Points
+Stone, Ben      Hardin-Jefferson H S  Top Scorer Biology    3
+Alley, Abagail  Hargrave HS           Alternate Biology     0
+Stone, Ben      Hardin-Jefferson H S  Top Scorer Chemistry  3
+Worley, Dustin  Hargrave HS           Alternate Chemistry   0
+Stone, Ben      Hardin-Jefferson H S  Top Scorer Physics    3
+Layne, Noah     Hargrave HS           Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Hardin-Jefferson H S, Sour Lake  1     460    1      10      X      Region
+Hargrave HS, Huffman             1     258    2      5       X      Alternate
+Liberty HS, Liberty              1     174    3
+Tarkington HS, Cleveland         1     90     4
+Cleveland HS, Cleveland          1     58     5
+
+(region num: 24)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                               Score  Place  Points  Medal  Advance
+Kekic, Sinan           Challenge Early College HS, Houston  54     1      15      X      Region
+Hail, Gideon           Challenge Early College HS, Houston  44     2      12      X      Region
+Quintanilla, Gabriela  Liberty HS, Houston                  28     3      10      X      Region
+Hernandez, Javier      Challenge Early College HS, Houston  26     4      8       X      Alternate
+Howell, Bennett        Challenge Early College HS, Houston  24     5      6       X
+Zelaya, Bryan          Liberty HS, Houston                  18     6      4       X
+Paredes, Vivian        Liberty HS, Houston                  8      7
+Maldonado, Hector      Liberty HS, Houston                  -14    8
+Moran, Keydy           Liberty HS, Houston                  -32    9
+
+TOP SCORERS
+------------------------------
+Contestant             School                      Results               Points
+Hail, Gideon           Challenge Early College HS  Top Scorer Biology    3
+Kekic, Sinan           Challenge Early College HS  Alternate Biology     0
+Hernandez, Javier      Challenge Early College HS  Top Scorer Chemistry  3
+Kekic, Sinan           Challenge Early College HS  Alternate Chemistry   0
+Quintanilla, Gabriela  Liberty HS                  Top Scorer Physics    3
+Kekic, Sinan           Challenge Early College HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Challenge Early College HS, Houston  1     124    1      10      X      Region
+Liberty HS, Houston                  1     54     2      5       X      Alternate
+
+(region num: 25)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                   Score  Place  Points  Medal  Advance
+Mahlmann, Sarah       Bellville HS, Bellville  144    1      15      X      Region
+Schoener, James       Needville HS, Needville  126    2      12      X      Region
+Luongo, Isabella      Bellville HS, Bellville  102    3      10      X      Region
+Trinh, Dung           Stafford HS, Stafford    92     4      8       X      Alternate
+Jung, Conrad          Royal HS, Pattison       88     5      6       X
+Estes, Cody           Needville HS, Needville  86     6      4       X
+Henley, Alexia        Sealy H S, Sealy         86     7
+Rodriguez, Payne      Stafford HS, Stafford    80     8
+Macha, Amanda         Needville HS, Needville  72     9
+Mock, William         Sealy H S, Sealy         72     9
+Garcia, Claudia       Needville HS, Needville  70     11
+Burman, Bryan         Stafford HS, Stafford    70     11
+Cessna, Reed          Bellville HS, Bellville  68     13
+Martinez, Ashley      Needville HS, Needville  66     14
+Kalyani, Yash         Royal HS, Pattison       66     14
+Litzmann, Matthias    Sealy H S, Sealy         64     16
+Carter, Niki          Bellville HS, Bellville  62     17
+Samonte, Macey        Sealy H S, Sealy         60     18
+Phung, Paul           Stafford HS, Stafford    56     19
+Moyle, Hannah         Sealy H S, Sealy         48     20
+Graves, Cody          Columbus HS, Columbus    42     21
+Tena, Hector          Royal HS, Pattison       34     22
+Kaase, Morgan         Bellville HS, Bellville  30     23
+Nguyen, Vy            Stafford HS, Stafford    30     23
+Paget, Clayton        Bellville HS, Bellville  28     25
+Martinez, Jacequline  Stafford HS, Stafford    28     25
+Smith, Shannon        Columbus HS, Columbus    28     25
+Medina, Cynthia       Columbus HS, Columbus    26     28
+Kohleffel, Hunter     Columbus HS, Columbus    24     29
+Nieto, Josh           Needville HS, Needville  20     30
+Price, Jon'Dasha      Royal HS, Pattison       20     30
+Alfaro, Ramsey        Royal HS, Pattison       18     32
+Lejeune, Laney        Sealy H S, Sealy         14     33
+Schaefer, Lyndon      Columbus HS, Columbus    6      34
+Olivera, Lena         Columbus HS, Columbus    4      35
+Aguilar, Eligio       Royal HS, Pattison       0      36
+
+TOP SCORERS
+------------------------------
+Contestant        School        Results               Points
+Rodriguez, Payne  Stafford HS   Top Scorer Biology    3
+Kalyani, Yash     Royal HS      Alternate Biology     0
+Mahlmann, Sarah   Bellville HS  Top Scorer Chemistry  3
+Luongo, Isabella  Bellville HS  Alternate Chemistry   0
+Schoener, James   Needville HS  Top Scorer Physics    3
+Estes, Cody       Needville HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Bellville HS, Bellville  1     314    1      10      X      Region
+Needville HS, Needville  1     284    2      5       X      Alternate
+Stafford HS, Stafford    1     242    3
+Sealy H S, Sealy         1     222    4
+Royal HS, Pattison       1     188    5
+Columbus HS, Columbus    1     96     6
+
+(region num: 26)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                      Score  Place  Points  Medal  Advance
+Teague, William      Bay City HS, Bay City       122    1      15      X      Region
+Owens, Kora          Columbia HS, West Columbia  84     2      12      X      Region
+Valdez, Thomas       Bay City HS, Bay City       80     3      10      X      Region
+Allen, Hailey        Sweeny HS, Sweeny           70     4      8       X      Alternate
+Hamilton, Kaden      Columbia HS, West Columbia  64     5      5       X
+Lazrine, Kayla       Columbia HS, West Columbia  64     5      5       X
+Aguilar, Adrian      Brazosport HS, Freeport     62     7
+Sorell, Kaylie       Bay City HS, Bay City       60     8
+Shah, Vishwa         Bay City HS, Bay City       60     8
+Cranford, Heaven     Sweeny HS, Sweeny           56     10
+Valenzuela, Marcus   El Campo H S, El Campo      48     11
+Bubela, Kinley       El Campo H S, El Campo      40     12
+Brown, Matthew       Sweeny HS, Sweeny           32     13
+Burrow, Haley        El Campo H S, El Campo      32     13
+Brune, Phoenix       Columbia HS, West Columbia  28     15
+Myers, Cassidy       Sweeny HS, Sweeny           24     16
+Schumann, Cole       Sweeny HS, Sweeny           24     16
+Maher, Noah          El Campo H S, El Campo      22     18
+Guevara, Emily       Brazosport HS, Freeport     22     18
+Vasquez, Natalie     Columbia HS, West Columbia  22     18
+Reck, Mgan           El Campo H S, El Campo      14     21
+Hare, Bradyn         Brazosport HS, Freeport     14     21
+Martinez, Marc       El Campo H S, El Campo      10     23
+Blackburn, Danielle  Brazosport HS, Freeport     4      24
+Ohlen, Carson        Columbia HS, West Columbia  0      25
+Meagher, Sophie      Sweeny HS, Sweeny           -4     26
+Garza, Jukailen      Brazosport HS, Freeport     -4     26
+Muraira, Abigail     Brazosport HS, Freeport     -22    28
+Patel, Aman          Wharton HS, Wharton         -56    29
+
+TOP SCORERS
+------------------------------
+Contestant       School         Results               Points
+Owens, Kora      Columbia HS    Top Scorer Biology    3
+Hamilton, Kaden  Columbia HS    Alternate Biology     0
+Teague, William  Bay City HS    Top Scorer Chemistry  3
+Lazrine, Kayla   Columbia HS    Alternate Chemistry   0
+Sorell, Kaylie   Bay City HS    Top Scorer Physics    3
+Aguilar, Adrian  Brazosport HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Bay City HS, Bay City       1     262    1      10      X      Region
+Columbia HS, West Columbia  1     212    2      5       X      Alternate
+Sweeny HS, Sweeny           1     158    3
+El Campo H S, El Campo      1     120    4
+Brazosport HS, Freeport     1     98     5
+
+(region num: 27)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                                 Score  Place  Points  Medal  Advance
+Cranford, Preston         Wimberley HS, Wimberley                240    1      15      X      Region
+Latz, Drew                Wimberley HS, Wimberley                150    2      12      X      Region
+Merritt, Jillian          Wimberley HS, Wimberley                132    3      10      X      Region
+Pecina, Eric              Gonzales HS, Gonzales                  108    4      8       X      Alternate
+Lowak, Brian              La Vernia HS, La Vernia                88     5      6       X
+Love, Julia               Wimberley HS, Wimberley                82     6      4       X
+McLemore, Ben             Wimberley HS, Wimberley                78     7
+Dirks, Annabelle          La Vernia HS, La Vernia                58     8
+Price, Joshua             Wimberley HS, Wimberley                58     8
+Flinn, Nick               Navarro HS, Geronimo                   52     10
+Lofland, James            Gonzales HS, Gonzales                  46     11
+Gamez, Saul               Gonzales HS, Gonzales                  38     12
+Ortiz, Jean               Gonzales HS, Gonzales                  30     13
+Palacios-Solis, Jennifer  Navarro HS, Geronimo                   30     13
+Kimbrough, Omarree        La Vernia HS, La Vernia                24     15
+Sanchez, Carlos           Gonzales HS, Gonzales                  22     16
+Barnes, Brooklynne        La Vernia HS, La Vernia                14     17
+Reinhard, Walker          La Vernia HS, La Vernia                14     17
+Rivera, Adrian            Gonzales HS, Gonzales                  12     19
+Peters, Blaine            La Vernia HS, La Vernia                6      20
+Garcia, Michael           Judson Veterans Memorial, San Antonio  0      21
+
+TOP SCORERS
+------------------------------
+Contestant         School        Results               Points
+Merritt, Jillian   Wimberley HS  Top Scorer Biology    3
+Pecina, Eric       Gonzales HS   Alternate Biology     0
+Cranford, Preston  Wimberley HS  Top Scorer Chemistry  3
+Latz, Drew         Wimberley HS  Alternate Chemistry   0
+Cranford, Preston  Wimberley HS  Top Scorer Physics    3
+McLemore, Ben      Wimberley HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Wimberley HS, Wimberley  1     522    1      10      X      Region
+Gonzales HS, Gonzales    1     192    2      5       X      Alternate
+La Vernia HS, La Vernia  1     170    3
+
+(region num: 28)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                              Score  Place  Points  Medal  Advance
+Taylor, Zane        Boerne HS, Boerne                   268    1      15      X      Region
+Hoke, Tanner        Boerne HS, Boerne                   256    2      12      X      Region
+White, Delaney      Boerne HS, Boerne                   166    3      10      X      Region
+Peng, Xirui         Boerne HS, Boerne                   122    4      8       X      Alternate
+Harris, Carson      Boerne HS, Boerne                   86     5      6       X
+Kromer, Blake       Bandera HS, Bandera                 86     6      4       X
+Stokes, Henry       Canyon Lake HS, Fischer             72     7
+Dorman, Erin        Canyon Lake HS, Fischer             54     8
+VonHeuvel, Erich    Hondo H S, Hondo                    50     9
+Petty, Harper       Hondo H S, Hondo                    50     9
+McMullan, Davis     Bandera HS, Bandera                 50     9
+Blakenship, Chloe   Canyon Lake HS, Fischer             48     12
+Urh, Sophia         Boerne HS, Boerne                   46     13
+Lindsay, Ellie      Fredericksburg H S, Fredericksburg  32     14
+Almond, Caleb       Canyon Lake HS, Fischer             30     15
+Wilger, Carl        Fredericksburg H S, Fredericksburg  28     16
+Cooke, Esten        Fredericksburg H S, Fredericksburg  28     16
+Yans, Lisa          Hondo H S, Hondo                    26     18
+Martin, Taylor      Bandera HS, Bandera                 20     19
+Carpenter, Michael  Canyon Lake HS, Fischer             10     20
+Lange, Gage         Hondo H S, Hondo                    4      21
+
+TOP SCORERS
+------------------------------
+Contestant      School          Results               Points
+Taylor, Zane    Boerne HS       Top Scorer Biology    3
+Hoke, Tanner    Boerne HS       Alternate Biology     0
+Harris, Carson  Boerne HS       Alternate Biology     0
+Stokes, Henry   Canyon Lake HS  Alternate Biology     0
+Taylor, Zane    Boerne HS       Top Scorer Chemistry  3
+Hoke, Tanner    Boerne HS       Alternate Chemistry   0
+Hoke, Tanner    Boerne HS       Top Scorer Physics    3
+Taylor, Zane    Boerne HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Boerne HS, Boerne                   1     690    1      10      X      Region
+Canyon Lake HS, Fischer             1     174    2      5       X      Alternate
+Bandera HS, Bandera                 1     156    3
+Hondo H S, Hondo                    1     126    4
+Fredericksburg H S, Fredericksburg  1     88     5
+
+(region num: 29)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                               Score  Place  Points  Medal  Advance
+Taitano, Josephine    Devine H S, Devine                   62     1      15      X      Region
+Ruiz, Amador          Pearsall H S, Pearsall               56     2      12      X      Region
+Perez, Christian      Carrizo Springs HS, Carrizo Springs  48     3      10      X      Region
+Kohlleppel, Emily     Devine H S, Devine                   42     4      8       X      Alternate
+Limon, Anthony        Devine H S, Devine                   40     5      6       X
+Hernandez, Albertico  Crystal City H S, Crystal City       36     6      4       X
+Urrabazo, Alexandra   Crystal City H S, Crystal City       24     7
+Arambula, Jacob       Carrizo Springs HS, Carrizo Springs  20     8
+Berrelez, Alizandra   Pearsall H S, Pearsall               14     9
+Weinstrom, Derek      Devine H S, Devine                   14     9
+Paredes, Alexandra    Pearsall H S, Pearsall               10     11
+Bryant, Hunter        Devine H S, Devine                   4      12
+Thong, Vissa          Crystal City H S, Crystal City       -4     13
+Morphew, Zacchaeus    Devine H S, Devine                   -4     13
+Overton, Callie       Crystal City H S, Crystal City       -56    15
+
+TOP SCORERS
+------------------------------
+Contestant            School              Results               Points
+Perez, Christian      Carrizo Springs HS  Top Scorer Biology    3
+Taitano, Josephine    Devine H S          Alternate Biology     0
+Ruiz, Amador          Pearsall H S        Alternate Biology     0
+Ruiz, Amador          Pearsall H S        Top Scorer Chemistry  3
+Hernandez, Albertico  Crystal City H S    Alternate Chemistry   0
+Perez, Christian      Carrizo Springs HS  Alternate Chemistry   0
+Taitano, Josephine    Devine H S          Top Scorer Physics    3
+Limon, Anthony        Devine H S          Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Devine H S, Devine              1     144    1      10      X      Region
+Pearsall H S, Pearsall          1     80     2      5       X      Alternate
+Crystal City H S, Crystal City  1     56     3
+
+(region num: 30)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                     Score  Place  Points  Medal  Advance
+Castaneda, Lucero    Somerset HS, Somerset      94     1      15      X      Region
+Whitt, Jaime         Jones HS, Beeville         88     2      11      X      Region
+Tracy, Preston       Pleasanton HS, Pleasanton  88     2      11      X      Region
+Osborne, Colin       Pleasanton HS, Pleasanton  56     4      8       X      Alternate
+Garcia, Stephanie    Somerset HS, Somerset      42     5      6       X
+Woods, Rowdy         Somerset HS, Somerset      38     6      4       X
+Martinez, Zorayda    Pleasanton HS, Pleasanton  36     7
+Jimenez, Erik        Somerset HS, Somerset      34     8
+McVey, Amanda        Jones HS, Beeville         32     9
+Cuellar, Solidad     Jones HS, Beeville         32     9
+Rodriguez, Gabriela  Somerset HS, Somerset      32     9
+Garcia, Cynthia      Somerset HS, Somerset      26     12
+Garcia, Samantha     Pleasanton HS, Pleasanton  16     13
+Saldana, Sean        Jones HS, Beeville         -6     14
+
+TOP SCORERS
+------------------------------
+Contestant         School         Results               Points
+Castaneda, Lucero  Somerset HS    Top Scorer Biology    3
+Tracy, Preston     Pleasanton HS  Alternate Biology     0
+Castaneda, Lucero  Somerset HS    Top Scorer Chemistry  3
+Jimenez, Erik      Somerset HS    Alternate Chemistry   0
+Whitt, Jaime       Jones HS       Top Scorer Physics    3
+Tracy, Preston     Pleasanton HS  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Pleasanton HS, Pleasanton  1     180    1      10      X      Region
+Somerset HS, Somerset      1     174    2      5       X      Alternate
+Jones HS, Beeville         1     152    3
+
+(region num: 31)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                  School                          Score  Place  Points  Medal  Advance
+Smallwood, Simon            Rockport-Fulton H S, Rockport   74     1      15      X      Region
+Gonzalez, Clarissa          King HS, Kingsville             52     2      12      X      Region
+Petty, Caylor               Ingleside H S, Ingleside        44     3      10      X      Region
+Alarcon, Aurora             Orange Grove H S, Orange Grove  40     4      7       X      Alternate
+Lopez, Javier               Orange Grove H S, Orange Grove  40     4      7       X      Alternate
+Renteria, Kristabelle       King HS, Kingsville             38     6      4       X
+Chadwick, Ben               Aransas Pass HS, Aransas Pass   36     7
+Mueller, Katherine          Orange Grove H S, Orange Grove  34     8
+Patel, Vrunda B             Rockport-Fulton H S, Rockport   34     8
+Parr, Jacob B               Rockport-Fulton H S, Rockport   34     8
+Barrera, Agustin            Robstown H S, Robstown          26     11
+Canelo, Esteban             Orange Grove H S, Orange Grove  22     12
+Heard, Andrew               Ingleside H S, Ingleside        20     13
+Hales, Cassidy              Ingleside H S, Ingleside        20     13
+Martinez, Erick             Orange Grove H S, Orange Grove  18     15
+Caceres, Fidel              Robstown H S, Robstown          18     15
+O'Canas, Arrianna           Sinton H S, Sinton              14     17
+Davila, Zoleda              King HS, Kingsville             14     17
+Hernandez, Manuel Sebastia  West Oso HS, Corpus Christi     12     19
+Pineda, Ricardo             West Oso HS, Corpus Christi     12     19
+Parr, Madison               King HS, Kingsville             12     19
+Aguirre, Yasmine            Sinton H S, Sinton              12     19
+Padilla, Isaias             Robstown H S, Robstown          8      23
+Hernandez, Jo Ann           King HS, Kingsville             6      24
+Martinez, Andrew            West Oso HS, Corpus Christi     6      24
+Hernandez, Adolfo           West Oso HS, Corpus Christi     4      26
+Flores, Dalton              Robstown H S, Robstown          4      26
+Patel, Rahi N               Rockport-Fulton H S, Rockport   2      28
+Zepeda, Michael             West Oso HS, Corpus Christi     2      28
+Long, Mandy                 Orange Grove H S, Orange Grove  0      30
+Martinez, Jasmine           Aransas Pass HS, Aransas Pass   0      30
+Jimenez, Vincent            Aransas Pass HS, Aransas Pass   0      30
+Chadwick, Sebastian         Aransas Pass HS, Aransas Pass   0      30
+Hinojosa, Alyssa            Aransas Pass HS, Aransas Pass   0      30
+Deantes, Priscilla          Aransas Pass HS, Aransas Pass   0      30
+Goodwin, Riley              Ingleside H S, Ingleside        0      30
+Ramirez, Louden             Sinton H S, Sinton              0      30
+Serrano, Valine             Sinton H S, Sinton              0      30
+Vallejo, Paul               Robstown H S, Robstown          0      30
+Mireles, Devin              Sinton H S, Sinton              -2     40
+Briones, Brian              Robstown H S, Robstown          -8     41
+Munoz, Mateo                King HS, Kingsville             -10    42
+Rivas, Sydney               Sinton H S, Sinton              -10    42
+
+TOP SCORERS
+------------------------------
+Contestant          School               Results               Points
+Gonzalez, Clarissa  King HS              Top Scorer Biology    3
+Smallwood, Simon    Rockport-Fulton H S  Alternate Biology     0
+Smallwood, Simon    Rockport-Fulton H S  Top Scorer Chemistry  3
+Barrera, Agustin    Robstown H S         Alternate Chemistry   0
+Parr, Jacob B       Rockport-Fulton H S  Top Scorer Physics    3
+Alarcon, Aurora     Orange Grove H S     Alternate Physics     0
+Smallwood, Simon    Rockport-Fulton H S  Alternate Physics     0
+Caceres, Fidel      Robstown H S         Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Rockport-Fulton H S, Rockport   1     142    1      10      X      Region
+Orange Grove H S, Orange Grove  1     114    2      5       X      Alternate
+King HS, Kingsville             1     104    3
+Ingleside H S, Ingleside        1     84     4
+Robstown H S, Robstown          1     52     5
+Aransas Pass HS, Aransas Pass   1     36     6
+West Oso HS, Corpus Christi     1     30     7
+Sinton H S, Sinton              1     26     8
+
+(region num: 32)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                          Score  Place  Points  Medal  Advance
+Porter, Nick            La Feria H S, La Feria          304    1      15      X      Region
+Bennett, Jordan         La Feria H S, La Feria          230    2      12      X      Region
+Fraga, Roberto          La Feria H S, La Feria          160    3      10      X      Region
+Reich, Thomas           Port Isabel HS, Port Isabel     124    4      8       X      Alternate
+Ochoa, Diego            La Feria H S, La Feria          120    5      6       X
+Garza, Jacob            La Feria H S, La Feria          118    6      4       X
+Reyes, Juan             La Feria H S, La Feria          96     7
+Sauceda, Ismael         Rio Hondo HS, Rio Hondo         78     8
+Constantino, Stephanie  Grulla H S, Rio Grande City     74     9
+Solis, Marlissa         Zapata HS, Zapata               56     10
+Perez, Robert           Port Isabel HS, Port Isabel     56     10
+Sosa, Trinity           Rio Hondo HS, Rio Hondo         46     12
+Valdovinos, Celeste     Raymondville H S, Raymondville  44     13
+Garza, Juan A           Rio Hondo HS, Rio Hondo         42     14
+Cervantes, Leslie       Hidalgo H S, Hidalgo            34     15
+Joe, Claudette          Raymondville H S, Raymondville  32     16
+Sanchez, Gema           Hidalgo H S, Hidalgo            32     16
+Lopez, Jaime            Rio Hondo HS, Rio Hondo         26     18
+Moreno, Gabriel         Progreso HS, Progreso           26     18
+Castaneda, Precilla     Hidalgo H S, Hidalgo            26     18
+Barrientos, Cassandra   Zapata HS, Zapata               16     21
+Martinez, Mario         Zapata HS, Zapata               14     22
+Conde, Cassandra        Raymondville H S, Raymondville  12     23
+Pina, Guadalupe         Progreso HS, Progreso           12     23
+Morales, Joshua         Hidalgo H S, Hidalgo            12     23
+Barajas, Juan           Grulla H S, Rio Grande City     10     26
+Flores, Genesis         Grulla H S, Rio Grande City     10     26
+Villarreal, Georgina    Grulla H S, Rio Grande City     8      28
+Martinez, Daisy         Hidalgo H S, Hidalgo            8      28
+Chavez, Susanna         Zapata HS, Zapata               6      30
+Gamez, Claudia          Raymondville H S, Raymondville  4      31
+Gonzalez, Gerardo       Zapata HS, Zapata               2      32
+Vela, Adonijah          Grulla H S, Rio Grande City     0      33
+Montalvo, Brian         Progreso HS, Progreso           -12    34
+Salinas, Nadia          Grulla H S, Rio Grande City     -24    35
+Zapata, Natalia         Zapata HS, Zapata               -30    36
+
+TOP SCORERS
+------------------------------
+Contestant       School          Results               Points
+Porter, Nick     La Feria H S    Top Scorer Biology    3
+Reich, Thomas    Port Isabel HS  Alternate Biology     0
+Porter, Nick     La Feria H S    Top Scorer Chemistry  1.50
+Bennett, Jordan  La Feria H S    Top Scorer Chemistry  1.50
+Porter, Nick     La Feria H S    Top Scorer Physics    3
+Bennett, Jordan  La Feria H S    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+La Feria H S, La Feria          1     694    1      10      X      Region
+Rio Hondo HS, Rio Hondo         1     166    2      5       X      Alternate
+Grulla H S, Rio Grande City     1     94     3
+Hidalgo H S, Hidalgo            1     92     4
+Raymondville H S, Raymondville  1     88     5
+Zapata HS, Zapata               1     86     6
+Progreso HS, Progreso           1     26     7
+

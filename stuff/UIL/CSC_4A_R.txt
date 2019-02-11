@@ -1,0 +1,250 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                            Score  Place  Points  Medal  Advance
+Kearney, Josh         Wylie HS, Abilene                 224    1      15      X      State
+Witemeyer, Wyatt      Wylie HS, Abilene                 208    2      12      X      State
+Chen, Christopher     Kennedale H S, Kennedale          194    3      10      X      State
+Roberts, Tyler        Wylie HS, Abilene                 184    4      8       X      Alternate
+Ham, Olivia           Kennedale H S, Kennedale          176    5      6       X
+Buckner, Dustin       Andrews HS, Andrews               176    6      4       X
+Nguyen, Long          Kennedale H S, Kennedale          154    7
+Townsend, Cole        Perryton H S, Perryton            152    8
+Acosta, Jay           Kennedale H S, Kennedale          144    9
+Sokolnicki, Ian       Wylie HS, Abilene                 128    10
+Garcia, Avery         Denver City H S, Denver City      90     11
+Treadaway, Payte      Glen Rose H S, Glen Rose          90     11
+Castro, Bryan         Perryton H S, Perryton            84     13
+Ganeshram, Sonya      Hirschi H S, Wichita Falls        82     14
+Osborne, Chase        Glen Rose H S, Glen Rose          82     14
+Kuhn, Noah            Mineral Wells H S, Mineral Wells  74     16
+Smith, Alex           Pampa HS, Pampa                   72     17
+Loyless, Caleb        Andrews HS, Andrews               68     18
+Culpepper, Savannah   Glen Rose H S, Glen Rose          62     19
+Stallings, Leyla      Andrews HS, Andrews               58     20
+Aaron, Bradley        Mineral Wells H S, Mineral Wells  52     21
+Booker, Jonathan      Burkburnett HS, Burkburnett       52     21
+Sewell, Jermany       Andrews HS, Andrews               52     21
+Moreno, Bryan         Perryton H S, Perryton            50     24
+Harte, Justin         Glen Rose H S, Glen Rose          40     25
+Bautista, Andrew      Mountain View H S, El Paso        36     26
+Sotello, Michelle     Denver City H S, Denver City      34     27
+Crowley, Elijah       Graham H S, Graham                32     28
+Flores, Micaela       Mountain View H S, El Paso        26     29
+Crawford, Logan       Mineral Wells H S, Mineral Wells  20     30
+Hansen, Mads          Perryton H S, Perryton            18     31
+Langehennig, Ryan     Denver City H S, Denver City      18     31
+Hernandez, Oscar      Mountain View H S, El Paso        16     33
+Ronnfeldt, Elizabeth  Burkburnett HS, Burkburnett       16     33
+Lemus, Kevin          Mineral Wells H S, Mineral Wells  10     35
+Swanger, John         Levelland H S, Levelland          6      36
+Castillo, Angel       Denver City H S, Denver City      0      37
+Avila, Isaac          Fabens H S, Fabens                0      37
+Manriquez, Myranda    Mountain View H S, El Paso        0      37
+Brown, Christian      Stephenville H S, Stephenville    0      37
+Blackmon, Armetha     Burkburnett HS, Burkburnett       0      37
+Crawford, Derrell     Burkburnett HS, Burkburnett       0      37
+Crawford, Derrell     Burkburnett HS, Burkburnett       -4     43
+Becker, Malachi       Burkburnett HS, Burkburnett       -6     44
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Wylie HS, Abilene                 1     1201   1      20      X      State
+Kennedale H S, Kennedale          1     824    2      16      X      Alternate
+Andrews HS, Andrews               1     642    3      12      X
+Perryton H S, Perryton            1     401    4
+Glen Rose H S, Glen Rose          1     399    5
+Mineral Wells H S, Mineral Wells  1     376    6
+Mountain View H S, El Paso        1     198    7
+Denver City H S, Denver City      1     197    8
+Burkburnett HS, Burkburnett       1     188    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                       Score  Place  Points  Medal  Advance
+Swanson, Robert         Van HS, Van                  224    1      15      X      State
+Mock, Jonathan, P       Tatum HS, Tatum              216    2      12      X      State
+Gahlawat, Kunal         Argyle HS, Argyle            208    3      10      X      State
+Du Preez, Daniel        Van HS, Van                  202    4      8       X      Alternate
+Boyett, Matthew         Henderson HS, Henderson      172    5      6       X
+Dai, Eric               Lebanon Trail HS, Frisco     166    6      4       X
+Weng, Joshua            Lebanon Trail HS, Frisco     162    7
+Chen, Vincent           Lebanon Trail HS, Frisco     128    8
+Rider, Stefan           Argyle HS, Argyle            126    9
+Chavez, Cristian, I     Tatum HS, Tatum              124    10
+Swanson, Timothy        Van HS, Van                  110    11
+Gandhi, Shivani         Argyle HS, Argyle            108    12
+Sanchez, Alexis         Chapel Hill HS, Tyler        100    13
+Wang, Ben               Lebanon Trail HS, Frisco     90     14
+Padgett, Matthew A      Anna HS, Anna                88     15
+Lowery, Wyatt           Melissa H S, Melissa         78     16
+Rainwater, Julian, M    Tatum HS, Tatum              70     17
+Carter, Jared           Chapel Hill HS, Tyler        68     18
+Vega, Joseline          Ferris H S, Ferris           64     19
+Dagley, James           Melissa H S, Melissa         54     20
+Wisthoff, Lacy S        Anna HS, Anna                46     21
+McPherson, Jonathan M   Anna HS, Anna                40     22
+Lopez-Santoyo, Juan     Chapel Hill HS, Tyler        30     23
+Gandhi, Sonali          Argyle HS, Argyle            26     24
+Williams, Cadarius      Atlanta HS, Atlanta          26     24
+Gonzalez-Rubio, Miguel  Ferris H S, Ferris           22     26
+Sotelo, Abraham         Ferris H S, Ferris           20     27
+Serenko, Joey           Van HS, Van                  20     27
+Mendez, Carlos          Atlanta HS, Atlanta          16     29
+Phan, Hasley            Pinkston H S, Dallas         14     30
+Dulgher, Christian      Kaufman H S, Kaufman         14     30
+Reynolds, Kyle          Atlanta HS, Atlanta          14     30
+Benavides, Mauricio, A  Tatum HS, Tatum              12     33
+Ornelas, Fernando       Kaufman H S, Kaufman         8      34
+Martinez, Ivan          Pinkston H S, Dallas         0      35
+Mar Martinez, Brandon   Pinkston H S, Dallas         0      35
+Hixson, Jaylene         Pinkston H S, Dallas         0      35
+Lewis, Jeffrey S        Anna HS, Anna                0      35
+Miller, Mark D          Caddo Mills HS, Caddo Mills  0      35
+Andrews, Quinn          Paris HS, Paris              0      35
+Hedricks, Chris         Chapel Hill HS, Tyler        -8     41
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Van HS, Van               1     1006   1      20      X      State
+Argyle HS, Argyle         1     797    2      16      X      Alternate
+Lebanon Trail HS, Frisco  1     751    3      12      X
+Tatum HS, Tatum           1     750    4
+Chapel Hill HS, Tyler     1     378    5
+Anna HS, Anna             1     354    6
+Atlanta HS, Atlanta       1     116    7
+Pinkston H S, Dallas      1     14     8
+Kaufman H S, Kaufman      1     -858   9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                  Score  Place  Points  Medal  Advance
+Kruemcke, Roy      Giddings H S, Giddings                  240    1      15      X      State
+Mugleston, Nick    Little Cypress-Mauriceville HS, Orange  232    2      11      X      State
+Martin, Derrick    Little Cypress-Mauriceville HS, Orange  232    2      11      X      State
+Perry, Logan       Giddings H S, Giddings                  218    4      8       X      Alternate
+Chapple, Ann       Giddings H S, Giddings                  216    5      5       X
+Myles, Dajhuan     Little Cypress-Mauriceville HS, Orange  216    5      5       X
+Cortez, Modesto    Fairfield H S, Fairfield                168    7
+Singh, Sukjot      Little Cypress-Mauriceville HS, Orange  162    8
+Givan, Daxton      La Grange H S, La Grange                152    9
+Cantwell, Sean     La Grange H S, La Grange                150    10
+Soto, Jairo        La Grange H S, La Grange                96     11
+Kahrs, Tristyn     Fairfield H S, Fairfield                74     12
+Deshotel, Gavin    Liberty HS, Liberty                     72     13
+Lloyd, Carson      Liberty Hill HS, Liberty Hill           66     14
+Luckadoo, Hayden   Liberty Hill HS, Liberty Hill           64     15
+Bramhall, Nick     Liberty Hill HS, Liberty Hill           64     15
+Davila, Xavier     Liberty HS, Liberty                     42     17
+Weyand, Abbey      La Grange H S, La Grange                42     17
+Andrews, Dylan     La Vega H S, Waco                       40     19
+Lewis, Christian   Robinson H S, Robinson                  38     20
+Anderson, Cody     Fairfield H S, Fairfield                36     21
+Hortman, Casey     Liberty HS, Liberty                     28     22
+Harbour, Will      Liberty Hill HS, Liberty Hill           26     23
+Vasiu, Virgil      Connally HS, Waco                       24     24
+Bogle, Kathryn     Fairfield H S, Fairfield                24     24
+Lawrence, Garret   Giddings H S, Giddings                  22     26
+Johnson, Carson    Hargrave HS, Huffman                    20     27
+Warner, Charles    Liberty HS, Liberty                     18     28
+Croft, Colton      Palestine H S, Palestine                16     29
+Tojin, Kevin       Challenge Early College HS, Houston     14     30
+Valderas, Brandon  Connally HS, Waco                       10     31
+Meas, Ben          Palestine H S, Palestine                4      32
+Panhwar, Hajra     Liberty HS, Houston                     4      32
+Vaccaro, Davide    Liberty HS, Houston                     2      34
+Maldonado, Hector  Liberty HS, Houston                     -4     35
+Nerio, Maria       Liberty HS, Houston                     -12    36
+Phipps, Dawson     Connally HS, Waco                       -18    37
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Little Cypress-Mauriceville HS, Orange  1     1220   1      20      X      State
+Giddings H S, Giddings                  1     1089   2      16      X      Alternate
+La Grange H S, La Grange                1     698    3      12      X
+Fairfield H S, Fairfield                1     398    4
+Liberty HS, Liberty                     1     322    5
+Liberty Hill HS, Liberty Hill           1     304    6
+Connally HS, Waco                       1     196    7
+Liberty HS, Houston                     1     62     8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                               Score  Place  Points  Medal  Advance
+Schoener, James       Needville HS, Needville              232    1      15      X      State
+Hoke, Tanner          Boerne HS, Boerne                    224    2      10      X      State
+Sprinkle, Jesse R     Rockport-Fulton H S, Rockport        224    2      10      X      State
+Correa, Alexy         Hidalgo H S, Hidalgo                 224    2      10      X      State
+Schodek, Josef        Needville HS, Needville              208    5      5       X      Alternate
+Taylor, Zane          Boerne HS, Boerne                    208    5      5       X      Alternate
+Jiang, Jerry          Wharton HS, Wharton                  196    7
+Howell, Mason         Needville HS, Needville              192    8
+Mikeska, Colton       Needville HS, Needville              192    8
+Tejeda, Elio          Hidalgo H S, Hidalgo                 172    10
+Bennett, Jordan       La Feria H S, La Feria               162    11
+Smallwood, Simon      Rockport-Fulton H S, Rockport        160    12
+Cervantez, Fisher C   Rockport-Fulton H S, Rockport        152    13
+Cranford, Preston     Wimberley HS, Wimberley              144    14
+Anderson, Mitchell L  Rockport-Fulton H S, Rockport        130    15
+Price, Joshua         Wimberley HS, Wimberley              112    16
+Lofland, James        Gonzales HS, Gonzales                86     17
+Garcia, Zachary       Gonzales HS, Gonzales                82     18
+Smith, Caleb          Sweeny HS, Sweeny                    80     19
+Pecina, Eric          Gonzales HS, Gonzales                72     20
+Hinkley, Bryce        Bandera HS, Bandera                  50     21
+Gamez, Saul           Gonzales HS, Gonzales                34     22
+Pullen, Tyler         Boerne HS, Boerne                    30     23
+Frankum, Tyler        Wharton HS, Wharton                  30     23
+Cardenas, Brian       Carrizo Springs HS, Carrizo Springs  28     25
+Chapa, Benjamin       Carrizo Springs HS, Carrizo Springs  26     26
+McLemore, Ben         Wimberley HS, Wimberley              24     27
+Lozano, Josue         Hidalgo H S, Hidalgo                 24     27
+Jimenez, Eric         Somerset HS, Somerset                8      29
+Lerma, Yaniv          Somerset HS, Somerset                8      29
+Cervantes, Moisess    Hidalgo H S, Hidalgo                 8      29
+Taylor, Hannah        Boerne HS, Boerne                    6      32
+Hernandez, Ethan      Somerset HS, Somerset                4      33
+Osore, Paul           El Campo H S, El Campo               2      34
+May, William          Carrizo Springs HS, Carrizo Springs  0      35
+Valdez, Quinn         Wharton HS, Wharton                  -14    36
+Radicke, Waylon       Devine H S, Devine                   -36    37
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Needville HS, Needville              1     1042   1      20      X      State
+Rockport-Fulton H S, Rockport        1     1016   2      16      X      Alternate
+Boerne HS, Boerne                    1     877    3      12      X
+Hidalgo H S, Hidalgo                 1     695    4
+Wimberley HS, Wimberley              1     580    5
+Gonzales HS, Gonzales                1     410    6
+Wharton HS, Wharton                  1     327    7
+Somerset HS, Somerset                1     80     8
+Carrizo Springs HS, Carrizo Springs  1     54     9
+
+TEAM RESULTS
+------------------------------
+
+

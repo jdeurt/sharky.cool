@@ -1,0 +1,219 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+Boston, Lance         Booker HS, Booker            98     1      15      X      State
+Ortiz, Laura          Springlake H S, Earth        38     2      12      X      State
+Trajkovski, Kristina  Knox City HS, Knox City      36     3      10      X      State
+Bradfute, Shelton     Springlake H S, Earth        28     4      8       X      Alternate
+Gibson, PL            Guthrie HS, Guthrie          26     5      6       X
+Crawford, Christina   Whiteface HS, Whiteface      22     6      4       X
+Ramirez, Valentine    Booker HS, Booker            20     7
+Hunt, Zoey            Meadow HS, Meadow            20     7
+Medina, Jonathan      Springlake H S, Earth        16     9
+Castillo, Aliyah      Meadow HS, Meadow            16     9
+Rinke, Justus R       Hedley H S, Hedley           14     11
+Jones, Karlee         Springlake H S, Earth        14     11
+Brandon, Brittany     Guthrie HS, Guthrie          14     11
+Bhakta, Kabir         Kelton HS, Wheeler           12     14
+Maxwell, Reagan       Guthrie HS, Guthrie          10     15
+Dominguez, Daniel     Booker HS, Booker            8      16
+Moore, Kai            Happy HS, Happy              8      16
+Nelson, Tristan       Nazareth H S, Nazareth       6      18
+Phillips, Haidyn      Booker HS, Booker            4      19
+Davis, Jackson        Happy HS, Happy              4      19
+Fulkerson, Katherine  Nazareth H S, Nazareth       4      19
+Sanchez, Frankie      Whiteface HS, Whiteface      4      19
+McKnight, Benjamin    Crowell HS, Crowell          4      19
+Scogin, Tye           Jayton H S, Jayton           2      24
+Hacker, Shawn         Knox City HS, Knox City      2      24
+Sandoval, Yaretzi     Guthrie HS, Guthrie          0      26
+Mestas, Zarek L       Hedley H S, Hedley           -2     27
+Bryan, Ceara          Meadow HS, Meadow            -2     27
+Monroe, Collin T      Hedley H S, Hedley           -4     29
+Valentine, Jonathan   Meadow HS, Meadow            -4     29
+Rivas, Daniel         Whiteface HS, Whiteface      -8     31
+Logsdon, Sean         Knox City HS, Knox City      -8     31
+Hooser, Tanner        Chillicothe HS, Chillicothe  -12    33
+Huntress, Jacob       Darrouzett HS, Darrouzett    -36    34
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Booker HS, Booker        1     356    1      20      X      State
+Springlake H S, Earth    1     202    2      16      X      Alternate
+Guthrie HS, Guthrie      1     110    3      12      X
+Meadow HS, Meadow        1     94     4
+Knox City HS, Knox City  1     90     5
+Whiteface HS, Whiteface  1     78     6
+Hedley H S, Hedley       1     8      7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Justice, Ben         Borden HS, Gail                     216    1      15      X      State
+Morris, Karter       Aspermont HS, Aspermont             138    2      12      X      State
+Martin, Clayton      Aspermont HS, Aspermont             122    3      10      X      State
+Cole, Mason          Borden HS, Gail                     84     4      8       X      Alternate
+Buchanan, Austin     Borden HS, Gail                     52     5      6       X
+Bhakta, Niraj        Aspermont HS, Aspermont             42     6      4       X
+Lewis, Riley         Borden HS, Gail                     40     7
+Chavez, Luis         Aspermont HS, Aspermont             38     8
+Saldivar, Sabra      Veribest HS, Veribest               28     9
+Truesdell, Hunter    Sanderson H S, Sanderson            28     10
+Farrer, Brucks       Fort Davis H S, Fort Davis          26     11
+Scott, Kelsee        Loop HS, Loop                       22     12
+Sublett, Weston      May HS, May                         20     13
+Brennan, L           Rising Star HS, Rising Star         18     14
+Naegele, Abby        Fort Davis H S, Fort Davis          10     15
+Miles, Jeremy        Fort Davis H S, Fort Davis          8      16
+Wilkinson, Dakotah   May HS, May                         8      16
+Nelson, Will         Loop HS, Loop                       8      18
+Solis, Madison       Blackwell HS, Blackwell             4      19
+Taubert, Kolton      Loop HS, Loop                       4      20
+Williams, Mercedes   Blackwell HS, Blackwell             4      20
+Barron, Christian    Rochelle HS, Rochelle               4      20
+Flenniken, Connor    May HS, May                         4      23
+Brinkman, Sam        Blackwell HS, Blackwell             2      24
+Rodriguez, Jochi     O'Donnell HS, O'Donnell             2      25
+GALINDO, LISANDRA    Rankin H S, Rankin                  0      26
+Gott, Grant          Blackwell HS, Blackwell             0      26
+Crook, Ariana        Grandfalls-Royalty H S, Grandfalls  -2     28
+Cadena, Jerry Lee    Grandfalls-Royalty H S, Grandfalls  -2     28
+Devine Ryan, Caelan  Big Bend HS, Terlingua              -8     30
+Abila, Keegan        Grandfalls-Royalty H S, Grandfalls  -10    31
+Hawkins, Seven       Rankin H S, Rankin                  -10    32
+Ponce, Efren         Fort Davis H S, Fort Davis          -10    33
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Aspermont HS, Aspermont             1     592    1      20      X      State
+Borden HS, Gail                     1     567    2      16      X      Alternate
+Loop HS, Loop                       1     89     3      12      X
+Fort Davis H S, Fort Davis          1     44     4
+May HS, May                         1     32     5
+Blackwell HS, Blackwell             1     10     6
+Grandfalls-Royalty H S, Grandfalls  1     -14    7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                   Score  Place  Points  Medal  Advance
+Coston, Stone        Slidell HS, Slidell      122    1      15      X      State
+Parks, Elisabeth     Tioga HS, Tioga          70     2      11      X      State
+Garner, Keith        Fruitvale HS, Fruitvale  70     2      11      X      State
+Davis, Dusty         Slidell HS, Slidell      64     4      8       X      Alternate
+Talamantes, Tristyn  Slidell HS, Slidell      44     5      6       X
+Johnson, Warren      Slidell HS, Slidell      42     6      4       X
+Bates, Mackenzie     Blum HS, Blum            18     7
+Davis, Colton        Graford H S, Graford     16     8
+Allen, Brendan       Blum HS, Blum            6      9
+Sanchez, Monica      Saint Jo HS, Saint Jo    6      9
+Polk, Austin         Graford H S, Graford     4      11
+Hipolito, Moses      Gorman H S, Gorman       4      11
+Terry, Brandon       Zephyr HS, Zephyr        4      11
+Holbach, Malachi     Gustine HS, Gustine      4      11
+Burkett, Camdyne     Blum HS, Blum            4      11
+Castillo, Adrian     Gustine HS, Gustine      2      16
+Ramirez, Claudia     Gustine HS, Gustine      2      16
+Ramirez, Jessica     Gorman H S, Gorman       0      18
+Simes, Abbie         Tioga HS, Tioga          0      18
+Witte, Kevin         Fruitvale HS, Fruitvale  0      18
+Pledger, Wesley      Saint Jo HS, Saint Jo    0      18
+Phillips, David      Graford H S, Graford     -4     22
+Phillips, Brett      Graford H S, Graford     -6     23
+Gutierrez, Gustavo   Gorman H S, Gorman       -8     24
+Polley, Owenn        Tioga HS, Tioga          -8     24
+Stiteler, Grant      Saint Jo HS, Saint Jo    -10    26
+Russell, B.J.        Fruitvale HS, Fruitvale  -10    26
+Murillo, Karina      Gustine HS, Gustine      -12    28
+Hart, Hunter         Fruitvale HS, Fruitvale  -14    29
+Staples, Ethan       Tioga HS, Tioga          -18    30
+Ogden, Kyle          Saint Jo HS, Saint Jo    -30    31
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Slidell HS, Slidell      1     505    1      20      X      State
+Tioga HS, Tioga          1     172    2      16      X      Alternate
+Fruitvale HS, Fruitvale  1     120    3      12      X
+Blum HS, Blum            1     28     4
+Graford H S, Graford     1     16     5
+Gustine HS, Gustine      1     8      6
+Gorman H S, Gorman       1     -4     7
+Saint Jo HS, Saint Jo    1     -4     7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Dong, Jessica       Knippa H S, Knippa             88     1      15      X      State
+Vann, Kaylee        Wells HS, Wells                38     2      12      X      State
+Rangel, Obie        Abbott HS, Abbott              22     3      10      X      State
+Freeman, Juston     Spurger HS, Spurger            18     4      8       X      Alternate
+DeHoyos, Ryan       Moulton HS, Moulton            14     5      6       X
+Williams, Meilssa   Evant H S, Evant               12     6      4       X
+Ramos, Stoney       Moulton HS, Moulton            10     7
+Lieby, Casey        Spurger HS, Spurger            10     8
+Ramos, Laci         Moulton HS, Moulton            8      9
+Magouirk, Marissa   McMullen County HS, Tilden     8      10
+Lutkenhaus, Autumn  Abbott HS, Abbott              6      11
+Royal, Mason        McMullen County HS, Tilden     6      11
+Ramsey, William     Evant H S, Evant               4      13
+Dixon, Haylie       Slocum H S, Elkhart            4      13
+Brewer, Ragan       Wells HS, Wells                4      13
+Cervera, Christian  Utopia HS, Utopia              4      13
+Keeney, Kyler       Utopia HS, Utopia              4      13
+Jones, Cody         Evant H S, Evant               2      18
+French, Keagan      Wells HS, Wells                2      19
+Canik, Dustin       Fayetteville HS, Fayetteville  2      19
+Easley, Sara        Slocum H S, Elkhart            0      21
+Hopkins, Sterling   Fayetteville HS, Fayetteville  0      21
+Nors, Nathan        Abbott HS, Abbott              0      23
+Guzman, Tony        Moulton HS, Moulton            -2     24
+Ortiz, Diana        Abbott HS, Abbott              -2     25
+Kotara, Christian   Spurger HS, Spurger            -4     26
+Hunt, Arian         Evant H S, Evant               -4     27
+Stephens, Pate      Spurger HS, Spurger            -4     27
+Valdez, Kaylie      Utopia HS, Utopia              -6     29
+Frederick, Shane    Wells HS, Wells                -6     30
+Lednicky, Deven     Penelope H S, Penelope         -8     31
+Delgado, Alexis     McMullen County HS, Tilden     -8     31
+Nuan, Savna         Slocum H S, Elkhart            -14    33
+Aparicio, Jose      Fayetteville HS, Fayetteville  -16    34
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Abbott HS, Abbott              1     148    1      20      X      State
+Spurger HS, Spurger            1     84     2      16      X      Alternate
+Wells HS, Wells                1     44     3      12      X
+Moulton HS, Moulton            1     32     4
+Evant H S, Evant               1     18     5
+McMullen County HS, Tilden     1     6      6
+Utopia HS, Utopia              1     2      7
+Slocum H S, Elkhart            1     -10    8
+Fayetteville HS, Fayetteville  1     -14    9
+
+TEAM RESULTS
+------------------------------
+
+

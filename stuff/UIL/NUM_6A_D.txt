@@ -1,0 +1,1488 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                                   Score  Place  Points  Medal  Advance
+Villa, Eli                 Americas HS, El Paso                     259    1      15      X      Region
+Wilson, Robert             Coronado HS, El Paso                     125    2      12      X      Region
+Hamdan, Hamzeh             Coronado HS, El Paso                     119    3      10      X      Region
+Venegas, Felix             Coronado HS, El Paso                     112    4      8       X      Alternate
+Do, Emily                  Franklin H S, El Paso                    108    5      6       X
+Zhang, Zhinan              Pebble Hills HS, El Paso                 104    6      4       X
+Chitti, Mahika             Montwood H S, El Paso                    99     7
+Aaluri, Gayatri            Montwood H S, El Paso                    96     8
+Aaluri, Anjali             Montwood H S, El Paso                    96     8
+Ramirez, Hugo              Coronado HS, El Paso                     91     10
+Lechuga, Abril             Pebble Hills HS, El Paso                 89     11
+Zhang, Min Dong            Transmountain Early College HS, El Paso  88     12
+Sillas, Ricardo            El Dorado HS, El Paso                    86     13
+Lohman, Ruby               Transmountain Early College HS, El Paso  79     14
+Murphree, Lana             Franklin H S, El Paso                    78     15
+Orrantia-Kotows, Michaela  Eastwood H S, El Paso                    68     16
+Chen, Jonathan             Transmountain Early College HS, El Paso  67     17
+Gutierrez, Christopher     Eastwood H S, El Paso                    65     18
+Budredkis, Sarunas         Eastwood H S, El Paso                    59     19
+Ruiz, Manny                Valle Verde Early College HS, El Paso    59     19
+Villagran, Robert          Americas HS, El Paso                     58     21
+Ma, Andy                   Franklin H S, El Paso                    57     22
+Ortega, Rafael             Montwood H S, El Paso                    43     23
+Kim, Celline               Franklin H S, El Paso                    41     24
+Duran, Luis                El Dorado HS, El Paso                    29     25
+Cera, Pierre               Americas HS, El Paso                     28     26
+Lowrence, Andrew           Eastwood H S, El Paso                    26     27
+Morales, Miguel            Valle Verde Early College HS, El Paso    12     28
+Martinez, German           Valle Verde Early College HS, El Paso    11     29
+Camacho, Diego             Transmountain Early College HS, El Paso  8      30
+Locklear, Jeremy           El Dorado HS, El Paso                    7      31
+Fernandez, Natalia         Americas HS, El Paso                     -3     32
+Ramirez, Jonah             Valle Verde Early College HS, El Paso    -10    33
+Vazquez, Itzhel            Socorro HS, Socorro                      -13    34
+
+TOP SCORERS
+------------------------------
+School                                   Team  Score  Place  Points  Medal  Advance
+Coronado HS, El Paso                     1     356    1      10      X      Region
+Americas HS, El Paso                     1     345    2      5       X      Alternate
+Montwood H S, El Paso                    1     291    3
+Franklin H S, El Paso                    1     243    4
+Transmountain Early College HS, El Paso  1     234    5
+Eastwood H S, El Paso                    1     192    6
+El Dorado HS, El Paso                    1     122    7
+Valle Verde Early College HS, El Paso    1     82     8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Sampson, Riki      Frenship H S, Wolfforth  253    1      15      X      Region
+Seo, Hannah        Frenship H S, Wolfforth  103    2      12      X      Region
+Diaz, Thomas       Tascosa HS, Amarillo     59     3      10      X      Region
+Campbell, Cade     Central HS, San Angelo   58     4      8       X      Alternate
+Ybarra, Rocky      Central HS, San Angelo   53     5      6       X
+Salsedo, Ethan     Tascosa HS, Amarillo     48     6      4       X
+Ferguson, Alexis   Tascosa HS, Amarillo     32     7
+Liang, Zekun       Permian H S, Odessa      22     8
+Stowe, Holden      Permian H S, Odessa      21     9
+Herndon, Zoe       Odessa H S, Odessa       15     10
+Schipper, Ian      Central HS, San Angelo   11     11
+Menchaca, Jacob    Permian H S, Odessa      8      12
+Martinez, Marco    Permian H S, Odessa      8      12
+Zubia, Jason       Odessa H S, Odessa       8      12
+Webb, Tatjanna     Central HS, San Angelo   5      15
+Shepherd, Kayla    Frenship H S, Wolfforth  5      15
+Gonzales, Julian   Frenship H S, Wolfforth  4      17
+Anderson, Astrin   Odessa H S, Odessa       -1     18
+Henderson, Nathan  Tascosa HS, Amarillo     -13    19
+Prasad, Vivek      Odessa H S, Odessa       -20    20
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Frenship H S, Wolfforth  1     361    1      10      X      Region
+Tascosa HS, Amarillo     1     139    2      5       X      Alternate
+Central HS, San Angelo   1     122    3
+Permian H S, Odessa      1     51     4
+Odessa H S, Odessa       1     22     5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                   Score  Place  Points  Medal  Advance
+Lee, Andrew        Central HS, Keller       346    1      15      X      Region
+Khurana, Avi       Central HS, Keller       295    2      12      X      Region
+Gupta, Shray       Keller H S, Keller       158    3      10      X      Region
+Cho, Daniel        Keller H S, Keller       125    4      8       X      Alternate
+Le, Luc            Central HS, Keller       124    5      6       X
+Kottegoda, Seniru  Keller H S, Keller       100    6      4       X
+Doan, Justin       Central HS, Keller       99     7
+Gonzalez, Nathan   Abilene HS, Abilene      94     8
+Yang, William      Keller H S, Keller       65     9
+Sameer, Ridha      Timber Creek HS, Keller  62     10
+Liu, Steven        Abilene HS, Abilene      52     11
+Bisso, Steven      Timber Creek HS, Keller  47     12
+Shrestha, Nischal  Haltom HS, Haltom City   45     13
+Stevens, Bradley   Abilene HS, Abilene      44     14
+Shrestha, Mahan    Haltom HS, Haltom City   39     15
+Kumar, Aman        Haltom HS, Haltom City   26     16
+Niraula, Apil      Haltom HS, Haltom City   7      17
+Garza, Kevin       Fossil Ridge HS, Keller  5      18
+Watson, Josh       A.T.E.M.S., Abilene      5      18
+Henderson, Nolan   A.T.E.M.S., Abilene      0      20
+Beutel, Matthew    Timber Creek HS, Keller  -7     21
+Mohmand, Omar      Fossil Ridge HS, Keller  -12    22
+Harper, William    A.T.E.M.S., Abilene      -15    23
+Matos, Adrian      Fossil Ridge HS, Keller  -21    24
+Nguyen, Bao        Fossil Ridge HS, Keller  -28    25
+Elliot, Jacob      A.T.E.M.S., Abilene      -31    26
+
+TOP SCORERS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Central HS, Keller       1     765    1      10      X      Region
+Keller H S, Keller       1     383    2      5       X      Alternate
+Abilene HS, Abilene      1     190    3
+Haltom HS, Haltom City   1     110    4
+Timber Creek HS, Keller  1     102    5
+A.T.E.M.S., Abilene      1     -10    6
+Fossil Ridge HS, Keller  1     -28    7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                         Score  Place  Points  Medal  Advance
+Nguyen, Andrew      Mansfield HS, Mansfield        297    1      15      X      Region
+Troung, Jackie      Martin HS, Arlington           196    2      12      X      Region
+Nguyen, Khoi        Martin HS, Arlington           195    3      10      X      Region
+Williams, Jacob     Martin HS, Arlington           184    4      8       X      Alternate
+Huang, Wei-chen     Lamar HS, Arlington            124    5      6       X
+Pham, Thu           Paschal H S, Fort Worth        98     6      4       X
+Kojouharov, Venny   Mansfield HS, Mansfield        89     7
+Mittal, Abhay       Martin HS, Arlington           86     8
+Barksdale, William  North Crowley H S, Fort Worth  76     9
+Sharaf, Taha        Paschal H S, Fort Worth        74     10
+Suttharoj, Piraya   Lamar HS, Arlington            74     10
+Coopman, Marvin     Lamar HS, Arlington            63     12
+Nguyen, Edward      Mansfield HS, Mansfield        52     13
+Hardin, Cole        Mansfield HS, Mansfield        37     14
+Oliver, Nelson      North Crowley H S, Fort Worth  29     15
+Liang, Richard      Lamar HS, Arlington            26     16
+Sewell, Charles     North Crowley H S, Fort Worth  21     17
+Ferrufino, Joselyn  Bowie HS, Arlington            20     18
+Tran, Jessica       Bowie HS, Arlington            11     19
+Vargas, Enzo        Houston HS, Arlington          9      20
+Oh, Daniel          Paschal H S, Fort Worth        8      21
+Doan, Vy            Bowie HS, Arlington            3      22
+Jameson, Connor     North Crowley H S, Fort Worth  2      23
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Martin HS, Arlington           1     575    1      10      X      Region
+Mansfield HS, Mansfield        1     438    2      5       X      Alternate
+Lamar HS, Arlington            1     261    3
+Paschal H S, Fort Worth        1     180    4
+North Crowley H S, Fort Worth  1     126    5
+Bowie HS, Arlington            1     34     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 5)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Yun, Sunjong         Hebron HS, Carrollton            272    1      15      X      Region
+Yun, Chanjong        Hebron HS, Carrollton            247    2      12      X      Region
+Dai, Jingyi          Hebron HS, Carrollton            223    3      10      X      Region
+Gunampalli, Tarun    Flower Mound HS, Flower Mound    210    4      8       X      Alternate
+Hirsch, Jason        Marcus HS, Flower Mound          209    5      6       X
+King, Brendan        Marcus HS, Flower Mound          180    6      4       X
+Cao, William         Flower Mound HS, Flower Mound    171    7
+Zhang, Jeffrey       Flower Mound HS, Flower Mound    156    8
+Kodali, Ananya       Marcus HS, Flower Mound          141    9
+Graswich, Jon        Nelson High School, Trophy Club  137    10
+Xu, Nancy            Flower Mound HS, Flower Mound    113    11
+Cherukupalli, Mihir  Marcus HS, Flower Mound          110    12
+Tung, Madelynn       Carroll HS, Southlake            83     13
+Nguyen, Austin       Nelson High School, Trophy Club  81     14
+Baton, Jason         Nelson High School, Trophy Club  74     15
+Upreti, Neil         Coppell HS, Coppell              73     16
+Kuketz, Garrett      Carroll HS, Southlake            67     17
+Yuan, Tian           Hebron HS, Carrollton            37     18
+Vijay, Akash         Coppell HS, Coppell              35     19
+Gosh, Arhan          Nelson High School, Trophy Club  22     20
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Hebron HS, Carrollton            1     742    1      10      X      Region
+Flower Mound HS, Flower Mound    1     537    2      5       X      Alternate
+Marcus HS, Flower Mound          1     530    3
+Nelson High School, Trophy Club  1     292    4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 6)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Lin, Dachey         Plano West Sr HS, Plano     252    1      15      X      Region
+Wang, Brian         Plano West Sr HS, Plano     228    2      12      X      Region
+Kim, Nathan         Allen HS, Allen             224    3      10      X      Region
+Cherian, Abraham    Allen HS, Allen             208    4      8       X      Alternate
+Nguyen, Huy         Allen HS, Allen             195    5      6       X
+Zou, Elizabeth      Plano West Sr HS, Plano     170    6      4       X
+Chan, Justin        McKinney Boyd HS, McKinney  143    7
+Huang, Kenny        Plano Sr HS, Plano          133    8
+Alappat, Joe        Allen HS, Allen             125    9
+Weigel, Alec        McKinney HS, McKinney       119    10
+Chow, Jakob         McKinney HS, McKinney       95     11
+Nesru, Aimen        Wylie HS, Wylie             94     12
+Landrum, Liam       McKinney HS, McKinney       93     13
+El-Hindi, Basil     McKinney HS, McKinney       70     14
+Arjun, Aditya       Plano West Sr HS, Plano     70     14
+Gates, Nathan       Guyer H S, Denton           64     16
+Minh-Tuan, Phung    Plano East Sr HS, Plano     49     17
+Leibovich, Inbar    McKinney Boyd HS, McKinney  41     18
+Mendoza, Julian     Guyer H S, Denton           37     19
+Winter, Matthew     McKinney Boyd HS, McKinney  27     20
+Lin, Karen          Guyer H S, Denton           20     21
+Thai, Kevin         Wylie HS, Wylie             19     22
+Mohamad, Lina       Wylie HS, Wylie             11     23
+Hughes, Rachel      Guyer H S, Denton           9      24
+Yu, Justin          Plano East Sr HS, Plano     0      25
+Islam, Rishad       Plano East Sr HS, Plano     0      25
+Dickenson, Jeffrey  Plano East Sr HS, Plano     0      25
+Akar, Bilal         Plano Sr HS, Plano          0      25
+Aravapalli, Anish   Plano Sr HS, Plano          0      25
+Kolli, Ashish       Plano Sr HS, Plano          0      25
+McNeil, Avery       McKinney Boyd HS, McKinney  -11    31
+Patel, Neil         Wylie HS, Wylie             -37    32
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Plano West Sr HS, Plano     1     650    1      10      X      Region
+Allen HS, Allen             1     627    2      5       X      Alternate
+McKinney HS, McKinney       1     307    3
+McKinney Boyd HS, McKinney  1     211    4
+Plano Sr HS, Plano          1     133    5
+Wylie HS, Wylie             1     124    6
+Guyer H S, Denton           1     121    7
+Plano East Sr HS, Plano     1     49     8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 7)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                                  Score  Place  Points  Medal  Advance
+Tomaylla Eme, Jorge       MacArthur HS, Irving                    145    1      15      X      Region
+Barragan, Alexis          MacArthur HS, Irving                    124    2      12      X      Region
+TA, ALAN                  Nimitz HS, Irving                       76     3      10      X      Region
+HUYNH, MADISON            South Grand Prairie H S, Grand Prairie  70     4      8       X      Alternate
+Guha, Aishi               MacArthur HS, Irving                    61     5      6       X
+Hernandez, Ethan          MacArthur HS, Irving                    56     6      4       X
+ROE, NATALIE              South Grand Prairie H S, Grand Prairie  35     7
+LE, ALPHONSE              South Grand Prairie H S, Grand Prairie  28     8
+Beltran, Daniel           Irving HS, Irving                       25     9
+Fagan, Joe                Irving HS, Irving                       18     10
+Regalado, Anthony         Irving HS, Irving                       17     11
+PHAM, VI                  South Grand Prairie H S, Grand Prairie  12     12
+Le, Jonathan              Singley Academy, Irving                 8      13
+Torres Loredo, Margarita  Grand Prairie HS, Grand Prairie         -20    14
+Campos, Samuel            Nimitz HS, Irving                       -65    15
+Trejo, Jore               Nimitz HS, Irving                       -122   16
+Flores, Jesus             Nimitz HS, Irving                       -154   17
+Lopez Campos, Jennifer    Grand Prairie HS, Grand Prairie         -179   18
+Hernandez, Jacob          Duncanville HS, Duncanville             -197   19
+Cano, Matthew             Duncanville HS, Duncanville             -223   20
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+MacArthur HS, Irving                    1     330    1      10      X      Region
+South Grand Prairie H S, Grand Prairie  1     133    2      5       X      Alternate
+Irving HS, Irving                       1     60     3
+Nimitz HS, Irving                       1     -111   4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 8)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                           Score  Place  Points  Medal  Advance
+Moon, Hayoung        Midway H S, Woodway              160    1      15      X      Region
+Win, Lawrence        Belton HS, Belton                107    2      12      X      Region
+Moon, Haeun          Midway H S, Woodway              92     3      10      X      Region
+Sami, Rohan          Belton HS, Belton                71     4      8       X      Alternate
+Ake, Marcus          Belton HS, Belton                50     5      6       X
+Anderson, Christine  Ellison H S, Killeen             47     6      4       X
+Gonzales, Noah       Copperas Cove HS, Copperas Cove  43     7
+Park, David          Midway H S, Woodway              42     8
+Trevino, Nick        Ellison H S, Killeen             40     9
+Majors, Andrew       Midway H S, Woodway              15     10
+Rodriguez, Anthony   Belton HS, Belton                8      11
+Gillespie, Kevin     Copperas Cove HS, Copperas Cove  6      12
+Smith, Cooper        Copperas Cove HS, Copperas Cove  0      13
+Hernandez, Abdiel    Copperas Cove HS, Copperas Cove  -152   14
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Midway H S, Woodway              1     294    1      10      X      Region
+Belton HS, Belton                1     228    2      5       X      Alternate
+Copperas Cove HS, Copperas Cove  1     49     3
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 9)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                                Score  Place  Points  Medal  Advance
+Rege, Raviraj        Science-Eng Magnet Hs, Dallas         327    1      15      X      Region
+Chandak, Yash        Science-Eng Magnet Hs, Dallas         283    2      12      X      Region
+Ogunfunmi, Tomisin   Science-Eng Magnet Hs, Dallas         251    3      10      X      Region
+Diaz, Victor         Science-Eng Magnet Hs, Dallas         201    4      8       X      Alternate
+Gao, Richard         School for Talented & Gifted, Dallas  137    5      6       X
+Amenewolde, Peter    School for Talented & Gifted, Dallas  55     6      4       X
+Yahia, Ettesaf       School for Talented & Gifted, Dallas  40     7
+Romero, Manuel       Skyline HS, Dallas                    35     8
+Servin, Diego        Skyline HS, Dallas                    29     9
+Hernandez, Georgina  Sanders Law Magnet, Dallas            17     10
+Roman, Sebastian     School of Business & Mgmt, Dallas     0      11
+Martinez, Octavio    School of Business & Mgmt, Dallas     -2     12
+Galarza, Elias       Skyline HS, Dallas                    -4     13
+Meza, Cinthya        Rangel YWL School, Dallas             -10    14
+Pineda, Eddy         School of Educ & Social Svcs, Dallas  -19    15
+Guzman, Lisbeth      Sanders Law Magnet, Dallas            -19    15
+Perez, Emmanuel      Skyline HS, Dallas                    -20    17
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Science-Eng Magnet Hs, Dallas         1     861    1      10      X      Region
+School for Talented & Gifted, Dallas  1     232    2      5       X      Alternate
+Skyline HS, Dallas                    1     60     3
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 10)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                                 Score  Place  Points  Medal  Advance
+Chung, Norman            Garland H S, Garland                   364    1      15      X      Region
+Nguyen, Zachary          Garland H S, Garland                   301    2      12      X      Region
+Wendling, Jake           Garland H S, Garland                   281    3      10      X      Region
+Swallow, Grant           Garland H S, Garland                   202    4      8       X      Alternate
+Lamoreaux, Aaron         Richardson H S, Richardson             172    5      6       X
+Mandell, Nathan          Pearce H S, Richardson                 140    6      4       X
+Katz, Zachary            Richardson H S, Richardson             108    7
+Nguyen, Long             North Garland H S, Garland             105    8
+Ashmore, Frank           Jesuit College Preparatory HS, Dallas  91     9
+Nguyen, Phat             North Garland H S, Garland             89     10
+Tran, Kevin              North Garland H S, Garland             85     11
+Hirota, Kazuma           Jesuit College Preparatory HS, Dallas  83     12
+Mekbeb-Gillett, Mathios  Jesuit College Preparatory HS, Dallas  81     13
+Rayman, James            Richardson H S, Richardson             75     14
+Omar, Nikhaz             Pearce H S, Richardson                 74     15
+Johnson, Rachel          Richardson H S, Richardson             73     16
+De Leon, Eduardo         Jesuit College Preparatory HS, Dallas  73     16
+Peng, Wilson             Pearce H S, Richardson                 59     18
+Tran, Helen              North Garland H S, Garland             34     19
+Hosseinpour, Mehrshad    Pearce H S, Richardson                 21     20
+Clayton-Allen, LaCora    South Garland H S, Garland             20     21
+Aguilear, Javier         South Garland H S, Garland             -22    22
+English, Skyler          South Garland H S, Garland             -27    23
+
+TOP SCORERS
+------------------------------
+School                                 Team  Score  Place  Points  Medal  Advance
+Garland H S, Garland                   1     946    1      10      X      Region
+Richardson H S, Richardson             1     355    2      5       X      Alternate
+North Garland H S, Garland             1     279    3
+Pearce H S, Richardson                 1     273    4
+Jesuit College Preparatory HS, Dallas  1     255    5
+South Garland H S, Garland             1     -29    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 11)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                        Score  Place  Points  Medal  Advance
+Smith, Hanor           Rockwall-Heath HS, Heath      124    1      15      X      Region
+Yeh, Joseph            Rockwall H S, Rockwall        113    2      12      X      Region
+Fay, Bernard           Rockwall-Heath HS, Heath      103    3      10      X      Region
+Wilson, Jacob          Lee H S, Tyler                89     4      8       X      Alternate
+Haling, Jackson        Lee H S, Tyler                85     5      6       X
+Briseno, Karen         Mesquite H S, Mesquite        77     6      4       X
+Briseno, Judith        Mesquite H S, Mesquite        66     7
+Diaz, Adriana          Rockwall H S, Rockwall        58     8
+Pawlowski, Felicity    Mesquite H S, Mesquite        57     9
+Morgenthaler, Howie    Rockwall H S, Rockwall        57     9
+Trail, Alexis          Rockwall H S, Rockwall        53     11
+Layton, Katie          Rockwall-Heath HS, Heath      49     12
+Vordenbaumen, Timothy  Lee H S, Tyler                49     12
+Webb, Spencer          Lee H S, Tyler                44     14
+Pich, Jacob            Mesquite H S, Mesquite        41     15
+Ramirez, Eladio        Tyler HS, Tyler               7      16
+Fielding, Alex         Rockwall-Heath HS, Heath      0      17
+Mondragon, Angel       Tyler HS, Tyler               0      17
+Pickens, Dalton        Horn H S, Mesquite            0      17
+Holloway, Bryce        Tyler HS, Tyler               -9     20
+Sims, Clifton          North Mesquite H S, Mesquite  -11    21
+Juane, Jeshua          Horn H S, Mesquite            -22    22
+Saavedra, Michele      North Mesquite H S, Mesquite  -24    23
+Daniels, Emmanuel      Tyler HS, Tyler               -70    24
+Needum, Alonzo         Horn H S, Mesquite            -140   25
+Edegbe, Naomi          Horn H S, Mesquite            -197   26
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Rockwall-Heath HS, Heath  1     276    1      10      X      Region
+Rockwall H S, Rockwall    1     228    2      5       X      Alternate
+Lee H S, Tyler            1     223    3
+Mesquite H S, Mesquite    1     200    4
+Tyler HS, Tyler           1     -2     5
+Horn H S, Mesquite        1     -162   6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 12)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                           Score  Place  Points  Medal  Advance
+Khurshid, Ali      Lufkin H S, Lufkin               144    1      15      X      Region
+Duran, Cesar       Conroe HS, Conroe                142    2      12      X      Region
+Sansoni, Bronson   College Park HS, The Woodlands   127    3      10      X      Region
+Le, Patrick        College Park HS, The Woodlands   112    4      8       X      Alternate
+Nazeer, Taha       Lufkin H S, Lufkin               96     5      6       X
+Shao, Edward       College Park HS, The Woodlands   85     6      4       X
+Zhou, Jonathan     Montgomery HS, Montgomery        82     7
+Artrip, Alex       Conroe HS, Conroe                82     7
+Bomchill, Preston  Oak Ridge H S, Conroe            70     9
+Mannel, Will       The Woodlands HS, The Woodlands  68     10
+Mir, Yousuf        Lufkin H S, Lufkin               68     10
+Sarmiento, Joel    Lufkin H S, Lufkin               68     10
+Meyer, Jake        Conroe HS, Conroe                64     13
+Zhang, Corey       The Woodlands HS, The Woodlands  63     14
+Reddy, Rithik      The Woodlands HS, The Woodlands  50     15
+Partridge, Madi    Oak Ridge H S, Conroe            38     16
+Bih, Joshua        The Woodlands HS, The Woodlands  35     17
+Chang, Daniel      Montgomery HS, Montgomery        26     18
+Paddock, Rachel    Montgomery HS, Montgomery        26     18
+Mitchell, Kendra   Conroe HS, Conroe                8      20
+Murphy, Jacob      Montgomery HS, Montgomery        6      21
+Sahagun, Romina    Oak Ridge H S, Conroe            -28    22
+Milam, Nick        Oak Ridge H S, Conroe            -54    23
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+College Park HS, The Woodlands   1     324    1      10      X      Region
+Lufkin H S, Lufkin               1     308    2      5       X      Alternate
+Conroe HS, Conroe                1     288    3
+The Woodlands HS, The Woodlands  1     181    4
+Montgomery HS, Montgomery        1     134    5
+Oak Ridge H S, Conroe            1     80     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 13)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                          Score  Place  Points  Medal  Advance
+Narang, Ijay             Westwood HS, Austin             163    1      15      X      Region
+Wang, Eric               Westwood HS, Austin             157    2      12      X      Region
+Moondra, Anshul          Westwood HS, Austin             150    3      10      X      Region
+Palepu, Sai              Round Rock H S, Round Rock      116    4      8       X      Alternate
+Sreenivasan, Adithya     McNeil H S, Austin              112    5      6       X
+Nguyen, Darrin           Stony Point H S, Round Rock     93     6      4       X
+Bello, Tomi              Hendrickson HS, Pflugerville    92     7
+Rhode, Matthew           Stony Point H S, Round Rock     92     7
+Bandi, Rihit             Westwood HS, Austin             87     9
+Iyengar, Srishaan        Round Rock H S, Round Rock      78     10
+Alexander, Thomas        Hendrickson HS, Pflugerville    76     11
+Ravi, Shravan            McNeil H S, Austin              75     12
+Clark, Julian            McNeil H S, Austin              72     13
+Phirke, Vaidehi N        Cedar Ridge HS, Round Rock      70     14
+Hodges, James            Pflugerville H S, Pflugerville  63     15
+Cox, Tyler               Round Rock H S, Round Rock      59     16
+Chen, Chieh-An           Stony Point H S, Round Rock     53     17
+Golder, Caiden           Hendrickson HS, Pflugerville    36     18
+Hiray, Arnav             Stony Point H S, Round Rock     29     19
+Manzur, Karim A          Cedar Ridge HS, Round Rock      26     20
+Tran, Nhi T              Cedar Ridge HS, Round Rock      16     21
+Martinez Morale, Luis E  Cedar Ridge HS, Round Rock      8      22
+Nisely, Blake            Hendrickson HS, Pflugerville    5      23
+Konathan, Daniel         Round Rock H S, Round Rock      5      23
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Westwood HS, Austin           1     470    1      10      X      Region
+McNeil H S, Austin            1     259    2      5       X      Alternate
+Round Rock H S, Round Rock    1     253    3
+Stony Point H S, Round Rock   1     238    4
+Hendrickson HS, Pflugerville  1     204    5
+Cedar Ridge HS, Round Rock    1     112    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 14)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                     Score  Place  Points  Medal  Advance
+Ortiz, Frankie          Del Valle HS, Del Valle    126    1      15      X      Region
+Rubine, Jacob           Bowie HS, Austin           96     2      12      X      Region
+Ramirez, Javier         Akins HS, Austin           76     3      10      X      Region
+Kittleman, Cory         Anderson HS, Austin        64     4      8       X      Alternate
+Mooney, Canyon          Bowie HS, Austin           57     5      6       X
+Deo, Shravrani          Bowie HS, Austin           53     6      4       X
+Stephany, Joseph        Anderson HS, Austin        47     7
+Ortiz, Gabriel          San Marcos HS, San Marcos  41     8
+Velasquez, Enrique      Del Valle HS, Del Valle    40     9
+Garcia, Maria           Del Valle HS, Del Valle    36     10
+Banuelos, Juan          Del Valle HS, Del Valle    17     11
+Lockhoof, Shane         Bowie HS, Austin           8      12
+Chaporro-Hernan, Yaire  Manor HS, Manor            -1     13
+Foight, Jordan          Manor HS, Manor            -61    14
+Milton, Levi            Anderson HS, Austin        -136   15
+Reyes-Rojas, Jessica    San Marcos HS, San Marcos  -215   16
+Olariu, Pavel           Anderson HS, Austin        -320   17
+Taheme, Mathieu         Manor HS, Manor            -320   17
+Sapkota, Bishal         San Marcos HS, San Marcos  -320   17
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Bowie HS, Austin           1     206    1      10      X      Region
+Del Valle HS, Del Valle    1     202    2      5       X      Alternate
+Anderson HS, Austin        1     -25    3
+Manor HS, Manor            1     -382   4
+San Marcos HS, San Marcos  1     -494   5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 15)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                    Score  Place  Points  Medal  Advance
+Ghosh, Rishabh       Klein Oak HS, Spring      282    1      15      X      Region
+Jaegy, Hubert        Klein Oak HS, Spring      254    2      12      X      Region
+Ye, Thomas           Klein HS, Klein           250    3      10      X      Region
+Mehta, Pranav        Klein HS, Klein           212    4      8       X      Alternate
+Gwamanda, Easton     Klein Oak HS, Spring      187    5      6       X
+Huang, Nicholas      Klein Oak HS, Spring      129    6      4       X
+Jia, Chris           Klein HS, Klein           100    7
+Herrera, Leonardo    Klein Collins HS, Spring  86     8
+Winborne, Nyah       Klein Collins HS, Spring  57     9
+Shabankareh, Taylor  Klein Collins HS, Spring  50     10
+Choi, Jasmine        Stratford H S, Houston    48     11
+Ayyar, Thara         Memorial H S, Houston     38     12
+Hussein, Omar        Spring Woods HS, Houston  36     13
+Dao, Loi             Klein Forest HS, Houston  36     13
+Nguyen, Long         Klein HS, Klein           35     15
+Daly, Sean           Stratford H S, Houston    25     16
+Espinoza, Sergio     Northbrook H S, Houston   23     17
+Baring, Geoffrey     Stratford H S, Houston    22     18
+Nguyen, Khoa         Klein Forest HS, Houston  10     19
+Pecina, Lysandra     Klein Collins HS, Spring  10     19
+Tran, Nhi            Spring Woods HS, Houston  2      21
+El-Sayed, Basmala    Memorial H S, Houston     0      22
+Wilhelm, Freddie     Memorial H S, Houston     0      22
+Wilson, Grace        Memorial H S, Houston     0      22
+Nguyen, Vincent      Klein Forest HS, Houston  0      22
+Aguilar, Abel        Northbrook H S, Houston   0      22
+Pham, Tan            Klein Forest HS, Houston  -6     27
+Mosby, Keisjon       Northbrook H S, Houston   -20    28
+To, Thanh            Northbrook H S, Houston   -28    29
+Terrazas, Isabelle   Stratford H S, Houston    -50    30
+Castro, Laura        Spring Woods HS, Houston  -54    31
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Klein Oak HS, Spring      1     723    1      10      X      Region
+Klein HS, Klein           1     562    2      5       X      Alternate
+Klein Collins HS, Spring  1     193    3
+Stratford H S, Houston    1     95     4
+Klein Forest HS, Houston  1     46     5
+Memorial H S, Houston     1     38     6
+Northbrook H S, Houston   1     3      7
+Spring Woods HS, Houston  1     -16    8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 16)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                 Score  Place  Points  Medal  Advance
+Chan, Angela          Westfield HS, Houston                  73     1      15      X      Region
+Nguyen, Binh          Davis (Aldine ISD) HS, Houston         67     2      12      X      Region
+Ekeruche, Esu Joy     Westfield HS, Houston                  56     3      10      X      Region
+Santiago, Allaiza     Davis (Aldine ISD) HS, Houston         42     4      8       X      Alternate
+Stewart, Jamal        Spring HS, Spring                      34     5      6       X
+Perez Lopez, Karen    Davis (Aldine ISD) HS, Houston         31     6      4       X
+Ng, Rachel            Westfield HS, Houston                  22     7
+Castaneda, Alexander  Eisenhower H S, Houston                14     8
+Do, Christine N       Spring Early College Acad HS, Houston  8      9
+Nguyen, Diem N        Spring Early College Acad HS, Houston  8      9
+Blakley, Riley        Westfield HS, Houston                  7      11
+Moreno, Bryan         Macarthur HS, Houston                  0      12
+Gonzalez, Joceline    Eisenhower H S, Houston                0      12
+Barreda, Kaylie       Spring HS, Spring                      -1     14
+Mai, Peter            Spring Early College Acad HS, Houston  -1     14
+Rivera Sanchez, Jose  Spring Wunsche Sr. HS, Spring          -6     16
+Duong, Linda          Eisenhower H S, Houston                -11    17
+Pablo, Leon           Macarthur HS, Houston                  -16    18
+Rodriguez, Eulogio    Macarthur HS, Houston                  -16    18
+King, Madison         Spring HS, Spring                      -17    20
+Kent, Sheyanne        Spring HS, Spring                      -22    21
+Alyousef, Lujain H    Spring Early College Acad HS, Houston  -25    22
+Beltran, Christopher  Macarthur HS, Houston                  -33    23
+Viruez, Tani          Davis (Aldine ISD) HS, Houston         -36    24
+
+TOP SCORERS
+------------------------------
+School                                 Team  Score  Place  Points  Medal  Advance
+Westfield HS, Houston                  1     151    1      10      X      Region
+Davis (Aldine ISD) HS, Houston         1     140    2      5       X      Alternate
+Spring HS, Spring                      1     16     3
+Spring Early College Acad HS, Houston  1     15     4
+Eisenhower H S, Houston                1     3      5
+Macarthur HS, Houston                  1     -32    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 17)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Zhong, Angela       Cypress Woods HS, Cypress    236    1      15      X      Region
+Iyer, Anand         Cypress Woods HS, Cypress    204    2      12      X      Region
+Cheng, Steven       Cypress Woods HS, Cypress    194    3      10      X      Region
+Chemerla, Sritha    Cypress Woods HS, Cypress    148    4      8       X      Alternate
+Jones, Austin T     Cypress Ranch HS, Cypress    134    5      6       X
+Bandi, Samhitha     Cypress Creek HS, Houston    130    6      4       X
+Gonzalez, German    Cypress Falls H S, Houston   117    7
+Gonzalez, Gerardo   Cypress Falls H S, Houston   112    8
+Patel, Rohan R      Cypress Ranch HS, Cypress    112    8
+Yang, Emily         Cypress Ranch HS, Cypress    101    10
+Zhou, Michael       Cypress Ranch HS, Cypress    99     11
+Lam, Brian          Jersey Village HS, Houston   91     12
+Han, Sharon         Cypress Falls H S, Houston   87     13
+Vu, Warren          Cypress Falls H S, Houston   83     14
+Paugh, Ethan        Cypress Creek HS, Houston    79     15
+Nguyen, Jane        Jersey Village HS, Houston   44     16
+Narayan, Neel       Cypress Ridge HS, Houston    44     16
+Ogunmesa, Tise      Cypress Lakes, Katy          34     18
+Mohan, Nitish       Jersey Village HS, Houston   33     19
+Vasquez, Alejandro  Cypress Creek HS, Houston    32     20
+Quipley, Daniel P.  Cypress Springs HS, Cypress  11     21
+Martinez, Orlando   Cypress Lakes, Katy          -5     22
+Nguyen, Phat        Jersey Village HS, Houston   -25    23
+Mukhtar, Zakeria    Cypress Ridge HS, Houston    -25    23
+Minsquero, Tryston  Cypress Creek HS, Houston    -25    23
+Paita, Ivonne       Cypress Lakes, Katy          -25    23
+Paita, Ivette       Cypress Lakes, Katy          -32    27
+Ho, Cory            Cypress Ridge HS, Houston    -46    28
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Cypress Woods HS, Cypress   1     634    1      10      X      Region
+Cypress Ranch HS, Cypress   1     347    2      5       X      Alternate
+Cypress Falls H S, Houston  1     316    3
+Cypress Creek HS, Houston   1     241    4
+Jersey Village HS, Houston  1     168    5
+Cypress Lakes, Katy         1     4      6
+Cypress Ridge HS, Houston   1     -27    7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 18)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                               Score  Place  Points  Medal  Advance
+Tenney, JoNathan        Carnegie Vanguard HS, Houston        225    1      15      X      Region
+He, Adam                Carnegie Vanguard HS, Houston        192    2      12      X      Region
+Grobowsky, Olivia       Westside HS, Houston                 131    3      10      X      Region
+Devulapalli, Sri        Carnegie Vanguard HS, Houston        127    4      8       X      Alternate
+Gopalakrishnan, Pranav  Westside HS, Houston                 87     5      6       X
+Flores, Gustavo         Mickey Leland College Prep, Houston  76     6      4       X
+Ebel, Ryan              Heights HS, Houston                  70     7
+Luna, Angel             Heights HS, Houston                  66     8
+Zhu, Shirley            Bellaire HS, Bellaire                54     9
+Joshi, Divy             Westside HS, Houston                 50     10
+Urquhart, Dayne         Lamar H S, Houston                   44     11
+Ramirez, Emily          Heights HS, Houston                  43     12
+Amador, Joram           Mickey Leland College Prep, Houston  42     13
+Francisco, Marron       Energy Institute HS, Houston         36     14
+Barnes, Ben             Energy Institute HS, Houston         16     15
+Mejia-Huerta, Lesuy     Heights HS, Houston                  12     16
+Villegas, Alfonso       Mickey Leland College Prep, Houston  6      17
+Urquhart, Luke          Lamar H S, Houston                   -1     18
+Lee, Keithan            Westside HS, Houston                 -14    19
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Carnegie Vanguard HS, Houston        1     544    1      10      X      Region
+Westside HS, Houston                 1     268    2      5       X      Alternate
+Heights HS, Houston                  1     179    3
+Mickey Leland College Prep, Houston  1     124    4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 19)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                    Score  Place  Points  Medal  Advance
+Ye, Jennings         Seven Lakes H S, Katy     251    1      15      X      Region
+Koka, Shanth         Seven Lakes H S, Katy     236    2      12      X      Region
+Liu, Hannah          Seven Lakes H S, Katy     234    3      10      X      Region
+Kumar, Harsh         Seven Lakes H S, Katy     157    4      8       X      Alternate
+George, Nevin        Cinco Ranch HS, Katy      123    5      6       X
+Karim, Joshua        Tompkins HS, Katy         99     6      4       X
+Saxena, Anmol        Cinco Ranch HS, Katy      88     7
+Lee, Donghyun        Cinco Ranch HS, Katy      55     8
+Bhonsley, Adithya    Cinco Ranch HS, Katy      45     9
+Murali, Mehul        Tompkins HS, Katy         40     10
+Chai, Justin         Tompkins HS, Katy         29     11
+Vuong, Nathan        Mayde Creek H S, Houston  27     12
+Sudhakar, Abinavraj  Tompkins HS, Katy         -11    13
+Aguirre, Nicholas    Mayde Creek H S, Houston  -96    14
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Seven Lakes H S, Katy  1     721    1      10      X      Region
+Cinco Ranch HS, Katy   1     266    2      5       X      Alternate
+Tompkins HS, Katy      1     168    3
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 20)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                         Score  Place  Points  Medal  Advance
+Liu, Andrew              Dulles H S, Sugar Land         373    1      15      X      Region
+Zahid, Ethan             Dulles H S, Sugar Land         336    2      12      X      Region
+Wu, Eric                 Clements HS, Sugar Land        317    3      10      X      Region
+Muppalla, Siddharth      Clements HS, Sugar Land        310    4      8       X      Alternate
+Thipireddy, Shreya       Dulles H S, Sugar Land         306    5      6       X
+Mukkat, Naveen           Dulles H S, Sugar Land         303    6      4       X
+Karanam, Akash           Clements HS, Sugar Land        301    7
+Zhou, Amy                Clements HS, Sugar Land        224    8
+Glenny, Jake             Ridge Point HS, Missouri City  96     9
+Walker, Charles          Ridge Point HS, Missouri City  74     10
+Stephenson, Ian          Ridge Point HS, Missouri City  52     11
+Pham, Jennifer           Bush HS, Richmond              52     11
+Ou, Bing                 Bush HS, Richmond              44     13
+Elangovan, Deepalakshmi  Travis HS, Richmond            33     14
+Nguyen, Ryan             Travis HS, Richmond            10     15
+Vicknair, Spencer        Ridge Point HS, Missouri City  6      16
+Brokheius, Ben           Travis HS, Richmond            0      17
+Banjo, Tosin             Travis HS, Richmond            0      17
+Chowdhury, Shafin        Hightower H S, Missouri City   0      17
+Ohuakanwa, Eustace       Hightower H S, Missouri City   0      17
+Tran, Victoria           Hightower H S, Missouri City   0      17
+Voong, Vanson            Kempner H S, Sugar Land        -43    22
+Shamim, Nabil            Bush HS, Richmond              -56    23
+Pulimoottil, Dora        Hightower H S, Missouri City   -65    24
+Rizvi, Syed              Kempner H S, Sugar Land        -181   25
+Dehri, Zara              Kempner H S, Sugar Land        -219   26
+Patel, Neeti             Kempner H S, Sugar Land        -232   27
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Dulles H S, Sugar Land         1     1015   1      10      X      Region
+Clements HS, Sugar Land        1     928    2      5       X      Alternate
+Ridge Point HS, Missouri City  1     222    3
+Travis HS, Richmond            1     43     4
+Bush HS, Richmond              1     40     5
+Hightower H S, Missouri City   1     0      6
+Kempner H S, Sugar Land        1     -443   7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 21)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                            Score  Place  Points  Medal  Advance
+Agrawal, Ayush        Sterling HS, Baytown              150    1      15      X      Region
+William, Patrick      Atascocita HS, Humble             147    2      12      X      Region
+Wu, Hongbin           Channelview HS, Channelview       131    3      10      X      Region
+Butterfield, Tyson    Kingwood H S, Humble              130    4      8       X      Alternate
+De La Rosa, Isabel    Sterling HS, Baytown              124    5      6       X
+Gupta, Pranav         Goose Creek Memorial HS, Baytown  122    6      4       X
+Nguyen, Havi          Sterling HS, Baytown              112    7
+Wells, Jordan         Atascocita HS, Humble             103    8
+Russel, Brandon       Kingwood H S, Humble              94     9
+Kulkarni, Jatin       Goose Creek Memorial HS, Baytown  94     9
+Sharma, Bhanu         Goose Creek Memorial HS, Baytown  90     11
+Bates, Tim            Kingwood H S, Humble              82     12
+Lin, Jia              Sterling HS, Baytown              76     13
+Turney, Blake         Atascocita HS, Humble             74     14
+Mai, Cecilia          North Shore H S, Houston          70     15
+Arreola, Danny        Atascocita HS, Humble             65     16
+Naikele, Ansh         Goose Creek Memorial HS, Baytown  44     17
+Chan, Michelle        North Shore H S, Houston          33     18
+Sampson, Francis      North Shore H S, Houston          25     19
+Meza, Richard         Channelview HS, Channelview       20     20
+Kinariwala, Kush      Quest Early College HS, Humble    13     21
+Smith, Kaitlin        Kingwood H S, Humble              10     22
+Tuttle, Grace         Quest Early College HS, Humble    8      23
+Benson, Dewane        Channelview HS, Channelview       7      24
+Xiang, Richard Y.     Summer Creek H S, Humble          1      25
+Parada, Eric          King HS, Houston                  0      26
+Aranda, Andrea        King HS, Houston                  0      26
+Azua, Jaqueline       King HS, Houston                  0      26
+Mora, Nelson          Channelview HS, Channelview       0      26
+Villanueva, Adrianne  North Shore H S, Houston          -6     30
+Ly, Tommy H.          Summer Creek H S, Humble          -7     31
+Horton, Andy          Quest Early College HS, Humble    -9     32
+Carr, Samantha        Quest Early College HS, Humble    -25    33
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Sterling HS, Baytown              1     386    1      10      X      Region
+Atascocita HS, Humble             1     324    2      5       X      Alternate
+Goose Creek Memorial HS, Baytown  1     306    3
+Kingwood H S, Humble              1     306    3
+Channelview HS, Channelview       1     158    5
+North Shore H S, Houston          1     128    6
+Quest Early College HS, Humble    1     12     7
+King HS, Houston                  1     0      8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 22)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                    Score  Place  Points  Medal  Advance
+Liu, Kent                West Brook HS, Beaumont   220    1      15      X      Region
+Chennupati, Vignesh      West Brook HS, Beaumont   188    2      12      X      Region
+Yang, David              West Brook HS, Beaumont   172    3      10      X      Region
+Tan, Andrew              West Brook HS, Beaumont   107    4      8       X      Alternate
+Xu, Yinong               La Porte H S, La Porte    105    5      6       X
+Mathews, Miraya          La Porte H S, La Porte    32     6      4       X
+Hernandez, Eloy Anthony  Deer Park H S, Deer Park  17     7
+Castillo, Sergio         Rayburn H S, Pasadena     14     8
+Hinds, Virginia          La Porte H S, La Porte    -2     9
+McCoy, Chance            Deer Park H S, Deer Park  -2     9
+Palacios, Joseph         Rayburn H S, Pasadena     -7     11
+Gonzalez, Vincent        Rayburn H S, Pasadena     -9     12
+Reyna, Johnathan         Deer Park H S, Deer Park  -21    13
+Kiran, Richa             Deer Park H S, Deer Park  -42    14
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+West Brook HS, Beaumont   1     580    1      10      X      Region
+La Porte H S, La Porte    1     135    2      5       X      Alternate
+Rayburn H S, Pasadena     1     -2     3
+Deer Park H S, Deer Park  1     -6     4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 23)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                 School                      Score  Place  Points  Medal  Advance
+Assef, Josh                Dawson HS, Pearland         215    1      15      X      Region
+Pham, Stefan               George Ranch H S, Richmond  152    2      12      X      Region
+Williams, Jessica          Dawson HS, Pearland         137    3      10      X      Region
+Wu, Jeffery                Dawson HS, Pearland         128    4      7       X      Alternate
+Pham, Michael              George Ranch H S, Richmond  128    4      7       X      Alternate
+Ly, Linh                   Kerr HS, Houston            101    6      4       X
+Parmaswaran, Maneesh       Dawson HS, Pearland         99     7
+Vu, Alice                  Kerr HS, Houston            83     8
+Dedas, Jason               Brazoswood HS, Clute        81     9
+Yu, Shaun                  Brazoswood HS, Clute        60     10
+Huynh, Edison              Kerr HS, Houston            55     11
+Maeda, Alyssa              Brazoswood HS, Clute        55     11
+Vo, Tien                   Kerr HS, Houston            41     13
+Singh, Gundeep             Brazoswood HS, Clute        41     13
+Prushing, Joshua           George Ranch H S, Richmond  38     15
+Agboola, Abdul Bari        Hastings H S, Houston       35     16
+Fenuyi, Oluwaseun          Hastings H S, Houston       35     16
+Garcia, Jessie             George Ranch H S, Richmond  34     18
+Vu, Alex                   Taylor HS, Houston          28     19
+Gutierrez, Bryan           Hastings H S, Houston       24     20
+Oladunjoye, Marvelous      Taylor HS, Houston          24     20
+Nguyen, Ahn                Taylor HS, Houston          19     22
+Al Hasan, Mohammad         Taylor HS, Houston          14     23
+Benitez, Carlos            Elsik H S, Alief            0      24
+Abuede, Chimite            Elsik H S, Alief            0      24
+Adeleye, Adeola            Elsik H S, Alief            0      24
+Jolayemi, Omodunni (Vitor  Elsik H S, Alief            -20    27
+Vo, Bao                    Hastings H S, Houston       -22    28
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Dawson HS, Pearland         1     480    1      10      X      Region
+George Ranch H S, Richmond  1     318    2      5       X      Alternate
+Kerr HS, Houston            1     239    3
+Brazoswood HS, Clute        1     196    4
+Hastings H S, Houston       1     94     5
+Taylor HS, Houston          1     71     6
+Elsik H S, Alief            1     0      7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 24)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Li, Edward           Clear Lake HS, Houston         132    1      15      X      Region
+Yang, Angel          Clear Lake HS, Houston         128    2      12      X      Region
+Kuo, Ben             Friendswood H S, Friendswood   105    3      10      X      Region
+Zhou, Dean           Clear Lake HS, Houston         98     4      8       X      Alternate
+Daniel, Edwin        Friendswood H S, Friendswood   94     5      6       X
+Majmudar, Akhil      Clear Brook HS, Friendswood    90     6      4       X
+Otto, Harrison       Friendswood H S, Friendswood   87     7
+Wu, Deanna           Clear Lake HS, Houston         81     8
+Juarez, Priya        Friendswood H S, Friendswood   79     9
+Maredia, Sharil S    Clear Springs HS, League City  77     10
+Nguyen, Emily M      Clear Springs HS, League City  67     11
+Wilson, Jeffery      Clear Brook HS, Friendswood    52     12
+Noorbakhsh, Cameron  Clear Creek HS, League City    44     13
+Jiang, Christine     Clear Brook HS, Friendswood    36     14
+Lindberg, Scott      Clear Creek HS, League City    34     15
+Ye, Regina Y         Clear Springs HS, League City  26     16
+Chen, Jennifer       Clear Brook HS, Friendswood    25     17
+French, Samuel       Alvin HS, Alvin                12     18
+King, Kyle P         Clear Springs HS, League City  9      19
+Moody, Katie         Alvin HS, Alvin                6      20
+Rehan, Muhammed      Clear Creek HS, League City    0      21
+Richardson, Cailey   Dickinson H S, Dickinson       0      21
+Rodriguez, Amy       Dickinson H S, Dickinson       0      21
+Johnson, Roshawn     Dickinson H S, Dickinson       0      21
+Ware, Jade           Dickinson H S, Dickinson       0      21
+Cox, Victoria        Alvin HS, Alvin                -10    26
+Astello, Ashley      Alvin HS, Alvin                -43    27
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Clear Lake HS, Houston         1     358    1      10      X      Region
+Friendswood H S, Friendswood   1     286    2      5       X      Alternate
+Clear Brook HS, Friendswood    1     178    3
+Clear Springs HS, League City  1     170    4
+Clear Creek HS, League City    1     78     5
+Alvin HS, Alvin                1     8      6
+Dickinson H S, Dickinson       1     0      7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 25)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+He, Helen             Westlake HS, Austin          123    1      15      X      Region
+Wang, Kyle            Westlake HS, Austin          115    2      12      X      Region
+Bipin, Vaishnav       Lake Travis H S, Austin      109    3      10      X      Region
+Yoon, Chanwoo         Vista Ridge H S, Cedar Park  104    4      8       X      Alternate
+Plaxton, Nathaniel    Lake Travis H S, Austin      94     5      6       X
+Johnson, Bret         Hays HS, Buda                82     6      4       X
+He, Lance             Westlake HS, Austin          81     7
+Wei, Sarah            Westlake HS, Austin          76     8
+Li, Jerry             Vista Ridge H S, Cedar Park  76     8
+Barksdale, Levi       Hays HS, Buda                73     10
+Wee, Guan Lin         Lake Travis H S, Austin      71     11
+Ikonomopoulos, Jason  Lake Travis H S, Austin      62     12
+Champagne, Jason      Hays HS, Buda                60     13
+Song, Bryan           Vista Ridge H S, Cedar Park  56     14
+Gibson, Jacqueline    Hays HS, Buda                23     15
+Homiller, Samantha    Vista Ridge H S, Cedar Park  21     16
+Power, Abigail        Lehman High School, Kyle     20     17
+Power, Emma           Lehman High School, Kyle     0      18
+Doyle, Mackenzie      Lehman High School, Kyle     -2     19
+Jacob, Bohreer        Vandegrift H S, Austin       -7     20
+Richter, Shelby       Lehman High School, Kyle     -15    21
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Westlake HS, Austin          1     319    1      10      X      Region
+Lake Travis H S, Austin      1     274    2      5       X      Alternate
+Vista Ridge H S, Cedar Park  1     236    3
+Hays HS, Buda                1     215    4
+Lehman High School, Kyle     1     18     5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 26)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                     Score  Place  Points  Medal  Advance
+Moynihan, Lucas        Reagan HS, San Antonio     240    1      15      X      Region
+Ranjan, Nikhil         Reagan HS, San Antonio     237    2      12      X      Region
+Joshi, Om              Churchill HS, San Antonio  190    3      10      X      Region
+Prasad, Rishabh        Reagan HS, San Antonio     163    4      8       X      Alternate
+Akalkotkar, Ravi       Churchill HS, San Antonio  110    5      6       X
+Li, Haojia             Reagan HS, San Antonio     103    6      4       X
+Crusius, Kyle          Churchill HS, San Antonio  99     7
+Kaplan, Saffron        Roosevelt HS, San Antonio  91     8
+Chen, Kaijie           Lee H S, San Antonio       89     9
+Murphy, Quinn          Johnson HS, San Antonio    85     10
+Fernandes, Davi        Roosevelt HS, San Antonio  82     11
+Tschoepe, Jacob        Roosevelt HS, San Antonio  76     12
+Garcia, Eduardo        Madison HS, San Antonio    66     13
+Rodriguez, Ty          Churchill HS, San Antonio  64     14
+Hoque, Siyam           Madison HS, San Antonio    59     15
+Punjani, Anaya         Johnson HS, San Antonio    54     16
+Wheeler, Austin        Madison HS, San Antonio    48     17
+Caldera, Marcus        Roosevelt HS, San Antonio  34     18
+Kaza, Surya            Johnson HS, San Antonio    22     19
+Levine, Jacob          MacArthur HS, San Antonio  18     20
+Cantu Trevino, Amadeo  MacArthur HS, San Antonio  14     21
+Garcia, Elizabeth      MacArthur HS, San Antonio  13     22
+Bolanos, Josh          MacArthur HS, San Antonio  8      23
+Laws, Teagan           Madison HS, San Antonio    -6     24
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+Reagan HS, San Antonio     1     640    1      10      X      Region
+Churchill HS, San Antonio  1     399    2      5       X      Alternate
+Roosevelt HS, San Antonio  1     249    3
+Madison HS, San Antonio    1     173    4
+Johnson HS, San Antonio    1     161    5
+MacArthur HS, San Antonio  1     45     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 27)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+Loja, Hans          Steele H S, Cibolo                      195    1      15      X      Region
+Estes, Luke         Smithson Valley HS, Spring Branch       182    2      12      X      Region
+Stoutamyer, Ross    Smithson Valley HS, Spring Branch       150    3      10      X      Region
+Rodriguez, Lauren   Clemens HS, Schertz                     112    4      8       X      Alternate
+Templeman, Philip   Canyon HS, New Braunfels                103    5      6       X
+Ling, Brandon       Smithson Valley HS, Spring Branch       98     6      4       X
+Kirchoff, Emma      Canyon HS, New Braunfels                92     7
+Bradbury, Iris      Smithson Valley HS, Spring Branch       82     8
+Forlano, Clancy     New Braunfels H S, New Braunfels        67     9
+Tondre, Jacob       Clemens HS, Schertz                     63     10
+Plepsen, Jasmine    Clemens HS, Schertz                     63     10
+Angeles, Brandon    Steele H S, Cibolo                      59     12
+Alkire, Jeremy      New Braunfels H S, New Braunfels        56     13
+Meyers, Warren      Wagner HS, San Antonio                  52     14
+Li, Jialong         Wagner HS, San Antonio                  50     15
+Rios, Jadan         Judson Early College Academy, Live Oak  49     16
+Emler, Madison      Judson H S, Converse                    48     17
+Frazier, Jackson    Canyon HS, New Braunfels                47     18
+Perez, Anthony      Judson Early College Academy, Live Oak  46     19
+Akula, Neeraj       Canyon HS, New Braunfels                35     20
+Ollaca, Discivitee  Wagner HS, San Antonio                  27     21
+Kyle, Kistner       Memorial ECHS, New Braunfels            22     22
+Holt, Jason         Steele H S, Cibolo                      18     23
+Curtis, Makenna     Judson H S, Converse                    17     24
+Hernandez, Victor   Memorial ECHS, New Braunfels            17     24
+Jackson, Gavin      Judson Early College Academy, Live Oak  14     26
+White, Cameron      Judson H S, Converse                    11     27
+Zayasbazan, Dylan   East Central H S, San Antonio           9      28
+Reid, Jade          Steele H S, Cibolo                      6      29
+Pickett, Joseph     New Braunfels H S, New Braunfels        3      30
+Abundiz, Yanel      Wagner HS, San Antonio                  -1     31
+Bonson, Christian   Judson H S, Converse                    -1     31
+Barber, Matt        New Braunfels H S, New Braunfels        -4     33
+Palmer, James       East Central H S, San Antonio           -6     34
+Ramos, Christian    East Central H S, San Antonio           -7     35
+Smith, Madison      Clemens HS, Schertz                     -13    36
+Crook, Rian         Memorial ECHS, New Braunfels            -225   37
+Trapolsi, Sierra    Judson Early College Academy, Live Oak  -316   38
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Smithson Valley HS, Spring Branch       1     430    1      10      X      Region
+Steele H S, Cibolo                      1     272    2      5       X      Alternate
+Canyon HS, New Braunfels                1     242    3
+Clemens HS, Schertz                     1     238    4
+Wagner HS, San Antonio                  1     129    5
+New Braunfels H S, New Braunfels        1     126    6
+Judson Early College Academy, Live Oak  1     109    7
+Judson H S, Converse                    1     76     8
+East Central H S, San Antonio           1     -4     9
+Memorial ECHS, New Braunfels            1     -186   10
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 28)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                           Score  Place  Points  Medal  Advance
+Tran, Matthew          O'Connor HS, Helotes             214    1      15      X      Region
+Ran, Lindsey           Health Careers H S, San Antonio  188    2      12      X      Region
+Petterson, Thomas      Jay H S, San Antonio             173    3      10      X      Region
+Walsdorf, Rachel       Jay H S, San Antonio             126    4      8       X      Alternate
+Martinez, Jorge        Jay H S, San Antonio             115    5      6       X
+Provow, Joslyn         Jay H S, San Antonio             107    6      4       X
+Do, Trang              Brandeis HS, San Antonio         105    7
+Cho, Yohahn            Warren HS, San Antonio           100    8
+Cortes, Davcon         Marshall HS, San Antonio         98     9
+Cummings, Clayton      Clark HS, San Antonio            88     10
+Rice, John             O'Connor HS, Helotes             88     10
+Gao, Anne              Health Careers H S, San Antonio  85     12
+Howard, Madison        Holmes H S, San Antonio          85     12
+Kent, David            O'Connor HS, Helotes             80     14
+Burrus, Warren         O'Connor HS, Helotes             77     15
+Salinas, Olivia        Warren HS, San Antonio           72     16
+Li, Jenna              Health Careers H S, San Antonio  70     17
+Feng, Richard          Health Careers H S, San Antonio  69     18
+Chin, Will             Clark HS, San Antonio            68     19
+Fu, Annie              Brandeis HS, San Antonio         62     20
+Garza, Rose            Clark HS, San Antonio            51     21
+Pineiro, Nicolas       Holmes H S, San Antonio          42     22
+Ruiz-Tenorio, Gerardo  Holmes H S, San Antonio          35     23
+Cho, Yoel              Warren HS, San Antonio           29     24
+Ketchum, Abigail       Warren HS, San Antonio           27     25
+Calicotte, Mary        Stevens H S, San Antonio         25     26
+Reyna, Mckaylah        Holmes H S, San Antonio          20     27
+King, Joshua           Taft HS, San Antonio             18     28
+Lawrence, Noah         Taft HS, San Antonio             17     29
+Mullen, Danielle       Brennan H S, San Antonio         17     29
+Reyes, Andrea          Brandeis HS, San Antonio         5      31
+De Jesus, Mario        Marshall HS, San Antonio         1      32
+Dehoyos, Jacob         Brennan H S, San Antonio         -4     33
+Perez, Suzie           Stevens H S, San Antonio         -6     34
+Lindsey, Clayton       Clark HS, San Antonio            -10    35
+Cardenas, David        Brandeis HS, San Antonio         -19    36
+McClinton, Jordan      Taft HS, San Antonio             -19    36
+Machado, Serena        Stevens H S, San Antonio         -25    38
+Piedra, Enrique        Brennan H S, San Antonio         -27    39
+Siordia, Vincent       Taft HS, San Antonio             -58    40
+Bhat, Aditi            Marshall HS, San Antonio         -89    41
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Jay H S, San Antonio             1     414    1      10      X      Region
+O'Connor HS, Helotes             1     382    2      5       X      Alternate
+Health Careers H S, San Antonio  1     343    3
+Clark HS, San Antonio            1     207    4
+Warren HS, San Antonio           1     201    5
+Brandeis HS, San Antonio         1     172    6
+Holmes H S, San Antonio          1     162    7
+Taft HS, San Antonio             1     16     8
+Marshall HS, San Antonio         1     10     9
+Stevens H S, San Antonio         1     -6     10
+Brennan H S, San Antonio         1     -14    11
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 29)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                              Score  Place  Points  Medal  Advance
+Limarta, Ian          Alexander HS, Laredo                245    1      15      X      Region
+Gonzalez, Alejandro   United HS, Laredo                   156    2      12      X      Region
+Gonzalez, Connor      Johnson (LBJ) HS, Laredo            155    3      10      X      Region
+Mejia, Alan           United HS, Laredo                   151    4      8       X      Alternate
+Gonzalez, Lorenzo     United HS, Laredo                   149    5      6       X
+Lara, Francisco       Alexander HS, Laredo                129    6      4       X
+Gamas, Frank          United HS, Laredo                   123    7
+Hipolito, Kristopher  Alexander HS, Laredo                121    8
+Castillo, Luis        Johnson (LBJ) HS, Laredo            103    9
+Guzman, Ashley        United South HS, Laredo             89     10
+Garcia, Yesenia       United South HS, Laredo             86     11
+Lozano, Adolfo        Eagle Pass H S, Eagle Pass          85     12
+Olvera, Edwin         Eagle Pass H S, Eagle Pass          82     13
+Cardenas, Hector      Alexander HS, Laredo                73     14
+Vasquez, Linda        Johnson (LBJ) HS, Laredo            73     14
+Huerta, Josue         United South HS, Laredo             64     16
+Engel, Zachary        Del Rio H S, Del Rio                63     17
+Barrientos, Alyssa    Eagle Pass H S, Eagle Pass          62     18
+Bermea, Valeria       Johnson (LBJ) HS, Laredo            62     18
+Gonzalez, Jaime       United South HS, Laredo             34     20
+Escalante, Amayrany   Eagle Pass H S, Eagle Pass          28     21
+Sustaita, Oscar       South San Antonio H S, San Antonio  -3     22
+Sanchez, Abraham      South San Antonio H S, San Antonio  -10    23
+Torres, Ashley        South San Antonio H S, San Antonio  -13    24
+Guevara, Ruby         South San Antonio H S, San Antonio  -52    25
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Alexander HS, Laredo                1     495    1      10      X      Region
+United HS, Laredo                   1     456    2      5       X      Alternate
+Johnson (LBJ) HS, Laredo            1     331    3
+United South HS, Laredo             1     239    4
+Eagle Pass H S, Eagle Pass          1     229    5
+South San Antonio H S, San Antonio  1     -26    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 30)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Garcia, Derek         Salinas STEM Early College HS, La Joya  252    1      15      X      Region
+Gomez, Jose           Memorial H S, McAllen                   150    2      12      X      Region
+PINA, XAVIER          Palmview HS, La Joya                    136    3      10      X      Region
+Martinez, Christian   Juarez Lincoln HS, La Joya              135    4      8       X      Alternate
+Sarmiento, Jonathan   Salinas STEM Early College HS, La Joya  114    5      6       X
+Molina, Edward        Juarez Lincoln HS, La Joya              109    6      4       X
+SALINAS, ARIANNA      Palmview HS, La Joya                    85     7
+Cantu, Mariana        La Joya H S, La Joya                    75     8
+Cardenas, Jose        Juarez Lincoln HS, La Joya              71     9
+Medina, David         Mission H S, Mission                    70     10
+Hernandez, Alejandro  Mission H S, Mission                    70     10
+Trevino, Javier       La Joya H S, La Joya                    70     10
+Santos, Christian     Salinas STEM Early College HS, La Joya  69     13
+RIVAS, MELISSA        Palmview HS, La Joya                    65     14
+Tijerina, Ronaldo     Memorial H S, McAllen                   59     15
+Remsden, Maria        Memorial H S, McAllen                   52     16
+Leon, Abdiel          Achieve Early HS, McAllen               50     17
+Garza, Elmo           Salinas STEM Early College HS, La Joya  49     18
+Segovia, Andres       McAllen HS, McAllen                     49     18
+Cruz, Eric            Carter Early College HS, La Joya        44     20
+Rodriguez, Gabriel    Mission H S, Mission                    38     21
+Garza, Alyssa         Mission H S, Mission                    35     22
+Lozano, Claudia       Memorial H S, McAllen                   30     23
+Rivera, Erik          Carter Early College HS, La Joya        29     24
+Quinonez, Analy       Carter Early College HS, La Joya        22     25
+RANGEL, OZIEL         Palmview HS, La Joya                    11     26
+Stevens, Valeria      McAllen HS, McAllen                     7      27
+Salinas, Ricardo      McAllen HS, McAllen                     7      27
+Henning, Thomas       La Joya H S, La Joya                    2      29
+Martinez, Citlali     Mission Collegiate HS, Mission          2      29
+Garzonie, Garrett     McAllen HS, McAllen                     0      31
+Gutierrez, Oscar      Carter Early College HS, La Joya        0      31
+Dianna, Charles       Juarez Lincoln HS, La Joya              0      31
+Oropeza-Pinto, Saul   Achieve Early HS, McAllen               0      31
+Sierra, Itzam         Achieve Early HS, McAllen               0      31
+Martinez, Maria       Mission Collegiate HS, Mission          -1     36
+Richardson, James     Rowe H S, McAllen                       -4     37
+Pinion, Joshua        Mission Collegiate HS, Mission          -10    38
+Ying, Wu              Achieve Early HS, McAllen               -10    38
+Gomez, Aaliyah        Rowe H S, McAllen                       -10    38
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Salinas STEM Early College HS, La Joya  1     435    1      10      X      Region
+Juarez Lincoln HS, La Joya              1     315    2      5       X      Alternate
+Palmview HS, La Joya                    1     286    3
+Memorial H S, McAllen                   1     261    4
+Mission H S, Mission                    1     178    5
+La Joya H S, La Joya                    1     147    6
+Carter Early College HS, La Joya        1     95     7
+McAllen HS, McAllen                     1     63     8
+Achieve Early HS, McAllen               1     50     9
+Mission Collegiate HS, Mission          1     -9     10
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 31)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                             Score  Place  Points  Medal  Advance
+Hernandez, Antony       Edinburg North H S, Edinburg       350    1      15      X      Region
+Cantu, Carlos           Vela HS, Edinburg                  276    2      12      X      Region
+Perez, Diego            Edinburg North H S, Edinburg       255    3      10      X      Region
+Ramos, Ryan             Edinburg North H S, Edinburg       227    4      8       X      Alternate
+Ngyuen, Christian       Vela HS, Edinburg                  195    5      6       X
+Carrillo, Alan          PSJA HS, San Juan                  191    6      2       X
+Garcia, Elias           Vela HS, Edinburg                  191    6      2       X
+Guerrero, Alisha        Vela HS, Edinburg                  168    8
+Donaire, Esteban        Economedes H S, Edinburg           138    9
+Perez, Jared            Edinburg North H S, Edinburg       133    10
+Ramos, Alberto          Jefferson Early College HS, Pharr  122    11
+Roman, Juan             Economedes H S, Edinburg           104    12
+Rodriguez, Juan C.      Edinburg H S, Edinburg             100    13
+Araujo, Ramon           Edinburg H S, Edinburg             91     14
+Garcia, Albert          Economedes H S, Edinburg           86     15
+Leal, Sofia             PSJA Southwest H S, Pharr          85     16
+Trevino, Eduardo        Economedes H S, Edinburg           81     17
+Saenz, Gilbert          PSJA HS, San Juan                  68     18
+Alonso, Juan            Edinburg H S, Edinburg             67     19
+Martinez, Benjamin      Jefferson Early College HS, Pharr  50     20
+Gomez, Roberto          PSJA North HS, Pharr               50     20
+Mora, Yesenia           Edinburg H S, Edinburg             41     22
+Mireles, Christopher    PSJA Memorial HS, Alamo            34     23
+Martinez, Antonio       PSJA Southwest H S, Pharr          34     23
+Espinoza, Miguel        PSJA Memorial HS, Alamo            13     25
+Angeles, Raphael        PSJA North HS, Pharr               8      26
+DeLaCerda, Victoria     PSJA HS, San Juan                  8      26
+Gonzalez, Luis          Jefferson Early College HS, Pharr  0      28
+Juarez, Mariana         PSJA North HS, Pharr               0      28
+Gutierrez, Christopher  PSJA HS, San Juan                  0      28
+Velenzuela, Armando     PSJA Memorial HS, Alamo            0      28
+Garica-Herrera, Jae     PSJA Memorial HS, Alamo            0      28
+Huerta, Hugo            PSJA Southwest H S, Pharr          -1     33
+Amaro, Isabel           Jefferson Early College HS, Pharr  -22    34
+Nino, Bryan             PSJA North HS, Pharr               -58    35
+Saucedo, Osvaldo        PSJA Southwest H S, Pharr          -58    35
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Edinburg North H S, Edinburg       1     832    1      10      X      Region
+Vela HS, Edinburg                  1     662    2      5       X      Alternate
+Economedes H S, Edinburg           1     328    3
+PSJA HS, San Juan                  1     267    4
+Edinburg H S, Edinburg             1     258    5
+Jefferson Early College HS, Pharr  1     172    6
+PSJA Southwest H S, Pharr          1     118    7
+PSJA North HS, Pharr               1     58     8
+PSJA Memorial HS, Alamo            1     47     9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 32)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                Score  Place  Points  Medal  Advance
+Cua, Miles            Science Academy, Mercedes             254    1      15      X      Region
+Holla, Satya          Science Academy, Mercedes             194    2      12      X      Region
+Carlos, Jose          Los Fresnos H S, Los Fresnos          151    3      10      X      Region
+Sponsler, Connor      Los Fresnos H S, Los Fresnos          147    4      8       X      Alternate
+Vega, Samuel Davil    Science Academy, Mercedes             141    5      6       X
+Montes, Alexandra     Los Fresnos H S, Los Fresnos          138    6      4       X
+Haefeli, Amanda       Science Academy, Mercedes             100    7
+Trovela, Khrista      Los Fresnos H S, Los Fresnos          94     8
+Charles, Hector       Rivera HS, Brownsville                92     9
+Pawig, Roj            Harlingen South HS, Harlingen         72     10
+Donhin, Katherine     Harlingen South HS, Harlingen         57     11
+Rodriguez, Abraham    S TX Bus Ed & Tech Academy, Edinburg  55     12
+Wang, Siyan           Harlingen South HS, Harlingen         49     13
+Trahru, Priya         S Texas Acad of Medical Tech, Olmito  35     14
+Mejia, Adrian         S TX Bus Ed & Tech Academy, Edinburg  32     15
+Rios, Alyssa          Harlingen South HS, Harlingen         29     16
+Reza, Maverick        San Benito HS, San Benito             28     17
+Mendoza, Natelie      Hanna H S, Brownsville                28     17
+Velazquez, Juan       San Benito HS, San Benito             25     19
+Olivares, Fabian      San Benito HS, San Benito             22     20
+Otero, Manuel         Harlingen HS, Harlingen               17     21
+Reyes, Francisco      Rivera HS, Brownsville                16     22
+Leija, Norberto       Weslaco East HS, Weslaco              11     23
+Mena, Savannah        S TX Bus Ed & Tech Academy, Edinburg  11     23
+Hernandez, Kassandra  Weslaco HS, Weslaco                   5      25
+Delgado, Samantha     Rivera HS, Brownsville                4      26
+Castorena, Pedro      Weslaco HS, Weslaco                   2      27
+Garcia, Arnold        Hanna H S, Brownsville                2      27
+Garcia, Rolando       Weslaco HS, Weslaco                   1      29
+Lopez, Juan           S TX Bus Ed & Tech Academy, Edinburg  0      30
+Meza, Jennifer        Weslaco East HS, Weslaco              0      30
+Vasquez, Oscar        Weslaco HS, Weslaco                   0      30
+Montemayor, Alfredo   Harlingen HS, Harlingen               0      30
+Lucio, Caleb          Harlingen HS, Harlingen               0      30
+Rodriguez, Isaiah     Harlingen HS, Harlingen               0      30
+Hurtado, Diego        S Texas Acad of Medical Tech, Olmito  0      30
+Ochoa, Keyla          San Benito HS, San Benito             -1     37
+Zamfir, George        Hanna H S, Brownsville                -4     38
+Liu, Kevin            Weslaco East HS, Weslaco              -5     39
+Ojeda, Adrian         S Texas Acad of Medical Tech, Olmito  -10    40
+Martinez, Anakin      Hanna H S, Brownsville                -28    41
+Noor, Rana            Health Prof H S, Mercedes             -29    42
+Cuellar, Alondra      S Texas Acad of Medical Tech, Olmito  -91    43
+
+TOP SCORERS
+------------------------------
+School                                Team  Score  Place  Points  Medal  Advance
+Science Academy, Mercedes             1     589    1      10      X      Region
+Los Fresnos H S, Los Fresnos          1     436    2      5       X      Alternate
+Harlingen South HS, Harlingen         1     178    3
+Rivera HS, Brownsville                1     112    4
+S TX Bus Ed & Tech Academy, Edinburg  1     98     5
+San Benito HS, San Benito             1     75     6
+Hanna H S, Brownsville                1     26     7
+S Texas Acad of Medical Tech, Olmito  1     25     8
+Harlingen HS, Harlingen               1     17     9
+Weslaco HS, Weslaco                   1     8      10
+Weslaco East HS, Weslaco              1     6      11
+
+TEAM RESULTS
+------------------------------
+
+

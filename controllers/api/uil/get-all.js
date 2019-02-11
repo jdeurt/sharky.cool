@@ -5,8 +5,6 @@ const path = require("path");
 const fs = require("fs");
 
 module.exports = async (req, res) => {
-    const FIFTEEN_SPACES = " ".repeat(15);
-    const YEAR = req.params.year;
     const BASE_URL = "http://utdirect.utexas.edu/uil/vlcp_pub_arch.WBX";
     const EVENTS = [
         "SCI", // Science
@@ -36,6 +34,7 @@ module.exports = async (req, res) => {
         for(let confIndex = 0; confIndex < CONFERENCES.length; confIndex++) {
             for(let levelIndex = 0; levelIndex < LEVELS.length; levelIndex++) {
                 let previousInnerHTML = "";
+                let fullText = "";
                 for(let rNum = 1; rNum < 1000; rNum++) {
                     let response = await got(
                         `${BASE_URL}
@@ -60,10 +59,10 @@ module.exports = async (req, res) => {
 
                     console.log(`${EVENTS[eventIndex]} ${CONFERENCES[confIndex]} ${LEVELS[levelIndex]} ${rNum}`);
 
+                    fullText += `(region num: ${rNum})\n\n`
+
                     let separator = "-".repeat(30);
                     let textOutput = `INDIVIDUAL RESULTS\n${separator}\n`;
-
-                    let outputPath = path.resolve(`${__dirname}/../../../stuff/UIL/${EVENTS[eventIndex]}_${CONFERENCES[confIndex]}_${LEVELS[levelIndex]}_${rNum}.txt`);
                     
                     let table = [];
                     $table1.find("tbody > tr").each((rowIndex, row) => {
@@ -100,12 +99,15 @@ module.exports = async (req, res) => {
                         table.push(tableRow);
                     });
 
-                    textOutput += toTable(table);
+                    textOutput += `${toTable(table)}\n\n`;
 
-                    fs.writeFileSync(outputPath, textOutput);
+                    fullText += textOutput
 
                     console.log("done");
                 }
+                let outputPath = path.resolve(`${__dirname}/../../../stuff/UIL/${EVENTS[eventIndex]}_${CONFERENCES[confIndex]}_${LEVELS[levelIndex]}.txt`);
+
+                fs.writeFileSync(outputPath, fullText);
             }
         }
     }

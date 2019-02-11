@@ -1,0 +1,313 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                                  Score  Place  Points  Medal  Advance
+Irwin, Klaire           Gruver HS, Gruver                       82     1      15      X      State
+Lutters, Tessa          Clarendon HS, Clarendon                 70     2      12      X      State
+Brewer, William         West Texas HS, Stinnett                 50     3      10      X      State
+Johnson, Nick           Gruver HS, Gruver                       46     4      7       X      Alternate
+Burch, Grayson          Clarendon HS, Clarendon                 46     4      7       X      Alternate
+Logsdon, Cole           Gruver HS, Gruver                       44     6      4       X
+Seagler, Lane           Gruver HS, Gruver                       40     7
+Rivera, Christopher     Albany HS, Albany                       40     7
+Drenth, Harm            Clarendon HS, Clarendon                 38     9
+Olivares, Anthony       Eldorado HS, Eldorado                   38     9
+TORRALBA, MANUEL        Ozona H S, Ozona                        32     11
+Albin, Austin           Eldorado HS, Eldorado                   32     11
+Carrillo, Joshua        Abernathy HS, Abernathy                 30     13
+Griffin, Jack           Eldorado HS, Eldorado                   30     13
+Valdez, Fernando        Lockney H S, Lockney                    26     15
+Spinks, Layton          Eldorado HS, Eldorado                   24     16
+Bright, Barrett         West Texas HS, Stinnett                 22     17
+Clark, John C           Van Horn HS, Van Horn                   20     18
+Hernandez, Mario        Eldorado HS, Eldorado                   20     18
+Munoz, John             Albany HS, Albany                       18     20
+Morriss, Hays           Van Horn HS, Van Horn                   14     21
+Earnest, Carson         Plains HS, Plains                       12     22
+Williams, Dalin         West Texas HS, Stinnett                 12     22
+Santa Cruz, Jacqualine  Van Horn HS, Van Horn                   10     24
+Jimenez, Mariela        Fort Hancock HS, Fort Hancock           10     24
+Bartee, Sidney          Albany HS, Albany                       10     24
+Bearden, Zoey           Plains HS, Plains                       8      27
+Friesen, Frank          Seagraves H S, Seagraves                6      28
+Lefevre, Hunter R       Lockney H S, Lockney                    4      29
+Ramos, Lexie            Floydada H S, Floydada                  2      30
+Ponce, Ian              Abernathy HS, Abernathy                 2      30
+King, John              West Texas HS, Stinnett                 2      30
+McGuire, Marquis        Clarendon HS, Clarendon                 0      33
+Bender, Seth            Abernathy HS, Abernathy                 0      33
+Purcella, Rebecca       Seagraves H S, Seagraves                0      33
+Trotter, Alyssa         Hale Center HS, Hale Center             0      33
+Valencia, Miranda       Hale Center HS, Hale Center             0      33
+Lopez, Valerie          Da Vinci School for Sci & Art, El Paso  0      33
+Melendez, Miguel        Sudan HS, Sudan                         -2     39
+McWhirter, Brynne       Plains HS, Plains                       -4     40
+Jennings, Faith         Sudan HS, Sudan                         -6     41
+Strange, Audrie         Floydada H S, Floydada                  -6     41
+Carter, Maddie          Plains HS, Plains                       -6     41
+Schuller, Corwin        Van Horn HS, Van Horn                   -8     44
+Strickland, Colton      Hawley HS, Hawley                       -10    45
+Tolbert, Payton         Sudan HS, Sudan                         -14    46
+Chapa, Braydn           Abernathy HS, Abernathy                 -14    46
+Nunez, Jesus            Sudan HS, Sudan                         -18    48
+Everitt, Kade           Albany HS, Albany                       -22    49
+Lopez, Johnathon        Ralls H S, Ralls                        -48    50
+
+TOP SCORERS
+------------------------------
+Contestant        School         Results               Points
+Irwin, Klaire     Gruver HS      Top Scorer Biology    3
+Brewer, William   West Texas HS  Alternate Biology     0
+Irwin, Klaire     Gruver HS      Top Scorer Chemistry  3
+Burch, Grayson    Clarendon HS   Alternate Chemistry   0
+Lutters, Tessa    Clarendon HS   Alternate Chemistry   0
+Valdez, Fernando  Lockney H S    Top Scorer Physics    1.50
+Albin, Austin     Eldorado HS    Top Scorer Physics    1.50
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Gruver HS, Gruver        1     172    1      10      X      State
+Clarendon HS, Clarendon  1     154    2      5       X      Alternate
+Eldorado HS, Eldorado    1     100    3
+West Texas HS, Stinnett  1     84     4
+Albany HS, Albany        1     68     5
+Van Horn HS, Van Horn    1     44     6
+Abernathy HS, Abernathy  1     32     7
+Plains HS, Plains        1     16     8
+Sudan HS, Sudan          1     -22    9
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                              Score  Place  Points  Medal  Advance
+Walker, John          Lindsay H S, Lindsay                122    1      15      X      State
+Skipper, John         Avery HS, Avery                     106    2      12      X      State
+Valentine, Zach       Valley View HS, Valley View         104    3      10      X      State
+Price, Nolan          Valley View HS, Valley View         92     4      8       X      Alternate
+Hausler, Mayson       Avery HS, Avery                     76     5      6       X
+Pasley, Cole          Avery HS, Avery                     72     6      4       X
+Craigie, Brandon      Lindsay H S, Lindsay                72     7
+Worth, Cameron        Lindsay H S, Lindsay                68     8
+Reynolds, Payton      Valley View HS, Valley View         46     9
+Lamon, Emily          Avery HS, Avery                     44     10
+Reynolds, Sydney      Valley View HS, Valley View         44     10
+Perry, Megan          Santo H S, Santo                    34     12
+Smith, Lance P        Muenster HS, Muenster               32     13
+Metzler, Colby        Lindsay H S, Lindsay                30     14
+Perin, David          Blue Ridge HS, Blue Ridge           30     14
+Crosslin, Abby        Martin's Mill HS, Martin's Mill     28     16
+Riggs, Trevor         Carlisle HS, Price                  28     16
+Thompson, Cody        Avery HS, Avery                     26     18
+Zimmerman, Jackson    Martin's Mill HS, Martin's Mill     24     19
+Munns, Connor         Martin's Mill HS, Martin's Mill     24     19
+Tallant, Garrett      Santo H S, Santo                    20     21
+Tucker, Kelli         Perrin-Whitt H S, Perrin            18     22
+Edwards, Gabriell     Trenton HS, Trenton                 18     22
+Morales, Katherine    Trenton HS, Trenton                 16     24
+Gray, Spencer         Trenton HS, Trenton                 14     25
+Walterscheid, Abby N  Muenster HS, Muenster               12     26
+Owens, Rosalyn        Cumby H S, Cumby                    12     26
+Roland, Trenton       Carlisle HS, Price                  10     28
+Donnell, McKinzi      Seymour HS, Seymour                 10     28
+Fisher, Mary E        Muenster HS, Muenster               6      30
+Verzyl, John          Big Sandy H S, Big Sandy            6      30
+Perry, Marissa        Santo H S, Santo                    4      32
+Scheffe, Kyle         Windthorst HS, Windthorst           2      33
+Griffin, Gaylen       Ranger H S, Ranger                  2      33
+Davis, Joshua         Carlisle HS, Price                  2      33
+Broadway, Dakota      Campbell HS, Campbell               0      36
+Price, Jacob          Hawkins HS, Hawkins                 -2     37
+Rocha, Lizbet         Carlisle HS, Price                  -2     37
+Whitehead, Aaron      Dan Chadwick HS, Longview           -6     39
+Rohm, Sianna          Quanah HS, Quanah                   -8     40
+Olivo, Rafael         Windthorst HS, Windthorst           -8     40
+Lamar, Hannah R       Muenster HS, Muenster               -8     40
+Richards, Lauren      Santo H S, Santo                    -10    43
+Roller, Garrison      North Hopkins H S, Sulphur Springs  -10    43
+Holden, Gracie        Trenton HS, Trenton                 -12    45
+Perkins, Zant         Martin's Mill HS, Martin's Mill     -12    45
+Zant, Karson          Hico H S, Hico                      -12    45
+Ligons, Joy           Quanah HS, Quanah                   -16    48
+Deffendol, Sebastien  Quanah HS, Quanah                   -24    49
+Knabe, Lex            Era H S, Era                        -28    50
+
+TOP SCORERS
+------------------------------
+Contestant      School          Results               Points
+Walker, John    Lindsay H S     Top Scorer Biology    3
+Perin, David    Blue Ridge HS   Alternate Biology     0
+Skipper, John   Avery HS        Top Scorer Chemistry  3
+Price, Nolan    Valley View HS  Alternate Chemistry   0
+Walker, John    Lindsay H S     Top Scorer Physics    3
+Worth, Cameron  Lindsay H S     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Lindsay H S, Lindsay             1     262    1      10      X      State
+Avery HS, Avery                  1     254    2      5       X      Alternate
+Valley View HS, Valley View      1     242    3
+Martin's Mill HS, Martin's Mill  1     76     4
+Santo H S, Santo                 1     58     5
+Muenster HS, Muenster            1     50     6
+Trenton HS, Trenton              1     48     7
+Carlisle HS, Price               1     40     8
+Quanah HS, Quanah                1     -48    9
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Zumwalt, Jacob        Sabine Pass HS, Sabine Pass             64     1      15      X      State
+Zienko, Boe           Chireno HS, Chireno                     60     2      12      X      State
+Hassell, James        Colmesneil HS, Colmesneil               52     3      9       X      State
+Blood, Kirk           Sabine Pass HS, Sabine Pass             52     3      9       X      State
+Mabry, Julius         Colmesneil HS, Colmesneil               48     5      6       X      Alternate
+Roberts, Travis       Groveton H S, Groveton                  40     6      4       X
+Dotson, Luke          Dawson HS, Dawson                       38     7
+Grubbs, Riannon       Kerens H S, Kerens                      38     7
+Ferrebee, Samantha    Shelbyville H S, Shelbyville            36     9
+Walther, Andrew       Sabine Pass HS, Sabine Pass             32     10
+Browning, Will        Crawford H S, Crawford                  32     10
+Williams, Matthew     West Sabine HS, Pineland                28     12
+Lara, Sebastian       Harmony School of Innov-Waco, Waco      24     13
+Leifeste, Craig       Groveton H S, Groveton                  24     13
+Cate, John            Frost HS, Frost                         22     15
+Dickens, Britton R    Big Sandy HS, Dallardsville             22     15
+York, Rhianna J       Bremond HS, Bremond                     20     17
+Nicosia, Emily        Shelbyville H S, Shelbyville            20     17
+Peyton, Antis         Bremond HS, Bremond                     20     17
+Johansen, Tristan     Crawford H S, Crawford                  18     20
+Blaine, Jayden        Cross Roads HS, Malakoff                18     20
+McKinney, Austin      Groveton H S, Groveton                  18     20
+Allen, Kurtrick       Shelbyville H S, Shelbyville            18     20
+Smith, Gordon         Colmesneil HS, Colmesneil               18     20
+Whitney, Jed          Crawford H S, Crawford                  16     25
+Brannon, Chris        Timpson HS, Timpson                     12     26
+Contreras, Maria      Sabine Pass HS, Sabine Pass             12     26
+Mayer, Jackson L      Big Sandy HS, Dallardsville             10     28
+Weatherman, Jonathan  Crawford H S, Crawford                  8      29
+Sullivan, Julien M    Bremond HS, Bremond                     8      29
+Wilson, Brock         Axtell HS, Axtell                       8      29
+Crook, Amy            Grapeland HS, Grapeland                 8      29
+Jones, Alyssa         Kerens H S, Kerens                      4      33
+Sigler, Skylar        Shelbyville H S, Shelbyville            4      33
+Harmon, David         Colmesneil HS, Colmesneil               4      33
+Delgado, Joshua       Kerens H S, Kerens                      2      36
+Grammer, Allie P      Douglass H S, Douglass                  2      36
+Kinard, John H        Bremond HS, Bremond                     0      38
+Brown, Jesse          Cushing HS, Cushing                     0      38
+Weir, Shanna          Axtell HS, Axtell                       0      38
+Warden, Skyelar       Zavalla HS, Zavalla                     0      38
+Bludworth, Luke       Douglass H S, Douglass                  -2     42
+Smith, Jacklin M      Douglass H S, Douglass                  -4     43
+Caudillo, Rosalinda   Harmony School of Innov-Waco, Waco      -6     44
+Gonzalez, Rafael      Groveton H S, Groveton                  -8     45
+Tolentino, Linda T    Douglass H S, Douglass                  -8     45
+Whitmire, Caleb       Mount Enterprise H S, Mount Enterprise  -10    47
+Sultan, Isbat         Harmony School of Innov-Waco, Waco      -16    48
+Berger, Katelyn       Cayuga HS, Cayuga                       -20    49
+
+TOP SCORERS
+------------------------------
+Contestant          School           Results               Points
+Williams, Matthew   West Sabine HS   Top Scorer Biology    3
+Mabry, Julius       Colmesneil HS    Alternate Biology     0
+Hassell, James      Colmesneil HS    Alternate Biology     0
+Walther, Andrew     Sabine Pass HS   Alternate Biology     0
+Zienko, Boe         Chireno HS       Top Scorer Chemistry  1.50
+Ferrebee, Samantha  Shelbyville H S  Top Scorer Chemistry  1.50
+Zumwalt, Jacob      Sabine Pass HS   Top Scorer Physics    3
+Blood, Kirk         Sabine Pass HS   Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Sabine Pass HS, Sabine Pass         1     148    1      10      X      State
+Colmesneil HS, Colmesneil           1     118    2      5       X      Alternate
+Groveton H S, Groveton              1     82     3
+Shelbyville H S, Shelbyville        1     74     4
+Crawford H S, Crawford              1     66     5
+Bremond HS, Bremond                 1     48     6
+Kerens H S, Kerens                  1     44     7
+Harmony School of Innov-Waco, Waco  1     2      8
+Douglass H S, Douglass              1     -4     9
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                         Score  Place  Points  Medal  Advance
+Poling, Kyge              Thrall HS, Thrall              152    1      15      X      State
+Richter, Riley            Thrall HS, Thrall              118    2      12      X      State
+Van Til, Alex             Thrall HS, Thrall              96     3      10      X      State
+Ogle, Bryce               Normangee HS, Normangee        60     4      8       X      Alternate
+Zhong, Yiming             Louise H S, Louise             60     5      6       X
+Windham, Luke             Port Aransas HS, Port Aransas  60     6      4       X
+Ikehara, Maggie           Junction H S, Junction         56     7
+Brown, Benjamin           Port Aransas HS, Port Aransas  56     7
+Potts, Riley              Mason HS, Mason                52     9
+Britton, Dakota           Brackett HS, Brackettville     52     9
+McMillan, Bode            Mason HS, Mason                48     11
+Egan, Lily                Shiner HS, Shiner              46     12
+Sestak, Baylee            Shiner HS, Shiner              46     12
+Hebert, Benjamin          Port Aransas HS, Port Aransas  36     14
+Jackson, Kaylee           Thrall HS, Thrall              34     15
+Rainosek, Delaney         Shiner HS, Shiner              32     16
+Potts, James              Mason HS, Mason                22     17
+Martin, Anna              Normangee HS, Normangee        20     18
+Allen, Jake               Brackett HS, Brackettville     20     18
+Escamilla, Luke           Three Rivers HS, Three Rivers  18     20
+Zion, Lauren              Junction H S, Junction         18     20
+Davis, Mecina             Junction H S, Junction         16     22
+Cantu, Daniel             Kaufer HS, Riviera             16     22
+Garcia, Eduardo           La Villa HS, La Villa          16     22
+Ryan, Cassedy M.          Stacey H S, San Antonio        14     25
+Houston, Tristan          Brackett HS, Brackettville     14     25
+Webb, Emmy                Iola HS, Iola                  12     27
+King, Ethan               Port Aransas HS, Port Aransas  10     28
+Bruce, Gordon A           Brackett HS, Brackettville     8      29
+Schneider, John           Granger H S, Granger           4      30
+Bernsen, Teddy            Agua Dulce HS, Agua Dulce      4      30
+Nelson, Wendy             Kaufer HS, Riviera             2      32
+McKnight, Layla           Kaufer HS, Riviera             2      32
+Trevino, Trey             Benavides HS, Benavides        -2     34
+Martinez, Christopher N.  La Villa HS, La Villa          -2     34
+Hulzing, Phillip          Normangee HS, Normangee        -4     36
+Barrett, Nathan           Normangee HS, Normangee        -4     36
+Simonton, James           Mason HS, Mason                -4     36
+Hubert, Zeke              Kaufer HS, Riviera             -6     39
+Munoz, Cristian           San Isidro HS, San Isidro      -6     39
+Luna, Kiara L.            La Villa HS, La Villa          -6     39
+Garcia, Marco A.          La Villa HS, La Villa          -8     42
+Alvarado, Sofia           Lasara H S, Lasara             -10    43
+Rodriguez, Christal       Pettus HS, Pettus              -12    44
+Landman, Kason            Shiner HS, Shiner              -14    45
+Sanchez, Brandon          Charlotte HS, Charlotte        -14    45
+
+TOP SCORERS
+------------------------------
+Contestant      School      Results               Points
+Poling, Kyge    Thrall HS   Top Scorer Biology    3
+Van Til, Alex   Thrall HS   Alternate Biology     0
+Poling, Kyge    Thrall HS   Top Scorer Chemistry  3
+Richter, Riley  Thrall HS   Alternate Chemistry   0
+Zhong, Yiming   Louise H S  Top Scorer Physics    3
+Potts, Riley    Mason HS    Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Thrall HS, Thrall              1     366    1      10      X      State
+Port Aransas HS, Port Aransas  1     152    2      5       X      Alternate
+Shiner HS, Shiner              1     124    3
+Mason HS, Mason                1     122    4
+Brackett HS, Brackettville     1     86     5
+Normangee HS, Normangee        1     76     6
+Kaufer HS, Riviera             1     20     7
+La Villa HS, La Villa          1     8      8
+

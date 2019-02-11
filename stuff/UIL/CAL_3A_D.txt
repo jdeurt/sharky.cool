@@ -1,0 +1,1359 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Peters, Wyatt       River Road HS, Amarillo      142    1      15      X      Region
+Hood, Melody        Canadian HS, Canadian        135    2      12      X      Region
+Dockray, Tayler     Canadian HS, Canadian        121    3      10      X      Region
+Garnett, Levi       Spearman H S, Spearman       86     4      8       X      Alternate
+Nguyen, Bryan       Highland Park H S, Amarillo  85     5      6       X
+Elliott, Addison    Childress HS, Childress      83     6      2       X
+Bui, Anthony        Highland Park H S, Amarillo  83     6      2       X
+Hill, Laura Kate    Tulia H S, Tulia             79     8
+Fishburn, Sydney    Spearman H S, Spearman       74     9
+Ayala, Lorena       River Road HS, Amarillo      73     10
+Black, Peyton       Spearman H S, Spearman       65     11
+Ortega, Alondra     Canadian HS, Canadian        63     12
+Foster, Grace       Childress HS, Childress      63     12
+Simpkins, Helene    Childress HS, Childress      62     14
+Rauh, Lonna         River Road HS, Amarillo      60     15
+Leighton, Virginia  Childress HS, Childress      56     16
+Inez Lopez, Tirso   Tulia H S, Tulia             50     17
+Gaither, Lane       Tulia H S, Tulia             48     18
+McCubbin, Kady      Spearman H S, Spearman       44     19
+Thomas, Kaylee      River Road HS, Amarillo      44     19
+Mann, Preston       Highland Park H S, Amarillo  39     21
+Fletcher, Reilly    Canadian HS, Canadian        -2     22
+Vidana, Vanessa     Tulia H S, Tulia             -29    23
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Canadian HS, Canadian        1     319    1      10      X      Region
+River Road HS, Amarillo      1     275    2      5       X      Alternate
+Spearman H S, Spearman       1     225    3
+Childress HS, Childress      1     208    4
+Highland Park H S, Amarillo  1     207    5
+Tulia H S, Tulia             1     177    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                        Score  Place  Points  Medal  Advance
+Fink, Kaitlyn        Shallowater HS, Shallowater   142    1      15      X      Region
+Aviles, Anghy        Muleshoe H S, Muleshoe        126    2      12      X      Region
+Melendez, Joely      Muleshoe H S, Muleshoe        112    3      9       X      Region
+Venzor, Lizeth       Muleshoe H S, Muleshoe        112    3      9       X      Region
+Rodriguez, Alexis    Idalou H S, Idalou            100    5      2       X      Alternate
+Quinn, Katie         Idalou H S, Idalou            100    5      2       X      Alternate
+Bruington, Carlie    Idalou H S, Idalou            100    7
+Smalley, Charlotte   Idalou H S, Idalou            93     8
+Lowe, Troy           Roosevelt HS, Lubbock         93     8
+Herrera, Alexa       Muleshoe H S, Muleshoe        86     10
+Cluff, Jonah         Roosevelt HS, Lubbock         84     11
+Weaver, Riley        Shallowater HS, Shallowater   77     12
+Baldridge, Colton    Shallowater HS, Shallowater   76     13
+Sanchez, Jeremy      Littlefield H S, Littlefield  76     13
+Garza, Genesis       Littlefield H S, Littlefield  71     15
+Castillo, Alyssa     Littlefield H S, Littlefield  70     16
+Mata, Adalyn         Littlefield H S, Littlefield  69     17
+Drake, Cason         Friona H S, Friona            64     18
+Cigarroa, Anahi      Friona H S, Friona            58     19
+Jimenez, Bianca      Dimmitt H S, Dimmitt          46     20
+Settle, Sydney       Dimmitt H S, Dimmitt          41     21
+Drake, Carly         Friona H S, Friona            36     22
+Beristain, Briana    Friona H S, Friona            31     23
+Miller, Payton       Dimmitt H S, Dimmitt          26     24
+Porras, Aaron        Dimmitt H S, Dimmitt          21     25
+Mancilla, Vereniz    Roosevelt HS, Lubbock         20     26
+Olivares, Alejandro  Roosevelt HS, Lubbock         1      27
+Bunting, Kaytlyn     Shallowater HS, Shallowater   0      28
+
+TOP SCORERS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Muleshoe H S, Muleshoe        1     350    1      10      X      Region
+Idalou H S, Idalou            1     300    2      5       X      Alternate
+Shallowater HS, Shallowater   1     295    3
+Littlefield H S, Littlefield  1     217    4
+Roosevelt HS, Lubbock         1     197    5
+Friona H S, Friona            1     158    6
+Dimmitt H S, Dimmitt          1     113    7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                 Score  Place  Points  Medal  Advance
+DeGuia, Rose        Alpine HS, Alpine      135    1      15      X      Region
+Nguyen, Hung        Kermit H S, Kermit     128    2      12      X      Region
+Rice, Brandon       Alpine HS, Alpine      110    3      10      X      Region
+Williams, Gage      Alpine HS, Alpine      79     4      8       X      Alternate
+Cardenas, Jennifer  Kermit H S, Kermit     71     5      6       X
+Urbanczyk, Pruitt   Alpine HS, Alpine      67     6      4       X
+Ramirez, Stephanie  Tornillo HS, Tornillo  62     7
+Gabaldon, Nailea    Crane HS, Crane        60     8
+Vasquez, Uriel      Crane HS, Crane        58     9
+Page, Hunter        Kermit H S, Kermit     30     10
+Flores, Jarred      Tornillo HS, Tornillo  23     11
+Camacho, Emmanuel   Crane HS, Crane        23     11
+Romero, Jose        Tornillo HS, Tornillo  6      13
+Garcia, Alex        Crane HS, Crane        0      14
+Minjares, Jorge     Tornillo HS, Tornillo  -3     15
+Florez, Xavian      Kermit H S, Kermit     -57    16
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Alpine HS, Alpine      1     324    1      10      X      Region
+Kermit H S, Kermit     1     229    2      5       X      Alternate
+Crane HS, Crane        1     141    3
+Tornillo HS, Tornillo  1     91     4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                      Score  Place  Points  Medal  Advance
+Campos, Adrian      Grape Creek HS, San Angelo  126    1      15      X      Region
+Gully, Hannah       Wall HS, Wall               121    2      12      X      Region
+Alexander, Abby     Wall HS, Wall               119    3      10      X      Region
+Shannon, Evan       Sonora HS, Sonora           112    4      8       X      Alternate
+Briley, Lexi        Grape Creek HS, San Angelo  111    5      6       X
+Mata, Ann Marie     TLC Academy, San Angelo     111    6      4       X
+Gray, Kinley        Ballinger HS, Ballinger     107    7
+Dutton, Jaci        Sonora HS, Sonora           94     8
+Duderstadt, Lura    Wall HS, Wall               91     9
+Cheatham, Korbin    Grape Creek HS, San Angelo  90     10
+Garrett, Kristin    Sonora HS, Sonora           90     10
+Nunez, Xavier       Ballinger HS, Ballinger     87     12
+Vickers, Traci      Sonora HS, Sonora           86     13
+Shelton, Travis     Grape Creek HS, San Angelo  83     14
+Korn, Elyssa        Ballinger HS, Ballinger     77     15
+Rodriguez, Ethan    Wall HS, Wall               56     16
+Reed, Ashtyn        TLC Academy, San Angelo     49     17
+Hernandez, Makaila  Reagan County HS, Big Lake  40     18
+Manuel, Rey         TLC Academy, San Angelo     35     19
+Reyes, Nayeli       Reagan County HS, Big Lake  29     20
+Parker, Chance      Ballinger HS, Ballinger     21     21
+Carreon, Jordan     Reagan County HS, Big Lake  8      22
+Hernandez, Pablo    Reagan County HS, Big Lake  -2     23
+Elzein, Delaney     TLC Academy, San Angelo     -22    24
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Wall HS, Wall               1     331    1      10      X      Region
+Grape Creek HS, San Angelo  1     327    2      5       X      Alternate
+Sonora HS, Sonora           1     296    3
+Ballinger HS, Ballinger     1     271    4
+TLC Academy, San Angelo     1     195    5
+Reagan County HS, Big Lake  1     77     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 5)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                      Score  Place  Points  Medal  Advance
+Chaloupka, Dakota       Jim Ned H S, Tuscola        203    1      15      X      Region
+Beasley, Chassity       Jim Ned H S, Tuscola        175    2      12      X      Region
+Eshelman, Keely         Jim Ned H S, Tuscola        175    3      10      X      Region
+Stogsdill, Emily        Jim Ned H S, Tuscola        168    4      8       X      Alternate
+Jeter, Cam              Merkel H S, Merkel          114    5      6       X
+Schowengerdt, Harrison  Clyde H S, Clyde            79     6      4       X
+Schowengerdt, Conner    Clyde H S, Clyde            71     7
+Ureste, Noe             Stanton H S, Stanton        69     8
+Fontana, Bryden         Coahoma HS, Coahoma         67     9
+Green, Bari             Coahoma HS, Coahoma         65     10
+Ortega, Ember           Clyde H S, Clyde            58     11
+Daniels, Colin          Coahoma HS, Coahoma         48     12
+Church, Kirsten         Stanton H S, Stanton        37     13
+Neufeld, Sahara         Stanton H S, Stanton        13     14
+Upshaw, Bradon          Colorado HS, Colorado City  -4     15
+Read, Destiny           Colorado HS, Colorado City  -5     16
+Browning, Josh          Clyde H S, Clyde            -33    17
+Escamilla, Sebastian    Stanton H S, Stanton        -36    18
+Levens, Hannah          Colorado HS, Colorado City  -36    18
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Jim Ned H S, Tuscola        1     553    1      10      X      Region
+Clyde H S, Clyde            1     208    2      5       X      Alternate
+Coahoma HS, Coahoma         1     180    3
+Stanton H S, Stanton        1     119    4
+Colorado HS, Colorado City  1     -45    5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 6)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                 Score  Place  Points  Medal  Advance
+Tarigan, Matthew       Early H S, Early       175    1      15      X      Region
+Light, Dawson          Bangs HS, Bangs        147    2      12      X      Region
+Stewart, Noah          Coleman HS, Coleman    147    3      10      X      Region
+Canales, Jaral-Sophia  Bangs HS, Bangs        140    4      8       X      Alternate
+Valle, Jacob           Brady HS, Brady        120    5      6       X
+Amador, Joey           Coleman HS, Coleman    119    6      4       X
+Edgin, Ben             Bangs HS, Bangs        119    7
+Bills, Reagan          Early H S, Early       118    8
+Mejia, Andrea          Dublin HS, Dublin      108    9
+Lopez, Vicki           Comanche HS, Comanche  107    10
+Stewart, Matthew       Coleman HS, Coleman    105    11
+Young, Bryanna         Coleman HS, Coleman    105    11
+Rangel, Vianey         Comanche HS, Comanche  104    13
+Kang, Inayat           Early H S, Early       98     14
+Hunter, Bo             Early H S, Early       91     15
+Gilligan, Joe          Comanche HS, Comanche  84     16
+Poling, Abigail        Bangs HS, Bangs        82     17
+Garcia, Olga           Dublin HS, Dublin      43     18
+Wiley, Zach            Brady HS, Brady        30     19
+Garcia, Michael        Brady HS, Brady        -46    20
+Welch, Madelynn        Comanche HS, Comanche  -138   21
+
+TOP SCORERS
+------------------------------
+School                 Team  Score  Place  Points  Medal  Advance
+Bangs HS, Bangs        1     406    1      10      X      Region
+Early H S, Early       1     391    2      5       X      Alternate
+Coleman HS, Coleman    1     371    3
+Comanche HS, Comanche  1     295    4
+Brady HS, Brady        1     104    5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 7)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                         Score  Place  Points  Medal  Advance
+Hamilton, Luke    Brock HS, Brock                224    1      15      X      Region
+Bussell, Sarah    Brock HS, Brock                203    2      12      X      Region
+Tighe, Kristin    Brock HS, Brock                189    3      10      X      Region
+Mann, Mary        Brock HS, Brock                168    4      8       X      Alternate
+Moser, Makenna    Breckenridge HS, Breckenridge  123    5      6       X
+Alvarado, Maria   Breckenridge HS, Breckenridge  113    6      4       X
+Haley, Knightlin  Breckenridge HS, Breckenridge  107    7
+Garcia, Morgan    Cisco HS, Cisco                107    7
+Smith, Zach       Breckenridge HS, Breckenridge  70     9
+Ramirez, Adalina  Tolar HS, Tolar                67     10
+Burnet, Michael   Cisco HS, Cisco                53     11
+Corpus, Alexis    Cisco HS, Cisco                44     12
+West, Trenton     Eastland H S, Eastland         43     13
+Elrod, Briley     Eastland H S, Eastland         43     13
+Stokes, Sam       Tolar HS, Tolar                41     15
+Butler, Lesley    Tolar HS, Tolar                36     16
+Butler, Gunnar    Tolar HS, Tolar                34     17
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+Brock HS, Brock                1     616    1      10      X      Region
+Breckenridge HS, Breckenridge  1     343    2      5       X      Alternate
+Cisco HS, Cisco                1     204    3
+Tolar HS, Tolar                1     144    4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 8)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                       Score  Place  Points  Medal  Advance
+Lancaster, Matthew  City View HS, Wichita Falls  196    1      15      X      Region
+Johnson, Seth       City View HS, Wichita Falls  149    2      12      X      Region
+Wampler, Braden     City View HS, Wichita Falls  142    3      10      X      Region
+Metcalf, Mason      City View HS, Wichita Falls  135    4      5       X      Alternate
+Karg, Heather       Paradise HS, Paradise        135    4      5       X      Alternate
+Penny, Riley        Paradise HS, Paradise        135    6      4       X
+Allison, Katelyn    Bowie HS, Bowie              121    7
+Holt, Hailey        Paradise HS, Paradise        119    8
+Hill, Madison       Bowie HS, Bowie              112    9
+Crohan, Abigail     Boyd HS, Boyd                107    10
+Turlington, Chloe   Bowie HS, Bowie              107    11
+Perez, Logan        Holliday H S, Holliday       105    12
+Cating, Hope        Holliday H S, Holliday       97     13
+Davis, Katie        Paradise HS, Paradise        91     14
+Beaman, Tyler       Holliday H S, Holliday       87     15
+Otto, Zack          Bowie HS, Bowie              63     16
+Lemon, Destiny      Nocona H S, Nocona           61     17
+Plaster, Leah       Jacksboro H S, Jacksboro     59     18
+Hutchins, Reid      Holliday H S, Holliday       41     19
+Armstrong, Maylan   Jacksboro H S, Jacksboro     34     20
+Hanson, Madison     Henrietta H S, Henrietta     23     21
+Jenkins, Beverly    Boyd HS, Boyd                20     22
+Gwin, Jim           Henrietta H S, Henrietta     19     23
+Diaz, Sergio        Nocona H S, Nocona           17     24
+Essler, Trey        Henrietta H S, Henrietta     8      25
+Hart, Carly         Jacksboro H S, Jacksboro     8      26
+Tisdale, Trinity    Jacksboro H S, Jacksboro     3      27
+Duncan, Garrett     Henrietta H S, Henrietta     0      28
+Watkins, Julia      Boyd HS, Boyd                -3     29
+Garcia, Fatima      Nocona H S, Nocona           -34    30
+Armstrong, Kailey   Nocona H S, Nocona           -75    31
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+City View HS, Wichita Falls  1     487    1      10      X      Region
+Paradise HS, Paradise        1     389    2      5       X      Alternate
+Bowie HS, Bowie              1     340    3
+Holliday H S, Holliday       1     289    4
+Boyd HS, Boyd                1     124    5
+Jacksboro H S, Jacksboro     1     101    6
+Henrietta H S, Henrietta     1     50     7
+Nocona H S, Nocona           1     44     8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 9)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                                    Score  Place  Points  Medal  Advance
+Arterberry, Reese  Ponder HS, Ponder                         259    1      15      X      Region
+Ackley, Jared      Whitesboro HS, Whitesboro                 217    2      12      X      Region
+Proffer, Harmony   Callisburg HS, Gainesville                182    3      10      X      Region
+Hutcherson, Sam    Ponder HS, Ponder                         170    4      8       X      Alternate
+VanderWal, Tim     Ponder HS, Ponder                         163    5      6       X
+Werts, Landon      Callisburg HS, Gainesville                163    6      4       X
+Gautier, Scott     Whitesboro HS, Whitesboro                 149    7
+Green, Ian         Callisburg HS, Gainesville                149    8
+Howard, Dallas     Ponder HS, Ponder                         142    9
+Gregory, Lillie    Callisburg HS, Gainesville                140    10
+Labrada, Manuel    Whitesboro HS, Whitesboro                 119    11
+McCree, Genesis    IL Texas - Keller-Saginaw HS, Fort Worth  116    12
+Harrison, Jamie    S & S Consolidated HS, Sadler             114    13
+Pool, Cherokee     Pottsboro HS, Pottsboro                   107    14
+Labrada, Rosario   Whitesboro HS, Whitesboro                 98     15
+Smith, Hannah      Gunter HS, Gunter                         90     16
+Bennett, Jolie     S & S Consolidated HS, Sadler             84     17
+Holloway, Caleb    Pilot Point HS, Pilot Point               84     18
+Coker, Katie       S & S Consolidated HS, Sadler             81     19
+Pahari, Daniela    IL Texas - Keller-Saginaw HS, Fort Worth  78     20
+Kelso, Kristina    Pottsboro HS, Pottsboro                   77     21
+Tierrafria, Alexa  Pilot Point HS, Pilot Point               77     22
+Pickle, Sabrina    Pottsboro HS, Pottsboro                   76     23
+Vilorio, Annie     IL Texas - Keller-Saginaw HS, Fort Worth  72     24
+McDonald, Cooper   IL Texas - Keller-Saginaw HS, Fort Worth  68     25
+Sosa, Gerardo      Pilot Point HS, Pilot Point               66     26
+Williams, Jacob    Pottsboro HS, Pottsboro                   62     27
+Young, Elijah      Pilot Point HS, Pilot Point               62     28
+Reed, Becca        S & S Consolidated HS, Sadler             60     29
+Avendano, Brian    Gunter HS, Gunter                         18     30
+Smith, Kaylee      Gunter HS, Gunter                         8      31
+Busch, Anna        Gunter HS, Gunter                         4      32
+
+TOP SCORERS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Ponder HS, Ponder                         1     592    1      10      X      Region
+Callisburg HS, Gainesville                1     494    2      5       X      Alternate
+Whitesboro HS, Whitesboro                 1     485    3
+S & S Consolidated HS, Sadler             1     279    4
+IL Texas - Keller-Saginaw HS, Fort Worth  1     266    5
+Pottsboro HS, Pottsboro                   1     260    6
+Pilot Point HS, Pilot Point               1     227    7
+Gunter HS, Gunter                         1     116    8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 10)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                          Score  Place  Points  Medal  Advance
+Hoar, Jonathan      Farmersville H S, Farmersville  156    1      15      X      Region
+Moses, Sabrina      Farmersville H S, Farmersville  149    2      12      X      Region
+Jang, Joseph        Commerce HS, Commerce           143    3      10      X      Region
+Sisk, Mitchell      Farmersville H S, Farmersville  107    4      8       X      Alternate
+Jones, Kyle         Lone Oak HS, Lone Oak           77     5      6       X
+Willeford, Carlie   Van Alstyne HS, Van Alstyne     76     6      4       X
+Burt, Taylor        Whitewright HS, Whitewright     72     7
+Greve, Rachel       Van Alstyne HS, Van Alstyne     65     8
+Bennett, Aaron      Leonard HS, Leonard             64     9
+McCoy, Hunter       Farmersville H S, Farmersville  53     10
+Ware, Claudia       Leonard HS, Leonard             48     11
+Hirons, James       Van Alstyne HS, Van Alstyne     42     12
+Simmons, Sydney     Van Alstyne HS, Van Alstyne     41     13
+Thurmen, Taylor     Howe HS, Howe                   29     14
+Wright, Daylan      Lone Oak HS, Lone Oak           25     15
+Hudson, Abigail     Lone Oak HS, Lone Oak           24     16
+Stricklin, Yesenia  Leonard HS, Leonard             20     17
+Slaughter, Hailey   Whitewright HS, Whitewright     18     18
+Herrera, Nausat     Howe HS, Howe                   15     19
+Bottoms, Kennedy    Whitewright HS, Whitewright     -7     20
+Schur, Blake        Leonard HS, Leonard             -10    21
+McLean, Makenna     Whitewright HS, Whitewright     -26    22
+Roberts, Vaden      Lone Oak HS, Lone Oak           -27    23
+Campbell, Elijah    Howe HS, Howe                   -61    24
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Farmersville H S, Farmersville  1     412    1      10      X      Region
+Van Alstyne HS, Van Alstyne     1     183    2      5       X      Alternate
+Leonard HS, Leonard             1     132    3
+Lone Oak HS, Lone Oak           1     126    4
+Whitewright HS, Whitewright     1     83     5
+Howe HS, Howe                   1     -17    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 11)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                    Score  Place  Points  Medal  Advance
+Upadhyay, Ekta        Sunnyvale HS, Sunnyvale                   168    1      15      X      Region
+Gigi, Jiben           Sunnyvale HS, Sunnyvale                   126    2      12      X      Region
+Valdez, Brisa         Life School Oak Cliff, Dallas             105    3      10      X      Region
+Johnson, Joyce        Sunnyvale HS, Sunnyvale                   98     4      8       X      Alternate
+Baker, Talani         Sunnyvale HS, Sunnyvale                   93     5      6       X
+Lujan, Cynthia        Life School Oak Cliff, Dallas             91     6      4       X
+Kidd, Adaryah         Life School Oak Cliff, Dallas             67     7
+Boyd, Monticia        Life School Oak Cliff, Dallas             66     8
+Thomas, Zackery       Harmony Schl of Nature&Ath, Dallas        34     9
+Tellez, Carlos        Harmony Science Academy, Dallas           26     10
+Mondragon, Jose       A+ Academy, Dallas                        3      11
+Soto, Jose            Harmony Schl of Nature&Ath, Dallas        0      12
+Ross, Cameron         Harmony Schl of Nature&Ath, Dallas        -7     13
+Rangel-Lopez, Yarisa  Madison HS, Dallas                        -9     14
+Bernardo, Esmeralda   Madison HS, Dallas                        -14    15
+Cano, Briceidy        Madison HS, Dallas                        -17    16
+Andega, Isanya        Harmony Schl of Nature&Ath, Dallas        -18    17
+Portillo, Angie       Harmony Science Academy, Dallas           -21    18
+Dharmadi, Ryan        Harmony School of Innovation, Fort Worth  -48    19
+Quezeda, Maria        Harmony Science Academy, Dallas           -54    20
+Leon, Alejandro       A+ Academy, Dallas                        -54    20
+McAmis, James         Harmony School of Innovation, Fort Worth  -62    22
+Clack, Anisten        Madison HS, Dallas                        -101   23
+Maewal, Norman        Harmony School of Innovation, Fort Worth  -117   24
+
+TOP SCORERS
+------------------------------
+School                                    Team  Score  Place  Points  Medal  Advance
+Sunnyvale HS, Sunnyvale                   1     392    1      10      X      Region
+Life School Oak Cliff, Dallas             1     263    2      5       X      Alternate
+Harmony Schl of Nature&Ath, Dallas        1     27     3
+Madison HS, Dallas                        1     -40    4
+Harmony Science Academy, Dallas           1     -49    5
+Harmony School of Innovation, Fort Worth  1     -227   6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 12)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                          Score  Place  Points  Medal  Advance
+Darby, Hailey       Grand Saline H S, Grand Saline  142    1      15      X      Region
+Keith, Kayla        Mineola H S, Mineola            119    2      12      X      Region
+Rivers, Danae       Edgewood HS, Edgewood           100    3      10      X      Region
+Brannan, Randi      Mineola H S, Mineola            97     4      8       X      Alternate
+Foster, Gavin       Grand Saline H S, Grand Saline  89     5      6       X
+Neely, Courtney     Scurry-Rosser H S, Scurry       80     6      4       X
+Tresca, Isabella    Mineola H S, Mineola            70     7
+Garcia, David       Grand Saline H S, Grand Saline  65     8
+Snyder, Kassidy     Edgewood HS, Edgewood           56     9
+Lenamond, Emily     Edgewood HS, Edgewood           48     10
+Carnes, Shayne      Grand Saline H S, Grand Saline  34     11
+Reeve, Tucker       Eustace H S, Eustace            34     11
+Lee, Mariah         Quitman HS, Quitman             34     11
+Littlejohn, Bralee  Alba-Golden HS, Alba            25     14
+Yager, Lanie        Mineola H S, Mineola            18     15
+Cerrito, Fatima     Alba-Golden HS, Alba            17     16
+Griffin, Marquavus  Eustace H S, Eustace            0      17
+Wyatt, Zakary       Eustace H S, Eustace            0      17
+Brandon, Dalton     Quitman HS, Quitman             0      17
+Manuel, Katelan     Quitman HS, Quitman             -1     20
+Edwards, Savannah   Alba-Golden HS, Alba            -5     21
+Haynes, Brandi      Edgewood HS, Edgewood           -12    22
+Garcia, Guadalupe   Eustace H S, Eustace            -16    23
+Hill, Ethan         Quitman HS, Quitman             -29    24
+Zant, Cameron       Alba-Golden HS, Alba            -74    25
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Grand Saline H S, Grand Saline  1     296    1      10      X      Region
+Mineola H S, Mineola            1     286    2      5       X      Alternate
+Edgewood HS, Edgewood           1     204    3
+Alba-Golden HS, Alba            1     37     4
+Eustace H S, Eustace            1     34     5
+Quitman HS, Quitman             1     33     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 13)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                          Score  Place  Points  Medal  Advance
+Martinez, Saul        Chapel Hill HS, Mt Pleasant     142    1      13.50   X      Region
+Doke, Allison         Winnsboro HS, Winnsboro         142    1      13.50   X      Region
+Gage, Michael         Mount Vernon H S, Mount Vernon  127    3      10      X      Region
+Martinez, Sarai       Chapel Hill HS, Mt Pleasant     127    4      8       X      Alternate
+Aguinaga, Brittni     Chisum HS, Paris                119    5      6       X
+King, Kristina        Mount Vernon H S, Mount Vernon  114    6      4       X
+Davidson, Iliana      Cooper HS, Cooper               112    7
+Sears, Hadley         Mount Vernon H S, Mount Vernon  103    8
+Nitmo, Annika         Winnsboro HS, Winnsboro         100    9
+Jones, Sierra         Cooper HS, Cooper               98     10
+Mecaskey-Larue, Joes  Prairiland HS, Pattonville      88     11
+Jones, Megan          Cooper HS, Cooper               87     12
+Reed, Shelby          Mount Vernon H S, Mount Vernon  84     13
+Garcia, Janeth        Chapel Hill HS, Mt Pleasant     79     14
+Vilchez, Isaac        Winnsboro HS, Winnsboro         79     14
+McGee, Lane           Prairiland HS, Pattonville      76     16
+Bruson, Ben           Winnsboro HS, Winnsboro         70     17
+Folse, T.J.           Prairiland HS, Pattonville      62     18
+Boyer, Carson         Chisum HS, Paris                57     19
+Fields, Jordan        Chisum HS, Paris                52     20
+Castanon, Jasmine     Chapel Hill HS, Mt Pleasant     45     21
+Morris, Maci          Cooper HS, Cooper               44     22
+Ford, Taylor          Como-Pickton HS, Como           7      23
+Brown, Nolan          Como-Pickton HS, Como           3      24
+Teer, Makayla         Como-Pickton HS, Como           -1     25
+Young, Trevor         Chisum HS, Paris                -88    26
+Painter, Rebecca      Prairiland HS, Pattonville      -138   27
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Chapel Hill HS, Mt Pleasant     1     348    1      10      X      Region
+Mount Vernon H S, Mount Vernon  1     344    2      5       X      Alternate
+Winnsboro HS, Winnsboro         1     321    3
+Cooper HS, Cooper               1     297    4
+Chisum HS, Paris                1     228    5
+Prairiland HS, Pattonville      1     226    6
+Como-Pickton HS, Como           1     9      7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 14)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                             Score  Place  Points  Medal  Advance
+Wright, Cypress      Hughes Springs HS, Hughes Springs  238    1      15      X      Region
+Gonzalez, Victor M.  Daingerfield H S, Daingerfield     217    2      12      X      Region
+Gilmore, Zachary T   Daingerfield H S, Daingerfield     196    3      10      X      Region
+Beasley, Natalie L.  Daingerfield H S, Daingerfield     196    4      8       X      Alternate
+Stewart, Calli       Hughes Springs HS, Hughes Springs  175    5      6       X
+Laney, Jansen M.     Daingerfield H S, Daingerfield     168    6      4       X
+Byrd, Tanner         Hughes Springs HS, Hughes Springs  154    7
+Oas, Adam            Queen City HS, Queen City          133    8
+Priddy, Cameron      Hughes Springs HS, Hughes Springs  112    9
+Bowen, Jordan        Queen City HS, Queen City          107    10
+Sissons, Claire      New Boston H S, New Boston         100    11
+Garrison, Dylan      Queen City HS, Queen City          91     12
+Garrett, Marli       Hooks H S, Hooks                   90     13
+Wallace, Bradley     Pewitt HS, Omaha                   81     14
+Zuniga, Beatriz      Hooks H S, Hooks                   77     15
+Turner, Kenley       Hooks H S, Hooks                   71     16
+Pureco, Jose         Pewitt HS, Omaha                   69     17
+Maxwell, Jordan      Queen City HS, Queen City          66     18
+Thornhill, Gracie    Redwater H S, Redwater             53     19
+Calicott, Bethanee   Redwater H S, Redwater             53     19
+Sanders, Jacob       New Boston H S, New Boston         41     21
+Strom, Aaron         New Boston H S, New Boston         28     22
+Gilmore, James       Pewitt HS, Omaha                   23     23
+Sullivan, Joe        Pewitt HS, Omaha                   -2     24
+James, Mikayla       Hooks H S, Hooks                   -16    25
+Dallas, Annie        Redwater H S, Redwater             -26    26
+Graham, Trent        New Boston H S, New Boston         -43    27
+Powell, Kaitlyn      Redwater H S, Redwater             -45    28
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Daingerfield H S, Daingerfield     1     609    1      10      X      Region
+Hughes Springs HS, Hughes Springs  1     567    2      5       X      Alternate
+Queen City HS, Queen City          1     331    3
+Hooks H S, Hooks                   1     238    4
+Pewitt HS, Omaha                   1     173    5
+New Boston H S, New Boston         1     169    6
+Redwater H S, Redwater             1     80     7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 15)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                  Score  Place  Points  Medal  Advance
+Taylor, Michael       Sabine HS, Gladewater   252    1      15      X      Region
+Taylor, Scottie       Sabine HS, Gladewater   238    2      12      X      Region
+Lewis, Jaylen         Sabine HS, Gladewater   224    3      10      X      Region
+Davidson, Asia        Sabine HS, Gladewater   217    4      8       X      Alternate
+Roberts, Silver       Arp HS, Arp             90     5      6       X
+Sakai, Haru           Winona HS, Winona       84     6      4       X
+Hudson, Tori          Harmony H S, Big Sandy  65     7
+Arriaga, Daisy        Harmony H S, Big Sandy  59     8
+Annabell, Moore       Harmony H S, Big Sandy  58     9
+Bays, Christine       Arp HS, Arp             28     10
+Whitton, Madison      Troup HS, Troup         22     11
+Davenport, Natalie    Troup HS, Troup         12     12
+Reid, Jansen          Troup HS, Troup         9      13
+Barrera, Josie        Winona HS, Winona       1      14
+Flora, Alex           Troup HS, Troup         -2     15
+Edwards, Isaac        Harmony H S, Big Sandy  -22    16
+Sakai, Taiju          Winona HS, Winona       -22    16
+Rutherford, Jonathan  Winona HS, Winona       -29    18
+Walker, LaMichael     Arp HS, Arp             -100   19
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Sabine HS, Gladewater   1     714    1      10      X      Region
+Harmony H S, Big Sandy  1     182    2      5       X      Alternate
+Winona HS, Winona       1     63     3
+Troup HS, Troup         1     43     4
+Arp HS, Arp             1     18     5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 16)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                              Score  Place  Points  Medal  Advance
+Freeman, Andi        Ore City H S, Ore City              149    1      15      X      Region
+Pendarvis, Hannah    Ore City H S, Ore City              142    2      12      X      Region
+Pena, Victoria       Ore City H S, Ore City              133    3      10      X      Region
+Narvaez, Kenya       Ore City H S, Ore City              128    4      8       X      Alternate
+Millwood,, Simi      White Oak HS, White Oak             116    5      6       X
+Rundell, Liberty     White Oak HS, White Oak             106    6      4       X
+Navarro, J           New Diana H S, Diana                105    7
+Foster, Tanner       Jefferson HS, Jefferson             80     8
+Collins, Ethan       Beckville HS, Beckville             80     8
+Webb, Jasmin         White Oak HS, White Oak             77     10
+Youngblood, Thomas   Jefferson HS, Jefferson             72     11
+Dudley, Justiss L    Elysian Fields H S, Elysian Fields  71     12
+Heaton, Trinity L    Elysian Fields H S, Elysian Fields  65     13
+Swilley, Chesley C   Elysian Fields H S, Elysian Fields  57     14
+Campbell, Mason      Beckville HS, Beckville             56     15
+Otwell, Lynnleigh M  Elysian Fields H S, Elysian Fields  51     16
+O'Brien, Skyla       White Oak HS, White Oak             48     17
+Stanley, C           New Diana H S, Diana                41     18
+Tillman, Jason       Beckville HS, Beckville             37     19
+George, Ashley       Beckville HS, Beckville             24     20
+Lonsway, Madison     Waskom HS, Waskom                   16     21
+Holliday, Gavin      Jefferson HS, Jefferson             13     22
+Schiele, Kayla       Waskom HS, Waskom                   12     23
+Molina, Caleb        New Diana H S, Diana                -20    24
+Stephens, Christian  Waskom HS, Waskom                   -46    25
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Ore City H S, Ore City              1     424    1      10      X      Region
+White Oak HS, White Oak             1     299    2      5       X      Alternate
+Elysian Fields H S, Elysian Fields  1     193    3
+Beckville HS, Beckville             1     173    4
+Jefferson HS, Jefferson             1     165    5
+New Diana H S, Diana                1     126    6
+Waskom HS, Waskom                   1     -18    7
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 17)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                             Score  Place  Points  Medal  Advance
+So, Hanna         Grandview H S, Grandview           135    1      15      X      Region
+Furman, Brianna   Grandview H S, Grandview           128    2      12      X      Region
+Bench, Katie      Grandview H S, Grandview           107    3      10      X      Region
+Roden, Addie      Grandview H S, Grandview           100    4      8       X      Alternate
+Swanson, Kevin    Blooming Grove HS, Blooming Grove  68     5      6       X
+Rucks, Camden     Blooming Grove HS, Blooming Grove  67     6      4       X
+PInter, Robert    Maypearl H S, Maypearl             65     7
+Sanchez, Brianna  Mildred H S, Corsicana             64     8
+Smith, Hannah     Mildred H S, Corsicana             62     9
+Adams, David      Mildred H S, Corsicana             46     10
+Graham, Peyton    Maypearl H S, Maypearl             41     11
+Bottoms, Kylie    Mildred H S, Corsicana             25     12
+Calel, Mildred    Blooming Grove HS, Blooming Grove  16     13
+Jaco, Melanie     Palmer H S, Palmer                 11     14
+Nava, Maria       Palmer H S, Palmer                 5      15
+Fisher, Kasey     Blooming Grove HS, Blooming Grove  -20    16
+Chaney, Katrina   Maypearl H S, Maypearl             -38    17
+Mancera, Maria    Palmer H S, Palmer                 -77    18
+
+TOP SCORERS
+------------------------------
+School                             Team  Score  Place  Points  Medal  Advance
+Grandview H S, Grandview           1     370    1      10      X      Region
+Mildred H S, Corsicana             1     172    2      5       X      Alternate
+Blooming Grove HS, Blooming Grove  1     151    3
+Maypearl H S, Maypearl             1     68     4
+Palmer H S, Palmer                 1     -61    5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 18)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                  Score  Place  Points  Medal  Advance
+Dominguez, Sonia     Buffalo HS, Buffalo     126    1      15      X      Region
+Barnett, Cassie      Elkhart H S, Elkhart    121    2      11      X      Region
+Bradley, Brian       Elkhart H S, Elkhart    121    2      11      X      Region
+Terrell, Jacob       Elkhart H S, Elkhart    114    4      8       X      Alternate
+Vickery, Rachel      Westwood HS, Palestine  113    5      5       X
+Colley, Maddie       Westwood HS, Palestine  113    5      5       X
+Cobble, Jordyn       Westwood HS, Palestine  112    7
+Haycock, Sean        Buffalo HS, Buffalo     100    8
+Oliva, Madison       Westwood HS, Palestine  97     9
+Ceja, Andrea         Leon H S, Jewett        88     10
+Sanchez, Jose        Buffalo HS, Buffalo     77     11
+Uptmor, Natalie      Buffalo HS, Buffalo     76     12
+Martinez, Beatriz    Leon H S, Jewett        66     13
+Sparkman, Tucker     Elkhart H S, Elkhart    44     14
+Cornejo, Lesli       Leon H S, Jewett        31     15
+Kifer, Avery         Malakoff HS, Malakoff   1      16
+Ceja, Gimena         Leon H S, Jewett        0      17
+Calhoun, Colby       Malakoff HS, Malakoff   -28    18
+Burke, Bailey        Malakoff HS, Malakoff   -46    19
+Robertson, Cheyenne  Malakoff HS, Malakoff   -103   20
+
+TOP SCORERS
+------------------------------
+School                  Team  Score  Place  Points  Medal  Advance
+Elkhart H S, Elkhart    1     356    1      10      X      Region
+Westwood HS, Palestine  1     338    2      5       X      Alternate
+Buffalo HS, Buffalo     1     303    3
+Leon H S, Jewett        1     185    4
+Malakoff HS, Malakoff   1     -73    5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 19)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                    Score  Place  Points  Medal  Advance
+Meyers, Cheyenne        Bruceville-Eddy HS, Eddy  128    1      15      X      Region
+Culver, Austin          Bruceville-Eddy HS, Eddy  126    2      12      X      Region
+Burch, Hope             Bruceville-Eddy HS, Eddy  126    3      10      X      Region
+Miera, Emily            Groesbeck H S, Groesbeck  107    4      8       X      Alternate
+Copeland, Adam          Whitney HS, Whitney       100    5      6       X
+Venegas, Daniela        Groesbeck H S, Groesbeck  100    6      4       X
+Graybill, Erica         Bruceville-Eddy HS, Eddy  93     7
+Baurer, Abi             West HS, West             86     8
+Cortes, Jesus           McGregor H S, McGregor    83     9
+Miera, Abigail          Groesbeck H S, Groesbeck  79     10
+Potter, Mathew          Troy H S, Troy            77     11
+Phillips, Jackson, D    Clifton HS, Clifton       76     12
+Burns, Natleigh         Groesbeck H S, Groesbeck  72     13
+Langenegger, Shae       McGregor H S, McGregor    62     14
+Payne, Tyler, A         Clifton HS, Clifton       60     15
+Brown, Dawson           McGregor H S, McGregor    60     15
+Martinez, Noel          McGregor H S, McGregor    55     17
+Ayers, Madileigh        Whitney HS, Whitney       41     18
+Ramsey, Joshua, M       Clifton HS, Clifton       36     19
+Magallanes-Chav, Paola  West HS, West             23     20
+Lloyd, Ryan, D          Clifton HS, Clifton       21     21
+Sauer, Fritz            Whitney HS, Whitney       21     21
+Delgado, Noelia         Whitney HS, Whitney       3      23
+Berger, Ember           West HS, West             -8     24
+Osburn, Tylers          Bruceville-Eddy HS, Eddy  -26    25
+Brown, Monica           West HS, West             -27    26
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Bruceville-Eddy HS, Eddy  1     380    1      10      X      Region
+Groesbeck H S, Groesbeck  1     286    2      5       X      Alternate
+McGregor H S, McGregor    1     205    3
+Clifton HS, Clifton       1     172    4
+Whitney HS, Whitney       1     162    5
+West HS, West             1     101    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 20)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                    Score  Place  Points  Medal  Advance
+Chervenka, Jessica    Rogers H S, Rogers        140    1      15      X      Region
+Ashby, Landon         Academy HS, Little River  133    2      12      X      Region
+Smith, Calvin         Academy HS, Little River  119    3      10      X      Region
+Andel, Courtney       Rogers H S, Rogers        119    4      8       X      Alternate
+Deal, William         Franklin H S, Franklin    107    5      6       X
+Kostroun, Caleb       Rogers H S, Rogers        98     6      4       X
+Williams, Camden      Academy HS, Little River  98     7
+Bautista, Jaelyn      Lexington H S, Lexington  83     8
+Glover, Jewell        Lexington H S, Lexington  76     9
+Wells, Jonathan       Franklin H S, Franklin    69     10
+Marek, Jordan         Lexington H S, Lexington  69     10
+Ceja, Gerardo         Rockdale H S, Rockdale    69     10
+Crawford, Jalisha     Lexington H S, Lexington  62     13
+Garcia, Jessica       Yoe HS, Cameron           62     13
+Callen, Grace         Franklin H S, Franklin    57     15
+Bustamante, Daniella  Yoe HS, Cameron           55     16
+Miller, Brenden       Rockdale H S, Rockdale    39     17
+Buckley, Brent        Franklin H S, Franklin    4      18
+Cloyd, Kaitlyn        Rogers H S, Rogers        0      19
+Kistler, Grace        Yoe HS, Cameron           -1     20
+Hughes, Ethan         Rockdale H S, Rockdale    -15    21
+Delao Vargas, Maraih  Yoe HS, Cameron           -20    22
+
+TOP SCORERS
+------------------------------
+School                    Team  Score  Place  Points  Medal  Advance
+Rogers H S, Rogers        1     357    1      10      X      Region
+Academy HS, Little River  1     350    2      5       X      Alternate
+Franklin H S, Franklin    1     233    3
+Lexington H S, Lexington  1     228    4
+Yoe HS, Cameron           1     116    5
+Rockdale H S, Rockdale    1     93     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 21)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                              Score  Place  Points  Medal  Advance
+Burzynski, Brianna S  New Waverly H S, New Waverly        161    1      15      X      Region
+Edney, Cade S         New Waverly H S, New Waverly        154    2      12      X      Region
+Cruzanaya, Zoe N      New Waverly H S, New Waverly        154    3      10      X      Region
+Chodrick, Troy G      New Waverly H S, New Waverly        107    4      8       X      Alternate
+Dewberry, Samantha    Anderson-Shiro HS, Anderson         72     5      6       X
+Goffney, Sanshae      Coldspring-Oakhurst HS, Coldspring  44     6      4       X
+Ainsworth, Patrick    Onalaska, Onalaska                  38     7
+Garcia, Jesus         Trinity HS, Trinity                 36     8
+Lee, Brianna          Onalaska, Onalaska                  30     9
+Ahart, Cameron        Onalaska, Onalaska                  27     10
+Cheyenne, Kendrick    Crockett HS, Crockett               25     11
+Thompson, Gracie      Trinity HS, Trinity                 14     12
+Espinosa, Monica      Crockett HS, Crockett               13     13
+Caceres, Maya         Trinity HS, Trinity                 12     14
+Yates, Aaron          Crockett HS, Crockett               -17    15
+Coronado, Citaly      Trinity HS, Trinity                 -23    16
+Johnson, Taronshae    Crockett HS, Crockett               -25    17
+Berryman, Miranda     Coldspring-Oakhurst HS, Coldspring  -38    18
+Scott, Alvin          Coldspring-Oakhurst HS, Coldspring  -59    19
+Rodriguez, Diego      Hempstead H S, Hempstead            -110   20
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+New Waverly H S, New Waverly        1     469    1      10      X      Region
+Onalaska, Onalaska                  1     95     2      5       X      Alternate
+Trinity HS, Trinity                 1     62     3
+Crockett HS, Crockett               1     21     4
+Coldspring-Oakhurst HS, Coldspring  1     -53    5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 22)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                           Score  Place  Points  Medal  Advance
+Walker, Shelby      Corrigan-Camden H S, Corrigan    126    1      15      X      Region
+McAdams, Robert     Corrigan-Camden H S, Corrigan    108    2      12      X      Region
+Young, Baylor       Central HS, Pollok               90     3      10      X      Region
+Box, Jessica        Garrison H S, Garrison           68     4      8       X      Alternate
+Castella, Caylee    Central Heights HS, Nacogdoches  66     5      6       X
+Allen, Kaylee       Woodville HS, Woodville          60     6      4       X
+Moran, Kemo         Woodville HS, Woodville          55     7
+Cisneros, Analuisa  Hemphill H S, Hemphill           54     8
+Do, Sera            Central Heights HS, Nacogdoches  51     9
+Self, Rachel        Central Heights HS, Nacogdoches  50     10
+Gesford, Quinton    Central HS, Pollok               49     11
+Tanvez, Mohammed    Woodville HS, Woodville          48     12
+Burgess, Brianna    Central HS, Pollok               44     13
+Chambers, Aaron     Woodville HS, Woodville          43     14
+Malott, Michael     Garrison H S, Garrison           34     15
+Clements, Savanna   Garrison H S, Garrison           34     15
+Casper, Cole        Corrigan-Camden H S, Corrigan    30     17
+Wilkerson, Malik    Hemphill H S, Hemphill           29     18
+Proctor, Trey       Hemphill H S, Hemphill           22     19
+Thompson, David     Corrigan-Camden H S, Corrigan    16     20
+Doyle, Cody         Central HS, Pollok               -32    21
+
+TOP SCORERS
+------------------------------
+School                           Team  Score  Place  Points  Medal  Advance
+Corrigan-Camden H S, Corrigan    1     264    1      10      X      Region
+Central HS, Pollok               1     183    2      5       X      Alternate
+Central Heights HS, Nacogdoches  1     167    3
+Woodville HS, Woodville          1     163    4
+Garrison H S, Garrison           1     136    5
+Hemphill H S, Hemphill           1     105    6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 23)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant        School                        Score  Place  Points  Medal  Advance
+Daniel, Bekah     East Chambers H S, Winnie     128    1      15      X      Region
+Farnie, Caleb     Buna HS, Buna                 121    2      12      X      Region
+Tatom, Caleb      Buna HS, Buna                 108    3      10      X      Region
+Long, Lance       East Chambers H S, Winnie     100    4      8       X      Alternate
+Kemmer, Cassie    East Chambers H S, Winnie     99     5      6       X
+Bergeron, Ty      Anahuac HS, Anahuac           79     6      4       X
+Walters, Mallory  Warren HS, Warren             79     7
+Tran, June        Anahuac HS, Anahuac           71     8
+Dawson, Hannah    Buna HS, Buna                 69     9
+Ly, Tracey        Anahuac HS, Anahuac           64     10
+Brown, Seth       Warren HS, Warren             61     11
+Kahla, Bailey     East Chambers H S, Winnie     52     12
+Husband, Destiny  Anahuac HS, Anahuac           50     13
+Guillory, Brandi  Warren HS, Warren             34     14
+Grant, Chantry    Hardin HS, Hardin             16     15
+Bumstead, Kori    Kountze H S, Kountze          0      16
+Hernandez, Jaime  Hardin HS, Hardin             0      16
+Marcum, Thomas    Warren HS, Warren             0      16
+Spurlock, Kali    Hardin HS, Hardin             -6     19
+Montoya, Bilda    Bob Hope School, Port Arthur  -11    20
+Arsement, Sara    Kountze H S, Kountze          -17    21
+Flores, Alondra   Bob Hope School, Port Arthur  -29    22
+Fry, Laila        Buna HS, Buna                 -40    23
+Thonsgaard, Paul  Hardin HS, Hardin             -66    24
+
+TOP SCORERS
+------------------------------
+School                     Team  Score  Place  Points  Medal  Advance
+East Chambers H S, Winnie  1     327    1      10      X      Region
+Buna HS, Buna              1     298    2      5       X      Alternate
+Anahuac HS, Anahuac        1     214    3
+Warren HS, Warren          1     174    4
+Hardin HS, Hardin          1     10     5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 24)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                          Score  Place  Points  Medal  Advance
+Marek, Kolton        Brazos HS, Wallis               133    1      15      X      Region
+Moreno Tavera, Ruby  Brazos HS, Wallis               128    2      12      X      Region
+Jetelina, Kennedy    Brazos HS, Wallis               126    3      10      X      Region
+Martinez, David      East Bernard H S, East Bernard  107    4      8       X      Alternate
+Martinez, Gracelynn  East Bernard H S, East Bernard  95     5      6       X
+Janczak, Julia       East Bernard H S, East Bernard  74     6      4       X
+Kovar, Savanah       Brazos HS, Wallis               65     7
+Solomon, Aeryn       Danbury H S, Danbury            62     8
+Johnson, Tegan       Rice H S, Altair                60     9
+Holt, Jennifer       Danbury H S, Danbury            56     10
+Townsend, Kolby      East Bernard H S, East Bernard  53     11
+Fitzgerald, Kier     Danbury H S, Danbury            40     12
+Kazmir, Mary         Rice H S, Altair                34     13
+Canaris, Drayton     Rice H S, Altair                23     14
+Vrazel, Madison      Danbury H S, Danbury            0      15
+Tholen, Jerad        Hitchcock H S, Hitchcock        -27    16
+Gonzalez, Arlette    Hitchcock H S, Hitchcock        -37    17
+Escobar, Devin       Hitchcock H S, Hitchcock        -57    18
+Landry, Brianna      Hitchcock H S, Hitchcock        -67    19
+Nelson, Randice      Rice H S, Altair                -108   20
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Brazos HS, Wallis               1     387    1      10      X      Region
+East Bernard H S, East Bernard  1     276    2      5       X      Alternate
+Danbury H S, Danbury            1     158    3
+Rice H S, Altair                1     117    4
+Hitchcock H S, Hitchcock        1     -121   5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 25)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                          Score  Place  Points  Medal  Advance
+Miranda, Aurora, A    Blanco HS, Blanco               100    1      15      X      Region
+Teegardin, Matthew    Florence H S, Florence          98     2      12      X      Region
+Pharris, Garrett      Lago Vista HS, Lago Vista       94     3      10      X      Region
+Barnett, Mitchell, W  Blanco HS, Blanco               93     4      8       X      Alternate
+Collier, J.D.         Ingram Tom Moore HS, Ingram     91     5      6       X
+Henriquez, Jackeline  Johnson (LBJ) HS, Johnson City  88     6      4       X
+Haffner, Mason        Comfort HS, Comfort             78     7
+Hernandez, Schyla     Comfort HS, Comfort             70     8
+Chau, Laura           Lago Vista HS, Lago Vista       65     9
+Burke, Schuyler       Lago Vista HS, Lago Vista       65     9
+Pillatzke, Niki       Ingram Tom Moore HS, Ingram     56     11
+Guerrero, Alicia      Johnson (LBJ) HS, Johnson City  56     11
+Hernandez, Kaleb      Comfort HS, Comfort             55     13
+D'Lorm, Raoult        Lago Vista HS, Lago Vista       55     13
+Millican, Noah        Johnson (LBJ) HS, Johnson City  43     15
+Tate, Brittin         Ingram Tom Moore HS, Ingram     27     16
+Millican, Zachary     Johnson (LBJ) HS, Johnson City  16     17
+Palazzo, Roman        Comfort HS, Comfort             -24    18
+Vaughn, Kyla          Florence H S, Florence          -34    19
+Velasquez, Jackie     Florence H S, Florence          -38    20
+Drum, Cadence, E      Blanco HS, Blanco               -41    21
+Schad, Leslie         Florence H S, Florence          -110   22
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Lago Vista HS, Lago Vista       1     224    1      10      X      Region
+Comfort HS, Comfort             1     203    2      5       X      Alternate
+Johnson (LBJ) HS, Johnson City  1     187    3
+Ingram Tom Moore HS, Ingram     1     174    4
+Blanco HS, Blanco               1     152    5
+Florence H S, Florence          1     26     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 26)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                         Score  Place  Points  Medal  Advance
+Tranbarger, Preston  BASIS Shavano HS, San Antonio  154    1      15      X      Region
+Snoga, Camryn        Poth HS, Poth                  129    2      12      X      Region
+Wang, Darius         BASIS Shavano HS, San Antonio  85     3      10      X      Region
+Kruse, Chelsea       Poth HS, Poth                  85     4      8       X      Alternate
+Voelkel, Taylor      Karnes City H S, Karnes City   83     5      6       X
+Respondek, Matthew   Poth HS, Poth                  81     6      4       X
+Franke, Madison      Karnes City H S, Karnes City   79     7
+Moody, Blake         Poth HS, Poth                  77     8
+Hesita, Caleb        BASIS Shavano HS, San Antonio  77     8
+Hale, Joshua         Karnes City H S, Karnes City   74     10
+Robinson, Kiera      Karnes City H S, Karnes City   70     11
+Felker, Anton        Natalia H S, Natalia           57     12
+Choucair, Marc       BASIS Shavano HS, San Antonio  49     13
+Martin, Brad         Natalia H S, Natalia           32     14
+Gibson, Jared        Cole HS, San Antonio           27     15
+DeLeon, Laura        Cole HS, San Antonio           5      16
+Leza, Kara           Cole HS, San Antonio           1      17
+Ducote, Madeleine    Jourdanton HS, Jourdanton      0      18
+Castro, Jeremiah     Natalia H S, Natalia           -8     19
+Perez, Amanda        Cole HS, San Antonio           -18    20
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+BASIS Shavano HS, San Antonio  1     316    1      10      X      Region
+Poth HS, Poth                  1     295    2      5       X      Alternate
+Karnes City H S, Karnes City   1     236    3
+Natalia H S, Natalia           1     81     4
+Cole HS, San Antonio           1     33     5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 27)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                            Score  Place  Points  Medal  Advance
+Knight, Sierra     Marion HS, Marion                 114    1      15      X      Region
+Tullos, Alexandra  Hallettsville H S, Hallettsville  105    2      12      X      Region
+Gibson, Charles    Marion HS, Marion                 102    3      10      X      Region
+Pustka, Briana     Schulenburg H S, Schulenburg      97     4      8       X      Alternate
+Otto, Alyssa       Schulenburg H S, Schulenburg      91     5      6       X
+Silcox, Rece       Schulenburg H S, Schulenburg      84     6      4       X
+Alex, Rebekkah     Hallettsville H S, Hallettsville  83     7
+Ochoa, Daniel      Nixon Smiley HS, Nixon            76     8
+Okada, Damien      Randolph HS, Universal City       72     9
+Bishop, Travis     Stockdale HS, Stockdale           69     10
+Bishop, Mason      Stockdale HS, Stockdale           67     11
+Johnson, Hunter    Randolph HS, Universal City       63     12
+Olalde, Efren      Nixon Smiley HS, Nixon            63     12
+Bhakta, Khushi     Hallettsville H S, Hallettsville  62     14
+Meyer, Trevor      Hallettsville H S, Hallettsville  56     15
+Otto, Erica        Schulenburg H S, Schulenburg      55     16
+Gibson, Matthew    Marion HS, Marion                 51     17
+Morales, Brayan    Nixon Smiley HS, Nixon            49     18
+Knezek, Kailee     Yoakum HS, Yoakum                 43     19
+Herrera, Isaiah    Yoakum HS, Yoakum                 30     20
+Ochoa, Yesenia     Nixon Smiley HS, Nixon            8      21
+Allen, Jackson     Marion HS, Marion                 -8     22
+Aldover, Nicole    Randolph HS, Universal City       -38    23
+
+TOP SCORERS
+------------------------------
+School                            Team  Score  Place  Points  Medal  Advance
+Schulenburg H S, Schulenburg      1     272    1      10      X      Region
+Marion HS, Marion                 1     267    2      5       X      Alternate
+Hallettsville H S, Hallettsville  1     250    3
+Nixon Smiley HS, Nixon            1     188    4
+Randolph HS, Universal City       1     97     5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 28)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant         School                      Score  Place  Points  Medal  Advance
+Taulbee, Caleb     Industrial H S, Vanderbilt  142    1      15      X      Region
+Ramos, Adrian      Industrial H S, Vanderbilt  107    2      12      X      Region
+Nguyen, Priscilla  Palacios H S, Palacios      77     3      10      X      Region
+Vu, Kayla          Palacios H S, Palacios      70     4      8       X      Alternate
+Garza, Marcus      Van Vleck HS, Van Vleck     70     5      6       X
+Darilek, Seth      Industrial H S, Vanderbilt  62     6      4       X
+Merecka, Chloe     Boling HS, Boling           62     7
+Tabares, Nadia     Boling HS, Boling           62     8
+Ha, Huyen          Palacios H S, Palacios      61     9
+Mussman, Nikki     Edna H S, Edna              54     10
+Gonzalez, Maria    Boling HS, Boling           49     11
+Stepan, Jacey      Tidehaven HS, El Maton      43     12
+King, Skylar       Industrial H S, Vanderbilt  42     13
+Brown, Ciara       Van Vleck HS, Van Vleck     40     14
+Maravilla, Maria   Tidehaven HS, El Maton      34     15
+Botello, Adrianna  Boling HS, Boling           27     16
+McWillis, Chloe    Van Vleck HS, Van Vleck     26     17
+Perkins, Patrick   Van Vleck HS, Van Vleck     19     18
+Post, Lauren       Palacios H S, Palacios      15     19
+Keith, Haley       Edna H S, Edna              15     19
+Leadford, Shelby   Tidehaven HS, El Maton      7      21
+Swift, Fay         Tidehaven HS, El Maton      0      22
+Smith, Kaylie      Edna H S, Edna              -15    23
+
+TOP SCORERS
+------------------------------
+School                      Team  Score  Place  Points  Medal  Advance
+Industrial H S, Vanderbilt  1     311    1      10      X      Region
+Palacios H S, Palacios      1     208    2      5       X      Alternate
+Boling HS, Boling           1     173    3
+Van Vleck HS, Van Vleck     1     136    4
+Tidehaven HS, El Maton      1     84     5
+Edna H S, Edna              1     54     6
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 29)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant           School                       Score  Place  Points  Medal  Advance
+Cosper, Michael      Goliad H S, Goliad           163    1      15      X      Region
+DeLuna, Damaris      Goliad H S, Goliad           135    2      12      X      Region
+Estrada, Marilysa    Skidmore-Tynan HS, Skidmore  100    3      10      X      Region
+Cruz, Victor         Goliad H S, Goliad           91     4      8       X      Alternate
+Wishert, Kennon      Skidmore-Tynan HS, Skidmore  85     5      6       X
+DelBarrio, Louise    Skidmore-Tynan HS, Skidmore  83     6      2       X
+Mata, Marissa        Skidmore-Tynan HS, Skidmore  83     6      2       X
+Mendoza, Robert      Taft HS, Taft                78     8
+Flores, Heaven       Taft HS, Taft                75     9
+Livas, Bella         Goliad H S, Goliad           69     10
+Bigner, Spencer      Odem HS, Odem                69     10
+Covington, Arabella  Taft HS, Taft                50     12
+Miles, Alexis        Mathis HS, Mathis            37     13
+Mendez, Janelle      Odem HS, Odem                36     14
+Lopez, Cris          Taft HS, Taft                25     15
+Longoria, Faith      Mathis HS, Mathis            7      16
+Cass, Dustin         Odem HS, Odem                -5     17
+Bias, Tabitha        Mathis HS, Mathis            -5     17
+Siegford, Hailey     Odem HS, Odem                -26    19
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Goliad H S, Goliad           1     389    1      10      X      Region
+Skidmore-Tynan HS, Skidmore  1     268    2      5       X      Alternate
+Taft HS, Taft                1     203    3
+Odem HS, Odem                1     100    4
+Mathis HS, Mathis            1     39     5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 30)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                         Score  Place  Points  Medal  Advance
+Ramirez, Alexa        Cotulla HS, Cotulla            120    1      15      X      Region
+Mosley, Emma          George West HS, George West    107    2      12      X      Region
+Henry, Makayla        Hebbronville HS, Hebbronville  100    3      10      X      Region
+Emerson, Elizabeth    George West HS, George West    93.5   4      8       X      Alternate
+Moreno, Jolynn        Hebbronville HS, Hebbronville  93.1   5      6       X
+Leone, Reagan         Cotulla HS, Cotulla            79     6      4       X
+Zarate, Gabriela      San Diego HS, San Diego        72     7
+Jimerson, Hannah      George West HS, George West    64     8
+Sanchez, Joaquin      Hebbronville HS, Hebbronville  46     9
+Cantu, Luis           Hebbronville HS, Hebbronville  42     10
+Gutierrez, Malaquias  Dilley HS, Dilley              41     11
+Gonzales, Heaven      Cotulla HS, Cotulla            39     12
+Gonzales, Amaris      Dilley HS, Dilley              35     13
+Gonzalez, Analisa     Cotulla HS, Cotulla            29     14
+Garfield, Pilar       Dilley HS, Dilley              4      15
+Terry, Taylor         George West HS, George West    -47    16
+
+TOP SCORERS
+------------------------------
+School                         Team  Score  Place  Points  Medal  Advance
+George West HS, George West    1     264.5  1      10      X      Region
+Hebbronville HS, Hebbronville  1     239.1  2      5       X      Alternate
+Cotulla HS, Cotulla            1     238    3
+Dilley HS, Dilley              1     80     4
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 31)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Sutanto, Antony       London HS, Corpus Christi               147    1      15      X      Region
+Requenez, Mateo       Falfurrias H S, Falfurrias              142    2      12      X      Region
+Friudenberg, Alyssa   London HS, Corpus Christi               120    3      10      X      Region
+Vela, Maddison        Falfurrias H S, Falfurrias              119    4      8       X      Alternate
+Robles, Cryselda      Banquete HS, Banquete                   114    5      6       X
+Hamouda, Husam        London HS, Corpus Christi               112.0  6      2       X
+Richendollar, Hannah  London HS, Corpus Christi               112.0  6      2       X
+Burke, Patrick        Falfurrias H S, Falfurrias              108    8
+Houf, William         Santa Gertrudis Academy HS, Kingsville  104    9
+Caldera, Alexis       Santa Gertrudis Academy HS, Kingsville  99     10
+Lara, Jacqueline      Falfurrias H S, Falfurrias              91     11
+Seagroves, David      Banquete HS, Banquete                   59     12
+Avelar, Jose          Santa Gertrudis Academy HS, Kingsville  30     13
+Lerma, Robert         Banquete HS, Banquete                   9      14
+Albaugh, Abigail      Bishop HS, Bishop                       -50    15
+Luera, Izabella       Bishop HS, Bishop                       -52    16
+Salinas, Samuel       Santa Gertrudis Academy HS, Kingsville  -54    17
+Romo, Allison         Bishop HS, Bishop                       -124   18
+Davis, Debra          Bishop HS, Bishop                       -151   19
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+London HS, Corpus Christi               1     379.0  1      10      X      Region
+Falfurrias H S, Falfurrias              1     369    2      5       X      Alternate
+Santa Gertrudis Academy HS, Kingsville  1     233    3
+Banquete HS, Banquete                   1     182    4
+Bishop HS, Bishop                       1     -226   5
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 32)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant              School                              Score  Place  Points  Medal  Advance
+Saldana, Emeteria       Lyford H S, Lyford                  149    1      15      X      Region
+Olivo, Bryan            IDEA College Prep, Pharr            147    2      12      X      Region
+Venegas, Fernando       Monte Alto High School, Monte Alto  142    3      10      X      Region
+Colunga, Samantha       Monte Alto High School, Monte Alto  142    4      8       X      Alternate
+Li, Wenhan              IDEA Quest College Prep, Edinburg   135    5      6       X
+Estrada, Maria          IDEA College Prep, Pharr            128    6      4       X
+Paz, Jose               IDEA College Prep, Pharr            106    7
+Vasquez, Axel           IDEA College Prep, Pharr            103    8
+Garcia, Jaime           IDEA College Prep, McAllen          97     9
+Loredo, Katherine       Lyford H S, Lyford                  86     10
+Martinez, Jose A.       Monte Alto High School, Monte Alto  84     11
+Garibay, Isaac          IDEA College Prep, McAllen          79     12
+Diaz, Jocelyn C.        Monte Alto High School, Monte Alto  76     13
+Ruiz, Pamela            Frontier College Prep, Brownsville  73     14
+Cox, Leonard            Frontier College Prep, Brownsville  70     15
+Trevino, Paola          Santa Rosa HS, Santa Rosa           63     16
+Montes, Cassandra       IDEA College Prep, McAllen          60     17
+Gonzalez, Ana           Santa Rosa HS, Santa Rosa           55     18
+Aguirre, Isreal         IDEA College Prep, Edinburg         53     19
+Alaniz, Sydney          Santa Rosa HS, Santa Rosa           51     20
+Delgadillo, Vanessa     Frontier College Prep, Brownsville  45     21
+Aldape, Uriah           Santa Rosa HS, Santa Rosa           34     22
+Singsing, Matthew       Frontier College Prep, Brownsville  34     22
+Loredo, Araceli         Lyford H S, Lyford                  23     24
+Olvera, Kevin           IDEA Quest College Prep, Edinburg   13     25
+Garcia Rojas, Santiago  IDEA College Prep, McAllen          10     26
+Mendoza, Jorge          IDEA Quest College Prep, Edinburg   0      27
+Campos, Ferdinando      IDEA College Prep, Edinburg         0      27
+Campos, Juan            IDEA College Prep, Edinburg         0      27
+Martinez, Ana           IDEA College Prep, Edinburg         0      27
+Chavez, Kiara           IDEA Quest College Prep, Edinburg   -40    31
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+IDEA College Prep, Pharr            1     381    1      10      X      Region
+Monte Alto High School, Monte Alto  1     368    2      5       X      Alternate
+Lyford H S, Lyford                  1     258    3
+IDEA College Prep, McAllen          1     236    4
+Frontier College Prep, Brownsville  1     188    5
+Santa Rosa HS, Santa Rosa           1     169    6
+IDEA Quest College Prep, Edinburg   1     148    7
+IDEA College Prep, Edinburg         1     53     8
+
+TEAM RESULTS
+------------------------------
+
+

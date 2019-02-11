@@ -1,0 +1,45 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                               Score  Place  Points  Medal
+Li, Amy             Highland Park H S, Dallas            314    1      15      X
+Liera, Jose         Mount Pleasant H S, Mount Pleasant   312    2      12      X
+Luo, Richard        Highland Park H S, Dallas            308    3      10      X
+Zhang, Phyllis      Lubbock HS, Lubbock                  306    4      8       X
+Kolenbrander, Josh  Cedar Park HS, Cedar Park            300    5      6       X
+D'Amico Wong, Luca  Lubbock HS, Lubbock                  292    6      4       X
+Olivas, Derek       Austin HS, El Paso                   278    7
+Rodrigues, Darren   King HS, Corpus Christi              278    7
+Zhang, Jessica      Calhoun HS, Port Lavaca              262    9
+Wang, Stacy         Highland Park H S, Dallas            260    10
+Xie, Michael        Highland Park H S, Dallas            250    11
+Song, David         Lubbock HS, Lubbock                  248    12
+McCarty, Joseph     Lubbock HS, Lubbock                  246    13
+Li, Selena          A & M Cons HS, College Station       244    14
+Knobel, Ryan        Sharyland HS, Mission                240    15
+Gan, Eric           A & M Cons HS, College Station       220    16
+Hu, Amelia "Amy"    College Station HS, College Station  220    16
+Ohba, Yuka          Sharyland HS, Mission                220    16
+Saravanan, Shiva    A & M Cons HS, College Station       202    19
+Gonzalez, Gabriel   Austin HS, El Paso                   194    20
+Longoria, Jose      Austin HS, El Paso                   182    21
+Lee, Bryan          Sharyland Pioneer HS, Mission        178    22
+Ramirez, Damaris    Austin HS, El Paso                   178    22
+Wang, Bill          A & M Cons HS, College Station       176    24
+Ducharme, Dylan     Sharyland HS, Mission                170    25
+Ochoa, Pete         Sharyland HS, Mission                142    26
+
+TOP SCORERS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Highland Park H S, Dallas       1     882    1      10      X
+Lubbock HS, Lubbock             1     846    2      5       X      Alternate
+A & M Cons HS, College Station  1     666    3
+Austin HS, El Paso              1     654    4
+Sharyland HS, Mission           1     630    5
+
+TEAM RESULTS
+------------------------------
+
+

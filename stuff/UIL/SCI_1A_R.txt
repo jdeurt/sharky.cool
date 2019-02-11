@@ -1,0 +1,315 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                       Score  Place  Points  Medal  Advance
+McBee, Riley          Meadow HS, Meadow            72     1      15      X      State
+Thompson, Mac         Ropes HS, Ropesville         62     2      12      X      State
+Gibson, JJ            Guthrie HS, Guthrie          60     3      10      X      State
+Perez, Noah           Meadow HS, Meadow            56     4      8       X      Alternate
+Howell, Cade          Ropes HS, Ropesville         42     5      6       X
+Trajkovski, Kristina  Knox City HS, Knox City      40     6      4       X
+Jenkins, Eli          Guthrie HS, Guthrie          40     7
+Kirby, Clayton        Hartley H S, Hartley         38     8
+Faught, Conner        Wellman-Union HS, Wellman    38     8
+Lynn, Preston         Knox City HS, Knox City      32     10
+Arroyo, Angel         Booker HS, Booker            32     10
+Cleavinger, Clay      Whiteface HS, Whiteface      30     12
+Gibson, PL            Guthrie HS, Guthrie          30     12
+Moya, Ruben           Meadow HS, Meadow            28     14
+Hall, Chasee          Miami H S, Miami             22     15
+Williams, Blake       Lefors H S, Lefors           22     15
+Talsma, Peter         Kress H S, Kress             22     15
+Fry, Todd             Lefors H S, Lefors           16     18
+Ledesma, Dustin       Knox City HS, Knox City      16     18
+Lewis, Carson         Knox City HS, Knox City      14     20
+Valdes, Ismael        Valley HS, Turkey            12     21
+Ha, Jake              Chillicothe HS, Chillicothe  12     21
+Puente, Joshua        Whiteface HS, Whiteface      10     23
+Anderson, Drew        Ropes HS, Ropesville         10     23
+Ebenkamp, Jacob       Miami H S, Miami             8      25
+Booth, Isaac J        Hedley H S, Hedley           8      25
+Ballard, TJ           Lazbuddie HS, Lazbuddie      8      25
+Padron, Nicky         Whiteface HS, Whiteface      8      25
+Smithson, Whit        New Home HS, New Home        6      29
+Gilbert, Damyane      Lefors H S, Lefors           4      30
+Wales, Michael        Lazbuddie HS, Lazbuddie      0      31
+Schulte, Tate         Nazareth H S, Nazareth       0      31
+Crawford, Christina   Whiteface HS, Whiteface      0      31
+Leal, Trenton J       Hedley H S, Hedley           0      31
+Grimes, Jacob         Booker HS, Booker            -2     35
+Padgett, Shawn        Miami H S, Miami             -2     35
+Caswell, Brady        Meadow HS, Meadow            -2     35
+Luning, Sara          Ropes HS, Ropesville         -4     38
+Ruthven, Tara S.      Paducah HS, Paducah          -4     38
+Brandon, Brittney     Guthrie HS, Guthrie          -4     38
+Cogdell, Colton       Silverton HS, Silverton      -4     38
+McCarley, Mikel       Silverton HS, Silverton      -4     38
+Roberson, Seth        Miami H S, Miami             -6     43
+Burks, Paige          Springlake H S, Earth        -6     43
+Davis, Kyle           Patton Springs H S, Afton    -6     43
+Bailey, Jurnee        McLean H S, McLean           -8     46
+Martinez, Kylee       Hartley H S, Hartley         -8     46
+Perianez, Arturo      Hartley H S, Hartley         -8     46
+Castillo, Juan        Lefors H S, Lefors           -12    49
+Solano, Andres        Lazbuddie HS, Lazbuddie      -12    49
+Carter, Bradly        Silverton HS, Silverton      -12    49
+Birdsong, Garrett     Channing HS, Channing        -18    52
+Drum, Cade            Motley County H S, Matador   -22    53
+
+TOP SCORERS
+------------------------------
+Contestant      School            Results               Points
+Kirby, Clayton  Hartley H S       Top Scorer Biology    3
+McBee, Riley    Meadow HS         Alternate Biology     0
+Perez, Noah     Meadow HS         Top Scorer Chemistry  3
+McBee, Riley    Meadow HS         Alternate Chemistry   0
+Faught, Conner  Wellman-Union HS  Top Scorer Physics    3
+Thompson, Mac   Ropes HS          Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                   Team  Score  Place  Points  Medal  Advance
+Meadow HS, Meadow        1     156    1      10      X      State
+Guthrie HS, Guthrie      1     130    2      5       X      Alternate
+Ropes HS, Ropesville     1     114    3
+Knox City HS, Knox City  1     88     4
+Whiteface HS, Whiteface  1     48     5
+Lefors H S, Lefors       1     42     6
+Miami H S, Miami         1     28     7
+Hartley H S, Hartley     1     22     8
+Lazbuddie HS, Lazbuddie  1     -4     9
+Silverton HS, Silverton  1     -20    10
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant             School                                  Score  Place  Points  Medal  Advance
+Hennig, William        Paint Rock HS, Paint Rock               128    1      15      X      State
+Walker, Larson         Cross Plains H S, Cross Plains          128    2      12      X      State
+Jung, Anna             Klondike HS, Lamesa                     50     3      10      X      State
+Sanchez, Viviana       May HS, May                             48     4      8       X      Alternate
+Bien, Jacy             Cross Plains H S, Cross Plains          40     5      6       X
+Rosenblad, Caleb       Rotan HS, Rotan                         32     6      2       X
+Tubb, Karli            Garden City H S, Garden City            32     6      2       X
+Schoberg, Draven       Grady HS, Lenorah                       30     8
+Shepard, Jackilann     Cross Plains H S, Cross Plains          24     9
+Kleiber, Kenzie        Cross Plains H S, Cross Plains          24     9
+Bright, Landan         Rankin H S, Rankin                      22     11
+Bednar, Paige          Paint Rock HS, Paint Rock               20     12
+Bell, Koy              Rotan HS, Rotan                         18     13
+Marquez, Angel         Veribest HS, Veribest                   18     13
+Pittman, Paul          Fort Davis H S, Fort Davis              16     15
+Bushong, Alexi         Klondike HS, Lamesa                     16     15
+Anderle, Raychel       Rotan HS, Rotan                         16     15
+White, Elizabeth       May HS, May                             16     15
+Calfa, Tony            Santa Anna HS, Santa Anna               16     15
+Flenniken, Connor      May HS, May                             16     15
+Rodriguez, Fernanda    Big Bend HS, Terlingua                  14     21
+Valdez, Mykel          Comstock H S, Comstock                  14     21
+Roberts, Zane          Marathon HS, Marathon                   12     23
+Van Poppel, Cole       Rotan HS, Rotan                         12     23
+Dahl, Lily             Big Bend HS, Terlingua                  10     25
+Cooper, Price          Klondike HS, Lamesa                     10     25
+Brown, Linden          Richland Springs H S, Richland Springs  10     25
+Lewis, M'Kayla         Trent HS, Trent                         8      28
+Chapman, Samuel E      Water Valley HS, Water Valley           8      28
+Miyake, Ayaka          Balmorhea HS, Balmorhea                 8      28
+Treadwell, Tatum       Borden HS, Gail                         4      31
+Arhelger, Elisianna E  Water Valley HS, Water Valley           4      31
+Hoover, Kendra R       Water Valley HS, Water Valley           4      31
+Devine Ryan, Caelan    Big Bend HS, Terlingua                  2      34
+Recio, David           Paint Rock HS, Paint Rock               2      34
+Beck, Brianna          Klondike HS, Lamesa                     0      36
+Betts, A               Loraine H S, Loraine                    0      36
+Hargrove, Callie       Borden HS, Gail                         -2     38
+Edwards, Easton        Borden HS, Gail                         -2     38
+Kennedy, Tyler         Comstock H S, Comstock                  -4     40
+Gray, Junior           Borden HS, Gail                         -4     40
+Sotelo, Ian            Rule HS, Rule                           -4     40
+Armendarez, Larisa     Rankin H S, Rankin                      -6     43
+Burk, Blaine           Comstock H S, Comstock                  -8     44
+Bradley, Maximus R     Water Valley HS, Water Valley           -8     44
+Proffit, Katlynne      Comstock H S, Comstock                  -12    46
+Cox, Marshall          Grady HS, Lenorah                       -14    47
+
+TOP SCORERS
+------------------------------
+Contestant       School            Results               Points
+Hennig, William  Paint Rock HS     Top Scorer Biology    3
+Tubb, Karli      Garden City H S   Alternate Biology     0
+Hennig, William  Paint Rock HS     Top Scorer Chemistry  3
+Walker, Larson   Cross Plains H S  Alternate Chemistry   0
+Walker, Larson   Cross Plains H S  Top Scorer Physics    3
+Bright, Landan   Rankin H S        Alternate Physics     0
+Jung, Anna       Klondike HS       Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Cross Plains H S, Cross Plains  1     192    1      10      X      State
+Paint Rock HS, Paint Rock       1     150    2      5       X      Alternate
+May HS, May                     1     80     3
+Klondike HS, Lamesa             1     76     4
+Rotan HS, Rotan                 1     66     5
+Big Bend HS, Terlingua          1     26     6
+Water Valley HS, Water Valley   1     16     7
+Comstock H S, Comstock          1     2      8
+Borden HS, Gail                 1     0      9
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal  Advance
+South, Turner J     Sulphur Bluff HS, Sulphur Bluff         34     1      15      X      State
+Jones, Jason        Fruitvale HS, Fruitvale                 32     2      12      X      State
+Miles, Haylee       Woodson HS, Woodson                     30     3      9       X      State
+Steger, Jenna       Priddy HS, Priddy                       30     3      9       X      State
+Zhu, Ricky          UT Tyler Innovation Academy, Palestine  24     5      6       X      Alternate
+Lester, Hayden      Woodson HS, Woodson                     22     6      1       X
+Thompson, Ashtyn    Blum HS, Blum                           22     6      1       X
+Burkett, Camdyne    Blum HS, Blum                           22     6      1       X
+Jordan, Maryah      Fruitvale HS, Fruitvale                 22     6      1       X
+Glaze, Paityn       Tioga HS, Tioga                         16     10
+Polk, Austin        Graford H S, Graford                    14     11
+Carter, Blake       UT Tyler Innovation Academy, Tyler      14     11
+Goehmann, Dominic   Priddy HS, Priddy                       12     13
+Johnson, Micah S    Sulphur Bluff HS, Sulphur Bluff         12     13
+Garner, Keith       Fruitvale HS, Fruitvale                 12     13
+Adams, Kennie       UT Tyler Innovation Academy, Tyler      12     13
+Wood, Anne Marie    Huckabay HS, Stephenville               10     17
+Johnson, Jerry      Cranfills Gap H S, Cranfills Gap        10     17
+Clark, Karsn        Blum HS, Blum                           10     17
+Mott, Clay          Tioga HS, Tioga                         10     17
+Sanders, Kylie      Blum HS, Blum                           6      21
+Rhys, Gaven         Slidell HS, Slidell                     6      21
+South, Trayton C    Sulphur Bluff HS, Sulphur Bluff         6      21
+Narayanan, Tejas    UT Tyler Innovation Academy, Tyler      6      21
+Cantu, Jazmin       UT Tyler Innovation Academy, Tyler      6      21
+Hale, Hanna         Huckabay HS, Stephenville               4      26
+Rios, Orlando       Gustine HS, Gustine                     4      26
+Nicholson, Jacie    Fruitvale HS, Fruitvale                 2      28
+McCasland, Ben      Slidell HS, Slidell                     0      29
+Guthrie, Hoss       Lometa H S, Lometa                      -2     30
+Moody, Nicholas     Zephyr HS, Zephyr                       -2     30
+David, Owen         Saint Jo HS, Saint Jo                   -2     30
+Hopkins, Noah       Strawn H S, Strawn                      -4     33
+Champagne, Ashton   Slidell HS, Slidell                     -4     33
+Sharp, Madalynn     Midway HS, Henrietta                    -4     33
+Carpenter, Travis   Woodson HS, Woodson                     -4     33
+Martinez, Lleysi    Tioga HS, Tioga                         -6     37
+Billings, Meredith  Tioga HS, Tioga                         -6     37
+Meneses, Sophia     Huckabay HS, Stephenville               -8     39
+Watts, Jacob J      Sulphur Bluff HS, Sulphur Bluff         -8     39
+Knowles, Debra      Paint Creek H S, Haskell                -8     39
+Hodges, Trixie      Priddy HS, Priddy                       -10    42
+Villarreal, Noe     Slidell HS, Slidell                     -10    42
+Pate, Halie         Woodson HS, Woodson                     -14    44
+Armstong, Ethan     Woodson HS, Woodson                     -16    45
+Ruiz, Xiomara       Tioga HS, Tioga                         -16    45
+Schimmel, Louis     Priddy HS, Priddy                       -20    47
+Carr, Gracie        Newcastle H S, Newcastle                -24    48
+Metcalf, Megan      Forestburg HS, Forestburg               -24    48
+Richardson, Chris   Iredell H S, Iredell                    -40    50
+
+TOP SCORERS
+------------------------------
+Contestant       School                       Results               Points
+Miles, Haylee    Woodson HS                   Top Scorer Biology    1.50
+Jones, Jason     Fruitvale HS                 Top Scorer Biology    1.50
+Meneses, Sophia  Huckabay HS                  Top Scorer Chemistry  1
+South, Turner J  Sulphur Bluff HS             Top Scorer Chemistry  1
+Zhu, Ricky       UT Tyler Innovation Academy  Top Scorer Chemistry  1
+Polk, Austin     Graford H S                  Top Scorer Physics    3
+Moody, Nicholas  Zephyr HS                    Alternate Physics     0
+Clark, Karsn     Blum HS                      Alternate Physics     0
+Mott, Clay       Tioga HS                     Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Fruitvale HS, Fruitvale             1     66     1      10      X      State
+Blum HS, Blum                       1     54     2      5       X      Alternate
+Sulphur Bluff HS, Sulphur Bluff     1     52     3
+Woodson HS, Woodson                 1     48     4
+Priddy HS, Priddy                   1     32     5
+UT Tyler Innovation Academy, Tyler  1     32     5
+Tioga HS, Tioga                     1     20     7
+Huckabay HS, Stephenville           1     6      8
+Slidell HS, Slidell                 1     2      9
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                        Score  Place  Points  Medal  Advance
+Cox, Ryan           Knippa H S, Knippa            50     1      15      X      State
+Patton, Ian         Moulton HS, Moulton           44     2      12      X      State
+Dong, Jessica       Knippa H S, Knippa            30     3      10      X      State
+Lozano, Ezequiel    Coolidge HS, Coolidge         26     4      8       X      Alternate
+Sauers, Delaney     Avalon HS, Avalon             22     5      6       X
+Moore, Meredith     Abbott HS, Abbott             18     6      4       X
+Atkinson, Erin      McMullen County HS, Tilden    18     7
+Ozymy, Ryan         Avalon HS, Avalon             16     8
+Ravara, Maria       McMullen County HS, Tilden    16     8
+Hammons, Cade       Kennard H S, Kennard          14     10
+Lieby, Casey        Spurger HS, Spurger           14     10
+Acker, Brett        McMullen County HS, Tilden    14     10
+Selby, Amanda       McMullen County HS, Tilden    14     10
+Martin, Thomas      Milford H S, Milford          12     14
+Cruz, Omar          McDade HS, McDade             12     14
+Darilek, Kamryn     Moulton HS, Moulton           10     16
+Weaver, Evelyn      Bartlett HS, Bartlett         8      17
+Schultz, Brayden    Oglesby H S, Oglesby          8      17
+Kriska, Landon      Avalon HS, Avalon             8      17
+Jackson, Nate       High Island H S, High Island  8      17
+Gass, Coby          Knippa H S, Knippa            8      17
+Nors, Nathan        Abbott HS, Abbott             6      22
+Pustejovsky, Trena  Abbott HS, Abbott             6      22
+Goins, Levi         Chester HS, Chester           4      24
+Hanson, Lily        Kennard H S, Kennard          4      24
+Ramirez, Rebekah    Knippa H S, Knippa            4      24
+Beam, Ryla          Bartlett HS, Bartlett         0      27
+Stalker, Sofi       Abbott HS, Abbott             0      27
+Cartagena, Raul     Penelope H S, Penelope        -2     29
+Hanson, Andrew      Kennard H S, Kennard          -2     29
+Parrish, Hunter     Kennard H S, Kennard          -2     29
+Zuniga, Luis        Moulton HS, Moulton           -2     29
+Barrow, Justin      High Island H S, High Island  -4     33
+White, Amanda D.    Nueces Canyon H S, Barksdale  -4     33
+Bell, Tamara        Milford H S, Milford          -4     33
+Campbell, Kayla     Avalon HS, Avalon             -6     36
+Hopgood, Clayton    Avalon HS, Avalon             -6     36
+Watkins, Rebekah    Oglesby H S, Oglesby          -8     38
+Langston, Caden     Slocum H S, Elkhart           -8     38
+Dowdy, Joshua       Spurger HS, Spurger           -8     38
+Kalisek, Hannah     Moulton HS, Moulton           -8     38
+Garcia, Eric        Gholson HS, Waco              -8     38
+Bryan, Jaden        High Island H S, High Island  -12    43
+Buchhorn, Myles     Bartlett HS, Bartlett         -26    44
+Gomez, Rebecca      Oglesby H S, Oglesby          -26    44
+
+TOP SCORERS
+------------------------------
+Contestant        School       Results               Points
+Lozano, Ezequiel  Coolidge HS  Top Scorer Biology    3
+Patton, Ian       Moulton HS   Alternate Biology     0
+Dowdy, Joshua     Spurger HS   Top Scorer Chemistry  3
+Patton, Ian       Moulton HS   Alternate Chemistry   0
+Cox, Ryan         Knippa H S   Top Scorer Physics    3
+Martin, Thomas    Milford H S  Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                        Team  Score  Place  Points  Medal  Advance
+Knippa H S, Knippa            1     88     1      10      X      State
+Moulton HS, Moulton           1     52     2      5       X      Alternate
+McMullen County HS, Tilden    1     48     3
+Avalon HS, Avalon             1     46     4
+Abbott HS, Abbott             1     30     5
+Kennard H S, Kennard          1     16     6
+High Island H S, High Island  1     -8     7
+Bartlett HS, Bartlett         1     -18    8
+

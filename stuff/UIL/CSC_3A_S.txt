@@ -1,0 +1,42 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                    Score  Place  Points  Medal
+Shipp, Zachary        Chapel Hill HS, Mt Pleasant               180    1      15      X
+Hill, Nate            Ponder HS, Ponder                         160    2      12      X
+Chapman, Cole         Wall HS, Wall                             154    3      10      X
+Harrell, Ben          Harmony School of Innovation, Fort Worth  140    4      8       X
+Hudson, Chris         Wall HS, Wall                             126    5      6       X
+Moeller, Emily        Wall HS, Wall                             120    6      4       X
+Swiger, Benjamin      Chapel Hill HS, Mt Pleasant               120    7
+Chapman, Quinton      Wall HS, Wall                             108    8
+Perry, Riley          Chapel Hill HS, Mt Pleasant               104    9
+Mistry, Divya         Chapel Hill HS, Mt Pleasant               92     10
+Perera, Anton         BASIS Shavano HS, San Antonio             92     10
+Fruth, Brenden        Ponder HS, Ponder                         88     12
+VanderWal, Tim        Ponder HS, Ponder                         72     13
+Terrell, Jacob        Elkhart H S, Elkhart                      68     14
+Pena, Joe             Palacios H S, Palacios                    64     15
+Glenn, Chaise         Ponder HS, Ponder                         64     15
+Struck, David, R      Blanco HS, Blanco                         62     17
+Engel, Jackson        Palacios H S, Palacios                    60     18
+Bambeck, Trina        Elkhart H S, Elkhart                      58     19
+Stuhrenberg, Clayton  Palacios H S, Palacios                    54     20
+Castanon, Daniel      Palacios H S, Palacios                    36     21
+Andrews, William      Elkhart H S, Elkhart                      34     22
+Franks, Eric          Elkhart H S, Elkhart                      32     23
+
+TOP SCORERS
+------------------------------
+School                       Team  Score  Place  Points  Medal  Advance
+Chapel Hill HS, Mt Pleasant  1     879    1      20      X
+Wall HS, Wall                1     815    2      16      X      Alternate
+Ponder HS, Ponder            1     800    3      12      X
+Palacios H S, Palacios       1     418    4
+Elkhart H S, Elkhart         1     340    5
+
+TEAM RESULTS
+------------------------------
+
+

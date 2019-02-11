@@ -1,0 +1,57 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                                  Score  Place  Points  Medal
+Walker, Larson      Cross Plains H S, Cross Plains          162    1      15      X
+Hennig, William     Paint Rock HS, Paint Rock               96     2      12      X
+Dong, Jessica       Knippa H S, Knippa                      60     3      10      X
+Perez, Noah         Meadow HS, Meadow                       44     4      8       X
+Zhu, Ricky          UT Tyler Innovation Academy, Palestine  42     5      6       X
+Bien, Jacy          Cross Plains H S, Cross Plains          42     6      4       X
+Jung, Anna          Klondike HS, Lamesa                     38     7
+Faught, Conner      Wellman-Union HS, Wellman               36     8
+Garner, Keith       Fruitvale HS, Fruitvale                 32     9
+Nicholson, Jacie    Fruitvale HS, Fruitvale                 32     9
+Cox, Ryan           Knippa H S, Knippa                      28     11
+Moya, Ruben         Meadow HS, Meadow                       26     12
+Kirby, Clayton      Hartley H S, Hartley                    24     13
+Shepard, Jackilann  Cross Plains H S, Cross Plains          22     14
+Steger, Jenna       Priddy HS, Priddy                       22     14
+Patton, Ian         Moulton HS, Moulton                     22     14
+Gass, Coby          Knippa H S, Knippa                      22     14
+Polk, Austin        Graford H S, Graford                    22     14
+McBee, Riley        Meadow HS, Meadow                       22     14
+Caswell, Brady      Meadow HS, Meadow                       22     14
+Lozano, Ezequiel    Coolidge HS, Coolidge                   16     21
+Recio, David        Paint Rock HS, Paint Rock               16     21
+Ramirez, Rebekah    Knippa H S, Knippa                      12     23
+Miles, Haylee       Woodson HS, Woodson                     10     24
+Dowdy, Joshua       Spurger HS, Spurger                     10     24
+Gibson, JJ          Guthrie HS, Guthrie                     10     24
+Bednar, Paige       Paint Rock HS, Paint Rock               4      27
+Kleiber, Kenzie     Cross Plains H S, Cross Plains          0      28
+Jones, Jason        Fruitvale HS, Fruitvale                 0      28
+Jordan, Maryah      Fruitvale HS, Fruitvale                 -4     30
+South, Turner J     Sulphur Bluff HS, Sulphur Bluff         -6     31
+Thompson, Mac       Ropes HS, Ropesville                    -8     32
+
+TOP SCORERS
+------------------------------
+Contestant       School                       Results               Points
+Hennig, William  Paint Rock HS                Top Scorer Biology    3
+Walker, Larson   Cross Plains H S             Alternate Biology     0
+Walker, Larson   Cross Plains H S             Top Scorer Chemistry  3
+Zhu, Ricky       UT Tyler Innovation Academy  Alternate Chemistry   0
+Walker, Larson   Cross Plains H S             Top Scorer Physics    3
+Faught, Conner   Wellman-Union HS             Alternate Physics     0
+
+TEAM RESULTS
+------------------------------
+School                          Team  Score  Place  Points  Medal  Advance
+Cross Plains H S, Cross Plains  1     226    1      10      X
+Paint Rock HS, Paint Rock       1     116    2      5       X      Alternate
+Knippa H S, Knippa              1     110    3
+Meadow HS, Meadow               1     92     4
+Fruitvale HS, Fruitvale         1     64     5
+

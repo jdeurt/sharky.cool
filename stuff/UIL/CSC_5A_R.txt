@@ -1,0 +1,259 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant               School                                 Score  Place  Points  Medal  Advance
+Yeh, Shao-Lon            Lubbock HS, Lubbock                    216    1      13.50   X      State
+Taylor, Robert           Richland H S, N Richland Hills         216    1      13.50   X      State
+Bown, Brendon            Denton H S, Denton                     202    3      10      X      State
+Kamath, Rohan E.         Chapin HS, El Paso                     200    4      7       X      Alternate
+Kluber, Grant            Grapevine H S, Grapevine               200    4      7       X      Alternate
+Zhang, Phyllis           Lubbock HS, Lubbock                    196    6      4       X
+Brue, Jacob              Randall H S, Amarillo                  192    7
+Berreles, Daniel         Denton H S, Denton                     184    8
+Hofmann-Molovic, Landon  Grapevine H S, Grapevine               184    8
+Singewald, Nathaniel     Boswell HS, Fort Worth                 178    10
+Hofmann, Jonathan        Randall H S, Amarillo                  176    11
+Watts, Jake              Lubbock HS, Lubbock                    168    12
+Eason, Andrew            Canyon HS, Canyon                      150    13
+DeSantis, Carlo C.       Chapin HS, El Paso                     148    14
+Sheffield, Matthew       Arlington Heights HS, Fort Worth       146    15
+Shin, John               Lubbock HS, Lubbock                    136    16
+Cecil, Chesley           Arlington Heights HS, Fort Worth       134    17
+Dalrymple, Aiden         Braswell HS (Denton), Little Elm       132    18
+Hinojosa, Odaliz         Arlington Heights HS, Fort Worth       128    19
+Garcia, Angel            Bel Air HS, El Paso                    126    20
+Knight, Devon            Northwest Eaton HS, Fort Worth         124    21
+Carillo, Jose A.         Chapin HS, El Paso                     122    22
+Armstrong, Nathan        Northwest Eaton HS, Fort Worth         122    22
+Dewey, James             Randall H S, Amarillo                  116    24
+Giah, Emmanuel           Denton H S, Denton                     112    25
+Stonebreaker, Christian  Boswell HS, Fort Worth                 110    26
+Valdez, Hunter           Boswell HS, Fort Worth                 104    27
+Le, Henry                Richland H S, N Richland Hills         102    28
+West, Hope               Arlington Heights HS, Fort Worth       88     29
+Genna, Dominic           Grapevine H S, Grapevine               86     30
+Hayek, Marcel            Richland H S, N Richland Hills         84     31
+Curtin, Matthew          Boswell HS, Fort Worth                 80     32
+Phelan, Haley            Randall H S, Amarillo                  72     33
+Reynolds, Bradley        Richland H S, N Richland Hills         66     34
+Barker, Carlos E.        Chapin HS, El Paso                     50     35
+Garcia, Isaias           Canutillo HS, El Paso                  44     36
+Perez, Fernando          Canutillo HS, El Paso                  34     37
+Tovar, Carlos            Canutillo HS, El Paso                  8      38
+Lawson, Chris            Northwest Early College HS, Canutillo  0      39
+Abdelgawad, Aya          Northwest Early College HS, Canutillo  0      39
+Aguilar, Yvette          Northwest Early College HS, Canutillo  0      39
+Karl, Emily              Northwest Early College HS, Canutillo  0      39
+Aryal, Anubhav           Denton H S, Denton                     0      39
+
+TOP SCORERS
+------------------------------
+School                                 Team  Score  Place  Points  Medal  Advance
+Lubbock HS, Lubbock                    1     995    1      20      X      State
+Denton H S, Denton                     1     853    2      16      X      Alternate
+Randall H S, Amarillo                  1     839    3      12      X
+Richland H S, N Richland Hills         1     817    4
+Boswell HS, Fort Worth                 1     802    5
+Grapevine H S, Grapevine               1     755    6
+Arlington Heights HS, Fort Worth       1     708    7
+Chapin HS, El Paso                     1     695    8
+Northwest Early College HS, Canutillo  1     0      9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 2)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant          School                               Score  Place  Points  Medal  Advance
+Chang, Andrew       Lovejoy HS, Lucas                    232    1      15      X      State
+Bell, Samuel I      Lovejoy HS, Lucas                    224    2      12      X      State
+Peterson, Emily     Centennial HS, Frisco                216    3      10      X      State
+Chen, Brice         Heritage HS, Frisco                  208    4      8       X      Alternate
+Wen, Mark           Lovejoy HS, Lucas                    204    5      6       X
+Wyatt, Ben          Liberty HS, Frisco                   202    6      4       X
+Su, Sam             Liberty HS, Frisco                   200    7
+Garg, Rhythm        Centennial HS, Frisco                200    7
+Davenport, Logan    Prosper HS, Prosper                  194    9
+Montes, Abraham     Crowley H S, Crowley                 192    10
+Fisher, Brayden     Sulphur Springs HS, Sulphur Springs  192    10
+Rissman, Josh       Sulphur Springs HS, Sulphur Springs  190    12
+Sorstokke, Kyle     Lovejoy HS, Lucas                    180    13
+Brown, Jason        Prosper HS, Prosper                  176    14
+Wang, Rosie         Prosper HS, Prosper                  176    14
+Corbeill, Alex      Prosper HS, Prosper                  170    16
+Blount, Matthew     Seguin HS, Arlington                 168    17
+Soles, Dakota       Sulphur Springs HS, Sulphur Springs  168    17
+Kelly, Devon        Centennial HS, Frisco                152    19
+Orozco, Kevin       Sulphur Springs HS, Sulphur Springs  148    20
+Rodriguez, Alyssa   Joshua HS, Joshua                    138    21
+Siddiqui, Arham     Centennial HS, Frisco                138    21
+Sood, Manav         Liberty HS, Frisco                   138    21
+Powell, Laif        Joshua HS, Joshua                    132    24
+Fountaine, Michael  Joshua HS, Joshua                    128    25
+Robbins, Brant      Joshua HS, Joshua                    128    25
+Muwaquet, Nour      Waxahachie HS, Waxahachie            128    25
+Kim, Grace          Creekview HS, Carrollton             128    25
+Perumalla, Rohith   Liberty HS, Frisco                   96     29
+Sample, Riley       Waxahachie HS, Waxahachie            76     30
+Trevino, Caleb E.   Adams HS, Dallas                     62     31
+Johnson, Max        Waxahachie HS, Waxahachie            36     32
+Beaver, Juan C.     Adams HS, Dallas                     26     33
+Holder, Chris       Waxahachie HS, Waxahachie            0      34
+Molina, Manuel      Molina H S, Dallas                   0      34
+Patino, Edgar       Adamson HS, Dallas                   0      34
+Leal, Oscar         Adamson HS, Dallas                   0      34
+Hernandez, Bryan    Adamson HS, Dallas                   -10    38
+Romo, Jorge         Adamson HS, Dallas                   -14    39
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Lovejoy HS, Lucas                    1     1305   1      20      X      State
+Centennial HS, Frisco                1     1103   2      16      X      Alternate
+Liberty HS, Frisco                   1     1010   3      12      X
+Sulphur Springs HS, Sulphur Springs  1     970    4
+Prosper HS, Prosper                  1     891    5
+Joshua HS, Joshua                    1     698    6
+Waxahachie HS, Waxahachie            1     530    7
+Adamson HS, Dallas                   1     -10    8
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 3)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                               Score  Place  Points  Medal  Advance
+Johnson, Benjamin     Magnolia HS, Magnolia                208    1      15      X      State
+Russell, Tyler        Lindale H S, Lindale                 204    2      11      X      State
+Matsuda, Reo          College Station HS, College Station  204    2      11      X      State
+Alford, Ryan          Magnolia HS, Magnolia                200    4      7       X      Alternate
+He, Yi                Wisdom H S, Houston                  200    4      7       X      Alternate
+Kolenbrander, Josh    Cedar Park HS, Cedar Park            186    6      2       X
+Sass, Jacob           Magnolia HS, Magnolia                186    6      2       X
+Ford, Terrell         Magnolia HS, Magnolia                184    8
+Yu, Kevin             Elkins H S, Missouri City            184    8
+Mahdavi, Cyrus        Whitehouse HS, Whitehouse            178    10
+Rasmussen, Melissa    A & M Cons HS, College Station       168    11
+Saravanan, Rithvik    Cedar Park HS, Cedar Park            168    11
+Eng, William          Tomball Memorial HS, Tomball         164    13
+Studwell, Alex        Tomball Memorial HS, Tomball         156    14
+Linscott, Wade        Whitehouse HS, Whitehouse            148    15
+Meador, Tyler         Lindale H S, Lindale                 144    16
+Brackin, Thomas       Tomball Memorial HS, Tomball         144    16
+Thomson, Illham       College Station HS, College Station  142    18
+Ingarfield, Will      Cedar Park HS, Cedar Park            142    18
+Song, Ethan           Wisdom H S, Houston                  136    20
+Carbo, Logan          College Station HS, College Station  134    21
+Hood, Ronald          Elkins H S, Missouri City            134    21
+Cox, Caleb            Whitehouse HS, Whitehouse            130    23
+Le, Vince             Cedar Park HS, Cedar Park            126    24
+DeAlmeida, Brandon    Porter HS, Porter                    122    25
+Kota, Shashank        Ball HS, Galveston                   120    26
+Situ, Jet             Elkins H S, Missouri City            116    27
+Zute, Alisha          Elkins H S, Missouri City            110    28
+Le, Michael           Whitehouse HS, Whitehouse            104    29
+Ramirez, Samuel       Tomball Memorial HS, Tomball         102    30
+Duong, Lily           Nederland H S, Nederland             90     31
+Olowomeye, Olumayowa  College Station HS, College Station  90     31
+Knapp, Rachel         Crosby HS, Crosby                    88     33
+Lin Tan, Wei Jiang    Wisdom H S, Houston                  68     34
+Taneja, Muskan        Wisdom H S, Houston                  60     35
+Martin, Blake         Dayton H S, Dayton                   56     36
+Atteberry, Jarrett    Nederland H S, Nederland             56     36
+Guinn, Derek          Dayton H S, Dayton                   46     38
+De La Cruz, Luke      Nederland H S, Nederland             36     39
+Gori, Noah            Barbers Hill HS, Mont Belvieu        32     40
+Dean, Bailey          Dayton H S, Dayton                   12     41
+Heng, Branden         Nederland H S, Nederland             10     42
+Xiong, Kaven          Waller HS, Waller                    0      43
+
+TOP SCORERS
+------------------------------
+School                               Team  Score  Place  Points  Medal  Advance
+Magnolia HS, Magnolia                1     1189   1      20      X      State
+Cedar Park HS, Cedar Park            1     966    2      16      X      Alternate
+Tomball Memorial HS, Tomball         1     874    3      12      X
+College Station HS, College Station  1     835    4
+Elkins H S, Missouri City            1     779    5
+Whitehouse HS, Whitehouse            1     746    6
+Wisdom H S, Houston                  1     699    7
+Nederland H S, Nederland             1     302    8
+Dayton H S, Dayton                   1     234    9
+
+TEAM RESULTS
+------------------------------
+
+
+(region num: 4)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant            School                                  Score  Place  Points  Medal  Advance
+Coleman, Russell      Johnson (LBJ) HS, Austin                216    1      15      X      State
+Fisher, Will          Johnson (LBJ) HS, Austin                200    2      12      X      State
+Gahagan, Ryan         Dripping Springs H S, Dripping Springs  194    3      10      X      State
+Tian, Samuel          Johnson (LBJ) HS, Austin                178    4      7       X      Alternate
+Kuffel, Ian           Flour Bluff H S, Corpus Christi         178    4      7       X      Alternate
+Liu, Alexander        Calhoun HS, Port Lavaca                 172    6      4       X
+Wyatt, Morgan         Seguin H S, Seguin                      168    7
+Huang, Jesse          Flour Bluff H S, Corpus Christi         166    8
+Hernandez, Armando    Nixon HS, Laredo                        166    8
+Burns, Braydon        Flour Bluff H S, Corpus Christi         154    10
+Iglesias, Michael     Veterans Memorial H S, Mission          154    10
+Colburn, Brian        Calallen HS, Corpus Christi             152    12
+Garcia, Gerardo       Roma HS, Roma                           152    12
+Williams, Keon        Dripping Springs H S, Dripping Springs  142    14
+Oliphant, Jason       Dripping Springs H S, Dripping Springs  140    15
+Sanders, James        Champion HS, Boerne                     138    16
+Slaton, Will          Johnson (LBJ) HS, Austin                136    17
+Barrera, Rene         Roma HS, Roma                           130    18
+Cura-Portillo, Asher  Memorial H S, San Antonio               128    19
+Rolea, Silvestre      Nixon HS, Laredo                        124    20
+Buchanon, Jack        Victoria West HS, Victoria              122    21
+Castillo, Saul        Nixon HS, Laredo                        116    22
+Showacre, Jarod       Dripping Springs H S, Dripping Springs  98     23
+Sutton, Cameron       Foster H S, Richmond                    90     24
+MIRANDA, CARLOS       Winn HS, Eagle Pass                     74     25
+Olivarez, Rigoberto   Roma HS, Roma                           66     26
+Aleman, Amy           Memorial H S, San Antonio               62     27
+URIEGAS, MATTHEW      Winn HS, Eagle Pass                     62     27
+Wang, Katherine       Calhoun HS, Port Lavaca                 60     29
+Zhang, Jessica        Calhoun HS, Port Lavaca                 52     30
+Ponce, Leonardo       Roma HS, Roma                           52     30
+Bravo, Frank          Memorial H S, San Antonio               44     32
+TORRES, JOSE          Winn HS, Eagle Pass                     44     32
+Andrews, Jonathan     Nixon HS, Laredo                        44     32
+Lara, Veronica        Mercedes HS, Mercedes                   16     35
+Solano, Pablo         Mercedes HS, Mercedes                   14     36
+Beaver, Daniel        Calhoun HS, Port Lavaca                 12     37
+Dungan, Rusty         Donna North HS, Donna                   8      38
+Silva, Anthony        Mercedes HS, Mercedes                   6      39
+Ramirez, Elizabeth    Mercedes HS, Mercedes                   4      40
+JIMENEZ, ALEJANDRO    Winn HS, Eagle Pass                     -2     41
+Yznaga, Jose          Memorial H S, San Antonio               -6     42
+Barron, Lilliana E    Harlandale H S, San Antonio             -8     43
+
+TOP SCORERS
+------------------------------
+School                                  Team  Score  Place  Points  Medal  Advance
+Johnson (LBJ) HS, Austin                1     1124   1      20      X      State
+Dripping Springs H S, Dripping Springs  1     891    2      16      X      Alternate
+Flour Bluff H S, Corpus Christi         1     783    3      12      X
+Nixon HS, Laredo                        1     646    4
+Roma HS, Roma                           1     643    5
+Calhoun HS, Port Lavaca                 1     524    6
+Winn HS, Eagle Pass                     1     500    7
+Memorial H S, San Antonio               1     459    8
+Mercedes HS, Mercedes                   1     96     9
+
+TEAM RESULTS
+------------------------------
+
+

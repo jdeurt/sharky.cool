@@ -1,0 +1,43 @@
+(region num: 1)
+
+INDIVIDUAL RESULTS
+------------------------------
+Contestant                School                              Score  Place  Points  Medal
+Davenport, John           Prosper HS, Prosper                 292    1      15      X
+Carrillo, Gabriel         Canutillo HS, El Paso               273    2      12      X
+Zhang, Phyllis            Lubbock HS, Lubbock                 264    3      10      X
+Corona, Ricardo           Canutillo HS, El Paso               259    4      8       X
+Song, Ethan               Wisdom H S, Houston                 257    5      6       X
+Lara, Brian               Canutillo HS, El Paso               245    6      4       X
+Saiboonchan, Pornphiphat  Mount Pleasant H S, Mount Pleasant  243    7
+Tovar, Carlos             Canutillo HS, El Paso               238    8
+Liera, Jose               Mount Pleasant H S, Mount Pleasant  236    9
+McCarty, Joseph           Lubbock HS, Lubbock                 232    10
+Guerrero, Mauricio        Wisdom H S, Houston                 231    11
+Ni, Aaron                 Wisdom H S, Houston                 231    11
+Garza, Joel               Edcouch-Elsa H S, Edcouch           224    13
+Watts, Jake               Lubbock HS, Lubbock                 223    14
+Barboza, David            Mount Pleasant H S, Mount Pleasant  217    15
+Lee, Bryan                Sharyland Pioneer HS, Mission       217    15
+Real, Gerard              Tivy HS, Kerrville                  217    15
+Watson, Kirk              Tivy HS, Kerrville                  217    15
+Luo, Richard              Highland Park H S, Dallas           204    19
+Shahid, Sanum             Mount Pleasant H S, Mount Pleasant  189    20
+Li, Zhengjun              Tivy HS, Kerrville                  189    20
+Watson, Cullen            Tivy HS, Kerrville                  187    22
+Aimihoue, Bai             Wisdom H S, Houston                 161    23
+Yeh, Shao-Min             Lubbock HS, Lubbock                 132    24
+
+TOP SCORERS
+------------------------------
+School                              Team  Score  Place  Points  Medal  Advance
+Canutillo HS, El Paso               1     777    1      10      X
+Wisdom H S, Houston                 1     719    2      5       X      Alternate
+Lubbock HS, Lubbock                 1     719    3
+Mount Pleasant H S, Mount Pleasant  1     696    4
+Tivy HS, Kerrville                  1     623    5
+
+TEAM RESULTS
+------------------------------
+
+
