@@ -17,15 +17,15 @@ app.use(bodyParser.urlencoded({
     extended: false
 }));
 
-app.all(/\/\./, (req, res) => {
-    res.status(401).send("No.");
-});
-
 // Make sure to handle directories.pug
 app.get("/views/directory.pug", (req, res) => {
     res.redirect(301, "/");
 });
 
+// File rules
+app.all(/\/\./, (req, res) => {
+    res.status(401).send("No.");
+});
 app.get(/[\w-_]+\.(py|bat)$/, (req, res, next) => {
     res.header("Content-Type", "text");
 
@@ -42,6 +42,19 @@ app.get(/[\w-_]+\.md$/, (req, res) => {
 });
 app.get(/_RAW$/, (req, res) => {
     res.sendFile(__dirname + req.originalUrl.replace(/_RAW$/, ""));
+});
+
+app.get(/\/_$/, (req, res) => {
+    const relativePath = req.originalUrl.replace(/\/_$/, "");
+    const path = __dirname + relativePath;
+
+    if (fs.existsSync(`${path}/index.html`)) {
+        res.redirect(301, `${relativePath}/index.html`);
+    } else if (fs.existsSync(`${path}/index.pug`)) {
+        res.redirect(301, `${relativePath}/index.pug`);
+    } else {
+        res.redirect(301, relativePath);
+    }
 });
 
 app.use(express.static(__dirname, {
