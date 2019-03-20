@@ -17,6 +17,11 @@ app.use(bodyParser.urlencoded({
     extended: false
 }));
 
+app.use((req, res, next) => {
+    req.url = req.originalUrl.replace(/^\/s\b/, "/stuff");
+    next();
+});
+
 // Make sure to handle directories.pug
 app.get("/views/directory.pug", (req, res) => {
     res.redirect(301, "/");
@@ -32,26 +37,26 @@ app.get(/[\w-_]+\.(py|bat)$/, (req, res, next) => {
     next();
 });
 app.get(/[\w-_]+\.pug$/, (req, res) => {
-    res.render("." + req.originalUrl);
+    res.render("." + req.url);
 });
 app.get(/[\w-_]+\.md$/, (req, res) => {
-    const path = __dirname + req.originalUrl;
+    const path = __dirname + req.url;
     const file = fs.readFileSync(path, "utf8");
 
     res.send(marked(file));
 });
 app.get(/_RAW$/, (req, res) => {
-    res.sendFile(__dirname + req.originalUrl.replace(/_RAW$/, ""));
+    res.sendFile(__dirname + req.url.replace(/_RAW$/, ""));
 });
 
 app.get(/\/_$/, (req, res) => {
-    const relativePath = req.originalUrl.replace(/\/_$/, "");
+    const relativePath = req.url.replace(/\/_$/, "");
     const path = __dirname + relativePath;
 
     if (fs.existsSync(`${path}/index.html`)) {
-        res.redirect(301, `${relativePath}/index.html`);
+        res.sendFile(`${path}/index.html`);
     } else if (fs.existsSync(`${path}/index.pug`)) {
-        res.redirect(301, `${relativePath}/index.pug`);
+        res.sendFile(`${path}/index.pug`);
     } else {
         res.redirect(301, relativePath);
     }
@@ -71,7 +76,7 @@ app.post("/api/tamuhack/data", controllers.api.tamuhack.data);
 app.get("/api/spider/crawl", controllers.api.spider.crawl);
 
 app.get("*", (req, res) => {
-    const dir = __dirname + req.originalUrl;
+    const dir = __dirname + req.url;
 
     if (!fs.existsSync(dir)) return res.status(404).send("Oops! Looks like you took a wrong turn somewhere.<br><a href=\"https://sharky.cool\">Take me back.</a>");
 
@@ -89,7 +94,7 @@ app.get("*", (req, res) => {
         folders,
         files,
         redirs,
-        path: req.originalUrl,
+        path: req.url,
         lastCommitID: process.env.LAST_COMMIT_ID
     });
 });
