@@ -19,6 +19,7 @@ app.use(bodyParser.urlencoded({
 
 app.use((req, res, next) => {
     req.url = req.originalUrl.replace(/^\/s\b/, "/stuff");
+    res.setHeader("Easter-Egg", "SHIFT+K");
     next();
 });
 
