@@ -33,7 +33,7 @@ module.exports = (req, res) => {
 
         // Not checking anything but X-Hub-Signature cause if that's right then the rest is irrelevant.
         console.log("Webhook received.");
-        cmd.run(`git pull https://${process.env.GIT_USERNAME}:${process.env.GIT_PASSWORD}@github.com/jdeurt/sharky.cool && pm2 reload sharky.cool`);
+        cmd.run(`git pull https://${process.env.GIT_USERNAME}:${process.env.GIT_PASSWORD.replace(/'/g, "\\'")}@github.com/jdeurt/sharky.cool && pm2 reload sharky.cool`);
 
         res.send("Received :).")
     }));
