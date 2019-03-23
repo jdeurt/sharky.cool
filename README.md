@@ -5,4 +5,7 @@ I promise nothing illegal this time.
 
 **Enjoy!**
 
-PS: Add `_RAW` to the end of URLs to see the unrendered file.
+## Tips
+* Add `_RAW` to the end of URLs to see the unrendered file.
+* `/stuff` can be replaced with `/s` for shorter URLs.
+* You can replace `index.html` with and underscore in a URL (`sharky.cool/s/kirby/index.html` -> `sharky.cool/s/kirby/_`).
