@@ -30,12 +30,15 @@
     };
 
     function spawnKirb() {
+        if (document.getElementById("spawned-kirb")) return;
+
         let kirbContainer = document.createElement("div");
         let kirb = document.createElement("img");
 
         kirb.src = "https://i.sharky.cool/kirby.gif";
 
         kirbContainer.style = "position: absolute; bottom: 0; left: 0; z-index: 100;";
+        kirbContainer.id = "spawned-kirb"
         kirbContainer.appendChild(kirb);
 
         document.body.appendChild(kirbContainer);
