@@ -30,7 +30,7 @@
     };
 
     function spawnKirb() {
-        if (document.getElementById("spawned-kirb")) return;
+        if (document.getElementById("spawned-kirb")) document.body.removeChild(document.getElementById("spawned-kirb"));
 
         let kirbContainer = document.createElement("div");
         let kirb = document.createElement("img");
