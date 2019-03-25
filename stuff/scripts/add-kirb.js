@@ -1,7 +1,35 @@
 (function() {
-    if (!window["key"]) return console.log("Keymaster dependency not found. Exiting...");
+    window.keys = {};
 
-    key("shift+k", function() {
+    document.onkeydown = function(ev) {
+        ev = ev || window.event;
+
+        if (ev.keyCode == 16) {
+            window.keys.SHIFT = true;
+            return;
+        }
+
+        if (ev.keyCode == 75) {
+            window.keys.K = true;
+            
+            if (window.keys.SHIFT) spawnKirb();
+        }
+    };
+
+    document.onkeyup = function(ev) {
+        ev = ev || window.event;
+
+        if (ev.keyCode == 16) {
+            window.keys.SHIFT = false;
+            return;
+        }
+
+        if (ev.keyCode == 75) {
+            window.keys.K = false;
+        }
+    };
+
+    function spawnKirb() {
         let kirbContainer = document.createElement("div");
         let kirb = document.createElement("img");
 
@@ -11,5 +39,5 @@
         kirbContainer.appendChild(kirb);
 
         document.body.appendChild(kirbContainer);
-    });
+    }
 })();
