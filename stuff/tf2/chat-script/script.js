@@ -32,7 +32,7 @@ $("#submit").click(() => {
 
         inputArray = INPUT_TEXT.split("\n");
         inputArray.forEach((line, index) => {
-            outVal += `\nalias s_${index} "say ${line.replace(/"/g, "'").replace(/;/g, "")}; alias s_print s_${index}";`
+            outVal += `\nalias s_${index} "say ${line.replace(/"/g, "'").replace(/;/g, "")}; alias s_print s_${index + 1}";`
         });
 
         $out.val(outVal);
