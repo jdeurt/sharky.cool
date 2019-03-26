@@ -22,7 +22,7 @@ $("#submit").click(() => {
     INPUT_TEXT = INPUT_TEXT.replace(/\n\n+/g, "\n");
 
     if(MODE == "Key Press Cycle") {
-        if(!BIND_KEY || BIND_KEY.length != 1 || !BIND_KEY.match(/[A-Z0-9]+/i)) {
+        if(!BIND_KEY || !BIND_KEY.match(/^[A-Z0-9]+$/i)) {
             return $("#bind-key").effect("shake");
         } else if(!INPUT_TEXT) {
             return $("#input-lines").effect("shake");
