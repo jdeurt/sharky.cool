@@ -30,9 +30,9 @@ $("#submit").click(() => {
 
         var outVal = `bind ${BIND_KEY} s_print;\nalias s_print s_0;`;
 
-        inputArray = INPUT_TEXT.split("\n");
+        var inputArray = INPUT_TEXT.split("\n");
         inputArray.forEach((line, index) => {
-            outVal += `\nalias s_${index} "say ${line.replace(/"/g, "'").replace(/;/g, "")}; alias s_print s_${index + 1}";`
+            outVal += `\nalias s_${index} "say ${line.replace(/"/g, "'").replace(/;/g, "")}; alias s_print s_${inputArray.length == index + 1 ? 0 : index + 1}";`
         });
 
         $out.val(outVal);
