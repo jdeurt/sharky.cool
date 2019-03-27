@@ -38,10 +38,18 @@
         let h4 = get("h4");
         let h5 = get("h5");
         let h6 = get("h6");
+        let li = get("li");
+        let td = get("td");
+        let th = get("th");
+        let b = get("b");
 
         replaceTextInElement(p);
         replaceTextInElement(a);
         replaceTextInElement(span);
+        replaceTextInElement(li);
+        replaceTextInElement(td);
+        replaceTextInElement(th);
+        replaceTextInElement(b);
         replaceTextInElement(h1);
         replaceTextInElement(h2);
         replaceTextInElement(h3);
