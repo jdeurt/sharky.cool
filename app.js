@@ -76,6 +76,8 @@ app.get("/api/tamuhack/data", controllers.api.tamuhack.data);
 app.post("/api/tamuhack/data", controllers.api.tamuhack.data);
 app.get("/api/spider/crawl", controllers.api.spider.crawl);
 app.get("/api/ifunny/rip", controllers.api.ifunny.rip);
+app.get("/api/discord/avatar/:id", controllers.api.discord.avatar);
+app.get("/a/davatar/:id", controllers.api.discord.avatar);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.url;

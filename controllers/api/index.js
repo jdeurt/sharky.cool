@@ -4,5 +4,6 @@ module.exports = {
     tamuhack: require("./tamuhack"),
     uil: require("./uil"),
     spider: require("./spider"),
-    ifunny: require("./ifunny")
+    ifunny: require("./ifunny"),
+    discord: require("./discord")
 };
