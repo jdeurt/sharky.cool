@@ -10,9 +10,20 @@ module.exports = (req, res) => {
     got.get(req.query.url).then(data => {
         const $ = cheerio.load(data.body);
 
-        let wrapper = $(".media__wrapper .media__content script").html();
-        let poster = wrapper.match(/poster=".+?"/)[0].replace(/_3\.(png|jpg|jpeg)/, "_1.mp4").replace("images", "videos");
-        let src = poster.match(/".+?"/)[0].replace(/"/g, "");
+        let props = $(".media__wrapper .media__preview").attr("data-dwhevent-props");
+        let src;
+
+        if (!props) {
+            src = $(".media__wrapper .media__preview img").attr("data-src");
+        } else if (props.includes("contentType=video_clip")) {
+            let wrapper = $(".media__wrapper .media__content script").first().html();
+            let poster = wrapper.match(/poster=".+?"/)[0];
+
+            src = poster.replace(/_3\.(png|jpg|jpeg)/, "_1.mp4").replace("images", "videos").match(/".+?"/)[0].replace(/"/g, "");
+        } else if (props.includes("contentType=gif")) {
+            let wrapper = $(".media__wrapper .media__content script").first().html();
+            src = wrapper.match(/src=".+?"/)[0].match(/".+?"/)[0].replace(/"/g, "");
+        }
 
         if (req.query.redirect) res.redirect(src);
         res.send(src);
