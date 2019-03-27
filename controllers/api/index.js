@@ -3,5 +3,6 @@ module.exports = {
     files: require("./files"),
     tamuhack: require("./tamuhack"),
     uil: require("./uil"),
-    spider: require("./spider")
+    spider: require("./spider"),
+    ifunny: require("./ifunny")
 };

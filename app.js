@@ -75,6 +75,7 @@ app.post("/api/tamuhack/mock", controllers.api.tamuhack.mock);
 app.get("/api/tamuhack/data", controllers.api.tamuhack.data);
 app.post("/api/tamuhack/data", controllers.api.tamuhack.data);
 app.get("/api/spider/crawl", controllers.api.spider.crawl);
+app.get("/api/ifunny/rip", controllers.api.ifunny.rip);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.url;
