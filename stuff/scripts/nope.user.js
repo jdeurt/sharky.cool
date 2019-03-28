@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nope
 // @namespace    https://sharky.cool
-// @version      0.1
+// @version      0.2
 // @description  nope
 // @author       Juan de Urtubey
 // @match        *://*/*
@@ -27,6 +27,6 @@
     }
 
     setInterval(function() {
-        loopElements(document.getElementsByTagName("img"));
+        loopElements(document.getElementsByTagName("img"), nope);
     }, 500);
 })();
