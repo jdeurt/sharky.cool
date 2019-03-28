@@ -30,7 +30,6 @@
 
     setInterval(function() {
         let p = get("p");
-        let a = get("a");
         let span = get("span");
         let h1 = get("h1");
         let h2 = get("h2");
@@ -44,7 +43,6 @@
         let b = get("b");
 
         replaceTextInElement(p);
-        replaceTextInElement(a);
         replaceTextInElement(span);
         replaceTextInElement(li);
         replaceTextInElement(td);
