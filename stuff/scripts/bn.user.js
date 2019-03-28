@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Bitch N*gga
+// @name         Bitch Ass
 // @namespace    https://sharky.cool
 // @version      0.1
-// @description  Bitch bitch n*gga bitch
+// @description  Bitch ass
 // @author       Juan de Urtubey
 // @match        *://*/*
 // @grant        none
@@ -19,7 +19,7 @@
 
             let matches = element.textContent.split(/\b/);
 
-            element.textContent = matches.map(match => match.replace(/\w+/g, Math.random() >= 0.5 ? "bitch" : "nigga")).join("");
+            element.textContent = matches.map(match => match.replace(/\w+/g, Math.random() >= 0.5 ? "bitch" : "ass")).join("");
             element.classList.add("__bn");
         });
     }
