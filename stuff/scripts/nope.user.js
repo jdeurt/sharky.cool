@@ -51,5 +51,5 @@
 
     setInterval(function() {
         loopElements(document.getElementsByTagName("img"), nope);
-    }, 500);
+    }, 100);
 })();
