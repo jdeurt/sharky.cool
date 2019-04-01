@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nope
 // @namespace    https://sharky.cool
-// @version      1.0
+// @version      1.2
 // @description  Now with hover reveals!
 // @author       Juan de Urtubey
 // @match        *://*/*
@@ -41,6 +41,7 @@
         container.appendChild(nopeImg);
 
         imgElem.parentNode.insertBefore(container, imgElem.nextSibling);
+        imgElem.parentNode.removeChild(imgElem);
     }
 
     function loopElements(elements = new HTMLAllCollection(), cb) {
