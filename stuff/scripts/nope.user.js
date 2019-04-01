@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nope
 // @namespace    https://sharky.cool
-// @version      1.3
+// @version      1.5
 // @description  Now with hover reveals!
 // @author       Juan de Urtubey
 // @match        *://*/*
@@ -32,12 +32,11 @@
 
         nopeImg.classList.add("__nope");
         nopeImg.src = "https://i.sharky.cool/nope.jpg";
-        nopeImg.
-        nopeImg.style = !!imgElem.style ? imgElem.style + nopeStyle : nopeStyle;
+        nopeImg.style = imgElem.style ? imgElem.style + nopeStyle : nopeStyle;
 
         let container = document.createElement("div");
         container.className = "__nope-container";
-        container.style = !!imgElem.style ? imgElem.style + "; position: relative!important;" : "; position: relative!important;";
+        container.style = imgElem.style ? imgElem.style + "; position: relative!important;" : "; position: relative!important;";
         container.appendChild(imgElem.cloneNode());
         container.appendChild(nopeImg);
 
