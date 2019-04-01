@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nope
 // @namespace    https://sharky.cool
-// @version      1.6
+// @version      1.7
 // @description  Now with hover reveals!
 // @author       Juan de Urtubey
 // @match        *://*/*
