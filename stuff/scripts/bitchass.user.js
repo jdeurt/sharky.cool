@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bitch Ass
 // @namespace    https://sharky.cool
-// @version      0.1
+// @version      0.2
 // @description  Bitch ass
 // @author       Juan de Urtubey
 // @match        *://*/*
@@ -26,10 +26,11 @@
     }
 
     function get(name = "") {
-        return document.getElementsByTagName(name);
+        return document.querySelectorAll(name);
     }
 
     setInterval(function() {
+        /*
         let supportedElements = [
             "p",
             "code",
@@ -46,7 +47,8 @@
             "th",
             "b",
             "div",
-            "em"
+            "em",
+            "strong"
         ];
 
         supportedElements.forEach(element => {
@@ -54,5 +56,10 @@
                 get(element)
             );
         });
+        */
+
+        replaceTextInElement(
+            get("*")
+        );
     }, 100);
 })();
