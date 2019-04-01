@@ -33,6 +33,8 @@
         nopeImg.src = "https://i.sharky.cool/nope.jpg";
 
         let container = document.createElement("div");
+        container.className = "__nope-container";
+        container.style = imgElem.style;
         container.appendChild(imgElem.cloneNode());
         container.appendChild(nopeImg);
 
