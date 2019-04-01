@@ -11,7 +11,7 @@
 (function() {
     "use strict";
 
-    let nopeHoverStyleCSS = ".__nope { position: absolute!important } .__nope:hover { opacity: 0 } .__nope-container: { position: relative }";
+    let nopeHoverStyleCSS = ".__nope:hover { opacity: 0 }";
     let nopeHoverStyle = document.createElement('style');
 
     if (nopeHoverStyle.styleSheet) {
@@ -28,13 +28,15 @@
         imgElem.classList.add("__nope");
 
         let nopeImg = imgElem.cloneNode();
+        let nopeStyle = "; transition: opacity 0.5s; position: absolute!important;";
 
         nopeImg.classList.add("__nope");
         nopeImg.src = "https://i.sharky.cool/nope.jpg";
-        nopeImg.style = imgElem.style ? imgElem.style + ";transition: opacity 0.5s;" : ";transition: opacity 0.5s;";
+        nopeImg.style = imgElem.style ? imgElem.style + nopeStyle : nopeStyle;
 
         let container = document.createElement("div");
         container.className = "__nope-container";
+        container.style = imgElem.style ? imgElem.style + "; position: relative!absolute;" : "; position: relative!absolute;";
         container.appendChild(imgElem.cloneNode());
         container.appendChild(nopeImg);
 
