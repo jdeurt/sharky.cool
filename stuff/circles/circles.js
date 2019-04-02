@@ -29,16 +29,22 @@ window.setInterval(function() {
     data.objects.push({
         circle,
         count,
-        color
+        color,
+        isCovering: false
     });
 }, 500);
 
 app.ticker.add(function(delta) {
     data.objects.forEach((object, index) => {
-        if (object.circle.width > app.screen.width + 100 && object.circle.height > app.screen.height + 100) {
-            data.covering++;
+        console.log(data.covering);
 
-            if (data.covering > 2) {
+        if (object.circle.width > app.screen.width + 500 && object.circle.height > app.screen.height + 500) {
+            if (!object.isCovering) {
+                data.covering++;
+                object.isCovering = true;
+            }
+
+            if (data.covering > 1) {
                 app.stage.removeChild(object.circle);
                 data.objects.splice(index, 1);
                 data.covering--;
