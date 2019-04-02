@@ -1,3 +1,7 @@
+const loadData = window.location.href.split("#");
+
+const SPEED = Number(loadData.length > 1 ? loadData[1] : 100);
+
 const app = new PIXI.Application({
     autoResize: true,
     resolution: devicePixelRatio,
@@ -52,8 +56,8 @@ app.ticker.add(function(delta) {
         object.count += 0.1;
         let count = object.count;
 
-        object.circle.width = count * 100;
-        object.circle.height = count * 100;
+        object.circle.width = count * SPEED;
+        object.circle.height = count * SPEED;
         object.circle.rotation = count * 0.1;
     });
 });
