@@ -38,7 +38,7 @@ app.ticker.add(function(delta) {
         if (object.circle.width > app.screen.width + 100 && object.circle.height > app.screen.height + 100) {
             data.covering++;
 
-            if (data.covering > 1) {
+            if (data.covering > 2) {
                 app.stage.removeChild(object.circle);
                 data.objects.splice(index, 1);
                 data.covering--;
