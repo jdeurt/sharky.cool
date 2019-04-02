@@ -36,15 +36,13 @@ window.setInterval(function() {
 
 app.ticker.add(function(delta) {
     data.objects.forEach((object, index) => {
-        console.log(data.covering);
-
         if (object.circle.width > app.screen.width + 500 && object.circle.height > app.screen.height + 500) {
             if (!object.isCovering) {
                 data.covering++;
                 object.isCovering = true;
             }
 
-            if (data.covering > 1) {
+            if (data.covering > 2) {
                 app.stage.removeChild(object.circle);
                 data.objects.splice(index, 1);
                 data.covering--;
