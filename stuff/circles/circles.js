@@ -7,7 +7,8 @@ const app = new PIXI.Application({
 document.body.appendChild(app.view);
 
 let data = {
-    objects: []
+    objects: [],
+    covering: 0
 };
 
 window.setInterval(function() {
@@ -35,9 +36,13 @@ window.setInterval(function() {
 app.ticker.add(function(delta) {
     data.objects.forEach((object, index) => {
         if (object.circle.width > app.screen.width + 100 && object.circle.height > app.screen.height + 100) {
-            document.getElementById("root").style = `background-color: #${object.color.toString(16)}`;
-            app.stage.removeChild(object.circle);
-            data.objects.splice(index, 1);
+            data.covering++;
+
+            if (data.covering > 1) {
+                app.stage.removeChild(object.circle);
+                data.objects.splice(index, 1);
+                data.covering--;
+            }
         }
 
         object.count += 0.1;
