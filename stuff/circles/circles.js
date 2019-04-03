@@ -40,12 +40,12 @@ if (!CONTROLLED) {
     };
 
     document.body.ontouchstart = function(e) {
-        if (!e.touches) {
-            spawn();
-        } else {
+        try {
             const touch = e.touches[i];
 
             spawn(touch.clientX, touch.clientY);
+        } catch (err) {
+            spawn();
         }
     };
 }
