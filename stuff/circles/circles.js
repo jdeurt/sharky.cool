@@ -41,12 +41,12 @@ app.ticker.add(function(delta) {
     data.objects.forEach((object, index) => {
         if (object.circle.width > app.screen.width + 500 && object.circle.height > app.screen.height + 500) {
             if (!object.isCovering) {
+                customStyle.innerHTML = `body { background-color: #${object.color.toString(16)} }`;
                 data.covering++;
                 object.isCovering = true;
             }
 
             if (data.covering > 2) {
-                customStyle.innerHTML = `body { background-color: #${object.color.toString(16)} }`;
                 app.stage.removeChild(object.circle);
                 data.objects.splice(index, 1);
                 data.covering--;
