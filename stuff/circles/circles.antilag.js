@@ -52,7 +52,7 @@ if (!CONTROLLED) {
 
 app.ticker.add(function(delta) {
     data.objects.forEach((object, index) => {
-        if (object.circle.width > app.screen.width && object.circle.height > app.screen.height) {
+        if (object.circle.width > app.screen.width * 2 && object.circle.height > app.screen.height * 2) {
             customStyle.innerHTML = `body { background-color: #${object.color.toString(16)} }`;
             app.stage.removeChild(object.circle);
             data.objects.splice(index, 1);
