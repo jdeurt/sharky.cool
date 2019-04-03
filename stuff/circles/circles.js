@@ -36,6 +36,8 @@ if (!CONTROLLED) {
     }
 
     document.body.onmousedown = spawn;
+
+    document.body.ontouchstart = spawn;
 }
 
 app.ticker.add(function(delta) {
