@@ -23,8 +23,7 @@ const app = new PIXI.Application({
 document.body.appendChild(app.view);
 
 let data = {
-    objects: [],
-    covering: 0
+    objects: []
 };
 
 if (!CONTROLLED) {
@@ -40,17 +39,11 @@ if (!CONTROLLED) {
 app.ticker.add(function(delta) {
     data.objects.forEach((object, index) => {
         if (object.circle.width > app.screen.width + 500 && object.circle.height > app.screen.height + 500) {
-            if (!object.isCovering) {
-                customStyle.innerHTML = `body { background-color: #${object.color.toString(16)} }`;
-                data.covering++;
-                object.isCovering = true;
-            }
+            customStyle.innerHTML = `body { background-color: #${object.color.toString(16)} }`;
+            app.stage.removeChild(object.circle);
+            data.objects.splice(index, 1);
 
-            if (data.covering > 2) {
-                app.stage.removeChild(object.circle);
-                data.objects.splice(index, 1);
-                data.covering--;
-            }
+            return;
         }
 
         object.count += 0.1;
@@ -80,8 +73,7 @@ function spawn() {
     data.objects.push({
         circle,
         count,
-        color,
-        isCovering: false
+        color
     });
 }
 
