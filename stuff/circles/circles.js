@@ -1,6 +1,7 @@
 const loadData = window.location.href.split("#");
 
 const SPEED = Number(loadData.length > 1 ? loadData[1] : 100);
+const CONTROLLED = loadData.length > 2 ? !!loadData[2] : false;
 
 const app = new PIXI.Application({
     autoResize: true,
@@ -15,7 +16,42 @@ let data = {
     covering: 0
 };
 
-window.setInterval(function() {
+if (!CONTROLLED) {
+    window.setInterval(spawn, 500);
+} else {
+    document.body.onkeydown = function(e) {
+        if (e.keyCode == 32){
+            spawn();
+        }
+    }
+}
+
+app.ticker.add(function(delta) {
+    data.objects.forEach((object, index) => {
+        if (object.circle.width > app.screen.width + 500 && object.circle.height > app.screen.height + 500) {
+            if (!object.isCovering) {
+                data.covering++;
+                object.isCovering = true;
+            }
+
+            if (data.covering > 2) {
+                document.body.style = `background-color: #${object.color.toString(16)}`;
+                app.stage.removeChild(object.circle);
+                data.objects.splice(index, 1);
+                data.covering--;
+            }
+        }
+
+        object.count += 0.1;
+        let count = object.count;
+
+        object.circle.width = count * SPEED;
+        object.circle.height = count * SPEED;
+        object.circle.rotation = count * 0.1;
+    });
+});
+
+function spawn() {
     let color = parseInt(randomColor().replace("#", "0x"));
 
     let circle = new PIXI.Sprite(PIXI.Texture.WHITE);
@@ -36,31 +72,7 @@ window.setInterval(function() {
         color,
         isCovering: false
     });
-}, 500);
-
-app.ticker.add(function(delta) {
-    data.objects.forEach((object, index) => {
-        if (object.circle.width > app.screen.width + 500 && object.circle.height > app.screen.height + 500) {
-            if (!object.isCovering) {
-                data.covering++;
-                object.isCovering = true;
-            }
-
-            if (data.covering > 2) {
-                app.stage.removeChild(object.circle);
-                data.objects.splice(index, 1);
-                data.covering--;
-            }
-        }
-
-        object.count += 0.1;
-        let count = object.count;
-
-        object.circle.width = count * SPEED;
-        object.circle.height = count * SPEED;
-        object.circle.rotation = count * 0.1;
-    });
-});
+}
 
 window.addEventListener('resize', resize);
 
