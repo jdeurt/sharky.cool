@@ -1,3 +1,14 @@
+let customCSS = "body { background-color: #000000 }";
+let customStyle = document.createElement("style");
+
+if (customStyle.styleSheet) {
+    customStyle.styleSheet.cssText = customCSS;
+} else {
+    customStyle.appendChild(document.createTextNode(customCSS));
+}
+
+document.getElementsByTagName("head")[0].appendChild(customStyle);
+
 const loadData = window.location.href.split("#");
 
 const SPEED = Number(loadData.length > 1 ? loadData[1] : 100);
@@ -35,7 +46,7 @@ app.ticker.add(function(delta) {
             }
 
             if (data.covering > 2) {
-                document.body.style = `background-color: #${object.color.toString(16)}`;
+                customStyle.innerHTML = `body { background-color: #${object.color.toString(16)} }`;
                 app.stage.removeChild(object.circle);
                 data.objects.splice(index, 1);
                 data.covering--;
