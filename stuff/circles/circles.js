@@ -42,7 +42,11 @@ if (!CONTROLLED) {
     document.body.ontouchstart = function(e) {
         const touch = e.touches[i];
 
-        spawn(touch.clientX, touch.clientY);
+        if (!touch || !touch.clientX) {
+            spawn();
+        } else {
+            spawn(touch.clientX, touch.clientY);
+        }
     };
 }
 
