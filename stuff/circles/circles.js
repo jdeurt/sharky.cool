@@ -35,14 +35,20 @@ if (!CONTROLLED) {
         }
     }
 
-    document.body.onmousedown = spawn;
+    document.body.onmousedown = function(e) {
+        spawn(e.clientX, e.clientY);
+    };
 
-    document.body.ontouchstart = spawn;
+    document.body.ontouchstart = function(e) {
+        const touch = e.targetTouches[i];
+
+        spawn(touch.clientX, touch.clientY);
+    };
 }
 
 app.ticker.add(function(delta) {
     data.objects.forEach((object, index) => {
-        if (object.circle.width > app.screen.width + 500 && object.circle.height > app.screen.height + 500) {
+        if (object.circle.width > app.screen.width * 2 + 500 && object.circle.height > app.screen.height * 2 + 500) {
             customStyle.innerHTML = `body { background-color: #${object.color.toString(16)} }`;
             app.stage.removeChild(object.circle);
             data.objects.splice(index, 1);
@@ -59,7 +65,7 @@ app.ticker.add(function(delta) {
     });
 });
 
-function spawn() {
+function spawn(x = app.screen.width / 2, y = app.screen.height / 2) {
     let color = parseInt(randomColor().replace("#", "0x"));
 
     let circle = new PIXI.Sprite(PIXI.Texture.WHITE);
@@ -67,8 +73,8 @@ function spawn() {
         circle.width = 0;
         circle.height = 0;
         circle.anchor.set(0.5);
-        circle.x = app.screen.width / 2;
-        circle.y = app.screen.height / 2;
+        circle.x = x;
+        circle.y = y;
 
     app.stage.addChild(circle);
 
