@@ -40,11 +40,11 @@ if (!CONTROLLED) {
     };
 
     document.body.ontouchstart = function(e) {
-        const touch = e.touches[i];
-
-        if (!touch || !touch.clientX) {
+        if (!e.touches) {
             spawn();
         } else {
+            const touch = e.touches[i];
+
             spawn(touch.clientX, touch.clientY);
         }
     };
