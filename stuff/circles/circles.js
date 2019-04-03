@@ -34,6 +34,8 @@ if (!CONTROLLED) {
             spawn();
         }
     }
+
+    document.body.onmousedown = spawn;
 }
 
 app.ticker.add(function(delta) {
