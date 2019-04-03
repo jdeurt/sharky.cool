@@ -40,7 +40,7 @@ if (!CONTROLLED) {
     };
 
     document.body.ontouchstart = function(e) {
-        const touch = e.targetTouches[i];
+        const touch = e.touches[i];
 
         spawn(touch.clientX, touch.clientY);
     };
