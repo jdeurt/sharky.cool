@@ -22,13 +22,22 @@
 
         <div class="d-flex">
             <input type="text" class="mr-3" placeholder="ifunny.co/fun/..." style="width: 300px; border-style: unset; border-bottom: solid 1px lightgray;">
-            <button type="button" class="btn btn-primary" onclick="submit()">Get Content</button>
+            <div class="row">
+              <div class="col">
+                <button type="button" class="btn btn-primary" onclick="submit()">Get Content</button>
+                <button type="button" class="btn btn-warning" onclick="submitNoRedirect()">Get Source URL</button>
+              </div>
+            </div>
         </div>
     </div>
 
     <script>
         function submit() {
             window.location.href = "https://sharky.cool/api/ifunny/rip/?redirect=1&url=" + encodeURIComponent($("input").val());
+        }
+
+        function submitNoRedirect() {
+            window.location.href = "https://sharky.cool/api/ifunny/rip/?url=" + encodeURIComponent($("input").val());
         }
     </script>
 
