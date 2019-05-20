@@ -5,5 +5,6 @@ module.exports = {
     uil: require("./uil"),
     spider: require("./spider"),
     ifunny: require("./ifunny"),
-    discord: require("./discord")
+    discord: require("./discord"),
+    poker: require("./poker")
 };
