@@ -88,11 +88,16 @@
             updated: 0
         };
 
+        if (!localStorage.getItem("playerName")) {
+            localStorage.setItem("playerName", location.href.split("#")[1] || Date.now());
+        }
+
         window["ID"] = localStorage.getItem("playerID");
+        window["PLAYER_NAME"] = localStorage.getItem("playerName");
         window["INITIAL_SETUP"] = true;
 
         socket.emit("game.join", {
-            playerName: location.href.split("#")[1] || Date.now(),
+            playerName: window["PLAYER_NAME"],
             roomID: room.id,
             playerID: window["ID"]
         });
