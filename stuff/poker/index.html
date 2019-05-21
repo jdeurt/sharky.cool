@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Poker</title>
+  </head>
+  <body>
+    <div class="container m-5">
+        <button id="action-bet" type="button" class="btn btn-primary">Bet 5</button>
+        <button id="action-take" type="button" class="btn btn-warning">Take 5</button>
+        <button id="action-roundend" type="button" class="btn btn-danger">End Round</button>
+        <br>
+        <br>
+        Current Chips: <span id="chip-inventory">0</span>
+        <br>
+        Current Bet: <span id="chip-bet">0</span>
+        <br>
+        Current Pool: <span id="chip-pool">0</span>
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/socket.io/socket.io.js"></script>
+
+    <script>
+        let socket = io("http://localhost:4202/api/poker");
+
+        let room = {
+            id: "test",
+            players: [],
+            chipPool: 0,
+            updated: 0
+        };
+
+        window["ID"] = localStorage.getItem("playerID");
+        window["INITIAL_SETUP"] = true;
+
+        socket.emit("game.join", {
+            playerName: "juan",
+            roomID: room.id,
+            playerID: window["ID"]
+        });
+
+        $("#action-bet").click(() => {
+            socket.emit("player.bet", {
+                room,
+                player: room.players.find(player => player.id == window["ID"]),
+                amount: 5
+            });
+        });
+
+        $("#action-take").click(() => {
+            socket.emit("player.take", {
+                room,
+                player: room.players.find(player => player.id == window["ID"]),
+                amount: 5
+            });
+        });
+
+        $("#action-roundend").click(() => {
+            socket.emit("game.roundend", room);
+        });
+
+        socket.on("player.confirm", id => {
+            localStorage.setItem("playerID", id);
+
+            window["ID"] = id;
+            window["INITIAL_SETUP"] = false;
+        });
+
+        socket.on("player.create", player => {
+            if (!room.players.find(p => p.id == player.id)) room.players.push(player);
+
+            if (!window["INITIAL_SETUP"]) room.updated = Date.now();
+
+            socket.emit("game.update", room);
+        });
+
+        socket.on("game.bet", data => {
+            room.players.find(player => player.id == data.player.id).chips.inventory -= data.amount;
+            room.players.find(player => player.id == data.player.id).chips.currentBet += data.amount;
+            room.chipPool += data.amount;
+
+            room.updated = Date.now();
+
+            socket.emit("game.update", room);
+        });
+
+        socket.on("game.take", data => {
+            room.players.find(player => player.id == data.player.id).chips.inventory += data.amount;
+            room.players.find(player => player.id == data.player.id).chips.currentBet -= data.amount;
+            room.chipPool -= data.amount;
+
+            room.updated = Date.now();
+
+            socket.emit("game.update", room);
+        });
+
+        socket.on("game.roundend", data => {
+            room.players.forEach(player => player.chips.currentBet = 0);
+
+            room.updated = Date.now();
+
+            socket.emit("game.update", room);
+        });
+
+        socket.on("game.update", newRoom => {
+            if (newRoom.updated > room.updated) room = newRoom;
+
+            $("#chip-inventory").text(room.players.find(player => player.id == window["ID"]).chips.inventory);
+            $("#chip-bet").text(room.players.find(player => player.id == window["ID"]).chips.currentBet);
+            $("#chip-pool").text(room.chipPool);
+
+            console.log(room.players);
+        });
+
+        socket.on("invalid", err => {
+            console.log(err);
+        });
+    </script>
+  </body>
+</html>

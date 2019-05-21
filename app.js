@@ -1,4 +1,14 @@
 const express = require("express");
+const app = express();
+const server = require("http").createServer(app);
+const io = require("socket.io")(server);
+
+module.exports = {
+    app,
+    server,
+    io
+};
+
 const bodyParser = require("body-parser");
 const marked = require("marked");
 const fs = require("fs");
@@ -7,8 +17,6 @@ const controllers = require("./controllers");
 
 dotenv.load();
 process.env.LAST_COMMIT_ID = (fs.readFileSync(".git/refs/heads/master", "utf8") || "ERROR").trim();
-
-const app = express();
 
 app.set("views", __dirname);
 app.set("view engine", "pug");
@@ -102,5 +110,3 @@ app.get("*", (req, res) => {
         lastCommitID: process.env.LAST_COMMIT_ID
     });
 });
-
-module.exports = app;
