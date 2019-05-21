@@ -1,38 +1,85 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Poker</title>
-  </head>
-  <body>
-    <div class="container m-5">
-        <button id="action-bet" type="button" class="btn btn-primary">Bet 5</button>
-        <button id="action-take" type="button" class="btn btn-warning">Take 5</button>
-        <button id="action-roundend" type="button" class="btn btn-danger">End Round</button>
-        <br>
-        <br>
-        Current Chips: <span id="chip-inventory">0</span>
-        <br>
-        Current Bet: <span id="chip-bet">0</span>
-        <br>
-        Current Pool: <span id="chip-pool">0</span>
+
+    <style>
+        .log {
+            width: 100%;
+            border: 1px solid lightgray;
+            border-radius: 5px;
+            padding: 1rem;
+            height: 500px;
+            overflow: scroll;
+        }
+
+        .log-entry {
+            width: 100%;
+            border-bottom: 1px solid lightgray;
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .row > div {
+            margin-bottom: 3rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid p-5">
+        <div class="row">
+            <div class="col-md-3">
+                    <button id="action-bet" type="button" class="btn btn-primary">Bet 5</button>
+                    <button id="action-take" type="button" class="btn btn-warning">Take 5</button>
+                    <button id="action-roundend" type="button" class="btn btn-danger">End Round</button>
+                    <br>
+                    <br>
+                    Current Chips: <span id="chip-inventory">0</span>
+                    <br>
+                    Current Bet: <span id="chip-bet">0</span>
+                    <br>
+                    Current Pool: <span id="chip-pool">0</span>
+            </div>
+            <div class="col-md-6">
+                <div class="log">
+                </div>
+            </div>
+            <div class="col-md-3">
+                <button id="action-leave" type="button" class="btn btn-danger">Leave Room</button>
+            </div>
+        </div>
     </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
     <script src="/socket.io/socket.io.js"></script>
 
     <script>
-        let socket = io("https://sharky.cool/api/poker");
+        function log(text, extraClass) {
+            $(".log").append(`<div class="log-entry ${extraClass || ""}">${text}</div>`);
+            document.querySelector(".log").scrollTo(0, document.querySelector(".log").scrollHeight);
+        }
+
+        let socket = io("http://localhost:4202/api/poker");
 
         let room = {
             id: "test",
@@ -45,7 +92,7 @@
         window["INITIAL_SETUP"] = true;
 
         socket.emit("game.join", {
-            playerName: "juan",
+            playerName: location.href.split("#")[1] || Date.now(),
             roomID: room.id,
             playerID: window["ID"]
         });
@@ -70,17 +117,46 @@
             socket.emit("game.roundend", room);
         });
 
+        $("#action-leave").click(() => {
+            socket.emit("player.leave", {
+                playerID: window["ID"],
+                roomID: room.id
+            });
+
+            window["ID"] = "";
+            localStorage.removeItem("playerID");
+
+            $(".container-fluid.p-5").text("You have left the room.");
+        });
+
         socket.on("player.confirm", id => {
             localStorage.setItem("playerID", id);
 
             window["ID"] = id;
             window["INITIAL_SETUP"] = false;
+
+            log(`> Confirmed ID: <code>${id}</code>`);
         });
 
         socket.on("player.create", player => {
-            if (!room.players.find(p => p.id == player.id)) room.players.push(player);
+            if (!room.players.find(p => p.id == player.id)) {
+                room.players.push(player);
+                log(`${player.name} has joined the room.`);
+            } else {
+                log(`${player.name} has rejoined the room.`);
+            }
 
             if (!window["INITIAL_SETUP"]) room.updated = Date.now();
+
+            socket.emit("game.update", room);
+        });
+
+        socket.on("player.leave", id => {
+            log(`${room.players.find(player => player.id == id).name} has left the room.`);
+
+            room.players.splice(room.players.findIndex(player => player.id == id), 1);
+
+            room.updated = Date.now();
 
             socket.emit("game.update", room);
         });
@@ -90,6 +166,9 @@
             room.players.find(player => player.id == data.player.id).chips.currentBet += data.amount;
             room.chipPool += data.amount;
 
+            log(`${room.players.find(player => player.id == data.player.id).name} bet ${data.amount} chips.`, "text-success");
+            log(`> Current pot: ${room.chipPool}`);
+
             room.updated = Date.now();
 
             socket.emit("game.update", room);
@@ -97,8 +176,13 @@
 
         socket.on("game.take", data => {
             room.players.find(player => player.id == data.player.id).chips.inventory += data.amount;
-            room.players.find(player => player.id == data.player.id).chips.currentBet -= data.amount;
+            if (room.players.find(player => player.id == data.player.id).chips.currentBet != 0) {
+                room.players.find(player => player.id == data.player.id).chips.currentBet -= data.amount;
+            }
             room.chipPool -= data.amount;
+
+            log(`${room.players.find(player => player.id == data.player.id).name} took ${data.amount} chips.`, "text-danger");
+            log(`> Current pot: ${room.chipPool}`);
 
             room.updated = Date.now();
 
@@ -106,7 +190,14 @@
         });
 
         socket.on("game.roundend", data => {
-            room.players.forEach(player => player.chips.currentBet = 0);
+            let chipsPerPerson = Math.floor(room.chipPool / room.players.length);
+            room.players.forEach(player => {
+                player.chips.currentBet = 0;
+                player.chips.inventory += chipsPerPerson;
+                room.chipPool -= chipsPerPerson;
+            });
+
+            log(`<br>The round has ended.<br><br>`);
 
             room.updated = Date.now();
 
@@ -127,5 +218,6 @@
             console.log(err);
         });
     </script>
-  </body>
+</body>
+
 </html>

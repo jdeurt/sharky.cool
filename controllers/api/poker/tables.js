@@ -87,6 +87,16 @@ namespace.on("connection", socket => {
         namespace.to(data.player.roomID).emit("game.take", data);
     });
 
+    socket.on("player.leave", data => {
+        if (!data.playerID || !data.roomID) {
+            socket.emit("invalid", "Invalid 'player.leave' event data.");
+
+            return;
+        }
+
+        namespace.to(data.roomID).emit("player.leave", data.playerID);
+    });
+
     socket.on("game.roundend", room => {
         namespace.to(room.id).emit("game.roundend", room);
     });
