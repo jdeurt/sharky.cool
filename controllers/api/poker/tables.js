@@ -56,7 +56,7 @@ namespace.on("connection", socket => {
     });
 
     socket.on("player.bet", data => {
-        if (!data.room || !data.player || !Number(data.amount)) {
+        if (!data.room || !data.player || !data.player.roomID || !data.player.chips.inventory || !Number(data.amount)) {
             socket.emit("invalid", "Invalid 'player.bet' event data.");
 
             return;
@@ -72,7 +72,7 @@ namespace.on("connection", socket => {
     });
 
     socket.on("player.take", data => {
-        if (!data.room || !data.player || !Number(data.amount)) {
+        if (!data.room || !data.player || !data.player.roomID || !data.room.chipPool || !Number(data.amount)) {
             socket.emit("invalid", "Invalid 'player.take' event data.");
 
             return;
