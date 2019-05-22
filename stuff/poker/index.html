@@ -29,6 +29,22 @@
             margin-bottom: 0.5rem;
         }
 
+        .player-list {
+            width: 100%;
+            border: 1px solid lightgray;
+            border-radius: 5px;
+            padding: 1rem;
+            height: 500px;
+            overflow: scroll;
+        }
+
+        .player-list .player {
+            width: 100%;
+            border-bottom: 1px solid lightgray;
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
         .row > div {
             margin-bottom: 3rem;
         }
@@ -56,6 +72,7 @@
             </div>
             <div class="col-md-3">
                 <button id="action-leave" type="button" class="btn btn-danger">Leave Room</button>
+                <div class="player-list"></div>
             </div>
         </div>
     </div>
@@ -216,7 +233,9 @@
             $("#chip-bet").text(room.players.find(player => player.id == window["ID"]).chips.currentBet);
             $("#chip-pool").text(room.chipPool);
 
-            console.log(room.players);
+            room.players.forEach(player => {
+                $(".player-list").append(`<div class="player">${player.name}</div>`);
+            });
         });
 
         socket.on("invalid", err => {
