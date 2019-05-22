@@ -235,9 +235,9 @@
             $("#chip-bet").text(room.players.find(player => player.id == window["ID"]).chips.currentBet);
             $("#chip-pool").text(room.chipPool);
 
-            $(".player-list").html("<h5 class=\"mb-3\">Players</h5>");
+            $(".player-list").html(`<h5 class=\"mb-3\">Players (${room.players.length})</h5>`);
             room.players.forEach(player => {
-                $(".player-list").append(`<div class="player">${player.name}</div>`);
+                $(".player-list").append(`<div class="player">${player.name} (${player.chips.inventory})</div>`);
             });
         });
 
