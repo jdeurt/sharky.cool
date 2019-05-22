@@ -55,8 +55,22 @@
     <div class="container-fluid p-5">
         <div class="row">
             <div class="col-md-3">
-                    <button id="action-bet" type="button" class="btn btn-primary">Bet 5</button>
-                    <button id="action-take" type="button" class="btn btn-warning">Take 5</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="1">Bet 1</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="2">Bet 2</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="5">Bet 5</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="10">Bet 10</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="20">Bet 20</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="25">Bet 25</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="50">Bet 50</button>
+                    <button type="button" class="btn btn-primary action-bet" data-amt="100">Bet 100</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="1">Take 1</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="2">Take 2</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="5">Take 5</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="10">Take 10</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="20">Take 20</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="25">Take 25</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="50">Take 50</button>
+                    <button type="button" class="btn btn-primary action-take" data-amt="100">Take 100</button>
                     <button id="action-roundend" type="button" class="btn btn-danger">End Round</button>
                     <br>
                     <br>
@@ -121,19 +135,19 @@
             playerID: window["ID"]
         });
 
-        $("#action-bet").click(() => {
+        $(".action-bet").click(function() {
             socket.emit("player.bet", {
                 room,
                 player: room.players.find(player => player.id == window["ID"]),
-                amount: 5
+                amount: Number($(this).attr("data-amt"))
             });
         });
 
-        $("#action-take").click(() => {
+        $(".action-take").click(function() {
             socket.emit("player.take", {
                 room,
                 player: room.players.find(player => player.id == window["ID"]),
-                amount: 5
+                amount: Number($(this).attr("data-amt"))
             });
         });
 
