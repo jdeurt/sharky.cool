@@ -162,7 +162,9 @@
             });
 
             window["ID"] = "";
+            window["PLAYER_NAME"] = "";
             localStorage.removeItem("playerID");
+            localStorage.removeItem("playerName");
 
             $(".container-fluid.p-5").text("You have left the room.");
         });
