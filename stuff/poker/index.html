@@ -72,7 +72,9 @@
             </div>
             <div class="col-md-3">
                 <button id="action-leave" type="button" class="btn btn-danger mb-4">Leave Room</button>
-                <div class="player-list"></div>
+                <div class="player-list">
+                    <h5 class="mb-3">Players</h5>
+                </div>
             </div>
         </div>
     </div>
@@ -233,6 +235,7 @@
             $("#chip-bet").text(room.players.find(player => player.id == window["ID"]).chips.currentBet);
             $("#chip-pool").text(room.chipPool);
 
+            $(".player-list").html("<h5 class=\"mb-3\">Players</h5>");
             room.players.forEach(player => {
                 $(".player-list").append(`<div class="player">${player.name}</div>`);
             });
