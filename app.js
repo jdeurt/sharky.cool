@@ -72,7 +72,7 @@ app.get(/\/_$/, (req, res) => {
 });
 
 app.use(express.static(__dirname, {
-    index: false
+    index: true
 }));
 
 // Controllers
