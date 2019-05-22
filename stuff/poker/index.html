@@ -115,14 +115,14 @@
         let socket = io("https://sharky.cool/api/poker");
 
         let room = {
-            id: "test",
+            id: location.href.split("#")[1] || "demo",
             players: [],
             chipPool: 0,
             updated: 0
         };
 
         if (!localStorage.getItem("playerName")) {
-            localStorage.setItem("playerName", location.href.split("#")[1] || Date.now());
+            localStorage.setItem("playerName", location.href.split("#")[2] || Date.now());
         }
 
         window["ID"] = localStorage.getItem("playerID");
