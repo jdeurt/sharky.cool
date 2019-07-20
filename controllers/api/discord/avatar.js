@@ -12,15 +12,9 @@ module.exports = (req, res) => {
         },
         json: true
     }).then(data => {
-        const base = `https://cdn.discordapp.com/avatars/${req.params.id}/${data.body.avatar}`;
+        const avatarUrl = `https://cdn.discordapp.com/avatars/${req.params.id}/${data.body.avatar}.${data.body.avatar.startsWith("a_") ? ".gif" : ".png"}`;
 
-        got.head(base + ".gif", {
-            throwHttpErrors: false
-        }).then(data => {
-            if (data.statusCode == 200) res.redirect(base + ".gif");
-            else if (data.statusCode == 415) res.redirect(base + ".png");
-            else throw new Error("Unhandled status code.");
-        });
+        res.redirect(avatarUrl);
     }).catch(err => {
         res.status(500).send("Error retrieving avatar.");
     });
