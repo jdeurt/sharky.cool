@@ -12,7 +12,7 @@ module.exports = (req, res) => {
         },
         json: true
     }).then(data => {
-        const avatarUrl = `https://cdn.discordapp.com/avatars/${req.params.id}/${data.body.avatar}${data.body.avatar.startsWith("a_") ? ".gif" : ".png"}`;
+        const avatarUrl = `https://cdn.discordapp.com/avatars/${req.params.id}/${data.body.avatar}${data.body.avatar.startsWith("a_") ? ".gif" : ".png?size=2048"}`;
 
         res.redirect(avatarUrl);
     }).catch(err => {
