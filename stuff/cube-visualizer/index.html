@@ -25,11 +25,53 @@
             width: 100%;
             height: 100%;
         }
+
+        #status-msg {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        #form {
+            padding-top: 20px;
+        }
+
+        #play-btn {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            padding: 20px;
+            cursor: pointer;
+            font-family: Arial, Helvetica, sans-serif;
+            transition: all 0.2s;
+            border: 5px solid white;
+        }
+
+        #play-btn:hover {
+            color: lightgray;
+            border-radius: 3px;
+        }
     </style>
 </head>
 
 <body>
+    <div id="play-btn" style="display: none;">
+        Click me to start!
+    </div>
+    <div id="status-msg">
+        Select an audio file to start:
+        <form id="form">
+            <input id="audio-file" type="file" accept="audio/*">
+        </form>
+    </div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/108/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/music-tempo@1.0.3/dist/browser/music-tempo.min.js"></script>
     <script src="js/script.js"></script>
 </body>
 
