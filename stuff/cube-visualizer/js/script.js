@@ -5,8 +5,16 @@ const minD = window.innerHeight < window.innerWidth ? window.innerHeight : windo
 const maxD = window.innerHeight > window.innerWidth ? window.innerHeight : window.innerWidth;
 let bpm = 60;
 let spb = 1;
-let beats = [];
-const clock = new THREE.Clock();
+
+const RAINBOW = [
+    0x800080,
+    0x0000FF,
+    0x00FFFF,
+    0x008000,
+    0xFFFF00,
+    0xFFA500,
+    0xFF0000
+];
 
 /**
  * Define globals.
@@ -69,7 +77,7 @@ function handleAudioBuffer(buffer) {
 
     const mt = new MusicTempo(audioData);
 
-    bpm = mt.tempo;
+    bpm = mt.tempo / 4;
     spb = 60 / bpm;
     beats = mt.beats;
 
@@ -104,7 +112,7 @@ document.getElementById("play-btn").onclick = function () {
             this._edges = new THREE.EdgesGeometry(this._geometry);
             this._ = new THREE.LineSegments(this._edges, new THREE.LineBasicMaterial({
                 color: 0xffffff,
-                linewidth: 0.01 * minD
+                linewidth: 0.03 * minD
             }));
 
             this._.rotation.y = Math.PI / 4;
@@ -121,8 +129,6 @@ document.getElementById("play-btn").onclick = function () {
         }
 
         animate() {
-            const time = clock.getElapsedTime();
-
             analyzer.getByteTimeDomainData(frequencyDataArray);
 
             let bassTotal = 0;
@@ -136,31 +142,39 @@ document.getElementById("play-btn").onclick = function () {
             let bassLoudness = ( (bassAverage - 128) / 2 + 128 ) / 128;
             let trebleLoudness = trebleAverage / 128;
 
-            this._.rotation.x += 0.003 * bpm / 60;
-            //this._.rotation.y += 0.003 * bpm / 60;
-            this._.rotation.y += 0.2 * Math.max(0, trebleLoudness - 1);
-            console.log(trebleLoudness);
-
-            /*
-            if (time >= beats[0]) {
-                this.rotatingOnY = true;
-                beats = beats.slice(1);
-            }
-
-            if (this.rotatingOnY) {
-                if (this._.rotation.y >= this.lastYSnapPos + Math.PI / 4) {
-                    this.rotatingOnY = false;
-                    this._.rotation.y = this.lastYSnapPos + Math.PI / 4;
-                    this.lastYSnapPos = this._.rotation.y;
-                } else {
-                    this._.rotation.y += 0.05;
-                }
-            }
-            */
+            let baseSpeed = 0.003 * bpm / 60;
+            this._.rotation.x += baseSpeed;
+            this._.rotation.y += baseSpeed + 0.2 * Math.max(0, trebleLoudness - 1);
 
             this._.scale.x = bassLoudness;
             this._.scale.y = bassLoudness;
             this._.scale.z = bassLoudness;
+
+            if (bassLoudness > 1.1) {
+                this.setColor(RAINBOW[6]);
+                renderer.setClearColor(RAINBOW[0], 1);
+            } else if (bassLoudness > 1.09) {
+                this.setColor(RAINBOW[5]);
+                renderer.setClearColor(RAINBOW[1], 1);
+            } else if (bassLoudness > 1.08) {
+                this.setColor(RAINBOW[4]);
+                renderer.setClearColor(RAINBOW[2], 1);
+            } else if (bassLoudness > 1.07) {
+                this.setColor(RAINBOW[3]);
+                renderer.setClearColor(RAINBOW[3], 1);
+            } else if (bassLoudness > 1.06) {
+                this.setColor(RAINBOW[2]);
+                renderer.setClearColor(RAINBOW[4], 1);
+            } else if (bassLoudness > 1.05) {
+                this.setColor(RAINBOW[1]);
+                renderer.setClearColor(0x000000, 1);
+            } else if (bassLoudness > 1.03) {
+                this.setColor(RAINBOW[0]);
+                renderer.setClearColor(0x000000, 1);
+            } else {
+                this.setColor(0xFFFFFF);
+                renderer.setClearColor(0x000000, 1);
+            }
 
             this.tickNum++;
         }
@@ -175,13 +189,12 @@ document.getElementById("play-btn").onclick = function () {
         setColor(color) {
             this._.material = new THREE.LineBasicMaterial({
                 color,
-                linewidth: 0.01 * minD
+                linewidth: 0.03 * minD
             });
         }
     }
 
     const cube = new Cube(scene);
-    clock.start();
 
     /**
      * Render scene as 60fps.
