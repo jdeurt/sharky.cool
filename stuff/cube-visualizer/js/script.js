@@ -5,6 +5,7 @@ const minD = window.innerHeight < window.innerWidth ? window.innerHeight : windo
 const maxD = window.innerHeight > window.innerWidth ? window.innerHeight : window.innerWidth;
 let bpm = 60;
 let spb = 1;
+const clock = new THREE.Clock(false);
 
 const RAINBOW = [
     0x800080,
@@ -22,6 +23,7 @@ const RAINBOW = [
 
  let WIDTH = window.innerWidth;
  let HEIGHT = window.innerHeight;
+ let beats = [];
 
 /**
  * @type {AudioContext}
@@ -96,6 +98,7 @@ document.getElementById("play-btn").onclick = function () {
     HEIGHT = window.innerHeight;
 
     source.start(0);
+    clock.start();
 
     /**
      * Set up scene.
@@ -176,6 +179,8 @@ document.getElementById("play-btn").onclick = function () {
         }
 
         animate() {
+            let time = clock.getElapsedTime();
+
             let subBassTotal = 0;
             let bassTotal = 0;
             let trebleTotal = 0;
@@ -195,31 +200,32 @@ document.getElementById("play-btn").onclick = function () {
 
             if (bassLoudness > 1.1) {
                 this.setColor(RAINBOW[6]);
-                // renderer.setClearColor(RAINBOW[0], 1);
+                renderer.setClearColor(RAINBOW[0], 1);
             } else if (bassLoudness > 1.09) {
                 this.setColor(RAINBOW[5]);
-                // renderer.setClearColor(RAINBOW[1], 1);
+                renderer.setClearColor(RAINBOW[1], 1);
             } else if (bassLoudness > 1.08) {
                 this.setColor(RAINBOW[4]);
-                // renderer.setClearColor(RAINBOW[2], 1);
+                renderer.setClearColor(RAINBOW[2], 1);
             } else if (bassLoudness > 1.07) {
                 this.setColor(RAINBOW[3]);
-                // renderer.setClearColor(RAINBOW[3], 1);
+                renderer.setClearColor(RAINBOW[3], 1);
             } else if (bassLoudness > 1.06) {
                 this.setColor(RAINBOW[2]);
-                // renderer.setClearColor(RAINBOW[4], 1);
+                renderer.setClearColor(RAINBOW[4], 1);
             } else if (bassLoudness > 1.05) {
                 this.setColor(RAINBOW[1]);
-                // renderer.setClearColor(0x000000, 1);
+                renderer.setClearColor(0x000000, 1);
             } else if (bassLoudness > 1.03) {
                 this.setColor(RAINBOW[0]);
-                // renderer.setClearColor(0x000000, 1);
+                renderer.setClearColor(0x000000, 1);
             } else {
                 this.setColor(0xFFFFFF);
-                // renderer.setClearColor(0x000000, 1);
+                renderer.setClearColor(0x000000, 1);
             }
 
-            if (subBassLoudness > 1.1) {
+            if (subBassLoudness > 1.3) {
+                /*
                 if (this.lastRotation == "X") {
                     if (!this.rotatingOnY) {
                         this.rotatingOnY = true;
@@ -229,6 +235,7 @@ document.getElementById("play-btn").onclick = function () {
                         this.rotatingOnX = true;
                     }
                 }
+                */
 
                 if (!this.shadowExpanding) {
                     this.shadowExpanding = true;
@@ -239,6 +246,7 @@ document.getElementById("play-btn").onclick = function () {
                 }
             }
 
+            /*
             if (this.rotatingOnY) {
                 if (this._.rotation.y >= this.lastYSnapPos + Math.PI / 4) {
                     this.rotatingOnY = false;
@@ -260,6 +268,7 @@ document.getElementById("play-btn").onclick = function () {
                     this._.rotation.x += 0.1;
                 }
             }
+            */
 
             if (this.shadowExpanding) {
                 if (this.shadow.scale.x > 3) {
