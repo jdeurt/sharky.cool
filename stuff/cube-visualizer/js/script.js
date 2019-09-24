@@ -20,6 +20,9 @@ const RAINBOW = [
  * Define globals.
  */
 
+ let WIDTH = window.innerWidth;
+ let HEIGHT = window.innerHeight;
+
 /**
  * @type {AudioContext}
  */
@@ -89,6 +92,9 @@ function handleAudioBuffer(buffer) {
 document.getElementById("play-btn").onclick = function () {
     document.getElementById("play-btn").style = "display: none;";
 
+    WIDTH = window.innerWidth;
+    HEIGHT = window.innerHeight;
+
     source.start(0);
 
     /**
@@ -108,12 +114,46 @@ document.getElementById("play-btn").onclick = function () {
      */
     class Cube {
         constructor(scene) {
-            this._geometry = new THREE.BoxBufferGeometry(0.003 * minD, 0.003 * minD, 0.003 * minD);
+            this._geometry = new THREE.BoxGeometry(0.003 * minD, 0.003 * minD, 0.003 * minD);
             this._edges = new THREE.EdgesGeometry(this._geometry);
-            this._ = new THREE.LineSegments(this._edges, new THREE.LineBasicMaterial({
+
+            /*
+            this._geometry = new THREE.Geometry();
+            this._geometry.vertices.push(
+                new THREE.Vector3(1, 1, 1),
+                new THREE.Vector3(-1, 1, 1),
+                new THREE.Vector3(-1, 1, -1),
+                new THREE.Vector3(1, 1, -1),
+                new THREE.Vector3(1, 1, 1),
+
+                new THREE.Vector3(1, -1, 1),
+
+                new THREE.Vector3(-1, -1, 1),
+                new THREE.Vector3(-1, 1, 1),
+                new THREE.Vector3(-1, -1, 1),
+
+                new THREE.Vector3(-1, -1, -1),
+                new THREE.Vector3(-1, 1, -1),
+                new THREE.Vector3(-1, -1, -1),
+
+                new THREE.Vector3(1, -1, -1),
+                new THREE.Vector3(1, 1, -1),
+                new THREE.Vector3(1, -1, -1),
+
+                new THREE.Vector3(1, -1, 1),
+            );
+
+            this._line = new MeshLine();
+            this._line.setGeometry(this._geometry);
+            */
+
+            this._material = new THREE.LineBasicMaterial({
                 color: 0xffffff,
-                linewidth: 0.03 * minD
-            }));
+                linewidth: 10,
+                transparent: true,
+                opacity: 1
+            });
+            this._ = new THREE.LineSegments(this._edges, this._material);
 
             this._.rotation.y = Math.PI / 4;
             this._.scale.set(1, 1, 1);
@@ -123,24 +163,116 @@ document.getElementById("play-btn").onclick = function () {
             this.tickNum = 0;
             this.rotatingOnY = false;
             this.lastYSnapPos = this._.rotation.y;
+            this.rotatingOnX = false;
+            this.lastXSnapPos = this._.rotation.x;
+            this.shadowExpanding = false;
+
+            this.lastRotation = "X";
 
             this.expanding = false;
             this.contracting = false;
+
+            this.shadow = {};
         }
 
         animate() {
-            analyzer.getByteTimeDomainData(frequencyDataArray);
-
+            let subBassTotal = 0;
             let bassTotal = 0;
             let trebleTotal = 0;
+            for (let i = 0; i < 256; i++) {
+                subBassTotal += frequencyDataArray[i];
+            }
             for (let i = 0; i < 512; i++) {
                 bassTotal += frequencyDataArray[i];
                 trebleTotal += frequencyDataArray[512 + i];
             }
+            let subBassAverage = subBassTotal / 256;
             let bassAverage = bassTotal / 512;
             let trebleAverage = trebleTotal / 512;
+            let subBassLoudness = subBassAverage / 128;
             let bassLoudness = ( (bassAverage - 128) / 2 + 128 ) / 128;
             let trebleLoudness = trebleAverage / 128;
+
+            if (bassLoudness > 1.1) {
+                this.setColor(RAINBOW[6]);
+                // renderer.setClearColor(RAINBOW[0], 1);
+            } else if (bassLoudness > 1.09) {
+                this.setColor(RAINBOW[5]);
+                // renderer.setClearColor(RAINBOW[1], 1);
+            } else if (bassLoudness > 1.08) {
+                this.setColor(RAINBOW[4]);
+                // renderer.setClearColor(RAINBOW[2], 1);
+            } else if (bassLoudness > 1.07) {
+                this.setColor(RAINBOW[3]);
+                // renderer.setClearColor(RAINBOW[3], 1);
+            } else if (bassLoudness > 1.06) {
+                this.setColor(RAINBOW[2]);
+                // renderer.setClearColor(RAINBOW[4], 1);
+            } else if (bassLoudness > 1.05) {
+                this.setColor(RAINBOW[1]);
+                // renderer.setClearColor(0x000000, 1);
+            } else if (bassLoudness > 1.03) {
+                this.setColor(RAINBOW[0]);
+                // renderer.setClearColor(0x000000, 1);
+            } else {
+                this.setColor(0xFFFFFF);
+                // renderer.setClearColor(0x000000, 1);
+            }
+
+            if (subBassLoudness > 1.1) {
+                if (this.lastRotation == "X") {
+                    if (!this.rotatingOnY) {
+                        this.rotatingOnY = true;
+                    }
+                } else {
+                    if (!this.rotatingOnX) {
+                        this.rotatingOnX = true;
+                    }
+                }
+
+                if (!this.shadowExpanding) {
+                    this.shadowExpanding = true;
+                    this.shadow = this._.clone();
+                    this.shadow.material = this.shadow.material.clone();
+                    this.shadow.material.transparent = true;
+                    scene.add(this.shadow);
+                }
+            }
+
+            if (this.rotatingOnY) {
+                if (this._.rotation.y >= this.lastYSnapPos + Math.PI / 4) {
+                    this.rotatingOnY = false;
+                    this._.rotation.y = this.lastYSnapPos + Math.PI / 4;
+                    this.lastYSnapPos = this._.rotation.y;
+                    this.lastRotation = "Y";
+                } else {
+                    this._.rotation.y += 0.1;
+                }
+            }
+
+            if (this.rotatingOnX) {
+                if (this._.rotation.x >= this.lastXSnapPos + Math.PI / 4) {
+                    this.rotatingOnX = false;
+                    this._.rotation.x = this.lastXSnapPos + Math.PI / 4;
+                    this.lastXSnapPos = this._.rotation.x;
+                    this.lastRotation = "X";
+                } else {
+                    this._.rotation.x += 0.1;
+                }
+            }
+
+            if (this.shadowExpanding) {
+                if (this.shadow.scale.x > 3) {
+                    scene.remove(this.shadow);
+                    this.shadow = {};
+                    this.shadowExpanding = false;
+                } else {
+                    this.shadow.scale.x += 0.1;
+                    this.shadow.scale.y += 0.1;
+                    this.shadow.scale.z += 0.1;
+                    this.shadow.material.opacity -= 0.03333333;
+                }
+            }
 
             let baseSpeed = 0.003 * bpm / 60;
             this._.rotation.x += baseSpeed;
@@ -149,32 +281,6 @@ document.getElementById("play-btn").onclick = function () {
             this._.scale.x = bassLoudness;
             this._.scale.y = bassLoudness;
             this._.scale.z = bassLoudness;
-
-            if (bassLoudness > 1.1) {
-                this.setColor(RAINBOW[6]);
-                renderer.setClearColor(RAINBOW[0], 1);
-            } else if (bassLoudness > 1.09) {
-                this.setColor(RAINBOW[5]);
-                renderer.setClearColor(RAINBOW[1], 1);
-            } else if (bassLoudness > 1.08) {
-                this.setColor(RAINBOW[4]);
-                renderer.setClearColor(RAINBOW[2], 1);
-            } else if (bassLoudness > 1.07) {
-                this.setColor(RAINBOW[3]);
-                renderer.setClearColor(RAINBOW[3], 1);
-            } else if (bassLoudness > 1.06) {
-                this.setColor(RAINBOW[2]);
-                renderer.setClearColor(RAINBOW[4], 1);
-            } else if (bassLoudness > 1.05) {
-                this.setColor(RAINBOW[1]);
-                renderer.setClearColor(0x000000, 1);
-            } else if (bassLoudness > 1.03) {
-                this.setColor(RAINBOW[0]);
-                renderer.setClearColor(0x000000, 1);
-            } else {
-                this.setColor(0xFFFFFF);
-                renderer.setClearColor(0x000000, 1);
-            }
 
             this.tickNum++;
         }
@@ -189,7 +295,9 @@ document.getElementById("play-btn").onclick = function () {
         setColor(color) {
             this._.material = new THREE.LineBasicMaterial({
                 color,
-                linewidth: 0.03 * minD
+                linewidth: 10,
+                transparent: true,
+                opacity: 1
             });
         }
     }
@@ -202,9 +310,28 @@ document.getElementById("play-btn").onclick = function () {
     function animate() {
         requestAnimationFrame(animate);
 
+        analyzer.getByteTimeDomainData(frequencyDataArray);
+
+        // debugAudio(frequencyDataArray);
         cube.animate();
 
         renderer.render(scene, camera);
     }
     animate();
 };
+
+/* DEBUG
+const debugCanvas = document.getElementById("audio-debug");
+const ctx = debugCanvas.getContext("2d");
+ctx.fillStyle = "#FFFFFF";
+
+function debugAudio(buffer) {
+
+    ctx.clearRect(0, 0, 1024, 300);
+
+    for (let i = 0; i < buffer.length; i += 2) {
+        let val = (buffer[i] + buffer[i + 1]) / 2;
+        ctx.fillRect(2 * i, 300 - val, 2, val);
+    }
+}
+*/
