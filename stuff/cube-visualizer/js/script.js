@@ -179,7 +179,6 @@ document.getElementById("audio-file").addEventListener("change", function () {
 
             const cube = new THREE.LineSegments(cubeEdges, cubeMaterial);
             cube.rotation.y = Math.PI / 4;
-            cube.scale.set(1, 1, 1);
 
             function setCubeColor(color) {
                 cube.material = new THREE.LineBasicMaterial({
@@ -194,6 +193,9 @@ document.getElementById("audio-file").addEventListener("change", function () {
 
             let cubeShadowExpanding = false;
             let cubeShadow = {};
+
+            /* Experimental */
+            let cubeShadows = [];
 
             function animate() {
                 requestAnimationFrame(animate);
@@ -229,14 +231,18 @@ document.getElementById("audio-file").addEventListener("change", function () {
 
                 if (fData.loudness.sub > 1.3) {
                     if (!cubeShadowExpanding) {
-                        cubeShadowExpanding = true;
+                        // cubeShadowExpanding = true;
                         cubeShadow = cube.clone();
                         cubeShadow.material = cubeShadow.material.clone();
+
+                        /* Experimental */
+                        cubeShadows.push(cubeShadow);
 
                         scene.add(cubeShadow);
                     }
                 }
 
+                /*
                 if (cubeShadowExpanding) {
                     if (cubeShadow.scale.x > 3) {
                         scene.remove(cubeShadow);
@@ -247,6 +253,27 @@ document.getElementById("audio-file").addEventListener("change", function () {
                         cubeShadow.scale.y += 0.1;
                         cubeShadow.scale.z += 0.1;
                         cubeShadow.material.opacity -= 0.03333333;
+                    }
+                }
+                */
+
+                if (cubeShadows.length > 0) {
+                    let removedShadows = cubeShadows.filter(shadow => {
+                        return shadow.material.opacity <= 0;
+                    });
+                    cubeShadows = cubeShadows.filter(shadow => {
+                        return shadow.material.opacity > 0;
+                    });
+
+                    for (let i = 0; i < removedShadows.length; i++) {
+                        scene.remove(removedShadows[i]);
+                    }
+
+                    for (let i = 0; i < cubeShadows.length; i++) {
+                        cubeShadows[i].scale.x += 0.1;
+                        cubeShadows[i].scale.y += 0.1;
+                        cubeShadows[i].scale.z += 0.1;
+                        cubeShadows[i].material.opacity -= 0.03333333;
                     }
                 }
 
