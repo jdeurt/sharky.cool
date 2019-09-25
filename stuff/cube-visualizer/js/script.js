@@ -98,7 +98,6 @@ document.getElementById("play-btn").onclick = function () {
     HEIGHT = window.innerHeight;
 
     source.start(0);
-    clock.start();
 
     /**
      * Set up scene.
@@ -344,3 +343,15 @@ function debugAudio(buffer) {
     }
 }
 */
+
+window.addEventListener("keypress", function (ev) {
+    if (ev.keyCode == 32) {
+        window["PLAYING"] = !window["PLAYING"];
+
+        if (window["PLAYING"]) {
+            audioContext.suspend();
+        } else {
+            audioContext.resume();
+        }
+    }
+});
