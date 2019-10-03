@@ -194,14 +194,12 @@ document.getElementById("audio-file").addEventListener("change", function () {
             let cubeShadowExpanding = false;
             let cubeShadow = {};
 
-            /* Experimental */
             let cubeShadows = [];
 
             function animate() {
                 requestAnimationFrame(animate);
 
                 const fData = metro.getFrequencyData();
-                fData.loudness.bass = ( (fData.avg.bass - 128) / 2 + 128 ) / 128;
 
                 if (fData.loudness.bass > 1.1) {
                     setCubeColor(RAINBOW[6]);
@@ -231,31 +229,14 @@ document.getElementById("audio-file").addEventListener("change", function () {
 
                 if (fData.loudness.sub > 1.3) {
                     if (!cubeShadowExpanding) {
-                        // cubeShadowExpanding = true;
                         cubeShadow = cube.clone();
                         cubeShadow.material = cubeShadow.material.clone();
 
-                        /* Experimental */
                         cubeShadows.push(cubeShadow);
 
                         scene.add(cubeShadow);
                     }
                 }
-
-                /*
-                if (cubeShadowExpanding) {
-                    if (cubeShadow.scale.x > 3) {
-                        scene.remove(cubeShadow);
-                        cubeShadow = {};
-                        cubeShadowExpanding = false;
-                    } else {
-                        cubeShadow.scale.x += 0.1;
-                        cubeShadow.scale.y += 0.1;
-                        cubeShadow.scale.z += 0.1;
-                        cubeShadow.material.opacity -= 0.03333333;
-                    }
-                }
-                */
 
                 if (cubeShadows.length > 0) {
                     let removedShadows = cubeShadows.filter(shadow => {
