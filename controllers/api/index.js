@@ -6,5 +6,6 @@ module.exports = {
     spider: require("./spider"),
     ifunny: require("./ifunny"),
     discord: require("./discord"),
-    poker: require("./poker")
+    poker: require("./poker"),
+    logify: require("./logify/combine")
 };
