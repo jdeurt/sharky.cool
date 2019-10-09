@@ -2,8 +2,9 @@ const http = require("http");
 const fs = require("fs");
 const exec = require("child_process").exec;
 const uuid = require("uuid/v4");
-const zlib = require("zlib");
+const unzip = require("unzip-stream");
 const FormData = require("form-data");
+const got = require("got");
 
 const TEMP_DIR = "/tmp";
 
@@ -18,27 +19,27 @@ module.exports = (req, res) => {
      */
 
     if (!req.body.token) {
-        return res.status(400).json({
+        return res.json({
             success: false,
             error: "Missing \"token\" body parameter."
         });
     } else if (!req.body.title) {
-        return res.status(400).json({
+        return res.json({
             success: false,
             error: "Missing \"title\" body parameter."
         });
     } else if (!req.body.map) {
-        return res.status(400).json({
+        return res.json({
             success: false,
             error: "Missing \"map\" body parameter."
         });
     } else if (!req.body.ids) {
-        return res.status(400).json({
+        return res.json({
             success: false,
             error: "Missing \"ids\" body parameter."
         });
     } else if (!Array.isArray(req.body.ids)) {
-        return res.status(400).json({
+        return res.json({
             success: false,
             error: "\"ids\" body parameter must be an array."
         });
@@ -62,17 +63,26 @@ module.exports = (req, res) => {
     const logIds = req.body.ids;
 
     const uuids = [];
-    const combinedFileUuid = uuid();
+    const sessionUuid = uuid();
+    const sessionDir = `${TEMP_DIR}/logify_${sessionUuid}`;
+
+    if (!fs.existsSync(sessionDir)) {
+        fs.mkdirSync(sessionDir);
+    }
 
     const cleanup = () => {
         uuids.forEach(uuid => {
             try {
-                fs.unlinkSync(`${TEMP_DIR}/logify_${uuid}.log`);
+                fs.unlinkSync(`${sessionDir}/logify_${uuid}.log`);
             } catch (err) { /* Nothing */ }
         });
 
         try {
-            fs.unlinkSync(`${TEMP_DIR}/logify_${combinedFileUuid}.log`);
+            fs.unlinkSync(`${sessionDir}/logify_${sessionUuid}.log`);
+        } catch (err) { /* Nothing */ }
+
+        try {
+            fs.unlinkSync(sessionDir);
         } catch (err) { /* Nothing */ }
     };
 
@@ -84,33 +94,44 @@ module.exports = (req, res) => {
 
     logIds.forEach(id => {
         const logUuid = uuid();
-        const logFileDest = `${TEMP_DIR}/logify_${logUuid}.log`;
-        const logFile = fs.createWriteStream(logFileDest);
-        const unzipper = zlib.createGunzip();
+        const logFileZipDest = `${sessionDir}/log_${id}.log.zip`;
 
-        http.get(`https://logs.tf/logs/log_${id}.log.zip`, response => {
-            response.pipe(unzipper).pipe(logFile);
-
-            logFile.on("finish", () => {
-                logFile.close();
+        http.get(`http://logs.tf/logs/log_${id}.log.zip`, response => {
+            if (response.headers["content-type"] !== "application/zip") {
+                errored = id;
 
                 uuids.push([id, logUuid]);
+
+                try {
+                    fs.unlinkSync(logFileZipDest);
+                } catch (err) { /* Nothing*/ }
+
+                return;
+            }
+
+            response.pipe(unzip.Extract({
+                path: sessionDir
+            })).on("close", () => {
+                uuids.push([id, logUuid]);
+            }).on("error", err => {
+                errored = id;
+
+                uuids.push([id, logUuid]);
+
+                try {
+                    fs.unlinkSync(logFileZipDest);
+                } catch (err) { /* Nothing*/ }
             });
         }).on("error", err => {
             errored = id;
 
-            fs.unlinkSync(logFileDest);
+            uuids.push([id, logUuid]);
+
+            try {
+                fs.unlinkSync(logFileZipDest);
+            } catch (err) { /* Nothing*/ }
         });
     });
-
-    if (errored) {
-        cleanup();
-
-        return res.status(500).json({
-            success: false,
-            error: `Error downloading log with ID: ${errored}.`
-        });
-    }
 
     const timeoutMs = 1000 * 30;
     let msElapsed = 0;
@@ -123,7 +144,7 @@ module.exports = (req, res) => {
 
                 cleanup();
 
-                res.status(408).json({
+                res.json({
                     success: false,
                     error: "Request timed out while downloading log files."
                 });
@@ -132,11 +153,20 @@ module.exports = (req, res) => {
             return;
         }
 
-        exec(`python3 ${__dirname}/py/main.py ${combinedFileUuid} ${uuids.join(" ")}`, err => {
+        if (errored) {
+            cleanup();
+    
+            return res.json({
+                success: false,
+                error: `Error downloading log with ID: ${errored}.`
+            });
+        }
+
+        exec(`python3 ${__dirname}/py/main.py ${sessionUuid} ${uuids.map(ids => `${ids[0]}_${ids[1]}`).join(" ")}`, err => {
             if (err) {
                 cleanup();
 
-                return res.status(500).json({
+                return res.json({
                     success: false,
                     error: "An error occured while combining logs (python sub-process)."
                 });
@@ -146,29 +176,29 @@ module.exports = (req, res) => {
             form.append("title", logTitle);
             form.append("map", logMap);
             form.append("key", apiKey);
-            form.append("logfile", fs.createReadStream());
+            form.append("logfile", fs.createReadStream(`${sessionDir}/logify_${sessionUuid}.log`));
+            form.append("uploader", "Logify v4.0.8")
 
-            const apiRequest = http.request({
-                method: "POST",
-                host: "https://logs.tf",
-                path: "/upload",
-                headers: form.getHeaders()
-            }, response => {
-                response.on("data", data => {
-                    try {
-                        res.json(JSON.parse(data));
-                    } catch (err) {
-                        res.status(500).json({
-                            success: false,
-                            error: "An error occured in the upload request to logs.tf."
-                        });
-                    }
+            got.post("http://logs.tf/upload", {
+                headers: form.getHeaders(),
+                body: form,
+                throwHttpErrors: false
+            }).then(response => {
+                res.json(JSON.parse(response.body));
 
-                    cleanup();
+                cleanup();
+            }).catch(err => {
+                res.json({
+                    success: false,
+                    error: "An error occured in the upload request to logs.tf."
                 });
-            });
 
-            form.pipe(apiRequest);
+                console.log(err);
+
+                cleanup();
+            });
         });
+
+        clearInterval(interval);
     }, 100);
 };

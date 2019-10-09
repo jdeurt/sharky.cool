@@ -1,14 +1,16 @@
 import sys
 from Log import Log
 
-combined_file_uuid = sys.argv[1]
-uuids = sys.argv[2:]
+session_uuid = sys.argv[1]
+ids = sys.argv[2:]
 logs = []
 
-combined_log = open("/tmp/logify_" + combined_file_uuid + ".log", "w+")
+combined_log = open("/tmp/logify_" + session_uuid + "/logify_" + session_uuid + ".log", "w+")
 
-for uuid in uuids:
-    log = Log("/tmp/logify_" + uuid + ".log")
+for id_pair in ids:
+    id_pairs = id_pair.split("_")
+
+    log = Log("/tmp/logify_" + session_uuid + "/log_" + id_pairs[0] + ".log")
 
     combined_log.write("\n".join(log.lines) + "\n")
 

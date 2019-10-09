@@ -7,5 +7,5 @@ module.exports = {
     ifunny: require("./ifunny"),
     discord: require("./discord"),
     poker: require("./poker"),
-    logify: require("./logify/combine")
+    logify: require("./logify")
 };
