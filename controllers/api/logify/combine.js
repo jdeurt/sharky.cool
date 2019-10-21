@@ -193,8 +193,6 @@ module.exports = (req, res) => {
                     error: "An error occured in the upload request to logs.tf."
                 });
 
-                console.log(err);
-
                 cleanup();
             });
         });
