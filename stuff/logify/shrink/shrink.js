@@ -1,5 +1,7 @@
 function readSingleFile(evt) {
-    var f = evt.target.files[0];
+    const f = evt.target.files[0];
+
+    document.getElementById("output").setAttribute("placeholder", "Shrinking file...");
 
     if (f) {
         const r = new FileReader();
@@ -38,6 +40,8 @@ function readSingleFile(evt) {
         }
         r.readAsText(f);
     } else {
+        document.getElementById("output").innerHTML = "[INVALID LOG FILE]";
+
         alert("Failed to load file");
     }
 }
