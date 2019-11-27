@@ -8,6 +8,12 @@ function readSingleFile(evt) {
             const lines = contents.split("\n");
             const finalLines = [];
 
+            if (!lines[0].match(/^L \d+\/\d+\/\d+ - \d+:\d+:\d+: Log file started/)) {
+                document.getElementById("output").innerHTML = "[INVALID LOG FILE]";
+
+                return;
+            }
+
             for (let line of lines) {
                 const matchSay = line.match(/>" say "/);
                 const matchConnected = line.match(/>" connected, address "/);
