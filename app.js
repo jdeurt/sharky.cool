@@ -87,6 +87,7 @@ app.get("/api/ifunny/rip", controllers.api.ifunny.rip);
 app.get("/api/discord/avatar/:id", controllers.api.discord.avatar);
 app.get("/a/davatar/:id", controllers.api.discord.avatar);
 app.post("/api/logify/combine", controllers.api.logify.combine);
+app.get("/api/rgl/player/:id", controllers.api.rgl.player);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.url;
