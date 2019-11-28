@@ -15,8 +15,15 @@
     <title>RGL Player Verify</title>
 
     <style>
-        a, a:hover, a:active, a:focus {
+        a,
+        a:hover,
+        a:active,
+        a:focus {
             color: #7FDBFF;
+        }
+
+        .no {
+            display: none!important;
         }
     </style>
 </head>
@@ -28,8 +35,11 @@
                 <label for="input">Paste the output of the "status" command here</label>
                 <textarea class="form-control" id="input" rows="10"></textarea>
             </div>
-            <div class="form-group">
+            <div class="form-group d-flex align-items-center">
                 <button class="btn btn-primary" type="submit">Verify</button>
+                <div id="spinner" class="spinner-border text-primary ml-3 no" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
             </div>
         </form>
         <br class="my-5">

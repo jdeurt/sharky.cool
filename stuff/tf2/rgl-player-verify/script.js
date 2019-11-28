@@ -3,9 +3,12 @@
         event.preventDefault();
 
         document.querySelector("#output tbody").innerHTML = "";
+        document.getElementById("spinner").classList.remove("no");
 
         const inputText = document.getElementById("input").value;
         const inputData = inputText.split("\n");
+
+        updateProgBar(0, inputData.length);
 
         for (let i = 0; i < inputData.length; i++) {
             const line = inputData[i];
@@ -28,6 +31,8 @@
 
             updateProgBar(i + 1, inputData.length);
         }
+
+        document.getElementById("spinner").classList.add("no");
     });
 
     function addTableRow(userId, steamId, name, verified, experience) {
