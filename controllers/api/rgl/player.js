@@ -1,5 +1,6 @@
 const got = require("got");
 const cheerio = require("cheerio");
+const SteamID = require("steamid");
 const s = require("./helpers/selectors");
 
 /**
@@ -7,8 +8,48 @@ const s = require("./helpers/selectors");
  * -> http://rgl.gg/Public/PlayerProfile.aspx?p=:id
  */
 module.exports = async (req, res) => {
-    const steamId = req.params.id;
-    const rglUrl = `http://rgl.gg/Public/PlayerProfile.aspx?p=${steamId}`;
+    const idParam = req.params.id;
+
+    let steamId;
+    try {
+        steamId = new SteamID(idParam);
+    } catch (err) {
+        res.json({
+            steamId: "INVALID",
+            name: "",
+            verified: false,
+            totalEarnings: "$0",
+            trophies: {
+                gold: 0,
+                silver: 0,
+                bronze: 0
+            },
+            experience: []
+        });
+
+        return;
+    }
+
+    if (!steamId.isValid()) {
+        res.json({
+            steamId: "INVALID",
+            name: "",
+            verified: false,
+            totalEarnings: "$0",
+            trophies: {
+                gold: 0,
+                silver: 0,
+                bronze: 0
+            },
+            experience: []
+        });
+
+        return;
+    }
+
+    const id64 = steamId.getSteamID64();
+
+    const rglUrl = `http://rgl.gg/Public/PlayerProfile.aspx?p=${id64}`;
 
     const rglPlayerProfile = await got.get(rglUrl);
     const body = rglPlayerProfile.body;
@@ -55,8 +96,8 @@ module.exports = async (req, res) => {
                 {
                     category,
                     format,
-                    season: seasons[i],
-                    div: divs[i],
+                    season: seasons[i].toLowerCase(),
+                    div: divs[i].toLowerCase(),
                     team: teams[i],
                     endRank: endRanks[i],
                     recordWith: recordsWith[i],
@@ -71,6 +112,7 @@ module.exports = async (req, res) => {
     });
 
     res.json({
+        steamId: id64,
         name,
         verified,
         totalEarnings,
