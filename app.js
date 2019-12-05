@@ -22,7 +22,7 @@ app.set("views", __dirname);
 app.set("view engine", "pug");
 
 app.use(bodyParser.urlencoded({
-    extended: false
+    extended: true
 }));
 app.use(bodyParser.json());
 
