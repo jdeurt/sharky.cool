@@ -24,6 +24,7 @@ app.set("view engine", "pug");
 app.use(bodyParser.urlencoded({
     extended: false
 }));
+app.use(bodyParser.json());
 
 app.use((req, res, next) => {
     req.url = req.originalUrl.replace(/^\/s\b/, "/stuff");
