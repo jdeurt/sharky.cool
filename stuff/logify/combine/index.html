@@ -1,175 +1,120 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <!-- Required meta tags -->
-        <meta charset="utf-8" />
-        <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1, shrink-to-fit=no"
-        />
 
-        <!-- Bootstrap CSS -->
-        <link
-            rel="stylesheet"
-            href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-            crossorigin="anonymous"
-        />
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-        <title>Logify Online (WIP, do not use)</title>
-    </head>
-    <body>
-        <div class="p-5">
-            <form class="form-horizontal">
-                <fieldset>
-                    <!-- Form Name -->
-                    <legend>Logify Online (WIP, do not use)</legend>
-    
-                    <!-- Password input-->
-                    <div class="form-group">
-                        <label class="col-md-4 control-label" for="api-key"
-                            >Logs.tf API Key</label
-                        >
-                        <div class="col-md-5">
-                            <input
-                                id="api-key"
-                                name="api-key"
-                                type="password"
-                                placeholder="Paste your API key here"
-                                class="form-control input-md"
-                                required=""
-                            />
-                            <span class="help-block"
-                                >Your API key can be found by signing into Logs.tf
-                                and going
-                                <a href="http://logs.tf/uploader">here</a>.</span
-                            >
-                        </div>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+
+    <title>Logify Online (WIP, do not use)</title>
+</head>
+
+<body>
+    <div class="p-5">
+        <form class="form-horizontal">
+            <fieldset>
+                <!-- Form Name -->
+                <legend>Logify Online (WIP, do not use)</legend>
+
+                <!-- Password input-->
+                <div class="form-group">
+                    <label class="col-md-4 control-label" for="api-key">Logs.tf API Key</label>
+                    <div class="col-md-5">
+                        <input id="api-key" name="api-key" type="password" placeholder="Paste your API key here"
+                            class="form-control input-md" required="" />
+                        <span class="help-block">Your API key can be found by signing into Logs.tf
+                            and going
+                            <a href="http://logs.tf/uploader">here</a>.</span>
                     </div>
-    
-                    <!-- Text input-->
-                    <div class="form-group">
-                        <label class="col-md-4 control-label" for="title"
-                            >Log Title</label
-                        >
-                        <div class="col-md-5">
-                            <input
-                                id="title"
-                                name="title"
-                                type="text"
-                                placeholder="e.g. Team1 > Team2 3-0"
-                                class="form-control input-md"
-                                required=""
-                            />
-                        </div>
+                </div>
+
+                <!-- Text input-->
+                <div class="form-group">
+                    <label class="col-md-4 control-label" for="title">Log Title</label>
+                    <div class="col-md-5">
+                        <input id="title" name="title" type="text" placeholder="e.g. Team1 > Team2 3-0"
+                            class="form-control input-md" required="" />
                     </div>
-    
-                    <!-- Text input-->
-                    <div class="form-group">
-                        <label class="col-md-4 control-label" for="map"
-                            >Map Name</label
-                        >
-                        <div class="col-md-5">
-                            <input
-                                id="map"
-                                name="map"
-                                type="text"
-                                placeholder="e.g. pl_upward"
-                                class="form-control input-md"
-                                required=""
-                            />
-                        </div>
+                </div>
+
+                <!-- Text input-->
+                <div class="form-group">
+                    <label class="col-md-4 control-label" for="map">Map Name</label>
+                    <div class="col-md-5">
+                        <input id="map" name="map" type="text" placeholder="e.g. pl_upward"
+                            class="form-control input-md" required="" />
                     </div>
-    
-                    <!-- Text input-->
-                    <div class="form-group">
-                        <label class="col-md-4 control-label" for="log0"
-                            >Log URLs</label
-                        >
-                        <div class="col-md-5">
-                            <input
-                                id="log0"
-                                class="log"
-                                name="log0"
-                                type="text"
-                                placeholder="http://logs.tf/..."
-                                class="form-control input-md"
-                                required=""
-                            />
-                            <input
-                                id="log1"
-                                class="log"
-                                name="log1"
-                                type="text"
-                                placeholder="http://logs.tf/..."
-                                class="form-control input-md"
-                                required=""
-                            />
-                        </div>
+                </div>
+
+                <!-- Text area-->
+                <div class="form-group">
+                    <label class="col-md-4 control-label" for="log0">Log URLs</label>
+                    <div class="col-md-5">
+                        <textarea id="logs" class="log" name="logs" placeholder="http://logs.tf/..." required=""></textarea>
                     </div>
-                </fieldset>
+                </div>
+            </fieldset>
 
-                <button type="submit" class="btn btn-primary">Submit</button>
-            </form>
-        </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
 
-        <!-- Optional JavaScript -->
-        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script
-            src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-            crossorigin="anonymous"
-        ></script>
-        <script
-            src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-            crossorigin="anonymous"
-        ></script>
-        <script
-            src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-            crossorigin="anonymous"
-        ></script>
-        
-        <script>
-            const $ = jQuery;
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    </script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
 
-            /* START Log fields handling */
-            function validateLogUrlField(fieldValue) {
-                const logUrlRegex = /\d+/;
-                const match = jqueryElement.val().match(logUrlRegex);
+    <script>
+        const $ = jQuery;
 
-                if (!match) {
-                    return false;
-                } else {
-                    return match[0];
-                }
+        /* START Log fields handling */
+        function validateLogUrlField(fieldValue) {
+            const logUrlRegex = /\d+/;
+            const match = jqueryElement.val().match(logUrlRegex);
+
+            if (!match) {
+                return false;
+            } else {
+                return match[0];
             }
+        }
 
-            function updateFields(event) {
-                const code = event.keyCode;
+        function updateFields(event) {
+            const code = event.keyCode;
 
-                // Tab
-                if (code == 9 && validateLogUrlField(event.target.value)) {
-                    
-                }
+            // Tab
+            if (code == 9 && validateLogUrlField(event.target.value)) {
+
             }
-            /* END Log fields handling */
+        }
+        /* END Log fields handling */
 
-            /* START Form submission */
-            $("form").submit(event => {
-                event.preventDefault();
+        /* START Form submission */
+        $("form").submit(event => {
+            event.preventDefault();
 
-                $.post("/api/logify/combine", {
-                    token: $("#api-key").text(),
-                    title: $("#title").text(),
-                    map: $("#map").text(),
-                    ids: []
-                }, data => {
-                    console.log(data);
-                });
+            $.post("/api/logify/combine", {
+                token: $("#api-key").text(),
+                title: $("#title").text(),
+                map: $("#map").text(),
+                ids: []
+            }, data => {
+                console.log(data);
             });
-            /* END Form submission */
-        </script>
-    </body>
+        });
+        /* END Form submission */
+    </script>
+</body>
+
 </html>
