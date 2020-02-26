@@ -166,6 +166,8 @@ module.exports = (req, res) => {
             if (err) {
                 cleanup();
 
+                console.warn("LOGIFY PYTHON ERROR: " + err.message);
+
                 return res.json({
                     success: false,
                     error: "An error occured while combining logs (python sub-process)."
