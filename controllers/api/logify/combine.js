@@ -162,7 +162,7 @@ module.exports = (req, res) => {
             });
         }
 
-        exec(`python3 ${__dirname}/py/main.py ${sessionUuid} ${uuids.map(ids => `${ids[0]}_${ids[1]}`).join(" ")}`, err => {
+        exec(`python3 ${__dirname}/py/combine.py ${sessionUuid} ${uuids.map(ids => `${ids[0]}_${ids[1]}`).join(" ")}`, err => {
             if (err) {
                 cleanup();
 
