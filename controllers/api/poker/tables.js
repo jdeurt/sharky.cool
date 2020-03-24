@@ -40,7 +40,7 @@ namespace.on("connection", socket => {
             name: "",
             chips: {
                 currentBet: 0,
-                inventory: 1000
+                inventory: data.inventory || 1000
             }
         };
 

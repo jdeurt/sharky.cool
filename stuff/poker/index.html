@@ -303,20 +303,21 @@
                 localStorage.setItem("playerName", params.get("name") || Date.now());
             }
 
-            window["ID"] = localStorage.getItem("playerID");
+            window["PLAYER_ID"] = localStorage.getItem("playerID");
             window["PLAYER_NAME"] = localStorage.getItem("playerName");
             window["INITIAL_SETUP"] = true;
 
             socket.emit("game.join", {
                 playerName: window["PLAYER_NAME"],
                 roomID: room.id,
-                playerID: window["ID"]
+                playerID: window["PLAYER_ID"],
+                inventory: params.get("inventory")
             });
 
             $(".action-bet").click(function () {
                 socket.emit("player.bet", {
                     room,
-                    player: room.players.find(player => player.id == window["ID"]),
+                    player: room.players.find(player => player.id == window["PLAYER_ID"]),
                     amount: Number($("#bet-slider").val())
                 });
             });
@@ -324,7 +325,7 @@
             $(".action-take").click(function () {
                 socket.emit("player.take", {
                     room,
-                    player: room.players.find(player => player.id == window["ID"]),
+                    player: room.players.find(player => player.id == window["PLAYER_ID"]),
                     amount: Number($("#take-slider").val())
                 });
             });
@@ -335,11 +336,11 @@
 
             $("#action-leave").click(() => {
                 socket.emit("player.leave", {
-                    playerID: window["ID"],
+                    playerID: window["PLAYER_ID"],
                     roomID: room.id
                 });
 
-                window["ID"] = "";
+                window["PLAYER_ID"] = "";
                 window["PLAYER_NAME"] = "";
                 localStorage.removeItem("playerID");
                 localStorage.removeItem("playerName");
@@ -350,7 +351,7 @@
             socket.on("player.confirm", id => {
                 localStorage.setItem("playerID", id);
 
-                window["ID"] = id;
+                window["PLAYER_ID"] = id;
                 window["INITIAL_SETUP"] = false;
 
                 log(`> Player ID: <code>${id}</code>`);
@@ -368,6 +369,7 @@
                 else {
                     room.id = player.roomID;
                     $("#room-id").html(`Room: <code>${room.id}</code>`);
+                    document.title = `Poker - ${room.id}`;
 
                     log(`> Room ID: <code>${room.id}</code>`)
                 }
@@ -434,14 +436,14 @@
             socket.on("game.update", newRoom => {
                 if (newRoom.updated > room.updated) room = newRoom;
 
-                $(".bet-allowed").text(room.players.find(player => player.id == window["ID"]).chips
+                $(".bet-allowed").text(room.players.find(player => player.id == window["PLAYER_ID"]).chips
                     .inventory);
                 $(".take-allowed").text(room.chipPool);
-                $(".chip-bet").text(room.players.find(player => player.id == window["ID"]).chips
+                $(".chip-bet").text(room.players.find(player => player.id == window["PLAYER_ID"]).chips
                 .currentBet);
                 $(".chip-pot").text(room.chipPool);
 
-                $("#bet-slider").attr("max", room.players.find(player => player.id == window["ID"]).chips
+                $("#bet-slider").attr("max", room.players.find(player => player.id == window["PLAYER_ID"]).chips
                     .inventory);
                 $("#take-slider").attr("max", room.chipPool);
 
