@@ -7,459 +7,58 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rangeslider.js/2.3.2/rangeslider.min.css" />
-
-    <title>Poker</title>
-
-    <style>
-        #room-id {
-            position: absolute;
-            bottom: 0;
-            right: 0;
-            text-align: right;
-            padding: 10px;
-            z-index: 100;
-        }
-
-        input[type=range] {
-            -webkit-appearance: none;
-            /* Hides the slider so that custom slider can be made */
-            width: 100%;
-            /* Specific width is required for Firefox. */
-            background: transparent;
-            /* Otherwise white in Chrome */
-        }
-
-        input[type=range]::-webkit-slider-thumb {
-            -webkit-appearance: none;
-        }
-
-        input[type=range]:focus {
-            outline: none;
-            /* Removes the blue border. You should probably do some kind of focus styling for accessibility reasons though. */
-        }
-
-        input[type=range]::-ms-track {
-            width: 100%;
-            cursor: pointer;
-
-            /* Hides the slider so custom styles can be added */
-            background: transparent;
-            border-color: transparent;
-            color: transparent;
-        }
-
-        /* Special styling for WebKit/Blink */
-        input[type=range]::-webkit-slider-thumb {
-            -webkit-appearance: none;
-            border: 1px solid gray;
-            height: 36px;
-            width: 36px;
-            border-radius: 50%;
-            background: #ffffff;
-            cursor: pointer;
-            margin-top: -14px;
-        }
-
-        /* All the same stuff for Firefox */
-        input[type=range]::-moz-range-thumb {
-            border: 1px solid gray;
-            height: 36px;
-            width: 36px;
-            border-radius: 50%;
-            background: #ffffff;
-            cursor: pointer;
-        }
-
-        /* All the same stuff for IE */
-        input[type=range]::-ms-thumb {
-            border: 1px solid gray;
-            height: 36px;
-            width: 36px;
-            border-radius: 50%;
-            background: #ffffff;
-            cursor: pointer;
-        }
-
-        input[type=range]::-webkit-slider-runnable-track {
-            width: 100%;
-            height: 8.4px;
-            cursor: pointer;
-            background: #3071a9;
-            border-radius: 1.3px;
-            border: 0.2px solid #010101;
-        }
-
-        input[type=range]:focus::-webkit-slider-runnable-track {
-            background: #367ebd;
-        }
-
-        input[type=range]::-moz-range-track {
-            width: 100%;
-            height: 8.4px;
-            cursor: pointer;
-            background: #3071a9;
-            border-radius: 1.3px;
-            border: 0.2px solid #010101;
-        }
-
-        input[type=range]::-ms-track {
-            width: 100%;
-            height: 8.4px;
-            cursor: pointer;
-            background: transparent;
-            border-color: transparent;
-            border-width: 16px 0;
-            color: transparent;
-        }
-
-        input[type=range]::-ms-fill-lower {
-            background: #2a6495;
-            border: 0.2px solid #010101;
-            border-radius: 2.6px;
-        }
-
-        input[type=range]:focus::-ms-fill-lower {
-            background: #3071a9;
-        }
-
-        input[type=range]::-ms-fill-upper {
-            background: #3071a9;
-            border: 0.2px solid #010101;
-            border-radius: 2.6px;
-        }
-
-        input[type=range]:focus::-ms-fill-upper {
-            background: #367ebd;
-        }
-
-        .actions-container {
-            width: 100%;
-            border: 1px solid lightgray;
-            border-radius: 5px;
-            padding: 1rem;
-        }
-
-        .log {
-            width: 100%;
-            border: 1px solid lightgray;
-            border-radius: 5px;
-            padding: 1rem;
-            height: 562px;
-            overflow: scroll;
-        }
-
-        .log-entry {
-            width: 100%;
-            border-bottom: 1px solid lightgray;
-            padding-bottom: 0.5rem;
-            margin-bottom: 0.5rem;
-        }
-
-        .player-list {
-            width: 100%;
-            border: 1px solid lightgray;
-            border-radius: 5px;
-            padding: 1rem;
-            height: 500px;
-            overflow: scroll;
-        }
-
-        .player-list .player {
-            width: 100%;
-            border-bottom: 1px solid lightgray;
-            padding-bottom: 0.5rem;
-            margin-bottom: 0.5rem;
-        }
-
-        .row>div {
-            margin-bottom: 3rem;
-        }
-    </style>
+    <title>Poker - Join a Room</title>
 </head>
 
 <body>
-    <div class="container-fluid p-5" style="position: relative;">
-        <div class="row">
-            <div class="col-md-3">
-                <button id="action-roundend" type="button" class="btn mb-4 w-100 btn-dark">End Round</button>
-                <div class="actions-container">
-                    <nav>
-                        <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-                            <a class="nav-item nav-link active" id="nav-bet-tab" data-toggle="tab" href="#nav-bet"
-                                role="tab" aria-controls="nav-bet" aria-selected="true">Bet</a>
-                            <a class="nav-item nav-link" id="nav-take-tab" data-toggle="tab" href="#nav-take" role="tab"
-                                aria-controls="nav-take" aria-selected="false">Take</a>
-                        </div>
-                    </nav>
-                    <div class="tab-content" id="nav-tabContent">
-                        <div class="tab-pane fade show active pt-3" id="nav-bet" role="tabpanel"
-                            aria-labelledby="nav-bet-tab">
-                            <div class="bet-data w-100 text-center mb-3 h3">
-                                <span class="bet-selection">5</span>&nbsp;/&nbsp;<span class="bet-allowed">1000</span>
-                                <br>
-                                <small class="text-muted">
-                                    <span class="chip-bet">0</span>&nbsp;|&nbsp;<span
-                                        class="chip-pot text-warning">0</span>
-                                </small>
-                            </div>
-                            <input id="bet-slider" type="range" min="5" max="1000" step="5" value="5">
-                            <hr>
-                            <button type="button" class="btn mb-2 btn-success action-bet w-100">Bet</button>
-                        </div>
-                        <div class="tab-pane fade pt-3" id="nav-take" role="tabpanel" aria-labelledby="nav-take-tab">
-                            <div class="take-data w-100 text-center mb-3 h3">
-                                <span class="take-selection">5</span>&nbsp;/&nbsp;<span class="take-allowed">1000</span>
-                                <br>
-                                <small class="text-muted">
-                                    <span class="chip-bet">0</span>&nbsp;|&nbsp;<span
-                                        class="chip-pot text-warning">0</span>
-                                </small>
-                            </div>
-                            <input id="take-slider" type="range" min="0" max="0" step="5" value="0">
-                            <hr>
-                            <button type="button" class="btn mb-2 btn-warning action-take w-100">Take</button>
-                        </div>
-                    </div>
-                </div>
+    <div class="container m-3">
+        <form onsubmit="submit()">
+            <div class="form-group">
+                <label for="room-id">Room ID</label>
+                <input type="text" class="form-control" id="room-id" aria-describedby="room-id-help">
+                <small id="room-id-help" class="form-text text-muted">Leave this field blank to join a new room.</small>
             </div>
-            <div class="col-md-6">
-                <div class="log">
-                </div>
+            <div class="form-group">
+                <label for="display-name">Display Name</label>
+                <input type="text" class="form-control" id="display-name">
             </div>
-            <div class="col-md-3">
-                <button id="action-leave" type="button" class="btn btn-danger mb-4 w-100">Leave Room</button>
-                <div class="player-list">
-                    <h5 class="mb-3">Players</h5>
-                </div>
+            <div class="form-group">
+                <label for="amount">Buy-In Amount</label>
+                <input type="text" class="form-control" id="amount" value="1000">
             </div>
-        </div>
-
-        <div id="room-id"></div>
+            <button type="submit" class="btn btn-primary">Join</button>
+        </form>
     </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
     </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
     </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
-    </script>
-    <script src="https://sharky.cool/socket.io/socket.io.js"></script>
-
-    <script>
-        document.getElementById("bet-slider").oninput = () => {
-            $(".bet-data .bet-selection").text($("#bet-slider").val());
-        };
-
-        document.getElementById("take-slider").oninput = () => {
-            $(".take-data .take-selection").text($("#take-slider").val());
-        };
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
 
     <script>
-        (() => {
-            function lsTest() {
-                var test = "test";
-                try {
-                    localStorage.setItem(test, test);
-                    localStorage.removeItem(test);
-                    return true;
-                } catch (e) {
-                    return false;
-                }
-            }
+        const roomIdInput = document.getElementById("room-id");
+        const displayNameInput = document.getElementById("display-name");
+        const buyInAmountInput = document.getElementById("amount");
 
-            if (!lsTest()) {
-                $(".container-fluid.p-5").text("Please enable cookies before joining a room.");
+        const params = new URLSearchParams(window.location.search);
 
-                return;
-            }
+        if (params.has("id")) {
+            roomIdInput.value = params.get("id");
+        }
 
-            function log(text, extraClass) {
-                $(".log").append(`<div class="log-entry ${extraClass || ""}">${text}</div>`);
-                document.querySelector(".log").scrollTo(0, document.querySelector(".log").scrollHeight);
-            }
-
-            let params = new URLSearchParams(window.location.search);
-
-            let socket = io("https://sharky.cool/api/poker");
-
-            let room = {
-                id: params.get("id") || "",
-                players: [],
-                chipPool: 0,
-                updated: 0
-            };
-
-            if (!localStorage.getItem("playerName")) {
-                localStorage.setItem("playerName", params.get("name") || Date.now());
-            } else if (params.has("name")) {
-                localStorage.setItem("playerName", params.get("name"));
-            }
-
-            window["PLAYER_ID"] = localStorage.getItem("playerID");
-            window["PLAYER_NAME"] = localStorage.getItem("playerName");
-            window["INITIAL_SETUP"] = true;
-
-            socket.emit("game.join", {
-                playerName: window["PLAYER_NAME"],
-                roomID: room.id,
-                playerID: window["PLAYER_ID"],
-                inventory: params.get("inventory")
-            });
-
-            $(".action-bet").click(function () {
-                socket.emit("player.bet", {
-                    room,
-                    player: room.players.find(player => player.id == window["PLAYER_ID"]),
-                    amount: Number($("#bet-slider").val())
-                });
-            });
-
-            $(".action-take").click(function () {
-                socket.emit("player.take", {
-                    room,
-                    player: room.players.find(player => player.id == window["PLAYER_ID"]),
-                    amount: Number($("#take-slider").val())
-                });
-            });
-
-            $("#action-roundend").click(() => {
-                socket.emit("game.roundend", room);
-            });
-
-            $("#action-leave").click(() => {
-                socket.emit("player.leave", {
-                    playerID: window["PLAYER_ID"],
-                    roomID: room.id
-                });
-
-                window["PLAYER_ID"] = "";
-                window["PLAYER_NAME"] = "";
-                localStorage.removeItem("playerID");
-                localStorage.removeItem("playerName");
-
-                $(".container-fluid.p-5").text("You have left the room.");
-            });
-
-            socket.on("player.confirm", id => {
-                localStorage.setItem("playerID", id);
-
-                window["PLAYER_ID"] = id;
-                window["INITIAL_SETUP"] = false;
-
-                log(`> Player ID: <code>${id}</code>`);
-            });
-
-            socket.on("player.create", player => {
-                if (!room.players.find(p => p.id == player.id)) {
-                    room.players.push(player);
-                    log(`${player.name} has joined the room.`);
-                } else {
-                    log(`${player.name} has rejoined the room.`);
-                }
-
-                if (!window["INITIAL_SETUP"]) room.updated = Date.now();
-                else {
-                    room.id = player.roomID;
-                    $("#room-id").html(`Room: <code>${room.id}</code>`);
-                    document.title = `Poker - ${room.id}`;
-
-                    log(`> Room ID: <code>${room.id}</code>`)
-                }
-
-                socket.emit("game.update", room);
-            });
-
-            socket.on("player.leave", id => {
-                log(`${room.players.find(player => player.id == id).name} has left the room.`);
-
-                room.players.splice(room.players.findIndex(player => player.id == id), 1);
-
-                room.updated = Date.now();
-
-                socket.emit("game.update", room);
-            });
-
-            socket.on("game.bet", data => {
-                room.players.find(player => player.id == data.player.id).chips.inventory -= data.amount;
-                room.players.find(player => player.id == data.player.id).chips.currentBet += data.amount;
-                room.chipPool += data.amount;
-
-                log(`${room.players.find(player => player.id == data.player.id).name} bet ${data.amount} chips.`,
-                    "text-success");
-                log(`> Current pot: ${room.chipPool}`);
-
-                room.updated = Date.now();
-
-                socket.emit("game.update", room);
-            });
-
-            socket.on("game.take", data => {
-                room.players.find(player => player.id == data.player.id).chips.inventory += data.amount;
-                if (room.players.find(player => player.id == data.player.id).chips.currentBet != 0) {
-                    room.players.find(player => player.id == data.player.id).chips.currentBet -= data
-                    .amount;
-                }
-                room.chipPool -= data.amount;
-
-                log(`${room.players.find(player => player.id == data.player.id).name} took ${data.amount} chips.`,
-                    "text-danger");
-                log(`> Current pot: ${room.chipPool}`);
-
-                room.updated = Date.now();
-
-                socket.emit("game.update", room);
-            });
-
-            socket.on("game.roundend", data => {
-                let chipsPerPerson = Math.floor(room.chipPool / room.players.length);
-                room.players.forEach(player => {
-                    player.chips.currentBet = 0;
-                    player.chips.inventory += chipsPerPerson;
-                    room.chipPool -= chipsPerPerson;
-                });
-
-                log(`<br>The round has ended.<br><br>`);
-
-                room.updated = Date.now();
-
-                socket.emit("game.update", room);
-            });
-
-            socket.on("game.update", newRoom => {
-                if (newRoom.updated > room.updated) room = newRoom;
-
-                $(".bet-allowed").text(room.players.find(player => player.id == window["PLAYER_ID"]).chips
-                    .inventory);
-                $(".take-allowed").text(room.chipPool);
-                $(".chip-bet").text(room.players.find(player => player.id == window["PLAYER_ID"]).chips
-                .currentBet);
-                $(".chip-pot").text(room.chipPool);
-
-                $("#bet-slider").attr("max", room.players.find(player => player.id == window["PLAYER_ID"]).chips
-                    .inventory);
-                $("#take-slider").attr("max", room.chipPool);
-
-                $(".player-list").html(`<h5 class=\"mb-3\">Players (${room.players.length})</h5>`);
-                room.players.forEach(player => {
-                    $(".player-list").append(
-                        `<div class="player">${player.name} (${player.chips.inventory})</div>`);
-                });
-            });
-
-            socket.on("invalid", err => {
-                console.log(err);
-            });
-        })();
+        function submit() {
+            window.location.href = `https://sharky.cool/s/poker/game.html/?id=${roomIdInput.value}&name=${displayNameInput.value}&inventory=${buyInAmountInput.value}`;
+        }
     </script>
 </body>
 
