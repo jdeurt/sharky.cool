@@ -178,6 +178,10 @@
         .row>div {
             margin-bottom: 3rem;
         }
+
+        #room-id:hover {
+            background-color: rgba(0, 0, 0, 0.2);
+        }
     </style>
 </head>
 
@@ -382,7 +386,7 @@
                     roomIdText.addEventListener("copy", function (event) {
                         event.preventDefault();
                         if (event.clipboardData) {
-                            event.clipboardData.setData("text/plain", room.id);
+                            event.clipboardData.setData("text/plain", `https://sharky.cool/s/poker?id=${room.id}`);
                         }
                     });
 
