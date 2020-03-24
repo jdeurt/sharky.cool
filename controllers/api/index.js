@@ -8,5 +8,6 @@ module.exports = {
     discord: require("./discord"),
     poker: require("./poker"),
     logify: require("./logify"),
-    rgl: require("./rgl")
+    rgl: require("./rgl"),
+    ripper: require("./ripper")
 };
