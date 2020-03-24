@@ -301,6 +301,8 @@
 
             if (!localStorage.getItem("playerName")) {
                 localStorage.setItem("playerName", params.get("name") || Date.now());
+            } else if (params.has("name")) {
+                localStorage.setItem("playerName", params.get("name"));
             }
 
             window["PLAYER_ID"] = localStorage.getItem("playerID");
