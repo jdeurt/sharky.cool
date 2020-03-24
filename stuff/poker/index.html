@@ -15,7 +15,7 @@
 
 <body>
     <div class="container m-3">
-        <form onsubmit="submit()">
+        <form id="form">
             <div class="form-group">
                 <label for="room-id">Room ID</label>
                 <input type="text" class="form-control" id="room-id" aria-describedby="room-id-help">
@@ -56,9 +56,13 @@
             roomIdInput.value = params.get("id");
         }
 
-        function submit() {
+        document.getElementById("form").addEventListener("onsubmit", event => {
+            event.preventDefault();
+
             window.location.href = `https://sharky.cool/s/poker/game.html/?id=${roomIdInput.value}&name=${displayNameInput.value}&inventory=${buyInAmountInput.value}`;
-        }
+
+            return false;
+        });
     </script>
 </body>
 
