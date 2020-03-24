@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" integrity="sha384-PDle/QlgIONtM1aqA2Qemk5gPOE7wFq8+Em+G/hmo5Iq0CCmYZLv3fVRDJ4MMwEA" crossorigin="anonymous">
 
-    <title>Video Ripper</title>
+    <title>Media Ripper</title>
 
     <style>
         :focus {
@@ -18,11 +18,11 @@
   </head>
   <body>
     <div class="section m-5">
-        <h1>Video Ripper</h1>
+        <h1>Media Ripper</h1>
 
         <div class="row mt-3">
             <div class="col-sm-auto mt-3">
-              <input type="text" class="mr-3" placeholder="Video URL" style="width: 300px; border-style: unset; border-bottom: solid 1px lightgray; height: 38px; border-radius: 0;">
+              <input type="text" class="mr-3" placeholder="Media URL" style="width: 300px; border-style: unset; border-bottom: solid 1px lightgray; height: 38px; border-radius: 0;">
             </div>
             <div class="col-sm-auto mt-3">
               <button type="button" class="btn btn-primary" onclick="submit()">Download</button>
@@ -34,7 +34,7 @@
 
     <script>
         function submit() {
-            window.location.href = "https://sharky.cool/api/ripper/stream/?&url=" + encodeURIComponent($("input").val());
+            window.location.href = "https://sharky.cool/api/ripper/download/?&url=" + encodeURIComponent($("input").val());
         }
     </script>
 

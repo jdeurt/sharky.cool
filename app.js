@@ -90,7 +90,6 @@ app.get("/a/davatar/:id", controllers.api.discord.avatar);
 app.post("/api/logify/combine", controllers.api.logify.combine);
 app.get("/api/rgl/player/:id", controllers.api.rgl.player);
 app.get("/api/ripper/download", controllers.api.ripper.download);
-app.get("/api/ripper/stream", controllers.api.ripper.stream);
 
 app.get("*", (req, res) => {
     const dir = __dirname + req.url;

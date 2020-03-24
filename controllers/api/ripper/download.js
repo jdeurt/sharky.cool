@@ -1,14 +1,21 @@
-const { bufferFromUrl } = require("./helpers/youtube-dl");
+const ytdl = require("youtube-dl");
 
 module.exports = async (req, res) => {
     if (!req.query.url) {
         return res.status(400).send("Missing \"url\" query parameter.");
     }
 
-    const videoBuffer = await bufferFromUrl(req.query.url);
+    const video = ytdl(req.query.url);
 
-    res.writeHead(200, {
-        "Content-Disposition": "attachment; filename=video.mp4",
-        "Content-Type": "video/mp4"
-    }).send(videoBuffer);
+    video.on("error", err => {
+        res.status(500).send(err.stderr);
+    });
+
+    video.on("info", info => {
+        res.writeHead(200, {
+            "Content-Disposition": `attachment; filename=${info._filename}`
+        });
+    });
+
+    video.pipe(res);
 };
