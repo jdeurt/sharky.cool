@@ -56,7 +56,7 @@
             roomIdInput.value = params.get("id");
         }
 
-        document.getElementById("form").addEventListener("onsubmit", event => {
+        document.getElementById("form").onsubmit = function(event) {
             event.preventDefault();
 
             window.location.href = `https://sharky.cool/s/poker/game.html/?id=${roomIdInput.value}&name=${displayNameInput.value}&inventory=${buyInAmountInput.value}`;
