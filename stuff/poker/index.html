@@ -59,21 +59,21 @@
         document.getElementById("form").onsubmit = function(event) {
             event.preventDefault();
 
-            let newLocation = "https://sharky.cool/s/poker/game.html?";
+            const newParams = [];
 
             if (roomIdInput.value.length > 0) {
-                newLocation += `id=${roomIdInput.value}`;
+                newParams.push(`id=${roomIdInput.value}`);
             }
 
             if (displayNameInput.value.length > 0) {
-                newLocation += `name=${displayNameInput.value}`;
+                newParams.push(`name=${displayNameInput.value}`);
             }
 
             if (buyInAmountInput.value.length > 0) {
-                newLocation += `inventory=${buyInAmountInput.value}`;
+                newParams.push(`inventory=${buyInAmountInput.value}`);
             }
 
-            window.location.href = newLocation;
+            window.location.href = `https://sharky.cool/s/poker/game.html?${newParams.join("&")}`;
 
             return false;
         }
